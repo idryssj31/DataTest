@@ -1,0 +1,114 @@
+Rank,Player Name,Team,Points,Errors,Attemps,Average Per Match,Success,Total
+1,Bieniek,POL,8,6,33,2.67,17.02,47
+2,Miyaura,JPN,7,7,27,2.33,17.07,41
+3,Michieletto,ITA,5,5,35,1.67,11.11,45
+3,Galassi,ITA,5,9,22,1.67,13.89,36
+3,Ishikawa,JPN,5,10,28,1.67,11.63,43
+4,Leon,POL,4,8,26,1.33,10.53,38
+5,Anderson,USA,3,5,31,1.0,7.69,39
+5,Russo,ITA,3,3,41,1.0,6.38,47
+5,Ran,JPN,3,7,31,1.0,7.32,41
+5,Śliwka,POL,3,6,38,1.0,6.38,47
+6,Jaeschke,USA,2,7,35,0.67,4.55,44
+6,Smith,USA,2,3,32,0.67,5.41,37
+6,Patry,FRA,2,4,5,2.0,18.18,11
+6,Brizard,FRA,2,4,11,2.0,11.76,17
+6,Giannelli,ITA,2,5,33,0.67,5.0,40
+6,Kochanowski,POL,2,6,18,0.67,7.69,26
+6,Lucas,BRA,2,4,9,2.0,13.33,15
+6,Lucarelli,BRA,2,1,7,2.0,20.0,10
+7,Defalco,USA,1,9,28,0.33,2.63,38
+7,Christenson,USA,1,4,42,0.33,2.13,47
+7,Holt,USA,1,6,25,0.33,3.12,32
+7,Averill,USA,1,3,8,0.33,8.33,12
+7,Chinenyeze,FRA,1,4,13,1.0,5.56,18
+7,Le Goff,FRA,1,1,6,1.0,12.5,8
+7,Romanò,ITA,1,10,13,0.33,4.17,24
+7,Loser Bruno,ARG,1,0,10,1.0,9.09,11
+7,Armoa Morel,ARG,1,0,2,1.0,33.33,3
+7,Onodera,JPN,1,5,37,0.33,2.33,43
+7,Yamauchi,JPN,1,3,22,0.33,3.85,26
+7,Sekita,JPN,1,1,45,0.33,2.13,47
+7,Nishiyama,JPN,1,2,2,0.33,20.0,5
+7,Kaczmarek,POL,1,9,28,0.33,2.63,38
+7,Janusz,POL,1,2,33,0.33,2.78,36
+7,Huber,POL,1,1,19,0.33,4.76,21
+7,Alan,BRA,1,2,6,1.0,11.11,9
+8,Jendryk,USA,0,0,0,,,0
+8,Hanes,USA,0,1,0,0.0,0.0,1
+8,Dagostino,USA,0,0,0,,,0
+8,Ma'a,USA,0,0,3,0.0,0.0,3
+8,Muagututia,USA,0,0,6,0.0,0.0,6
+8,E. Shoji,USA,0,0,0,,,0
+8,Grebennikov,FRA,0,0,0,,,0
+8,Toniutti,FRA,0,0,6,0.0,0.0,6
+8,Tillie,FRA,0,2,20,0.0,0.0,22
+8,Boyer,FRA,0,1,3,0.0,0.0,4
+8,Bultor,FRA,0,0,0,,,0
+8,Clevenot,FRA,0,4,6,0.0,0.0,10
+8,Louati,FRA,0,0,0,,,0
+8,Diez,FRA,0,0,0,,,0
+8,Carle,FRA,0,0,0,,,0
+8,Jouffroy,FRA,0,4,2,0.0,0.0,6
+8,Balaso,ITA,0,0,0,,,0
+8,Sbertoli,ITA,0,1,0,0.0,0.0,1
+8,Scanferla,ITA,0,0,0,,,0
+8,Bottolo,ITA,0,0,0,,,0
+8,Lavia,ITA,0,6,25,0.0,0.0,31
+8,Gironi,ITA,0,0,4,0.0,0.0,4
+8,Rinaldi,ITA,0,0,2,0.0,0.0,2
+8,Sanguinetti,ITA,0,0,0,,,0
+8,Mosca,ITA,0,0,0,,,0
+8,Sanchez Pages,ARG,0,0,1,0.0,0.0,1
+8,Martinez Franchi,ARG,0,1,1,0.0,0.0,2
+8,Gallego,ARG,0,0,0,,,0
+8,Palonsky,ARG,0,4,4,0.0,0.0,8
+8,Danani,ARG,0,0,0,,,0
+8,Zelayeta,ARG,0,1,0,0.0,0.0,1
+8,Lima B.,ARG,0,0,0,,,0
+8,De Cecco,ARG,0,0,6,0.0,0.0,6
+8,Kukartsev,ARG,0,1,5,0.0,0.0,6
+8,Vicentin,ARG,0,1,2,0.0,0.0,3
+8,Ramos,ARG,0,1,4,0.0,0.0,5
+8,Zerba,ARG,0,0,0,,,0
+8,Nishida,JPN,0,4,5,0.0,0.0,9
+8,Otsuka,JPN,0,0,3,0.0,0.0,3
+8,Kentaro,JPN,0,1,3,0.0,0.0,4
+8,Tomita,JPN,0,0,0,,,0
+8,Ogawa,JPN,0,0,0,,,0
+8,Yamamoto,JPN,0,0,0,,,0
+8,Eiro,JPN,0,0,1,0.0,0.0,1
+8,Pajenk,SLO,0,2,5,0.0,0.0,7
+8,Planinšič,SLO,0,1,6,0.0,0.0,7
+8,Kozamernik,SLO,0,2,11,0.0,0.0,13
+8,Kök,SLO,0,0,0,,,0
+8,Toman,SLO,0,0,0,,,0
+8,Štalekar,SLO,0,0,0,,,0
+8,Koncilja,SLO,0,0,0,,,0
+8,Kovačič,SLO,0,0,0,,,0
+8,Z. Štern,SLO,0,0,4,0.0,0.0,4
+8,Ropret,SLO,0,0,6,0.0,0.0,6
+8,Urnaut,SLO,0,3,8,0.0,0.0,11
+8,Čebulj,SLO,0,1,9,0.0,0.0,10
+8,Možič,SLO,0,1,7,0.0,0.0,8
+8,Mujanović,SLO,0,0,0,,,0
+8,Popiwczak,POL,0,0,0,,,0
+8,Kurek,POL,0,3,5,0.0,0.0,8
+8,Bednorz,POL,0,0,1,0.0,0.0,1
+8,Łomacz,POL,0,0,0,,,0
+8,Semeniuk,POL,0,0,1,0.0,0.0,1
+8,Zatorski,POL,0,0,0,,,0
+8,Fornal,POL,0,1,5,0.0,0.0,6
+8,Bruno,BRA,0,0,5,0.0,0.0,5
+8,Otávio,BRA,0,2,0,0.0,0.0,2
+8,Adriano,BRA,0,0,0,,,0
+8,Honorato,BRA,0,0,6,0.0,0.0,6
+8,Leal,BRA,0,2,1,0.0,0.0,3
+8,Fernando,BRA,0,0,3,0.0,0.0,3
+8,Maique,BRA,0,0,0,,,0
+8,Thales,BRA,0,0,0,,,0
+8,Roque,BRA,0,0,1,0.0,0.0,1
+8,Flavio,BRA,0,2,10,0.0,0.0,12
+8,Judson,BRA,0,0,0,,,0
+8,Russell,USA,0,2,4,0.0,0.0,6
+8,Larry,JPN,0,0,0,,,0
