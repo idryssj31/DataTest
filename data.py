@@ -34,10 +34,10 @@ else:
     print(f"Failed to retrieve the page. Status code: {response.status_code}")
 
 # Lire le fichier CSV
-df = pd.read_csv(r'c:\Users\idrys\DataTest\JO\JOTROPHIES\jotrophies2024.csv')
+df = pd.read_csv(r'c:\Users\idrys\DataTest\JO\JO2020\JOTROPHIES\jotrophies2020.csv')
 
 # Supprimer les colonnes 'web-scraper-order' et 'web-scraper-start-url'
 df = df.drop(columns=['web-scraper-order', 'web-scraper-start-url'])
 
 # Sauvegarder le fichier CSV modifié
-df.to_csv(r'c:\Users\idrys\DataTest\JO\JOTROPHIES\jotrophies2024_modified.csv', index=False)
+df.to_csv(r'c:\Users\idrys\DataTest\JO\JO2020\JOTROPHIES\jotrophies2020_modified.csv', index=False)
