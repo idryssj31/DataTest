@@ -1,5 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
+import pandas as pd
 
 # URL de la page à scraper
 url = 'https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2022/finals-statistics/men/best-receivers/'
@@ -31,3 +32,12 @@ if response.status_code == 200:
         print("No players found with the given selector")
 else:
     print(f"Failed to retrieve the page. Status code: {response.status_code}")
+
+# Lire le fichier CSV
+df = pd.read_csv(r'c:\Users\idrys\DataTest\JO\JOTROPHIES\jotrophies2024.csv')
+
+# Supprimer les colonnes 'web-scraper-order' et 'web-scraper-start-url'
+df = df.drop(columns=['web-scraper-order', 'web-scraper-start-url'])
+
+# Sauvegarder le fichier CSV modifié
+df.to_csv(r'c:\Users\idrys\DataTest\JO\JOTROPHIES\jotrophies2024_modified.csv', index=False)
