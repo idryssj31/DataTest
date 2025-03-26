@@ -1,278 +1,278 @@
-﻿web-scraper-order,web-scraper-start-url,Rank,Player Name,Team,Successfu,Errors,Attempts,Average Per Match,Success,Total
-"1741285605-1","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","1","Ropret","SLO","407","6","803","23.94","33.47","1216"
-"1741285605-2","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","2","Jovović","SRB","315","5","663","21.00","32.04","983"
-"1741285605-3","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","3","Zimmermann","GER","311","10","842","20.73","26.74","1163"
-"1741285605-4","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","4","De Cecco","ARG","286","5","564","19.07","33.45","855"
-"1741285605-5","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","5","Bruno","BRA","282","3","624","16.59","31.02","909"
-"1741285605-6","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","6","Christenson","USA","271","2","488","22.58","35.61","761"
-"1741285605-7","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","7","Kobzar","RUS","249","8","503","16.60","32.76","760"
-"1741285605-8","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","8","Brizard","FRA","239","3","559","14.94","29.84","801"
-"1741285605-9","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","9","Drzyzga","POL","236","1","556","13.88","29.76","793"
-"1741285605-10","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","10","Sbertoli","ITA","228","7","621","15.20","26.64","856"
-"1741285605-11","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","11","Dosanjh","AUS","225","12","786","15.00","21.99","1023"
-"1741285605-12","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","12","Seganov","BUL","192","6","592","12.80","24.30","790"
-"1741285605-13","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","12","S. Marouf","IRI","192","11","513","14.77","26.82","716"
-"1741285605-14","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","13","De Weijer","NED","186","5","424","16.91","30.24","615"
-"1741285605-15","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","14","Toniutti","FRA","179","3","428","11.93","29.34","610"
-"1741285605-16","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","15","Sekita","JPN","166","3","476","11.86","25.74","645"
-"1741285605-17","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","16","Pankov","RUS","154","3","298","10.27","33.85","455"
-"1741285605-18","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","17","Blankenau","CAN","153","3","418","10.93","26.66","574"
-"1741285605-19","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","18","Fujii","JPN","150","2","404","16.67","26.98","556"
-"1741285605-20","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","19","Łomacz","POL","137","2","208","8.06","39.48","347"
-"1741285605-21","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","20","Keemink","NED","119","0","402","11.90","22.84","521"
-"1741285605-22","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","21","Fernando","BRA","112","2","292","6.59","27.59","406"
-"1741285605-23","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","22","TJ","CAN","111","6","286","13.88","27.54","403"
-"1741285605-24","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","23","Spirito","ITA","104","4","369","6.93","21.80","477"
-"1741285605-25","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","24","K. Shoji","USA","98","1","224","7.54","30.34","323"
-"1741285605-26","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","24","Todorović","SRB","98","3","222","7.54","30.34","323"
-"1741285605-27","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","25","Vadi","IRI","88","2","215","9.78","28.85","305"
-"1741285605-28","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","26","Uriarte","ARG","78","1","157","7.80","33.05","236"
-"1741285605-29","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","27","Sanchez Pages","ARG","72","0","80","10.29","47.37","152"
-"1741285605-30","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","28","Vinčić","SLO","66","3","84","4.71","43.14","153"
-"1741285605-31","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","29","V.Stankov","BUL","61","3","235","6.10","20.40","299"
-"1741285605-32","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","30","Oya","JPN","60","3","118","7.50","33.15","181"
-"1741285605-33","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","31","Walsh","CAN","47","1","132","4.70","26.11","180"
-"1741285605-34","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","32","Tuaniga","USA","39","0","83","7.80","31.97","122"
-"1741285605-35","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","33","Javad","IRI","37","2","134","6.17","21.39","173"
-"1741285605-36","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","34","Van Solkema","NED","31","2","131","2.58","18.90","164"
-"1741285605-37","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","35","Butler","AUS","12","0","44","0.80","21.43","56"
-"1741285605-38","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","36","Meyer","FRA","11","0","16","3.67","40.74","27"
-"1741285605-39","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","37","Burggräf","GER","6","1","27","0.40","17.65","34"
-"1741285605-40","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","38","Stankov","BUL","5","0","29","0.56","14.71","34"
-"1741285605-41","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","38","Maique","BRA","5","0","2","0.29","71.43","7"
-"1741285605-42","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","39","Komenda","POL","4","0","3","1.33","57.14","7"
-"1741285605-43","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","40","Wallace","BRA","3","0","11","0.18","21.43","14"
-"1741285605-44","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","40","Pernuš","SLO","3","1","10","0.75","21.43","14"
-"1741285605-45","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","41","Chinenyeze","FRA","2","1","16","0.12","10.53","19"
-"1741285605-46","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","41","Ishikawa","JPN","2","0","35","0.14","5.41","37"
-"1741285605-47","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","41","Klobucar","SLO","2","0","2","0.15","50.00","4"
-"1741285605-48","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","41","M. Souza","BRA","2","0","10","0.15","16.67","12"
-"1741285605-49","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","42","Grozdanov","BUL","1","1","2","0.33","25.00","4"
-"1741285605-50","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","42","Reichert","GER","1","1","16","0.07","5.56","18"
-"1741285605-51","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","42","Sossenheimer","GER","1","0","11","0.08","8.33","12"
-"1741285605-52","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","42","Zenger","GER","1","1","61","0.07","1.59","63"
-"1741285605-53","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","42","Mote","AUS","1","2","13","0.07","6.25","16"
-"1741285605-54","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","42","Smith","AUS","1","0","13","0.08","7.14","14"
-"1741285605-55","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","42","Senica","AUS","1","0","6","0.07","14.29","7"
-"1741285605-56","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","42","Shimizu","JPN","1","1","4","0.08","16.67","6"
-"1741285605-57","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","42","Ran","JPN","1","0","24","0.07","4.00","25"
-"1741285605-58","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","42","P. Fayazi","IRI","1","1","1","0.09","33.33","3"
-"1741285605-59","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","42","Masoud","IRI","1","2","10","0.07","7.69","13"
-"1741285605-60","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","42","A. Ghafour","IRI","1","0","13","0.20","7.14","14"
-"1741285605-61","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","42","Ivović","SRB","1","1","41","0.07","2.33","43"
-"1741285605-62","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","42","Batak","SRB","1","0","1","0.20","50.00","2"
-"1741285605-63","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","42","Kozamernik","SLO","1","1","20","0.06","4.55","22"
-"1741285605-64","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","42","Kovačič","SLO","1","1","68","0.06","1.43","70"
-"1741285605-65","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","42","Videčnik","SLO","1","0","4","0.07","20.00","5"
-"1741285605-66","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","42","Urnaut","SLO","1","1","46","0.06","2.08","48"
-"1741285605-67","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","42","Kliuka","RUS","1","0","37","0.07","2.63","38"
-"1741285605-68","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","42","Holt","USA","1","0","10","0.08","9.09","11"
-"1741285605-69","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","42","Vernon","CAN","1","0","14","0.07","6.67","15"
-"1741285605-70","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","42","Mauricio","BRA","1","0","14","0.06","6.67","15"
-"1741285605-71","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","42","Sole","ITA","1","0","4","0.09","20.00","5"
-"1741285605-72","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","42","Van Berkel","CAN","1","0","6","0.07","14.29","7"
-"1741285605-73","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","42","Grebennikov","FRA","1","0","62","0.07","1.59","63"
-"1741285605-74","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","42","T. Sander","USA","1","0","12","0.17","7.69","13"
-"1741285605-75","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Patry","FRA","0","0","15","0.00","0.00","15"
-"1741285605-76","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Tillie","FRA","0","0","16","0.00","0.00","16"
-"1741285605-77","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Lyneel","FRA","0","0","5","0.00","0.00","5"
-"1741285605-78","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Boyer","FRA","0","0","7","0.00","0.00","7"
-"1741285605-79","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Le Goff","FRA","0","0","13","0.00","0.00","13"
-"1741285605-80","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Bultor","FRA","0","0","0","","","0"
-"1741285605-81","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Clevenot","FRA","0","0","13","0.00","0.00","13"
-"1741285605-82","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Rossard T","FRA","0","0","7","0.00","0.00","7"
-"1741285605-83","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Louati","FRA","0","1","5","0.00","0.00","6"
-"1741285605-84","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Diez","FRA","0","0","12","0.00","0.00","12"
-"1741285605-85","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Gueye","FRA","0","0","0","","","0"
-"1741285605-86","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Karyagin","BUL","0","2","10","0.00","0.00","12"
-"1741285605-87","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Chavdarov","BUL","0","0","1","0.00","0.00","1"
-"1741285605-88","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Kolev","BUL","0","0","13","0.00","0.00","13"
-"1741285605-89","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Atanasov","BUL","0","0","7","0.00","0.00","7"
-"1741285605-90","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Petrov","BUL","0","0","4","0.00","0.00","4"
-"1741285605-91","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Asparuhov","BUL","0","0","22","0.00","0.00","22"
-"1741285605-92","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","V. Ivanov","BUL","0","0","66","0.00","0.00","66"
-"1741285605-93","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Sokolov","BUL","0","0","1","0.00","0.00","1"
-"1741285605-94","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Kartev","BUL","0","0","4","0.00","0.00","4"
-"1741285605-95","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","M. Ivanov","BUL","0","0","6","0.00","0.00","6"
-"1741285605-96","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Parapunov","BUL","0","0","6","0.00","0.00","6"
-"1741285605-97","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Fromm","GER","0","1","14","0.00","0.00","15"
-"1741285605-98","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Schott","GER","0","3","41","0.00","0.00","44"
-"1741285605-99","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Kaliberda","GER","0","0","14","0.00","0.00","14"
-"1741285605-100","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Böhme","GER","0","0","0","","","0"
-"1741285605-101","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Hirsch","GER","0","0","11","0.00","0.00","11"
-"1741285605-102","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Baxpöhler","GER","0","1","0","0.00","0.00","1"
-"1741285605-103","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Krage","GER","0","0","2","0.00","0.00","2"
-"1741285605-104","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Weber","GER","0","0","5","0.00","0.00","5"
-"1741285605-105","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Krick","GER","0","1","2","0.00","0.00","3"
-"1741285605-106","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Graham","AUS","0","2","12","0.00","0.00","14"
-"1741285605-107","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Weir","AUS","0","0","5","0.00","0.00","5"
-"1741285605-108","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","O'Dea","AUS","0","0","14","0.00","0.00","14"
-"1741285605-109","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Perry","AUS","0","0","134","0.00","0.00","134"
-"1741285605-110","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Taylor","AUS","0","0","3","0.00","0.00","3"
-"1741285605-111","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Garrett","AUS","0","1","9","0.00","0.00","10"
-"1741285605-112","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Aubrey","AUS","0","0","0","","","0"
-"1741285605-113","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Flowerday","AUS","0","0","0","","","0"
-"1741285605-114","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Greber","AUS","0","0","0","","","0"
-"1741285605-115","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Onodera","JPN","0","0","3","0.00","0.00","3"
-"1741285605-116","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Fukuzawa","JPN","0","0","5","0.00","0.00","5"
-"1741285605-117","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Yamauchi","JPN","0","1","10","0.00","0.00","11"
-"1741285605-118","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Lee","JPN","0","0","2","0.00","0.00","2"
-"1741285605-119","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Kentaro","JPN","0","0","3","0.00","0.00","3"
-"1741285605-120","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Takanashi","JPN","0","0","16","0.00","0.00","16"
-"1741285605-121","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Otsuka","JPN","0","0","10","0.00","0.00","10"
-"1741285605-122","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Yamamoto","JPN","0","0","34","0.00","0.00","34"
-"1741285605-123","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Ogawa","JPN","0","0","21","0.00","0.00","21"
-"1741285605-124","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Milad","IRI","0","0","29","0.00","0.00","29"
-"1741285605-125","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Reza","IRI","0","0","3","0.00","0.00","3"
-"1741285605-126","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Seyed","IRI","0","1","17","0.00","0.00","18"
-"1741285605-127","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Hazrat","IRI","0","0","28","0.00","0.00","28"
-"1741285605-128","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Kazemi","IRI","0","0","10","0.00","0.00","10"
-"1741285605-129","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Mojarad","IRI","0","0","4","0.00","0.00","4"
-"1741285605-130","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","A. Shafiei","IRI","0","0","0","","","0"
-"1741285605-131","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Salehi","IRI","0","1","12","0.00","0.00","13"
-"1741285605-132","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Arman","IRI","0","1","57","0.00","0.00","58"
-"1741285605-133","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Esfandiar","IRI","0","1","3","0.00","0.00","4"
-"1741285605-134","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Kovačević","SRB","0","0","26","0.00","0.00","26"
-"1741285605-135","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Kapur","SRB","0","0","7","0.00","0.00","7"
-"1741285605-136","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Pekovic","SRB","0","1","64","0.00","0.00","65"
-"1741285605-137","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Krsmanović","SRB","0","1","23","0.00","0.00","24"
-"1741285605-138","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Perić","SRB","0","0","4","0.00","0.00","4"
-"1741285605-139","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Simic","SRB","0","0","1","0.00","0.00","1"
-"1741285605-140","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Atanasijević","SRB","0","0","16","0.00","0.00","16"
-"1741285605-141","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Luburić","SRB","0","0","13","0.00","0.00","13"
-"1741285605-142","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Podraščanin","ITA","0","0","20","0.00","0.00","20"
-"1741285605-143","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Lisinac","SRB","0","0","1","0.00","0.00","1"
-"1741285605-144","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Kovač","SRB","0","0","3","0.00","0.00","3"
-"1741285605-145","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","T. Štern","SLO","0","0","20","0.00","0.00","20"
-"1741285605-146","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Pajenk","SLO","0","0","13","0.00","0.00","13"
-"1741285605-147","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Gasparini","SLO","0","0","3","0.00","0.00","3"
-"1741285605-148","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Štalekar","SLO","0","1","1","0.00","0.00","2"
-"1741285605-149","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Z. Štern","SLO","0","0","10","0.00","0.00","10"
-"1741285605-150","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Čebulj","SLO","0","1","48","0.00","0.00","49"
-"1741285605-151","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Možič","SLO","0","1","10","0.00","0.00","11"
-"1741285605-152","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Ter Horst","NED","0","0","13","0.00","0.00","13"
-"1741285605-153","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Van Der Ent","NED","0","0","2","0.00","0.00","2"
-"1741285605-154","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Dronkers","NED","0","0","55","0.00","0.00","55"
-"1741285605-155","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Jorna","NED","0","0","0","","","0"
-"1741285605-156","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","van Zeist","NED","0","0","1","0.00","0.00","1"
-"1741285605-157","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Tuinstra","NED","0","2","27","0.00","0.00","29"
-"1741285605-158","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Ottevanger","NED","0","0","17","0.00","0.00","17"
-"1741285605-159","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Nimir","NED","0","1","13","0.00","0.00","14"
-"1741285605-160","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Parkinson","NED","0","0","1","0.00","0.00","1"
-"1741285605-161","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","van Schie","NED","0","0","0","","","0"
-"1741285605-162","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Wiltenburg","NED","0","0","4","0.00","0.00","4"
-"1741285605-163","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","van Tilburg","NED","0","0","8","0.00","0.00","8"
-"1741285605-164","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Podlesnykh","RUS","0","0","11","0.00","0.00","11"
-"1741285605-165","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Vlasov","RUS","0","0","3","0.00","0.00","3"
-"1741285605-166","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Volvich","RUS","0","1","5","0.00","0.00","6"
-"1741285605-167","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Semyshev","RUS","0","0","1","0.00","0.00","1"
-"1741285605-168","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Baranov","RUS","0","0","15","0.00","0.00","15"
-"1741285605-169","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Volkov","RUS","0","1","20","0.00","0.00","21"
-"1741285605-170","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Bogdan","RUS","0","0","18","0.00","0.00","18"
-"1741285605-171","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Poletaev","RUS","0","0","2","0.00","0.00","2"
-"1741285605-172","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Mikhaylov","RUS","0","2","14","0.00","0.00","16"
-"1741285605-173","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Kurkaev","RUS","0","0","7","0.00","0.00","7"
-"1741285605-174","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Golubev","RUS","0","0","43","0.00","0.00","43"
-"1741285605-175","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Ensing","USA","0","0","7","0.00","0.00","7"
-"1741285605-176","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Defalco","USA","0","0","31","0.00","0.00","31"
-"1741285605-177","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Hanes","USA","0","0","1","0.00","0.00","1"
-"1741285605-178","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Patch","USA","0","0","5","0.00","0.00","5"
-"1741285605-179","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","B. Sander","USA","0","0","4","0.00","0.00","4"
-"1741285605-180","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Jaeschke","USA","0","0","7","0.00","0.00","7"
-"1741285605-181","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Muagututia","USA","0","0","12","0.00","0.00","12"
-"1741285605-182","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Averill","USA","0","0","2","0.00","0.00","2"
-"1741285605-183","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Smith","USA","0","0","12","0.00","0.00","12"
-"1741285605-184","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Watten","USA","0","0","10","0.00","0.00","10"
-"1741285605-185","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","E. Shoji","USA","0","0","59","0.00","0.00","59"
-"1741285605-186","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Perrin","CAN","0","2","30","0.00","0.00","32"
-"1741285605-187","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Hoag","CAN","0","1","25","0.00","0.00","26"
-"1741285605-188","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Pereira","CAN","0","0","2","0.00","0.00","2"
-"1741285605-189","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Maar","CAN","0","1","9","0.00","0.00","10"
-"1741285605-190","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Sclater","CAN","0","0","6","0.00","0.00","6"
-"1741285605-191","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Jansen Vandoorn","CAN","0","0","3","0.00","0.00","3"
-"1741285605-192","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Loeppky","CAN","0","1","12","0.00","0.00","13"
-"1741285605-193","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Vigrass","CAN","0","1","2","0.00","0.00","3"
-"1741285605-194","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Bann","CAN","0","1","55","0.00","0.00","56"
-"1741285605-195","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Szwarc","CAN","0","3","8","0.00","0.00","11"
-"1741285605-196","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Demyanenko","CAN","0","0","0","","","0"
-"1741285605-197","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Muzaj","POL","0","0","7","0.00","0.00","7"
-"1741285605-198","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Kurek","POL","0","0","14","0.00","0.00","14"
-"1741285605-199","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Leon","POL","0","0","13","0.00","0.00","13"
-"1741285605-200","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Wojtaszek","POL","0","1","17","0.00","0.00","18"
-"1741285605-201","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Kochanowski","POL","0","0","2","0.00","0.00","2"
-"1741285605-202","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Semeniuk","POL","0","0","12","0.00","0.00","12"
-"1741285605-203","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Zatorski","POL","0","0","37","0.00","0.00","37"
-"1741285605-204","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Bieniek","POL","0","0","5","0.00","0.00","5"
-"1741285605-205","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Fornal","POL","0","0","4","0.00","0.00","4"
-"1741285605-206","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Bednorz","POL","0","0","8","0.00","0.00","8"
-"1741285605-207","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Kłos","POL","0","0","2","0.00","0.00","2"
-"1741285605-208","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Huber","POL","0","0","0","","","0"
-"1741285605-209","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Balaso","ITA","0","0","111","0.00","0.00","111"
-"1741285605-210","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Galassi","ITA","0","0","2","0.00","0.00","2"
-"1741285605-211","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Michieletto","ITA","0","0","22","0.00","0.00","22"
-"1741285605-212","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Nelli","ITA","0","2","20","0.00","0.00","22"
-"1741285605-213","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Pinali","ITA","0","0","5","0.00","0.00","5"
-"1741285605-214","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Cavuto","ITA","0","1","5","0.00","0.00","6"
-"1741285605-215","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Cortesia","ITA","0","0","7","0.00","0.00","7"
-"1741285605-216","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Scanferla","ITA","0","0","0","","","0"
-"1741285605-217","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Recine","ITA","0","0","12","0.00","0.00","12"
-"1741285605-218","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Bottolo","ITA","0","0","7","0.00","0.00","7"
-"1741285605-219","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Mosca","ITA","0","1","5","0.00","0.00","6"
-"1741285605-220","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Federici","ITA","0","0","4","0.00","0.00","4"
-"1741285605-221","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Leal","BRA","0","0","14","0.00","0.00","14"
-"1741285605-222","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Matheus","BRA","0","0","1","0.00","0.00","1"
-"1741285605-223","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Vaccari","BRA","0","0","1","0.00","0.00","1"
-"1741285605-224","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Isac","BRA","0","0","5","0.00","0.00","5"
-"1741285605-225","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Douglas","BRA","0","0","32","0.00","0.00","32"
-"1741285605-226","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Thales","BRA","0","1","66","0.00","0.00","67"
-"1741285605-227","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Lucarelli","BRA","0","0","34","0.00","0.00","34"
-"1741285605-228","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Roque","BRA","0","0","0","","","0"
-"1741285605-229","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Flavio","BRA","0","0","9","0.00","0.00","9"
-"1741285605-230","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Pereyra L.","ARG","0","1","13","0.00","0.00","14"
-"1741285605-231","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Martinez Franchi","ARG","0","0","11","0.00","0.00","11"
-"1741285605-232","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Facu","ARG","0","1","31","0.00","0.00","32"
-"1741285605-233","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Palonsky","ARG","0","0","1","0.00","0.00","1"
-"1741285605-234","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Mendez","ARG","0","0","15","0.00","0.00","15"
-"1741285605-235","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Ramos","ARG","0","1","3","0.00","0.00","4"
-"1741285605-236","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Morteza","IRI","0","1","2","0.00","0.00","3"
-"1741285605-237","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Saadat","IRI","0","0","4","0.00","0.00","4"
-"1741285605-238","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Plak","NED","0","0","4","0.00","0.00","4"
-"1741285605-239","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Andringa","NED","0","0","32","0.00","0.00","32"
-"1741285605-240","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Macdonald","AUS","0","0","0","","","0"
-"1741285605-241","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Kaczmarek","POL","0","0","1","0.00","0.00","1"
-"1741285605-242","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Kubiak","POL","0","1","36","0.00","0.00","37"
-"1741285605-243","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Śliwka","POL","0","0","8","0.00","0.00","8"
-"1741285605-244","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Janusz","POL","0","0","0","","","0"
-"1741285605-245","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Kujundžić","SRB","0","0","3","0.00","0.00","3"
-"1741285605-246","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Vucicevic","SRB","0","0","0","","","0"
-"1741285605-247","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Gardini","ITA","0","0","1","0.00","0.00","1"
-"1741285605-248","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Vitelli","ITA","0","0","4","0.00","0.00","4"
-"1741285605-249","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Šket","SLO","0","0","6","0.00","0.00","6"
-"1741285605-250","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Jendryk","USA","0","0","0","","","0"
-"1741285605-251","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Stahl","USA","0","0","6","0.00","0.00","6"
-"1741285605-252","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Alan","BRA","0","0","9","0.00","0.00","9"
-"1741285605-253","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Ngapeth","FRA","0","0","55","0.00","0.00","55"
-"1741285605-254","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Röhrs","GER","0","0","0","","","0"
-"1741285605-255","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Otake","JPN","0","1","3","0.00","0.00","4"
-"1741285605-256","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Marshall","CAN","0","0","17","0.00","0.00","17"
-"1741285605-257","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Poglajen","ARG","0","0","16","0.00","0.00","16"
-"1741285605-258","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Loser Bruno","ARG","0","0","8","0.00","0.00","8"
-"1741285605-259","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Palacios","ARG","0","1","3","0.00","0.00","4"
-"1741285605-260","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Crer","ARG","0","0","1","0.00","0.00","1"
-"1741285605-261","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Massimino","ARG","0","0","12","0.00","0.00","12"
-"1741285605-262","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Azeez","AUS","0","0","2","0.00","0.00","2"
-"1741285605-263","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Nowakowski","POL","0","0","1","0.00","0.00","1"
-"1741285605-264","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","S.Ivanov","BUL","0","0","4","0.00","0.00","4"
-"1741285605-265","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Muserskiy","RUS","0","0","8","0.00","0.00","8"
-"1741285605-266","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Faure","FRA","0","0","2","0.00","0.00","2"
-"1741285605-267","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Anderson","USA","0","1","9","0.00","0.00","10"
-"1741285605-268","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Maase","GER","0","0","1","0.00","0.00","1"
-"1741285605-269","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Danani","ARG","0","0","29","0.00","0.00","29"
-"1741285605-270","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Nicolas","ARG","0","0","0","","","0"
-"1741285605-271","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Lima B.","ARG","0","0","4","0.00","0.00","4"
-"1741285605-272","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Lyutskanov","BUL","0","0","1","0.00","0.00","1"
-"1741285605-273","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Douglas-Powell","AUS","0","0","0","","","0"
-"1741285605-274","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Nishida","JPN","0","0","2","0.00","0.00","2"
-"1741285605-275","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","João Rafael","BRA","0","0","2","0.00","0.00","2"
-"1741285605-276","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Lucas","BRA","0","0","1","0.00","0.00","1"
-"1741285605-277","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-setters/","43","Iakovlev","RUS","0","0","0","","","0"
+Rank,Player Name,Team,Successfu,Errors,Attempts,Average Per Match,Success,Total
+1,Ropret,SLO,407,6,803,23.94,33.47,1216
+2,Jovović,SRB,315,5,663,21.0,32.04,983
+3,Zimmermann,GER,311,10,842,20.73,26.74,1163
+4,De Cecco,ARG,286,5,564,19.07,33.45,855
+5,Bruno,BRA,282,3,624,16.59,31.02,909
+6,Christenson,USA,271,2,488,22.58,35.61,761
+7,Kobzar,RUS,249,8,503,16.6,32.76,760
+8,Brizard,FRA,239,3,559,14.94,29.84,801
+9,Drzyzga,POL,236,1,556,13.88,29.76,793
+10,Sbertoli,ITA,228,7,621,15.2,26.64,856
+11,Dosanjh,AUS,225,12,786,15.0,21.99,1023
+12,Seganov,BUL,192,6,592,12.8,24.3,790
+12,S. Marouf,IRI,192,11,513,14.77,26.82,716
+13,De Weijer,NED,186,5,424,16.91,30.24,615
+14,Toniutti,FRA,179,3,428,11.93,29.34,610
+15,Sekita,JPN,166,3,476,11.86,25.74,645
+16,Pankov,RUS,154,3,298,10.27,33.85,455
+17,Blankenau,CAN,153,3,418,10.93,26.66,574
+18,Fujii,JPN,150,2,404,16.67,26.98,556
+19,Łomacz,POL,137,2,208,8.06,39.48,347
+20,Keemink,NED,119,0,402,11.9,22.84,521
+21,Fernando,BRA,112,2,292,6.59,27.59,406
+22,TJ,CAN,111,6,286,13.88,27.54,403
+23,Spirito,ITA,104,4,369,6.93,21.8,477
+24,K. Shoji,USA,98,1,224,7.54,30.34,323
+24,Todorović,SRB,98,3,222,7.54,30.34,323
+25,Vadi,IRI,88,2,215,9.78,28.85,305
+26,Uriarte,ARG,78,1,157,7.8,33.05,236
+27,Sanchez Pages,ARG,72,0,80,10.29,47.37,152
+28,Vinčić,SLO,66,3,84,4.71,43.14,153
+29,V.Stankov,BUL,61,3,235,6.1,20.4,299
+30,Oya,JPN,60,3,118,7.5,33.15,181
+31,Walsh,CAN,47,1,132,4.7,26.11,180
+32,Tuaniga,USA,39,0,83,7.8,31.97,122
+33,Javad,IRI,37,2,134,6.17,21.39,173
+34,Van Solkema,NED,31,2,131,2.58,18.9,164
+35,Butler,AUS,12,0,44,0.8,21.43,56
+36,Meyer,FRA,11,0,16,3.67,40.74,27
+37,Burggräf,GER,6,1,27,0.4,17.65,34
+38,Stankov,BUL,5,0,29,0.56,14.71,34
+38,Maique,BRA,5,0,2,0.29,71.43,7
+39,Komenda,POL,4,0,3,1.33,57.14,7
+40,Wallace,BRA,3,0,11,0.18,21.43,14
+40,Pernuš,SLO,3,1,10,0.75,21.43,14
+41,Chinenyeze,FRA,2,1,16,0.12,10.53,19
+41,Ishikawa,JPN,2,0,35,0.14,5.41,37
+41,Klobucar,SLO,2,0,2,0.15,50.0,4
+41,M. Souza,BRA,2,0,10,0.15,16.67,12
+42,Grozdanov,BUL,1,1,2,0.33,25.0,4
+42,Reichert,GER,1,1,16,0.07,5.56,18
+42,Sossenheimer,GER,1,0,11,0.08,8.33,12
+42,Zenger,GER,1,1,61,0.07,1.59,63
+42,Mote,AUS,1,2,13,0.07,6.25,16
+42,Smith,AUS,1,0,13,0.08,7.14,14
+42,Senica,AUS,1,0,6,0.07,14.29,7
+42,Shimizu,JPN,1,1,4,0.08,16.67,6
+42,Ran,JPN,1,0,24,0.07,4.0,25
+42,P. Fayazi,IRI,1,1,1,0.09,33.33,3
+42,Masoud,IRI,1,2,10,0.07,7.69,13
+42,A. Ghafour,IRI,1,0,13,0.2,7.14,14
+42,Ivović,SRB,1,1,41,0.07,2.33,43
+42,Batak,SRB,1,0,1,0.2,50.0,2
+42,Kozamernik,SLO,1,1,20,0.06,4.55,22
+42,Kovačič,SLO,1,1,68,0.06,1.43,70
+42,Videčnik,SLO,1,0,4,0.07,20.0,5
+42,Urnaut,SLO,1,1,46,0.06,2.08,48
+42,Kliuka,RUS,1,0,37,0.07,2.63,38
+42,Holt,USA,1,0,10,0.08,9.09,11
+42,Vernon,CAN,1,0,14,0.07,6.67,15
+42,Mauricio,BRA,1,0,14,0.06,6.67,15
+42,Sole,ITA,1,0,4,0.09,20.0,5
+42,Van Berkel,CAN,1,0,6,0.07,14.29,7
+42,Grebennikov,FRA,1,0,62,0.07,1.59,63
+42,T. Sander,USA,1,0,12,0.17,7.69,13
+43,Patry,FRA,0,0,15,0.0,0.0,15
+43,Tillie,FRA,0,0,16,0.0,0.0,16
+43,Lyneel,FRA,0,0,5,0.0,0.0,5
+43,Boyer,FRA,0,0,7,0.0,0.0,7
+43,Le Goff,FRA,0,0,13,0.0,0.0,13
+43,Bultor,FRA,0,0,0,,,0
+43,Clevenot,FRA,0,0,13,0.0,0.0,13
+43,Rossard T,FRA,0,0,7,0.0,0.0,7
+43,Louati,FRA,0,1,5,0.0,0.0,6
+43,Diez,FRA,0,0,12,0.0,0.0,12
+43,Gueye,FRA,0,0,0,,,0
+43,Karyagin,BUL,0,2,10,0.0,0.0,12
+43,Chavdarov,BUL,0,0,1,0.0,0.0,1
+43,Kolev,BUL,0,0,13,0.0,0.0,13
+43,Atanasov,BUL,0,0,7,0.0,0.0,7
+43,Petrov,BUL,0,0,4,0.0,0.0,4
+43,Asparuhov,BUL,0,0,22,0.0,0.0,22
+43,V. Ivanov,BUL,0,0,66,0.0,0.0,66
+43,Sokolov,BUL,0,0,1,0.0,0.0,1
+43,Kartev,BUL,0,0,4,0.0,0.0,4
+43,M. Ivanov,BUL,0,0,6,0.0,0.0,6
+43,Parapunov,BUL,0,0,6,0.0,0.0,6
+43,Fromm,GER,0,1,14,0.0,0.0,15
+43,Schott,GER,0,3,41,0.0,0.0,44
+43,Kaliberda,GER,0,0,14,0.0,0.0,14
+43,Böhme,GER,0,0,0,,,0
+43,Hirsch,GER,0,0,11,0.0,0.0,11
+43,Baxpöhler,GER,0,1,0,0.0,0.0,1
+43,Krage,GER,0,0,2,0.0,0.0,2
+43,Weber,GER,0,0,5,0.0,0.0,5
+43,Krick,GER,0,1,2,0.0,0.0,3
+43,Graham,AUS,0,2,12,0.0,0.0,14
+43,Weir,AUS,0,0,5,0.0,0.0,5
+43,O'Dea,AUS,0,0,14,0.0,0.0,14
+43,Perry,AUS,0,0,134,0.0,0.0,134
+43,Taylor,AUS,0,0,3,0.0,0.0,3
+43,Garrett,AUS,0,1,9,0.0,0.0,10
+43,Aubrey,AUS,0,0,0,,,0
+43,Flowerday,AUS,0,0,0,,,0
+43,Greber,AUS,0,0,0,,,0
+43,Onodera,JPN,0,0,3,0.0,0.0,3
+43,Fukuzawa,JPN,0,0,5,0.0,0.0,5
+43,Yamauchi,JPN,0,1,10,0.0,0.0,11
+43,Lee,JPN,0,0,2,0.0,0.0,2
+43,Kentaro,JPN,0,0,3,0.0,0.0,3
+43,Takanashi,JPN,0,0,16,0.0,0.0,16
+43,Otsuka,JPN,0,0,10,0.0,0.0,10
+43,Yamamoto,JPN,0,0,34,0.0,0.0,34
+43,Ogawa,JPN,0,0,21,0.0,0.0,21
+43,Milad,IRI,0,0,29,0.0,0.0,29
+43,Reza,IRI,0,0,3,0.0,0.0,3
+43,Seyed,IRI,0,1,17,0.0,0.0,18
+43,Hazrat,IRI,0,0,28,0.0,0.0,28
+43,Kazemi,IRI,0,0,10,0.0,0.0,10
+43,Mojarad,IRI,0,0,4,0.0,0.0,4
+43,A. Shafiei,IRI,0,0,0,,,0
+43,Salehi,IRI,0,1,12,0.0,0.0,13
+43,Arman,IRI,0,1,57,0.0,0.0,58
+43,Esfandiar,IRI,0,1,3,0.0,0.0,4
+43,Kovačević,SRB,0,0,26,0.0,0.0,26
+43,Kapur,SRB,0,0,7,0.0,0.0,7
+43,Pekovic,SRB,0,1,64,0.0,0.0,65
+43,Krsmanović,SRB,0,1,23,0.0,0.0,24
+43,Perić,SRB,0,0,4,0.0,0.0,4
+43,Simic,SRB,0,0,1,0.0,0.0,1
+43,Atanasijević,SRB,0,0,16,0.0,0.0,16
+43,Luburić,SRB,0,0,13,0.0,0.0,13
+43,Podraščanin,ITA,0,0,20,0.0,0.0,20
+43,Lisinac,SRB,0,0,1,0.0,0.0,1
+43,Kovač,SRB,0,0,3,0.0,0.0,3
+43,T. Štern,SLO,0,0,20,0.0,0.0,20
+43,Pajenk,SLO,0,0,13,0.0,0.0,13
+43,Gasparini,SLO,0,0,3,0.0,0.0,3
+43,Štalekar,SLO,0,1,1,0.0,0.0,2
+43,Z. Štern,SLO,0,0,10,0.0,0.0,10
+43,Čebulj,SLO,0,1,48,0.0,0.0,49
+43,Možič,SLO,0,1,10,0.0,0.0,11
+43,Ter Horst,NED,0,0,13,0.0,0.0,13
+43,Van Der Ent,NED,0,0,2,0.0,0.0,2
+43,Dronkers,NED,0,0,55,0.0,0.0,55
+43,Jorna,NED,0,0,0,,,0
+43,van Zeist,NED,0,0,1,0.0,0.0,1
+43,Tuinstra,NED,0,2,27,0.0,0.0,29
+43,Ottevanger,NED,0,0,17,0.0,0.0,17
+43,Nimir,NED,0,1,13,0.0,0.0,14
+43,Parkinson,NED,0,0,1,0.0,0.0,1
+43,van Schie,NED,0,0,0,,,0
+43,Wiltenburg,NED,0,0,4,0.0,0.0,4
+43,van Tilburg,NED,0,0,8,0.0,0.0,8
+43,Podlesnykh,RUS,0,0,11,0.0,0.0,11
+43,Vlasov,RUS,0,0,3,0.0,0.0,3
+43,Volvich,RUS,0,1,5,0.0,0.0,6
+43,Semyshev,RUS,0,0,1,0.0,0.0,1
+43,Baranov,RUS,0,0,15,0.0,0.0,15
+43,Volkov,RUS,0,1,20,0.0,0.0,21
+43,Bogdan,RUS,0,0,18,0.0,0.0,18
+43,Poletaev,RUS,0,0,2,0.0,0.0,2
+43,Mikhaylov,RUS,0,2,14,0.0,0.0,16
+43,Kurkaev,RUS,0,0,7,0.0,0.0,7
+43,Golubev,RUS,0,0,43,0.0,0.0,43
+43,Ensing,USA,0,0,7,0.0,0.0,7
+43,Defalco,USA,0,0,31,0.0,0.0,31
+43,Hanes,USA,0,0,1,0.0,0.0,1
+43,Patch,USA,0,0,5,0.0,0.0,5
+43,B. Sander,USA,0,0,4,0.0,0.0,4
+43,Jaeschke,USA,0,0,7,0.0,0.0,7
+43,Muagututia,USA,0,0,12,0.0,0.0,12
+43,Averill,USA,0,0,2,0.0,0.0,2
+43,Smith,USA,0,0,12,0.0,0.0,12
+43,Watten,USA,0,0,10,0.0,0.0,10
+43,E. Shoji,USA,0,0,59,0.0,0.0,59
+43,Perrin,CAN,0,2,30,0.0,0.0,32
+43,Hoag,CAN,0,1,25,0.0,0.0,26
+43,Pereira,CAN,0,0,2,0.0,0.0,2
+43,Maar,CAN,0,1,9,0.0,0.0,10
+43,Sclater,CAN,0,0,6,0.0,0.0,6
+43,Jansen Vandoorn,CAN,0,0,3,0.0,0.0,3
+43,Loeppky,CAN,0,1,12,0.0,0.0,13
+43,Vigrass,CAN,0,1,2,0.0,0.0,3
+43,Bann,CAN,0,1,55,0.0,0.0,56
+43,Szwarc,CAN,0,3,8,0.0,0.0,11
+43,Demyanenko,CAN,0,0,0,,,0
+43,Muzaj,POL,0,0,7,0.0,0.0,7
+43,Kurek,POL,0,0,14,0.0,0.0,14
+43,Leon,POL,0,0,13,0.0,0.0,13
+43,Wojtaszek,POL,0,1,17,0.0,0.0,18
+43,Kochanowski,POL,0,0,2,0.0,0.0,2
+43,Semeniuk,POL,0,0,12,0.0,0.0,12
+43,Zatorski,POL,0,0,37,0.0,0.0,37
+43,Bieniek,POL,0,0,5,0.0,0.0,5
+43,Fornal,POL,0,0,4,0.0,0.0,4
+43,Bednorz,POL,0,0,8,0.0,0.0,8
+43,Kłos,POL,0,0,2,0.0,0.0,2
+43,Huber,POL,0,0,0,,,0
+43,Balaso,ITA,0,0,111,0.0,0.0,111
+43,Galassi,ITA,0,0,2,0.0,0.0,2
+43,Michieletto,ITA,0,0,22,0.0,0.0,22
+43,Nelli,ITA,0,2,20,0.0,0.0,22
+43,Pinali,ITA,0,0,5,0.0,0.0,5
+43,Cavuto,ITA,0,1,5,0.0,0.0,6
+43,Cortesia,ITA,0,0,7,0.0,0.0,7
+43,Scanferla,ITA,0,0,0,,,0
+43,Recine,ITA,0,0,12,0.0,0.0,12
+43,Bottolo,ITA,0,0,7,0.0,0.0,7
+43,Mosca,ITA,0,1,5,0.0,0.0,6
+43,Federici,ITA,0,0,4,0.0,0.0,4
+43,Leal,BRA,0,0,14,0.0,0.0,14
+43,Matheus,BRA,0,0,1,0.0,0.0,1
+43,Vaccari,BRA,0,0,1,0.0,0.0,1
+43,Isac,BRA,0,0,5,0.0,0.0,5
+43,Douglas,BRA,0,0,32,0.0,0.0,32
+43,Thales,BRA,0,1,66,0.0,0.0,67
+43,Lucarelli,BRA,0,0,34,0.0,0.0,34
+43,Roque,BRA,0,0,0,,,0
+43,Flavio,BRA,0,0,9,0.0,0.0,9
+43,Pereyra L.,ARG,0,1,13,0.0,0.0,14
+43,Martinez Franchi,ARG,0,0,11,0.0,0.0,11
+43,Facu,ARG,0,1,31,0.0,0.0,32
+43,Palonsky,ARG,0,0,1,0.0,0.0,1
+43,Mendez,ARG,0,0,15,0.0,0.0,15
+43,Ramos,ARG,0,1,3,0.0,0.0,4
+43,Morteza,IRI,0,1,2,0.0,0.0,3
+43,Saadat,IRI,0,0,4,0.0,0.0,4
+43,Plak,NED,0,0,4,0.0,0.0,4
+43,Andringa,NED,0,0,32,0.0,0.0,32
+43,Macdonald,AUS,0,0,0,,,0
+43,Kaczmarek,POL,0,0,1,0.0,0.0,1
+43,Kubiak,POL,0,1,36,0.0,0.0,37
+43,Śliwka,POL,0,0,8,0.0,0.0,8
+43,Janusz,POL,0,0,0,,,0
+43,Kujundžić,SRB,0,0,3,0.0,0.0,3
+43,Vucicevic,SRB,0,0,0,,,0
+43,Gardini,ITA,0,0,1,0.0,0.0,1
+43,Vitelli,ITA,0,0,4,0.0,0.0,4
+43,Šket,SLO,0,0,6,0.0,0.0,6
+43,Jendryk,USA,0,0,0,,,0
+43,Stahl,USA,0,0,6,0.0,0.0,6
+43,Alan,BRA,0,0,9,0.0,0.0,9
+43,Ngapeth,FRA,0,0,55,0.0,0.0,55
+43,Röhrs,GER,0,0,0,,,0
+43,Otake,JPN,0,1,3,0.0,0.0,4
+43,Marshall,CAN,0,0,17,0.0,0.0,17
+43,Poglajen,ARG,0,0,16,0.0,0.0,16
+43,Loser Bruno,ARG,0,0,8,0.0,0.0,8
+43,Palacios,ARG,0,1,3,0.0,0.0,4
+43,Crer,ARG,0,0,1,0.0,0.0,1
+43,Massimino,ARG,0,0,12,0.0,0.0,12
+43,Azeez,AUS,0,0,2,0.0,0.0,2
+43,Nowakowski,POL,0,0,1,0.0,0.0,1
+43,S.Ivanov,BUL,0,0,4,0.0,0.0,4
+43,Muserskiy,RUS,0,0,8,0.0,0.0,8
+43,Faure,FRA,0,0,2,0.0,0.0,2
+43,Anderson,USA,0,1,9,0.0,0.0,10
+43,Maase,GER,0,0,1,0.0,0.0,1
+43,Danani,ARG,0,0,29,0.0,0.0,29
+43,Nicolas,ARG,0,0,0,,,0
+43,Lima B.,ARG,0,0,4,0.0,0.0,4
+43,Lyutskanov,BUL,0,0,1,0.0,0.0,1
+43,Douglas-Powell,AUS,0,0,0,,,0
+43,Nishida,JPN,0,0,2,0.0,0.0,2
+43,João Rafael,BRA,0,0,2,0.0,0.0,2
+43,Lucas,BRA,0,0,1,0.0,0.0,1
+43,Iakovlev,RUS,0,0,0,,,0

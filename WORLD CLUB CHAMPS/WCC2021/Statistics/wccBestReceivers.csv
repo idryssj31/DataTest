@@ -1,83 +1,83 @@
-﻿web-scraper-order,web-scraper-start-url,Rank,Player Name,Team,Succesful,Errors,Attemps,Average Per Match,Success,Total
-"1742825906-1","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-receivers/","1","Yudi","BRA","34","4","84","8.50","27.87","122"
-"1742825906-2","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-receivers/","2","Lucarelli","BRA","26","0","52","6.50","33.33","78"
-"1742825906-3","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-receivers/","2","Zenger","GER","26","7","54","6.50","29.89","87"
-"1742825906-4","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-receivers/","3","Thales","BRA","25","3","43","6.25","35.21","71"
-"1742825906-5","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-receivers/","3","Rodriguinho","BRA","25","2","34","6.25","40.98","61"
-"1742825906-6","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-receivers/","3","Balaso","ITA","25","0","52","6.25","32.47","77"
-"1742825906-7","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-receivers/","4","Lukinha","BRA","23","1","34","5.75","39.66","58"
-"1742825906-8","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-receivers/","5","Michieletto","ITA","18","1","36","4.50","32.73","55"
-"1742825906-9","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-receivers/","6","Melgarejo","ARG","16","1","33","8.00","32.00","50"
-"1742825906-10","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-receivers/","6","Perren","ARG","16","2","28","8.00","34.78","46"
-"1742825906-11","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-receivers/","7","Lavia","ITA","14","2","34","3.50","28.00","50"
-"1742825906-12","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-receivers/","8","Yant","CUB","13","2","46","3.25","21.31","61"
-"1742825906-13","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-receivers/","9","Lopez","CUB","12","3","39","3.00","22.22","54"
-"1742825906-14","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-receivers/","10","Fabio","BRA","11","1","25","2.75","29.73","37"
-"1742825906-15","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-receivers/","11","Matheus Krauchuk","BRA","10","3","25","2.50","26.32","38"
-"1742825906-16","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-receivers/","12","M. Sadeghi","IRI","8","4","15","4.00","29.63","27"
-"1742825906-17","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-receivers/","12","Kaziyski","BUL","8","1","33","2.00","19.05","42"
-"1742825906-18","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-receivers/","13","Jailton","BRA","4","1","4","2.00","44.44","9"
-"1742825906-19","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-receivers/","13","Esfandiar","IRI","4","1","17","2.00","18.18","22"
-"1742825906-20","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-receivers/","13","M.Heydari","IRI","4","3","16","2.00","17.39","23"
-"1742825906-21","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-receivers/","13","Marchisio","ITA","4","1","5","1.00","40.00","10"
-"1742825906-22","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-receivers/","14","Armoa Morel","ARG","3","7","22","1.50","9.38","32"
-"1742825906-23","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-receivers/","15","Daneshdoust","IRI","2","4","19","1.00","8.00","25"
-"1742825906-24","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-receivers/","16","R.Shahsavari","IRI","1","1","1","0.50","33.33","3"
-"1742825906-25","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-receivers/","16","M. Gholizad","IRI","1","0","4","0.50","20.00","5"
-"1742825906-26","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-receivers/","16","A. Tashakori","IRI","1","0","2","0.50","33.33","3"
-"1742825906-27","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-receivers/","16","Anzani","ITA","1","0","7","0.25","12.50","8"
-"1742825906-28","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-receivers/","16","Lisinac","SRB","1","1","3","0.25","20.00","5"
-"1742825906-29","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-receivers/","17","Gasman","USA","0","0","5","0.00","0.00","5"
-"1742825906-30","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-receivers/","17","M. Radke","BRA","0","0","0","","","0"
-"1742825906-31","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-receivers/","17","Andre","BRA","0","0","0","","","0"
-"1742825906-32","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-receivers/","17","Joao Gabriel","BRA","0","0","0","","","0"
-"1742825906-33","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-receivers/","17","Gabriel","BRA","0","0","1","0.00","0.00","1"
-"1742825906-34","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-receivers/","17","Gabriel","BRA","0","0","0","","","0"
-"1742825906-35","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-receivers/","17","Riad","BRA","0","0","0","","","0"
-"1742825906-36","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-receivers/","17","Brito","BRA","0","0","2","0.00","0.00","2"
-"1742825906-37","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-receivers/","17","Roque","BRA","0","0","0","","","0"
-"1742825906-38","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-receivers/","17","Symon","BRA","0","0","0","","","0"
-"1742825906-39","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-receivers/","17","Olivieri","ARG","0","0","0","","","0"
-"1742825906-40","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-receivers/","17","Ibazeta","ARG","0","0","0","","","0"
-"1742825906-41","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-receivers/","17","Bozikovich","ARG","0","1","0","0.00","0.00","1"
-"1742825906-42","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-receivers/","17","Caceres","ARG","0","0","0","","","0"
-"1742825906-43","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-receivers/","17","Brajkovic","ARG","0","0","1","0.00","0.00","1"
-"1742825906-44","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-receivers/","17","Igor","BRA","0","0","0","","","0"
-"1742825906-45","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-receivers/","17","Gallardo","ARG","0","0","1","0.00","0.00","1"
-"1742825906-46","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-receivers/","17","Jaraba J","COL","0","0","0","","","0"
-"1742825906-47","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-receivers/","17","Salvo","ARG","0","0","0","","","0"
-"1742825906-48","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-receivers/","17","Flores","ARG","0","0","0","","","0"
-"1742825906-49","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-receivers/","17","Sahand","IRI","0","0","0","","","0"
-"1742825906-50","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-receivers/","17","Jelveh","IRI","0","0","2","0.00","0.00","2"
-"1742825906-51","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-receivers/","17","Blagojevic","SRB","0","0","0","","","0"
-"1742825906-52","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-receivers/","17","AmirHossein","IRI","0","0","0","","","0"
-"1742825906-53","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-receivers/","17","Reza","IRI","0","0","0","","","0"
-"1742825906-54","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-receivers/","17","A.Behbodi","IRI","0","0","0","","","0"
-"1742825906-55","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-receivers/","17","Oppenkoski","BRA","0","0","0","","","0"
-"1742825906-56","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-receivers/","17","Otávio","BRA","0","0","1","0.00","0.00","1"
-"1742825906-57","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-receivers/","17","Lucas Loh","BRA","0","0","0","","","0"
-"1742825906-58","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-receivers/","17","Rech","BRA","0","0","0","","","0"
-"1742825906-59","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-receivers/","17","Wallace","BRA","0","1","0","0.00","0.00","1"
-"1742825906-60","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-receivers/","17","C. Souza","BRA","0","0","0","","","0"
-"1742825906-61","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-receivers/","17","Isac","BRA","0","0","1","0.00","0.00","1"
-"1742825906-62","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-receivers/","17","Fernando","BRA","0","0","1","0.00","0.00","1"
-"1742825906-63","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-receivers/","17","Bauer","BRA","0","0","0","","","0"
-"1742825906-64","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-receivers/","17","Resley","BRA","0","0","0","","","0"
-"1742825906-65","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-receivers/","17","Matias","BRA","0","0","0","","","0"
-"1742825906-66","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-receivers/","17","Garcia","USA","0","0","1","0.00","0.00","1"
-"1742825906-67","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-receivers/","17","Kovar","ITA","0","0","1","0.00","0.00","1"
-"1742825906-68","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-receivers/","17","Sottile","ITA","0","0","0","","","0"
-"1742825906-69","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-receivers/","17","Juantorena","ITA","0","0","0","","","0"
-"1742825906-70","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-receivers/","17","Jeroncic","ITA","0","0","0","","","0"
-"1742825906-71","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-receivers/","17","Zaytsev","ITA","0","0","1","0.00","0.00","1"
-"1742825906-72","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-receivers/","17","Diamantini","ITA","0","0","1","0.00","0.00","1"
-"1742825906-73","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-receivers/","17","Simón","CUB","0","0","1","0.00","0.00","1"
-"1742825906-74","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-receivers/","17","De Cecco","ARG","0","0","0","","","0"
-"1742825906-75","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-receivers/","17","D'heer","BEL","0","0","0","","","0"
-"1742825906-76","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-receivers/","17","Sbertoli","ITA","0","0","2","0.00","0.00","2"
-"1742825906-77","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-receivers/","17","Cavuto","ITA","0","1","0","0.00","0.00","1"
-"1742825906-78","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-receivers/","17","Pinali","ITA","0","0","0","","","0"
-"1742825906-79","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-receivers/","17","Albergati","ITA","0","0","0","","","0"
-"1742825906-80","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-receivers/","17","Podraščanin","ITA","0","0","2","0.00","0.00","2"
-"1742825906-81","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-receivers/","17","Sperotto","ITA","0","0","0","","","0"
-"1742825906-82","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-receivers/","17","De Angelis","ITA","0","0","0","","","0"
+Rank,Player Name,Team,Succesful,Errors,Attemps,Average Per Match,Success,Total
+1,Yudi,BRA,34,4,84,8.5,27.87,122
+2,Lucarelli,BRA,26,0,52,6.5,33.33,78
+2,Zenger,GER,26,7,54,6.5,29.89,87
+3,Thales,BRA,25,3,43,6.25,35.21,71
+3,Rodriguinho,BRA,25,2,34,6.25,40.98,61
+3,Balaso,ITA,25,0,52,6.25,32.47,77
+4,Lukinha,BRA,23,1,34,5.75,39.66,58
+5,Michieletto,ITA,18,1,36,4.5,32.73,55
+6,Melgarejo,ARG,16,1,33,8.0,32.0,50
+6,Perren,ARG,16,2,28,8.0,34.78,46
+7,Lavia,ITA,14,2,34,3.5,28.0,50
+8,Yant,CUB,13,2,46,3.25,21.31,61
+9,Lopez,CUB,12,3,39,3.0,22.22,54
+10,Fabio,BRA,11,1,25,2.75,29.73,37
+11,Matheus Krauchuk,BRA,10,3,25,2.5,26.32,38
+12,M. Sadeghi,IRI,8,4,15,4.0,29.63,27
+12,Kaziyski,BUL,8,1,33,2.0,19.05,42
+13,Jailton,BRA,4,1,4,2.0,44.44,9
+13,Esfandiar,IRI,4,1,17,2.0,18.18,22
+13,M.Heydari,IRI,4,3,16,2.0,17.39,23
+13,Marchisio,ITA,4,1,5,1.0,40.0,10
+14,Armoa Morel,ARG,3,7,22,1.5,9.38,32
+15,Daneshdoust,IRI,2,4,19,1.0,8.0,25
+16,R.Shahsavari,IRI,1,1,1,0.5,33.33,3
+16,M. Gholizad,IRI,1,0,4,0.5,20.0,5
+16,A. Tashakori,IRI,1,0,2,0.5,33.33,3
+16,Anzani,ITA,1,0,7,0.25,12.5,8
+16,Lisinac,SRB,1,1,3,0.25,20.0,5
+17,Gasman,USA,0,0,5,0.0,0.0,5
+17,M. Radke,BRA,0,0,0,,,0
+17,Andre,BRA,0,0,0,,,0
+17,Joao Gabriel,BRA,0,0,0,,,0
+17,Gabriel,BRA,0,0,1,0.0,0.0,1
+17,Gabriel,BRA,0,0,0,,,0
+17,Riad,BRA,0,0,0,,,0
+17,Brito,BRA,0,0,2,0.0,0.0,2
+17,Roque,BRA,0,0,0,,,0
+17,Symon,BRA,0,0,0,,,0
+17,Olivieri,ARG,0,0,0,,,0
+17,Ibazeta,ARG,0,0,0,,,0
+17,Bozikovich,ARG,0,1,0,0.0,0.0,1
+17,Caceres,ARG,0,0,0,,,0
+17,Brajkovic,ARG,0,0,1,0.0,0.0,1
+17,Igor,BRA,0,0,0,,,0
+17,Gallardo,ARG,0,0,1,0.0,0.0,1
+17,Jaraba J,COL,0,0,0,,,0
+17,Salvo,ARG,0,0,0,,,0
+17,Flores,ARG,0,0,0,,,0
+17,Sahand,IRI,0,0,0,,,0
+17,Jelveh,IRI,0,0,2,0.0,0.0,2
+17,Blagojevic,SRB,0,0,0,,,0
+17,AmirHossein,IRI,0,0,0,,,0
+17,Reza,IRI,0,0,0,,,0
+17,A.Behbodi,IRI,0,0,0,,,0
+17,Oppenkoski,BRA,0,0,0,,,0
+17,Otávio,BRA,0,0,1,0.0,0.0,1
+17,Lucas Loh,BRA,0,0,0,,,0
+17,Rech,BRA,0,0,0,,,0
+17,Wallace,BRA,0,1,0,0.0,0.0,1
+17,C. Souza,BRA,0,0,0,,,0
+17,Isac,BRA,0,0,1,0.0,0.0,1
+17,Fernando,BRA,0,0,1,0.0,0.0,1
+17,Bauer,BRA,0,0,0,,,0
+17,Resley,BRA,0,0,0,,,0
+17,Matias,BRA,0,0,0,,,0
+17,Garcia,USA,0,0,1,0.0,0.0,1
+17,Kovar,ITA,0,0,1,0.0,0.0,1
+17,Sottile,ITA,0,0,0,,,0
+17,Juantorena,ITA,0,0,0,,,0
+17,Jeroncic,ITA,0,0,0,,,0
+17,Zaytsev,ITA,0,0,1,0.0,0.0,1
+17,Diamantini,ITA,0,0,1,0.0,0.0,1
+17,Simón,CUB,0,0,1,0.0,0.0,1
+17,De Cecco,ARG,0,0,0,,,0
+17,D'heer,BEL,0,0,0,,,0
+17,Sbertoli,ITA,0,0,2,0.0,0.0,2
+17,Cavuto,ITA,0,1,0,0.0,0.0,1
+17,Pinali,ITA,0,0,0,,,0
+17,Albergati,ITA,0,0,0,,,0
+17,Podraščanin,ITA,0,0,2,0.0,0.0,2
+17,Sperotto,ITA,0,0,0,,,0
+17,De Angelis,ITA,0,0,0,,,0

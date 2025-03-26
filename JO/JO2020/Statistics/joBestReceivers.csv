@@ -1,145 +1,145 @@
-﻿web-scraper-order,web-scraper-start-url,Rank,Player Name,Team,Succesful,Errors,Attemps,Average Per Match,Success,Total
-"1742822661-1","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","1","Facu","ARG","137","8","74","17.12","62.56","219"
-"1742822661-2","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","2","Ngapeth","FRA","129","7","100","16.12","54.66","236"
-"1742822661-3","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","3","Milad","IRI","127","11","38","25.40","72.16","176"
-"1742822661-4","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","4","Golubev","ROC","124","12","94","15.50","53.91","230"
-"1742822661-5","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","5","Thales","BRA","109","5","35","13.62","73.15","149"
-"1742822661-6","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","6","Danani","ARG","108","7","46","13.50","67.08","161"
-"1742822661-7","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","7","Lucarelli","BRA","104","7","71","13.00","57.14","182"
-"1742822661-8","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","8","Clevenot","FRA","101","6","49","12.62","64.74","156"
-"1742822661-9","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","9","Kliuka","ROC","98","8","41","12.25","66.67","147"
-"1742822661-10","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","10","Juantorena","ITA","89","8","46","14.83","62.24","143"
-"1742822661-11","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","11","Grebennikov","FRA","88","5","54","11.00","59.86","147"
-"1742822661-12","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","12","Zatorski","POL","80","5","34","13.33","67.23","119"
-"1742822661-13","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","13","Ran","JPN","73","3","44","12.17","60.83","120"
-"1742822661-14","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","14","Palacios","ARG","70","5","71","8.75","47.95","146"
-"1742822661-15","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","15","Michieletto","ITA","68","5","51","11.33","54.84","124"
-"1742822661-16","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","15","Ishikawa","JPN","68","5","48","11.33","56.20","121"
-"1742822661-17","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","15","E. Shoji","USA","68","8","27","13.60","66.02","103"
-"1742822661-18","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","16","B.Othmen M.","TUN","67","2","37","13.40","63.21","106"
-"1742822661-19","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","17","Colaci","ITA","65","10","32","10.83","60.75","107"
-"1742822661-20","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","17","Defalco","USA","65","5","29","13.00","65.66","99"
-"1742822661-21","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","18","Leal","BRA","64","6","83","8.00","41.83","153"
-"1742822661-22","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","18","T. Sander","USA","64","9","26","12.80","64.65","99"
-"1742822661-23","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","19","Fayola","VEN","63","10","59","12.60","47.73","132"
-"1742822661-24","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","20","Yamamoto","JPN","59","4","41","9.83","56.73","104"
-"1742822661-25","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","21","Volkov","ROC","58","6","37","7.25","57.43","101"
-"1742822661-26","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","22","Leon","POL","57","6","35","11.40","58.16","98"
-"1742822661-27","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","22","Marandi","IRI","57","3","33","11.40","61.29","93"
-"1742822661-28","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","23","Hoag","CAN","54","9","43","9.00","50.94","106"
-"1742822661-29","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","24","Bann","CAN","49","12","40","8.17","48.51","101"
-"1742822661-30","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","24","Perrin","CAN","49","8","40","9.80","50.52","97"
-"1742822661-31","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","25","Moalla I.","TUN","47","3","45","9.40","49.47","95"
-"1742822661-32","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","26","Hmissi S","TUN","46","4","34","9.20","54.76","84"
-"1742822661-33","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","26","Willner","VEN","46","3","29","9.20","58.97","78"
-"1742822661-34","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","27","Śliwka","POL","44","1","24","11.00","63.77","69"
-"1742822661-35","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","28","Mata","VEN","33","8","14","6.60","60.00","55"
-"1742822661-36","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","29","Poglajen","ARG","30","1","13","3.75","68.18","44"
-"1742822661-37","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","29","Kubiak","POL","30","2","17","7.50","61.22","49"
-"1742822661-38","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","30","Salehi","IRI","26","6","32","5.20","40.62","64"
-"1742822661-39","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","31","Douglas","BRA","24","1","20","4.00","53.33","45"
-"1742822661-40","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","32","Maar","CAN","22","2","14","5.50","57.89","38"
-"1742822661-41","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","33","Semeniuk","POL","19","1","11","3.80","61.29","31"
-"1742822661-42","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","34","Podlesnykh","ROC","12","2","14","2.00","42.86","28"
-"1742822661-43","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","35","Mauricio","BRA","11","1","7","1.38","57.89","19"
-"1742822661-44","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","36","Verdi","VEN","10","0","6","2.00","62.50","16"
-"1742822661-45","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","36","Anderson","USA","10","2","8","2.00","50.00","20"
-"1742822661-46","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","36","Tillie","FRA","10","1","5","1.67","62.50","16"
-"1742822661-47","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","37","Lavia","ITA","9","0","4","2.25","69.23","13"
-"1742822661-48","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","37","Karamosli E","TUN","9","3","10","2.25","40.91","22"
-"1742822661-49","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","37","Mikhaylov","ROC","9","1","4","1.12","64.29","14"
-"1742822661-50","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","37","Takanashi","JPN","9","3","11","1.50","39.13","23"
-"1742822661-51","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","38","Vigrass","CAN","7","0","1","1.17","87.50","8"
-"1742822661-52","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","38","Muagututia","USA","7","1","1","2.33","77.78","9"
-"1742822661-53","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","39","Marshall","CAN","6","0","2","3.00","75.00","8"
-"1742822661-54","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","39","Ben Tara W","TUN","6","1","6","1.20","46.15","13"
-"1742822661-55","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","39","M. Souza","BRA","6","1","2","0.86","66.67","9"
-"1742822661-56","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","39","Sole","ITA","6","0","5","0.75","54.55","11"
-"1742822661-57","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","39","Valencia","VEN","6","1","5","1.20","50.00","12"
-"1742822661-58","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","40","Zaytsev","ITA","5","3","2","1.00","50.00","10"
-"1742822661-59","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","40","Iakovlev","ROC","5","1","3","0.62","55.56","9"
-"1742822661-60","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","40","Loser Bruno","ARG","5","0","1","0.62","83.33","6"
-"1742822661-61","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","40","Lima B.","ARG","5","0","7","0.62","41.67","12"
-"1742822661-62","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","40","Onodera","JPN","5","1","7","0.83","38.46","13"
-"1742822661-63","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","40","Nishida","JPN","5","0","3","0.83","62.50","8"
-"1742822661-64","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","40","Canelo","VEN","5","1","1","2.50","71.43","7"
-"1742822661-65","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","41","Anzani","ITA","4","0","1","0.80","80.00","5"
-"1742822661-66","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","42","Van Berkel","CAN","3","0","1","0.50","75.00","4"
-"1742822661-67","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","42","Lee","JPN","3","0","3","0.75","50.00","6"
-"1742822661-68","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","42","Holt","USA","3","0","3","0.60","50.00","6"
-"1742822661-69","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","42","Chinenyeze","FRA","3","0","1","0.38","75.00","4"
-"1742822661-70","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","42","Louati","FRA","3","0","1","0.38","75.00","4"
-"1742822661-71","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","43","Isac","BRA","2","0","0","0.29","100.00","2"
-"1742822661-72","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","43","Lucas","BRA","2","0","0","0.25","100.00","2"
-"1742822661-73","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","43","Bouguerra.A","TUN","2","3","5","0.40","20.00","10"
-"1742822661-74","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","43","Mojarad","IRI","2","0","0","0.40","100.00","2"
-"1742822661-75","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","43","Seyed","IRI","2","1","4","0.50","28.57","7"
-"1742822661-76","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","43","Nowakowski","POL","2","0","0","0.50","100.00","2"
-"1742822661-77","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","43","Morteza","IRI","2","0","0","0.67","100.00","2"
-"1742822661-78","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","43","Smith","USA","2","0","0","0.40","100.00","2"
-"1742822661-79","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","44","Piano","ITA","1","0","1","0.20","50.00","2"
-"1742822661-80","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","44","Blankenau","CAN","1","0","0","0.17","100.00","1"
-"1742822661-81","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","44","Vernon","CAN","1","0","2","0.20","33.33","3"
-"1742822661-82","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","44","Kovar","ITA","1","0","1","0.25","50.00","2"
-"1742822661-83","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","44","Agrebi O","TUN","1","1","3","0.20","20.00","5"
-"1742822661-84","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","44","Mbareki S.","TUN","1","0","1","0.50","50.00","2"
-"1742822661-85","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","44","Volvich","ROC","1","1","0","0.14","50.00","2"
-"1742822661-86","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","44","De Cecco","ARG","1","0","1","0.12","50.00","2"
-"1742822661-87","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","44","Sanchez Pages","ARG","1","0","0","0.12","100.00","1"
-"1742822661-88","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","44","Yamauchi","JPN","1","2","5","0.17","12.50","8"
-"1742822661-89","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","44","Armando","VEN","1","0","0","0.20","100.00","1"
-"1742822661-90","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","44","Oramas","VEN","1","0","2","0.25","33.33","3"
-"1742822661-91","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","44","Drzyzga","POL","1","0","2","0.17","33.33","3"
-"1742822661-92","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","44","Kurek","POL","1","0","0","0.17","100.00","1"
-"1742822661-93","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","44","Bieniek","POL","1","0","3","0.17","25.00","4"
-"1742822661-94","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","44","Kochanowski","POL","1","0","0","0.17","100.00","1"
-"1742822661-95","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","44","Christenson","USA","1","0","2","0.20","33.33","3"
-"1742822661-96","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","44","Brizard","FRA","1","0","3","0.12","25.00","4"
-"1742822661-97","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","44","Toniutti","FRA","1","0","2","0.20","33.33","3"
-"1742822661-98","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","44","Le Goff","FRA","1","0","3","0.12","25.00","4"
-"1742822661-99","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","44","Stahl","USA","1","0","0","0.25","100.00","1"
-"1742822661-100","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","44","Jaeschke","USA","1","0","1","0.33","50.00","2"
-"1742822661-101","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","45","Giannelli","ITA","0","0","1","0.00","0.00","1"
-"1742822661-102","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","45","Galassi","ITA","0","0","2","0.00","0.00","2"
-"1742822661-103","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","45","Sbertoli","ITA","0","0","0","","","0"
-"1742822661-104","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","45","TJ","CAN","0","0","1","0.00","0.00","1"
-"1742822661-105","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","45","Sclater","CAN","0","0","0","","","0"
-"1742822661-106","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","45","Vettori","ITA","0","0","1","0.00","0.00","1"
-"1742822661-107","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","45","Szwarc","CAN","0","0","0","","","0"
-"1742822661-108","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","45","Bruno","BRA","0","0","4","0.00","0.00","4"
-"1742822661-109","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","45","Wallace","BRA","0","0","0","","","0"
-"1742822661-110","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","45","Ben Slimene K","TUN","0","0","1","0.00","0.00","1"
-"1742822661-111","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","45","Kadhi A","TUN","0","1","2","0.00","0.00","3"
-"1742822661-112","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","45","Nagga H.","TUN","0","1","1","0.00","0.00","2"
-"1742822661-113","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","45","Fernando","BRA","0","0","0","","","0"
-"1742822661-114","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","45","Alan","BRA","0","0","0","","","0"
-"1742822661-115","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","45","Ben Cheikh M","TUN","0","0","0","","","0"
-"1742822661-116","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","45","Kobzar","ROC","0","0","2","0.00","0.00","2"
-"1742822661-117","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","45","Pankov","ROC","0","0","0","","","0"
-"1742822661-118","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","45","Pereyra L.","ARG","0","0","0","","","0"
-"1742822661-119","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","45","Bogdan","ROC","0","0","1","0.00","0.00","1"
-"1742822661-120","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","45","Poletaev","ROC","0","0","0","","","0"
-"1742822661-121","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","45","Kurkaev","ROC","0","1","0","0.00","0.00","1"
-"1742822661-122","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","45","Mendez","ARG","0","0","0","","","0"
-"1742822661-123","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","45","Ramos","ARG","0","0","0","","","0"
-"1742822661-124","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","45","Sekita","JPN","0","0","2","0.00","0.00","2"
-"1742822661-125","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","45","Fujii","JPN","0","0","0","","","0"
-"1742822661-126","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","45","Chema","VEN","0","1","0","0.00","0.00","1"
-"1742822661-127","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","45","Emerson","VEN","0","0","0","","","0"
-"1742822661-128","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","45","Maita","VEN","0","0","0","","","0"
-"1742822661-129","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","45","Shimizu","JPN","0","0","0","","","0"
-"1742822661-130","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","45","Fernando","VEN","0","2","4","0.00","0.00","6"
-"1742822661-131","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","45","Otsuka","JPN","0","0","2","0.00","0.00","2"
-"1742822661-132","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","45","Łomacz","POL","0","0","0","","","0"
-"1742822661-133","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","45","S. Marouf","IRI","0","0","3","0.00","0.00","3"
-"1742822661-134","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","45","A. Ghafour","IRI","0","1","1","0.00","0.00","2"
-"1742822661-135","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","45","Kazemi","IRI","0","0","0","","","0"
-"1742822661-136","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","45","Kaczmarek","POL","0","0","0","","","0"
-"1742822661-137","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","45","Masoud","IRI","0","0","1","0.00","0.00","1"
-"1742822661-138","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","45","Arman","IRI","0","0","1","0.00","0.00","1"
-"1742822661-139","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","45","Javad","IRI","0","1","0","0.00","0.00","1"
-"1742822661-140","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","45","Boyer","FRA","0","0","0","","","0"
-"1742822661-141","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","45","Patry","FRA","0","0","0","","","0"
-"1742822661-142","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","45","Ensing","USA","0","0","0","","","0"
-"1742822661-143","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","45","K. Shoji","USA","0","0","0","","","0"
-"1742822661-144","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-receivers/","45","Bultor","FRA","0","0","0","","","0"
+Rank,Player Name,Team,Succesful,Errors,Attemps,Average Per Match,Success,Total
+1,Facu,ARG,137,8,74,17.12,62.56,219
+2,Ngapeth,FRA,129,7,100,16.12,54.66,236
+3,Milad,IRI,127,11,38,25.4,72.16,176
+4,Golubev,ROC,124,12,94,15.5,53.91,230
+5,Thales,BRA,109,5,35,13.62,73.15,149
+6,Danani,ARG,108,7,46,13.5,67.08,161
+7,Lucarelli,BRA,104,7,71,13.0,57.14,182
+8,Clevenot,FRA,101,6,49,12.62,64.74,156
+9,Kliuka,ROC,98,8,41,12.25,66.67,147
+10,Juantorena,ITA,89,8,46,14.83,62.24,143
+11,Grebennikov,FRA,88,5,54,11.0,59.86,147
+12,Zatorski,POL,80,5,34,13.33,67.23,119
+13,Ran,JPN,73,3,44,12.17,60.83,120
+14,Palacios,ARG,70,5,71,8.75,47.95,146
+15,Michieletto,ITA,68,5,51,11.33,54.84,124
+15,Ishikawa,JPN,68,5,48,11.33,56.2,121
+15,E. Shoji,USA,68,8,27,13.6,66.02,103
+16,B.Othmen M.,TUN,67,2,37,13.4,63.21,106
+17,Colaci,ITA,65,10,32,10.83,60.75,107
+17,Defalco,USA,65,5,29,13.0,65.66,99
+18,Leal,BRA,64,6,83,8.0,41.83,153
+18,T. Sander,USA,64,9,26,12.8,64.65,99
+19,Fayola,VEN,63,10,59,12.6,47.73,132
+20,Yamamoto,JPN,59,4,41,9.83,56.73,104
+21,Volkov,ROC,58,6,37,7.25,57.43,101
+22,Leon,POL,57,6,35,11.4,58.16,98
+22,Marandi,IRI,57,3,33,11.4,61.29,93
+23,Hoag,CAN,54,9,43,9.0,50.94,106
+24,Bann,CAN,49,12,40,8.17,48.51,101
+24,Perrin,CAN,49,8,40,9.8,50.52,97
+25,Moalla I.,TUN,47,3,45,9.4,49.47,95
+26,Hmissi S,TUN,46,4,34,9.2,54.76,84
+26,Willner,VEN,46,3,29,9.2,58.97,78
+27,Śliwka,POL,44,1,24,11.0,63.77,69
+28,Mata,VEN,33,8,14,6.6,60.0,55
+29,Poglajen,ARG,30,1,13,3.75,68.18,44
+29,Kubiak,POL,30,2,17,7.5,61.22,49
+30,Salehi,IRI,26,6,32,5.2,40.62,64
+31,Douglas,BRA,24,1,20,4.0,53.33,45
+32,Maar,CAN,22,2,14,5.5,57.89,38
+33,Semeniuk,POL,19,1,11,3.8,61.29,31
+34,Podlesnykh,ROC,12,2,14,2.0,42.86,28
+35,Mauricio,BRA,11,1,7,1.38,57.89,19
+36,Verdi,VEN,10,0,6,2.0,62.5,16
+36,Anderson,USA,10,2,8,2.0,50.0,20
+36,Tillie,FRA,10,1,5,1.67,62.5,16
+37,Lavia,ITA,9,0,4,2.25,69.23,13
+37,Karamosli E,TUN,9,3,10,2.25,40.91,22
+37,Mikhaylov,ROC,9,1,4,1.12,64.29,14
+37,Takanashi,JPN,9,3,11,1.5,39.13,23
+38,Vigrass,CAN,7,0,1,1.17,87.5,8
+38,Muagututia,USA,7,1,1,2.33,77.78,9
+39,Marshall,CAN,6,0,2,3.0,75.0,8
+39,Ben Tara W,TUN,6,1,6,1.2,46.15,13
+39,M. Souza,BRA,6,1,2,0.86,66.67,9
+39,Sole,ITA,6,0,5,0.75,54.55,11
+39,Valencia,VEN,6,1,5,1.2,50.0,12
+40,Zaytsev,ITA,5,3,2,1.0,50.0,10
+40,Iakovlev,ROC,5,1,3,0.62,55.56,9
+40,Loser Bruno,ARG,5,0,1,0.62,83.33,6
+40,Lima B.,ARG,5,0,7,0.62,41.67,12
+40,Onodera,JPN,5,1,7,0.83,38.46,13
+40,Nishida,JPN,5,0,3,0.83,62.5,8
+40,Canelo,VEN,5,1,1,2.5,71.43,7
+41,Anzani,ITA,4,0,1,0.8,80.0,5
+42,Van Berkel,CAN,3,0,1,0.5,75.0,4
+42,Lee,JPN,3,0,3,0.75,50.0,6
+42,Holt,USA,3,0,3,0.6,50.0,6
+42,Chinenyeze,FRA,3,0,1,0.38,75.0,4
+42,Louati,FRA,3,0,1,0.38,75.0,4
+43,Isac,BRA,2,0,0,0.29,100.0,2
+43,Lucas,BRA,2,0,0,0.25,100.0,2
+43,Bouguerra.A,TUN,2,3,5,0.4,20.0,10
+43,Mojarad,IRI,2,0,0,0.4,100.0,2
+43,Seyed,IRI,2,1,4,0.5,28.57,7
+43,Nowakowski,POL,2,0,0,0.5,100.0,2
+43,Morteza,IRI,2,0,0,0.67,100.0,2
+43,Smith,USA,2,0,0,0.4,100.0,2
+44,Piano,ITA,1,0,1,0.2,50.0,2
+44,Blankenau,CAN,1,0,0,0.17,100.0,1
+44,Vernon,CAN,1,0,2,0.2,33.33,3
+44,Kovar,ITA,1,0,1,0.25,50.0,2
+44,Agrebi O,TUN,1,1,3,0.2,20.0,5
+44,Mbareki S.,TUN,1,0,1,0.5,50.0,2
+44,Volvich,ROC,1,1,0,0.14,50.0,2
+44,De Cecco,ARG,1,0,1,0.12,50.0,2
+44,Sanchez Pages,ARG,1,0,0,0.12,100.0,1
+44,Yamauchi,JPN,1,2,5,0.17,12.5,8
+44,Armando,VEN,1,0,0,0.2,100.0,1
+44,Oramas,VEN,1,0,2,0.25,33.33,3
+44,Drzyzga,POL,1,0,2,0.17,33.33,3
+44,Kurek,POL,1,0,0,0.17,100.0,1
+44,Bieniek,POL,1,0,3,0.17,25.0,4
+44,Kochanowski,POL,1,0,0,0.17,100.0,1
+44,Christenson,USA,1,0,2,0.2,33.33,3
+44,Brizard,FRA,1,0,3,0.12,25.0,4
+44,Toniutti,FRA,1,0,2,0.2,33.33,3
+44,Le Goff,FRA,1,0,3,0.12,25.0,4
+44,Stahl,USA,1,0,0,0.25,100.0,1
+44,Jaeschke,USA,1,0,1,0.33,50.0,2
+45,Giannelli,ITA,0,0,1,0.0,0.0,1
+45,Galassi,ITA,0,0,2,0.0,0.0,2
+45,Sbertoli,ITA,0,0,0,,,0
+45,TJ,CAN,0,0,1,0.0,0.0,1
+45,Sclater,CAN,0,0,0,,,0
+45,Vettori,ITA,0,0,1,0.0,0.0,1
+45,Szwarc,CAN,0,0,0,,,0
+45,Bruno,BRA,0,0,4,0.0,0.0,4
+45,Wallace,BRA,0,0,0,,,0
+45,Ben Slimene K,TUN,0,0,1,0.0,0.0,1
+45,Kadhi A,TUN,0,1,2,0.0,0.0,3
+45,Nagga H.,TUN,0,1,1,0.0,0.0,2
+45,Fernando,BRA,0,0,0,,,0
+45,Alan,BRA,0,0,0,,,0
+45,Ben Cheikh M,TUN,0,0,0,,,0
+45,Kobzar,ROC,0,0,2,0.0,0.0,2
+45,Pankov,ROC,0,0,0,,,0
+45,Pereyra L.,ARG,0,0,0,,,0
+45,Bogdan,ROC,0,0,1,0.0,0.0,1
+45,Poletaev,ROC,0,0,0,,,0
+45,Kurkaev,ROC,0,1,0,0.0,0.0,1
+45,Mendez,ARG,0,0,0,,,0
+45,Ramos,ARG,0,0,0,,,0
+45,Sekita,JPN,0,0,2,0.0,0.0,2
+45,Fujii,JPN,0,0,0,,,0
+45,Chema,VEN,0,1,0,0.0,0.0,1
+45,Emerson,VEN,0,0,0,,,0
+45,Maita,VEN,0,0,0,,,0
+45,Shimizu,JPN,0,0,0,,,0
+45,Fernando,VEN,0,2,4,0.0,0.0,6
+45,Otsuka,JPN,0,0,2,0.0,0.0,2
+45,Łomacz,POL,0,0,0,,,0
+45,S. Marouf,IRI,0,0,3,0.0,0.0,3
+45,A. Ghafour,IRI,0,1,1,0.0,0.0,2
+45,Kazemi,IRI,0,0,0,,,0
+45,Kaczmarek,POL,0,0,0,,,0
+45,Masoud,IRI,0,0,1,0.0,0.0,1
+45,Arman,IRI,0,0,1,0.0,0.0,1
+45,Javad,IRI,0,1,0,0.0,0.0,1
+45,Boyer,FRA,0,0,0,,,0
+45,Patry,FRA,0,0,0,,,0
+45,Ensing,USA,0,0,0,,,0
+45,K. Shoji,USA,0,0,0,,,0
+45,Bultor,FRA,0,0,0,,,0

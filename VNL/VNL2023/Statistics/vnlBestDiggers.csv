@@ -1,298 +1,298 @@
-﻿web-scraper-order,web-scraper-start-url,Rank,Player Name,Team,Digs,Errors,Receptions,Average Per Match,Success,Total
-"1741279435-1","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","1","Yamamoto","JPN","131","43","19","8.73","67.88","193"
-"1741279435-2","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","2","Kovačič","SLO","128","38","16","9.85","70.33","182"
-"1741279435-3","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","3","Danani","ARG","113","63","14","8.69","59.47","190"
-"1741279435-4","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","4","Grebennikov","FRA","103","40","13","11.44","66.03","156"
-"1741279435-5","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","5","Ran","JPN","96","26","11","6.40","72.18","133"
-"1741279435-6","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","6","E. Shoji","USA","84","44","14","5.60","59.15","142"
-"1741279435-7","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","7","Andringa","NED","83","35","13","6.92","63.36","131"
-"1741279435-8","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","8","Qu Z.S.","CHN","79","34","14","6.58","62.20","127"
-"1741279435-9","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","9","Kapur","SRB","78","40","11","6.50","60.47","129"
-"1741279435-10","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","9","Zatorski","POL","78","25","8","7.09","70.27","111"
-"1741279435-11","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","10","Urnaut","SLO","76","22","8","5.85","71.70","106"
-"1741279435-12","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","11","Palonsky","ARG","73","33","12","5.62","61.86","118"
-"1741279435-13","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","11","Giannelli","ITA","73","19","8","6.64","73.00","100"
-"1741279435-14","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","12","Ishikawa","JPN","72","24","15","4.80","64.86","111"
-"1741279435-15","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","12","Vicentin","ARG","72","28","11","5.54","64.86","111"
-"1741279435-16","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","12","Currie","CAN","72","61","8","6.00","51.06","141"
-"1741279435-17","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","13","Sekita","JPN","71","38","18","4.73","55.91","127"
-"1741279435-18","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","13","Hazrat","IRI","71","14","11","5.92","73.96","96"
-"1741279435-19","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","13","Graven","GER","71","49","7","5.92","55.91","127"
-"1741279435-20","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","14","Balaso","ITA","70","18","7","10.00","73.68","95"
-"1741279435-21","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","14","Lucarelli","BRA","70","29","9","5.38","64.81","108"
-"1741279435-22","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","15","Anderson","USA","67","26","10","4.47","65.05","103"
-"1741279435-23","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","16","Maique","BRA","66","34","8","5.08","61.11","108"
-"1741279435-24","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","17","Kujundžić","SRB","65","19","6","5.42","72.22","90"
-"1741279435-25","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","18","Ropret","SLO","63","32","13","4.85","58.33","108"
-"1741279435-26","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","18","Defalco","USA","63","15","8","4.20","73.26","86"
-"1741279435-27","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","19","Christenson","USA","62","26","10","4.13","63.27","98"
-"1741279435-28","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","20","Čebulj","SLO","61","32","13","4.69","57.55","106"
-"1741279435-29","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","21","Michieletto","ITA","60","24","3","5.45","68.97","87"
-"1741279435-30","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","22","Romanò","ITA","58","29","12","3.87","58.59","99"
-"1741279435-31","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","23","De Cecco","ARG","57","20","7","6.33","67.86","84"
-"1741279435-32","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","23","Tillie","FRA","57","14","5","6.33","75.00","76"
-"1741279435-33","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","24","Maar","CAN","56","30","13","4.67","56.57","99"
-"1741279435-34","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","25","Thales","BRA","55","22","5","4.23","67.07","82"
-"1741279435-35","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","26","Alan","BRA","54","32","3","4.15","60.67","89"
-"1741279435-36","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","27","Bruno","BRA","53","36","12","4.08","52.48","101"
-"1741279435-37","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","28","Reichert","GER","52","33","9","4.33","55.32","94"
-"1741279435-38","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","29","Sclater","CAN","51","20","7","4.25","65.38","78"
-"1741279435-39","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","29","Garcia","CUB","51","37","8","4.25","53.12","96"
-"1741279435-40","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","29","Luburić","SRB","51","19","7","4.25","66.23","77"
-"1741279435-41","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","30","Todorović","SRB","50","25","3","4.17","64.10","78"
-"1741279435-42","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","30","Jaeschke","USA","50","16","4","4.55","71.43","70"
-"1741279435-43","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","30","Lavia","ITA","50","17","4","4.55","70.42","71"
-"1741279435-44","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","31","Hoag","CAN","49","23","11","4.08","59.04","83"
-"1741279435-45","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","32","Herr","CAN","48","27","1","4.00","63.16","76"
-"1741279435-46","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","32","Lopez","CUB","48","29","10","4.00","55.17","87"
-"1741279435-47","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","32","Scanferla","ITA","48","17","8","4.36","65.75","73"
-"1741279435-48","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","33","Možič","SLO","43","13","7","3.31","68.25","63"
-"1741279435-49","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","33","Van Garderen","NED","43","18","7","3.58","63.24","68"
-"1741279435-50","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","34","Honorato","BRA","42","20","4","3.23","63.64","66"
-"1741279435-51","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","35","Zhang J.Y.","CHN","41","15","9","3.42","63.08","65"
-"1741279435-52","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","35","Nishida","JPN","41","19","7","2.93","61.19","67"
-"1741279435-53","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","36","Herrera","CUB","40","37","9","3.33","46.51","86"
-"1741279435-54","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","36","Salparov","BUL","40","15","7","5.00","64.52","62"
-"1741279435-55","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","37","Atanasov","BUL","38","16","6","3.17","63.33","60"
-"1741279435-56","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","37","Dimitrov","BUL","38","10","2","3.17","76.00","50"
-"1741279435-57","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","37","Nimir","NED","38","20","6","3.17","59.38","64"
-"1741279435-58","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","38","Yu Y.T.","CHN","37","21","8","3.08","56.06","66"
-"1741279435-59","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","38","Łomacz","POL","37","12","9","2.47","63.79","58"
-"1741279435-60","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","39","Seganov","BUL","36","21","5","3.00","58.06","62"
-"1741279435-61","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","39","Tille","GER","36","20","4","3.00","60.00","60"
-"1741279435-62","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","40","Taboada","CUB","35","28","3","2.92","53.03","66"
-"1741279435-63","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","40","Szymura","POL","35","4","5","4.38","79.55","44"
-"1741279435-64","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","40","Keemink","NED","35","20","10","2.92","53.85","65"
-"1741279435-65","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","40","Weber","GER","35","18","4","2.92","61.40","57"
-"1741279435-66","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","41","Bozhilov","BUL","33","10","8","4.12","64.71","51"
-"1741279435-67","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","41","A. Nikolov","BUL","33","10","5","4.12","68.75","48"
-"1741279435-68","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","41","Jiang C.","CHN","33","12","7","2.75","63.46","52"
-"1741279435-69","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","41","Morteza","IRI","33","11","9","3.00","62.26","53"
-"1741279435-70","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","42","Onodera","JPN","32","9","4","2.13","71.11","45"
-"1741279435-71","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","42","Perić","SRB","32","8","3","2.67","74.42","43"
-"1741279435-72","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","43","Pajenk","SLO","31","7","5","2.38","72.09","43"
-"1741279435-73","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","43","Kozamernik","SLO","31","9","3","2.38","72.09","43"
-"1741279435-74","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","43","Carle","FRA","31","11","7","2.38","63.27","49"
-"1741279435-75","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","43","Ivović","SRB","31","12","5","3.88","64.58","48"
-"1741279435-76","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","43","Brizard","FRA","31","17","4","3.44","59.62","52"
-"1741279435-77","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","43","Clevenot","FRA","31","22","9","3.44","50.00","62"
-"1741279435-78","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","44","Wang H.B.","CHN","30","16","5","2.50","58.82","51"
-"1741279435-79","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","44","Martinez Franchi","ARG","30","8","5","2.31","69.77","43"
-"1741279435-80","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","44","Loser Bruno","ARG","30","11","4","2.31","66.67","45"
-"1741279435-81","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","44","Lima B.","ARG","30","16","4","2.31","60.00","50"
-"1741279435-82","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","44","Diez","FRA","30","1","11","2.31","71.43","42"
-"1741279435-83","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","44","Schott","GER","30","22","6","2.50","51.72","58"
-"1741279435-84","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","44","Śliwka","POL","30","16","0","4.29","65.22","46"
-"1741279435-85","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","45","Miyaura","JPN","29","20","3","1.93","55.77","52"
-"1741279435-86","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","45","Lui","CAN","29","14","1","2.42","65.91","44"
-"1741279435-87","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","45","Yant","CUB","29","12","5","2.42","63.04","46"
-"1741279435-88","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","45","Russell","USA","29","13","0","2.07","69.05","42"
-"1741279435-89","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","46","Amin","IRI","28","5","5","3.50","73.68","38"
-"1741279435-90","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","46","Poriya","IRI","28","9","5","2.80","66.67","42"
-"1741279435-91","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","46","Semeniuk","POL","28","2","4","2.55","82.35","34"
-"1741279435-92","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","46","Szalpuk","POL","28","2","3","3.50","84.85","33"
-"1741279435-93","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","46","Janusz","POL","28","19","5","4.00","53.85","52"
-"1741279435-94","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","47","Mohammad","IRI","27","5","14","2.25","58.70","46"
-"1741279435-95","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","47","Smith","USA","27","9","6","1.80","64.29","42"
-"1741279435-96","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","47","Jorna","NED","27","20","6","2.25","50.94","53"
-"1741279435-97","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","48","Kukartsev","ARG","26","4","3","2.00","78.79","33"
-"1741279435-98","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","48","Concepcion","CUB","26","8","6","2.17","65.00","40"
-"1741279435-99","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","48","Krsmanović","SRB","26","8","4","2.17","68.42","38"
-"1741279435-100","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","48","Russo","ITA","26","6","4","2.36","72.22","36"
-"1741279435-101","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","49","Tuinstra","NED","25","15","7","2.08","53.19","47"
-"1741279435-102","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","49","Kurek","POL","25","7","1","2.27","75.76","33"
-"1741279435-103","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","50","Zhai D.J.","CHN","24","8","3","2.00","68.57","35"
-"1741279435-104","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","51","Seyed","IRI","23","4","3","1.92","76.67","30"
-"1741279435-105","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","51","Plak","NED","23","7","4","1.92","67.65","34"
-"1741279435-106","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","51","Kaliberda","GER","23","15","1","1.92","58.97","39"
-"1741279435-107","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","51","Kochanowski","POL","23","6","0","2.09","79.31","29"
-"1741279435-108","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","52","Asparuhov","BUL","22","8","1","1.83","70.97","31"
-"1741279435-109","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","52","Rinaldi","ITA","22","14","2","1.47","57.89","38"
-"1741279435-110","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","52","Szwarc","CAN","22","21","5","1.83","45.83","48"
-"1741279435-111","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","52","Bieniek","POL","22","7","8","2.00","59.46","37"
-"1741279435-112","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","52","Fornal","POL","22","10","5","3.14","59.46","37"
-"1741279435-113","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","53","Esfandiar","IRI","21","15","2","1.75","55.26","38"
-"1741279435-114","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","53","Porro P.","ITA","21","12","4","5.25","56.76","37"
-"1741279435-115","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","53","Leon","POL","21","12","6","1.91","53.85","39"
-"1741279435-116","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","54","Javad","IRI","20","12","7","1.67","51.28","39"
-"1741279435-117","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","54","Sanchez Pages","ARG","20","13","6","1.54","51.28","39"
-"1741279435-118","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","54","Demyanenko","CAN","20","15","4","1.67","51.28","39"
-"1741279435-119","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","54","Mergarejo","CUB","20","9","2","1.67","64.52","31"
-"1741279435-120","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","54","Faure","FRA","20","2","4","5.00","76.92","26"
-"1741279435-121","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","54","Kampa","GER","20","11","5","2.50","55.56","36"
-"1741279435-122","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","54","Kaczmarek","POL","20","19","4","2.86","46.51","43"
-"1741279435-123","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","55","Vadi","IRI","19","10","3","2.38","59.38","32"
-"1741279435-124","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","55","Bottolo","ITA","19","5","0","1.73","79.17","24"
-"1741279435-125","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","55","Gorguet","CUB","19","18","3","1.58","47.50","40"
-"1741279435-126","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","55","Nedeljković","SRB","19","3","4","1.58","73.08","26"
-"1741279435-127","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","56","Karyagin","BUL","18","6","3","1.50","66.67","27"
-"1741279435-128","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","56","Fernando","BRA","18","12","2","1.38","56.25","32"
-"1741279435-129","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","57","Galassi","ITA","17","1","3","1.55","80.95","21"
-"1741279435-130","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","57","Bednorz","POL","17","4","2","1.55","73.91","23"
-"1741279435-131","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","57","Chinenyeze","FRA","17","5","2","1.89","70.83","24"
-"1741279435-132","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","57","Boyer","FRA","17","8","2","1.89","62.96","27"
-"1741279435-133","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","58","Grozdanov","BUL","16","4","0","1.33","80.00","20"
-"1741279435-134","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","58","Ogawa","JPN","16","3","2","1.07","76.19","21"
-"1741279435-135","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","58","Jouffroy","FRA","16","0","5","1.23","76.19","21"
-"1741279435-136","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","58","Holt","USA","16","5","4","1.07","64.00","25"
-"1741279435-137","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","58","Wiltenburg","NED","16","11","8","1.33","45.71","35"
-"1741279435-138","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","58","Krick","GER","16","2","1","1.33","84.21","19"
-"1741279435-139","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","58","Otsuka","JPN","16","4","1","1.14","76.19","21"
-"1741279435-140","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","58","Patry","FRA","16","5","3","1.78","66.67","24"
-"1741279435-141","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","59","Eshenko","CAN","15","5","5","1.25","60.00","25"
-"1741279435-142","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","59","Muagututia","USA","15","3","2","1.36","75.00","20"
-"1741279435-143","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","59","Otávio","BRA","15","6","1","1.15","68.18","22"
-"1741279435-144","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","60","N. Penchev","BUL","14","4","4","1.75","63.64","22"
-"1741279435-145","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","60","Peng S.K.","CHN","14","3","3","1.17","70.00","20"
-"1741279435-146","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","60","Zerba","ARG","14","9","2","1.08","56.00","25"
-"1741279435-147","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","60","Van Berkel","CAN","14","7","2","1.17","60.87","23"
-"1741279435-148","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","60","Masso","CUB","14","6","0","1.17","70.00","20"
-"1741279435-149","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","60","Brand","GER","14","4","1","1.17","73.68","19"
-"1741279435-150","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","60","M. R. Moazzen","IRI","14","8","1","3.50","60.87","23"
-"1741279435-151","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","61","Bultor","FRA","13","1","3","1.00","76.47","17"
-"1741279435-152","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","61","Hanes","USA","13","10","4","1.18","48.15","27"
-"1741279435-153","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","61","Ma'a","USA","13","2","2","1.18","76.47","17"
-"1741279435-154","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","62","J.Manavi","IRI","12","0","0","3.00","100.00","12"
-"1741279435-155","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","62","Röhrs","GER","12","10","0","1.50","54.55","22"
-"1741279435-156","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","62","Böhme","GER","12","5","2","1.00","63.16","19"
-"1741279435-157","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","63","Yamauchi","JPN","11","8","3","0.73","50.00","22"
-"1741279435-158","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","63","Shahrooz","IRI","11","4","2","0.92","64.71","17"
-"1741279435-159","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","63","M. Elser","CAN","11","6","1","0.92","61.11","18"
-"1741279435-160","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","63","Batak","SRB","11","2","0","0.92","84.62","13"
-"1741279435-161","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","63","Corre","FRA","11","0","3","2.75","78.57","14"
-"1741279435-162","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","63","Adriano","BRA","11","7","4","0.85","50.00","22"
-"1741279435-163","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","63","Brehme","GER","11","8","6","0.92","44.00","25"
-"1741279435-164","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","64","Kolev","BUL","10","3","0","0.83","76.92","13"
-"1741279435-165","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","64","Dobrev","BUL","10","2","2","1.25","71.43","14"
-"1741279435-166","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","64","Hofer","CAN","10","7","0","0.83","58.82","17"
-"1741279435-167","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","64","Planinšič","SLO","10","2","1","0.77","76.92","13"
-"1741279435-168","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","64","Flavio","BRA","10","14","2","0.77","38.46","26"
-"1741279435-169","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","64","Judson","BRA","10","5","0","0.77","66.67","15"
-"1741279435-170","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","64","Ter Maat","NED","10","8","2","1.25","50.00","20"
-"1741279435-171","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","64","Lucas","BRA","10","3","2","1.11","66.67","15"
-"1741279435-172","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","64","Louati","FRA","10","7","5","1.11","45.45","22"
-"1741279435-173","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","64","Popiwczak","POL","10","10","0","1.43","50.00","20"
-"1741279435-174","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","65","Arman","IRI","9","0","0","1.12","100.00","9"
-"1741279435-175","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","65","Jendryk","USA","9","2","2","0.60","69.23","13"
-"1741279435-176","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","65","Huber","POL","9","10","2","0.82","42.86","21"
-"1741279435-177","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","65","Piccinelli","ITA","9","8","1","2.25","50.00","18"
-"1741279435-178","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","65","V. Bratoev","BUL","9","2","0","2.25","81.82","11"
-"1741279435-179","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","66","Wang B.","CHN","8","7","2","0.67","47.06","17"
-"1741279435-180","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","66","Hajipour","IRI","8","8","3","0.73","42.11","19"
-"1741279435-181","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","66","Gallego","ARG","8","2","1","0.62","72.73","11"
-"1741279435-182","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","66","Thondike","CUB","8","6","0","0.67","57.14","14"
-"1741279435-183","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","66","Katic","SRB","8","2","2","1.00","66.67","12"
-"1741279435-184","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","66","Vucicevic","SRB","8","6","1","0.67","53.33","15"
-"1741279435-185","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","66","Dulski","POL","8","1","2","2.00","72.73","11"
-"1741279435-186","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","66","Firlej","POL","8","3","4","1.00","53.33","15"
-"1741279435-187","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","66","Averill","USA","8","3","3","0.53","57.14","14"
-"1741279435-188","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","66","Chen L.Y.","CHN","8","5","2","1.00","53.33","15"
-"1741279435-189","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","66","Eiro","JPN","8","5","0","1.14","61.54","13"
-"1741279435-190","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","67","Petkov","BUL","7","2","0","0.58","77.78","9"
-"1741279435-191","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","67","Li Y.Z.","CHN","7","2","0","0.58","77.78","9"
-"1741279435-192","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","67","Z. Štern","SLO","7","6","3","0.54","43.75","16"
-"1741279435-193","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","67","Walsh","CAN","7","8","3","0.88","38.89","18"
-"1741279435-194","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","67","Anzani","ITA","7","1","0","1.75","87.50","8"
-"1741279435-195","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","67","Saadat","IRI","7","9","2","1.75","38.89","18"
-"1741279435-196","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","68","Szymanski","POL","6","0","3","1.50","66.67","9"
-"1741279435-197","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","68","Kłos","POL","6","5","1","0.75","50.00","12"
-"1741279435-198","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","68","Krage","GER","6","2","2","0.50","60.00","10"
-"1741279435-199","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","68","Toniutti","FRA","6","8","1","1.20","40.00","15"
-"1741279435-200","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","68","Fromm","GER","6","5","1","1.50","50.00","12"
-"1741279435-201","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","69","Wang D.C.","CHN","5","4","3","0.42","41.67","12"
-"1741279435-202","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","69","Kentaro","JPN","5","1","1","0.33","71.43","7"
-"1741279435-203","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","69","Tomita","JPN","5","2","0","0.33","71.43","7"
-"1741279435-204","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","69","Recine","ITA","5","1","1","1.25","71.43","7"
-"1741279435-205","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","69","Sanguinetti","ITA","5","0","0","0.45","100.00","5"
-"1741279435-206","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","69","Ramos","ARG","5","4","3","0.38","41.67","12"
-"1741279435-207","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","69","Butryn","POL","5","3","2","1.25","50.00","10"
-"1741279435-208","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","69","Abouba","BRA","5","8","4","1.25","29.41","17"
-"1741279435-209","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","69","Maase","GER","5","1","0","0.62","83.33","6"
-"1741279435-210","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","69","Cooper","CAN","5","5","1","0.62","45.45","11"
-"1741279435-211","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","69","Roque","BRA","5","2","1","0.56","62.50","8"
-"1741279435-212","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","69","A. Ramezani","IRI","5","5","0","1.25","50.00","10"
-"1741279435-213","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","70","Gotsev","BUL","4","0","0","0.33","100.00","4"
-"1741279435-214","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","70","Meijs","NED","4","1","1","0.33","66.67","6"
-"1741279435-215","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","70","Parkinson","NED","4","1","1","1.00","66.67","6"
-"1741279435-216","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","70","Yang Y.M.","CHN","4","3","1","0.50","50.00","8"
-"1741279435-217","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","70","Raev","BUL","4","4","0","0.50","50.00","8"
-"1741279435-218","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","70","Bołądź","POL","4","4","0","1.00","50.00","8"
-"1741279435-219","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","71","Zhang G.H.","CHN","3","0","1","0.38","75.00","4"
-"1741279435-220","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","71","Fukatsu","JPN","3","0","0","0.38","100.00","3"
-"1741279435-221","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","71","Jelveh","IRI","3","2","1","0.25","50.00","6"
-"1741279435-222","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","71","Cortesia","ITA","3","0","1","0.75","75.00","4"
-"1741279435-223","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","71","Gutierrez","CUB","3","2","1","0.25","50.00","6"
-"1741279435-224","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","71","J. Gutierrez","CUB","3","2","0","0.25","60.00","5"
-"1741279435-225","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","71","Mašulović V.","SRB","3","0","0","0.38","100.00","3"
-"1741279435-226","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","71","Tuaniga","USA","3","1","0","0.75","75.00","4"
-"1741279435-227","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","71","Le Goff","FRA","3","2","1","0.60","50.00","6"
-"1741279435-228","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","72","Guo C.","CHN","2","0","1","0.17","66.67","3"
-"1741279435-229","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","72","Falaschi","ITA","2","0","1","0.50","66.67","3"
-"1741279435-230","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","72","Vitelli","ITA","2","0","0","0.50","100.00","2"
-"1741279435-231","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","72","Blankenau","CAN","2","2","0","0.50","50.00","4"
-"1741279435-232","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","72","Urbanowicz","POL","2","2","0","0.25","50.00","4"
-"1741279435-233","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","72","Hawryluk","POL","2","0","0","0.50","100.00","2"
-"1741279435-234","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","72","Kessel","USA","2","0","1","0.25","66.67","3"
-"1741279435-235","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","72","Wijkstra","NED","2","1","1","0.50","50.00","4"
-"1741279435-236","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","72","Arthur","BRA","2","1","0","0.25","66.67","3"
-"1741279435-237","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","72","Zimmermann","GER","2","2","1","0.50","40.00","5"
-"1741279435-238","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","72","Mašulović N.","SRB","2","1","1","0.25","50.00","4"
-"1741279435-239","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","72","S.Ivanov","BUL","2","3","2","0.50","28.57","7"
-"1741279435-240","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","72","Adamczyk","POL","2","0","0","0.50","100.00","2"
-"1741279435-241","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","72","Larry","JPN","2","1","0","0.40","66.67","3"
-"1741279435-242","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","72","Kovačević","SRB","2","0","0","0.50","100.00","2"
-"1741279435-243","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","72","K. Russell","USA","2","1","0","0.50","66.67","3"
-"1741279435-244","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","72","Nishiyama","JPN","2","0","0","0.67","100.00","2"
-"1741279435-245","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","73","G. Bratoev","BUL","1","0","1","0.25","50.00","2"
-"1741279435-246","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","73","Liu M.","CHN","1","0","0","0.25","100.00","1"
-"1741279435-247","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","73","Kai","JPN","1","0","0","0.12","100.00","1"
-"1741279435-248","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","73","Gironi","ITA","1","2","0","0.09","33.33","3"
-"1741279435-249","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","73","Federici","ITA","1","1","0","0.12","50.00","2"
-"1741279435-250","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","73","Mosca","ITA","1","4","0","0.09","20.00","5"
-"1741279435-251","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","73","Pedroso","CUB","1","2","0","0.08","33.33","3"
-"1741279435-252","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","73","Kök","SLO","1","0","1","0.08","50.00","2"
-"1741279435-253","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","73","Sawicki","POL","1","0","0","0.25","100.00","1"
-"1741279435-254","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","73","Dagostino","USA","1","2","0","0.14","33.33","3"
-"1741279435-255","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","73","Giraudo","ARG","1","3","2","0.25","16.67","6"
-"1741279435-256","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","73","Ter Horst","NED","1","3","0","0.12","25.00","4"
-"1741279435-257","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","73","Caneschi","ITA","1","0","0","0.25","100.00","1"
-"1741279435-258","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","73","Vaccari","BRA","1","0","1","0.25","50.00","2"
-"1741279435-259","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","73","A. Afshinfar","IRI","1","0","0","0.25","100.00","1"
-"1741279435-260","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","74","Chen J.J.","CHN","0","0","0","","","0"
-"1741279435-261","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","74","Gardini","ITA","0","0","0","","","0"
-"1741279435-262","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","74","Zelayeta","ARG","0","0","0","","","0"
-"1741279435-263","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","74","Armoa Morel","ARG","0","2","2","0.00","0.00","4"
-"1741279435-264","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","74","Schnitzer","CAN","0","0","0","","","0"
-"1741279435-265","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","74","Goide","CUB","0","0","0","","","0"
-"1741279435-266","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","74","Toman","SLO","0","0","0","","","0"
-"1741279435-267","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","74","Bračko","SLO","0","0","0","","","0"
-"1741279435-268","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","74","Štalekar","SLO","0","1","1","0.00","0.00","2"
-"1741279435-269","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","74","Koncilja","SLO","0","0","0","","","0"
-"1741279435-270","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","74","Gajović","SRB","0","0","0","","","0"
-"1741279435-271","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","74","Krsteski","SRB","0","0","0","","","0"
-"1741279435-272","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","74","Petrović","SRB","0","0","0","","","0"
-"1741279435-273","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","74","Poręba","POL","0","0","0","","","0"
-"1741279435-274","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","74","Motta Paes","FRA","0","0","0","","","0"
-"1741279435-275","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","74","Henry","FRA","0","0","0","","","0"
-"1741279435-276","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","74","Pothron","FRA","0","0","0","","","0"
-"1741279435-277","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","74","Basic","FRA","0","0","0","","","0"
-"1741279435-278","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","74","Henno","FRA","0","0","0","","","0"
-"1741279435-279","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","74","Loubeyre","FRA","0","0","0","","","0"
-"1741279435-280","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","74","Roehrig","FRA","0","0","0","","","0"
-"1741279435-281","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","74","Ensing","USA","0","0","1","0.00","0.00","1"
-"1741279435-282","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","74","Korenblek","NED","0","0","0","","","0"
-"1741279435-283","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","74","Van Der Ent","NED","0","0","0","","","0"
-"1741279435-284","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","74","Bak","NED","0","0","0","","","0"
-"1741279435-285","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","74","Lipke","NED","0","0","0","","","0"
-"1741279435-286","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","74","Thiery","BRA","0","0","0","","","0"
-"1741279435-287","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","74","Salehi","IRI","0","0","0","","","0"
-"1741279435-288","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","74","Günthör","GER","0","0","0","","","0"
-"1741279435-289","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","74","Mujanović","SLO","0","0","0","","","0"
-"1741279435-290","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","74","Sbertoli","ITA","0","1","0","0.00","0.00","1"
-"1741279435-291","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","74","Magalini","ITA","0","0","0","","","0"
-"1741279435-292","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","74","Huetz","FRA","0","0","0","","","0"
-"1741279435-293","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","74","Sala","ITA","0","0","0","","","0"
-"1741279435-294","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","74","Rao S.H.","CHN","0","0","0","","","0"
-"1741279435-295","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","74","Podraščanin","ITA","0","0","0","","","0"
-"1741279435-296","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","74","Daneshdoust","IRI","0","0","0","","","0"
-"1741279435-297","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-diggers/","74","Leal","BRA","0","0","0","","","0"
+Rank,Player Name,Team,Digs,Errors,Receptions,Average Per Match,Success,Total
+1,Yamamoto,JPN,131,43,19,8.73,67.88,193
+2,Kovačič,SLO,128,38,16,9.85,70.33,182
+3,Danani,ARG,113,63,14,8.69,59.47,190
+4,Grebennikov,FRA,103,40,13,11.44,66.03,156
+5,Ran,JPN,96,26,11,6.4,72.18,133
+6,E. Shoji,USA,84,44,14,5.6,59.15,142
+7,Andringa,NED,83,35,13,6.92,63.36,131
+8,Qu Z.S.,CHN,79,34,14,6.58,62.2,127
+9,Kapur,SRB,78,40,11,6.5,60.47,129
+9,Zatorski,POL,78,25,8,7.09,70.27,111
+10,Urnaut,SLO,76,22,8,5.85,71.7,106
+11,Palonsky,ARG,73,33,12,5.62,61.86,118
+11,Giannelli,ITA,73,19,8,6.64,73.0,100
+12,Ishikawa,JPN,72,24,15,4.8,64.86,111
+12,Vicentin,ARG,72,28,11,5.54,64.86,111
+12,Currie,CAN,72,61,8,6.0,51.06,141
+13,Sekita,JPN,71,38,18,4.73,55.91,127
+13,Hazrat,IRI,71,14,11,5.92,73.96,96
+13,Graven,GER,71,49,7,5.92,55.91,127
+14,Balaso,ITA,70,18,7,10.0,73.68,95
+14,Lucarelli,BRA,70,29,9,5.38,64.81,108
+15,Anderson,USA,67,26,10,4.47,65.05,103
+16,Maique,BRA,66,34,8,5.08,61.11,108
+17,Kujundžić,SRB,65,19,6,5.42,72.22,90
+18,Ropret,SLO,63,32,13,4.85,58.33,108
+18,Defalco,USA,63,15,8,4.2,73.26,86
+19,Christenson,USA,62,26,10,4.13,63.27,98
+20,Čebulj,SLO,61,32,13,4.69,57.55,106
+21,Michieletto,ITA,60,24,3,5.45,68.97,87
+22,Romanò,ITA,58,29,12,3.87,58.59,99
+23,De Cecco,ARG,57,20,7,6.33,67.86,84
+23,Tillie,FRA,57,14,5,6.33,75.0,76
+24,Maar,CAN,56,30,13,4.67,56.57,99
+25,Thales,BRA,55,22,5,4.23,67.07,82
+26,Alan,BRA,54,32,3,4.15,60.67,89
+27,Bruno,BRA,53,36,12,4.08,52.48,101
+28,Reichert,GER,52,33,9,4.33,55.32,94
+29,Sclater,CAN,51,20,7,4.25,65.38,78
+29,Garcia,CUB,51,37,8,4.25,53.12,96
+29,Luburić,SRB,51,19,7,4.25,66.23,77
+30,Todorović,SRB,50,25,3,4.17,64.1,78
+30,Jaeschke,USA,50,16,4,4.55,71.43,70
+30,Lavia,ITA,50,17,4,4.55,70.42,71
+31,Hoag,CAN,49,23,11,4.08,59.04,83
+32,Herr,CAN,48,27,1,4.0,63.16,76
+32,Lopez,CUB,48,29,10,4.0,55.17,87
+32,Scanferla,ITA,48,17,8,4.36,65.75,73
+33,Možič,SLO,43,13,7,3.31,68.25,63
+33,Van Garderen,NED,43,18,7,3.58,63.24,68
+34,Honorato,BRA,42,20,4,3.23,63.64,66
+35,Zhang J.Y.,CHN,41,15,9,3.42,63.08,65
+35,Nishida,JPN,41,19,7,2.93,61.19,67
+36,Herrera,CUB,40,37,9,3.33,46.51,86
+36,Salparov,BUL,40,15,7,5.0,64.52,62
+37,Atanasov,BUL,38,16,6,3.17,63.33,60
+37,Dimitrov,BUL,38,10,2,3.17,76.0,50
+37,Nimir,NED,38,20,6,3.17,59.38,64
+38,Yu Y.T.,CHN,37,21,8,3.08,56.06,66
+38,Łomacz,POL,37,12,9,2.47,63.79,58
+39,Seganov,BUL,36,21,5,3.0,58.06,62
+39,Tille,GER,36,20,4,3.0,60.0,60
+40,Taboada,CUB,35,28,3,2.92,53.03,66
+40,Szymura,POL,35,4,5,4.38,79.55,44
+40,Keemink,NED,35,20,10,2.92,53.85,65
+40,Weber,GER,35,18,4,2.92,61.4,57
+41,Bozhilov,BUL,33,10,8,4.12,64.71,51
+41,A. Nikolov,BUL,33,10,5,4.12,68.75,48
+41,Jiang C.,CHN,33,12,7,2.75,63.46,52
+41,Morteza,IRI,33,11,9,3.0,62.26,53
+42,Onodera,JPN,32,9,4,2.13,71.11,45
+42,Perić,SRB,32,8,3,2.67,74.42,43
+43,Pajenk,SLO,31,7,5,2.38,72.09,43
+43,Kozamernik,SLO,31,9,3,2.38,72.09,43
+43,Carle,FRA,31,11,7,2.38,63.27,49
+43,Ivović,SRB,31,12,5,3.88,64.58,48
+43,Brizard,FRA,31,17,4,3.44,59.62,52
+43,Clevenot,FRA,31,22,9,3.44,50.0,62
+44,Wang H.B.,CHN,30,16,5,2.5,58.82,51
+44,Martinez Franchi,ARG,30,8,5,2.31,69.77,43
+44,Loser Bruno,ARG,30,11,4,2.31,66.67,45
+44,Lima B.,ARG,30,16,4,2.31,60.0,50
+44,Diez,FRA,30,1,11,2.31,71.43,42
+44,Schott,GER,30,22,6,2.5,51.72,58
+44,Śliwka,POL,30,16,0,4.29,65.22,46
+45,Miyaura,JPN,29,20,3,1.93,55.77,52
+45,Lui,CAN,29,14,1,2.42,65.91,44
+45,Yant,CUB,29,12,5,2.42,63.04,46
+45,Russell,USA,29,13,0,2.07,69.05,42
+46,Amin,IRI,28,5,5,3.5,73.68,38
+46,Poriya,IRI,28,9,5,2.8,66.67,42
+46,Semeniuk,POL,28,2,4,2.55,82.35,34
+46,Szalpuk,POL,28,2,3,3.5,84.85,33
+46,Janusz,POL,28,19,5,4.0,53.85,52
+47,Mohammad,IRI,27,5,14,2.25,58.7,46
+47,Smith,USA,27,9,6,1.8,64.29,42
+47,Jorna,NED,27,20,6,2.25,50.94,53
+48,Kukartsev,ARG,26,4,3,2.0,78.79,33
+48,Concepcion,CUB,26,8,6,2.17,65.0,40
+48,Krsmanović,SRB,26,8,4,2.17,68.42,38
+48,Russo,ITA,26,6,4,2.36,72.22,36
+49,Tuinstra,NED,25,15,7,2.08,53.19,47
+49,Kurek,POL,25,7,1,2.27,75.76,33
+50,Zhai D.J.,CHN,24,8,3,2.0,68.57,35
+51,Seyed,IRI,23,4,3,1.92,76.67,30
+51,Plak,NED,23,7,4,1.92,67.65,34
+51,Kaliberda,GER,23,15,1,1.92,58.97,39
+51,Kochanowski,POL,23,6,0,2.09,79.31,29
+52,Asparuhov,BUL,22,8,1,1.83,70.97,31
+52,Rinaldi,ITA,22,14,2,1.47,57.89,38
+52,Szwarc,CAN,22,21,5,1.83,45.83,48
+52,Bieniek,POL,22,7,8,2.0,59.46,37
+52,Fornal,POL,22,10,5,3.14,59.46,37
+53,Esfandiar,IRI,21,15,2,1.75,55.26,38
+53,Porro P.,ITA,21,12,4,5.25,56.76,37
+53,Leon,POL,21,12,6,1.91,53.85,39
+54,Javad,IRI,20,12,7,1.67,51.28,39
+54,Sanchez Pages,ARG,20,13,6,1.54,51.28,39
+54,Demyanenko,CAN,20,15,4,1.67,51.28,39
+54,Mergarejo,CUB,20,9,2,1.67,64.52,31
+54,Faure,FRA,20,2,4,5.0,76.92,26
+54,Kampa,GER,20,11,5,2.5,55.56,36
+54,Kaczmarek,POL,20,19,4,2.86,46.51,43
+55,Vadi,IRI,19,10,3,2.38,59.38,32
+55,Bottolo,ITA,19,5,0,1.73,79.17,24
+55,Gorguet,CUB,19,18,3,1.58,47.5,40
+55,Nedeljković,SRB,19,3,4,1.58,73.08,26
+56,Karyagin,BUL,18,6,3,1.5,66.67,27
+56,Fernando,BRA,18,12,2,1.38,56.25,32
+57,Galassi,ITA,17,1,3,1.55,80.95,21
+57,Bednorz,POL,17,4,2,1.55,73.91,23
+57,Chinenyeze,FRA,17,5,2,1.89,70.83,24
+57,Boyer,FRA,17,8,2,1.89,62.96,27
+58,Grozdanov,BUL,16,4,0,1.33,80.0,20
+58,Ogawa,JPN,16,3,2,1.07,76.19,21
+58,Jouffroy,FRA,16,0,5,1.23,76.19,21
+58,Holt,USA,16,5,4,1.07,64.0,25
+58,Wiltenburg,NED,16,11,8,1.33,45.71,35
+58,Krick,GER,16,2,1,1.33,84.21,19
+58,Otsuka,JPN,16,4,1,1.14,76.19,21
+58,Patry,FRA,16,5,3,1.78,66.67,24
+59,Eshenko,CAN,15,5,5,1.25,60.0,25
+59,Muagututia,USA,15,3,2,1.36,75.0,20
+59,Otávio,BRA,15,6,1,1.15,68.18,22
+60,N. Penchev,BUL,14,4,4,1.75,63.64,22
+60,Peng S.K.,CHN,14,3,3,1.17,70.0,20
+60,Zerba,ARG,14,9,2,1.08,56.0,25
+60,Van Berkel,CAN,14,7,2,1.17,60.87,23
+60,Masso,CUB,14,6,0,1.17,70.0,20
+60,Brand,GER,14,4,1,1.17,73.68,19
+60,M. R. Moazzen,IRI,14,8,1,3.5,60.87,23
+61,Bultor,FRA,13,1,3,1.0,76.47,17
+61,Hanes,USA,13,10,4,1.18,48.15,27
+61,Ma'a,USA,13,2,2,1.18,76.47,17
+62,J.Manavi,IRI,12,0,0,3.0,100.0,12
+62,Röhrs,GER,12,10,0,1.5,54.55,22
+62,Böhme,GER,12,5,2,1.0,63.16,19
+63,Yamauchi,JPN,11,8,3,0.73,50.0,22
+63,Shahrooz,IRI,11,4,2,0.92,64.71,17
+63,M. Elser,CAN,11,6,1,0.92,61.11,18
+63,Batak,SRB,11,2,0,0.92,84.62,13
+63,Corre,FRA,11,0,3,2.75,78.57,14
+63,Adriano,BRA,11,7,4,0.85,50.0,22
+63,Brehme,GER,11,8,6,0.92,44.0,25
+64,Kolev,BUL,10,3,0,0.83,76.92,13
+64,Dobrev,BUL,10,2,2,1.25,71.43,14
+64,Hofer,CAN,10,7,0,0.83,58.82,17
+64,Planinšič,SLO,10,2,1,0.77,76.92,13
+64,Flavio,BRA,10,14,2,0.77,38.46,26
+64,Judson,BRA,10,5,0,0.77,66.67,15
+64,Ter Maat,NED,10,8,2,1.25,50.0,20
+64,Lucas,BRA,10,3,2,1.11,66.67,15
+64,Louati,FRA,10,7,5,1.11,45.45,22
+64,Popiwczak,POL,10,10,0,1.43,50.0,20
+65,Arman,IRI,9,0,0,1.12,100.0,9
+65,Jendryk,USA,9,2,2,0.6,69.23,13
+65,Huber,POL,9,10,2,0.82,42.86,21
+65,Piccinelli,ITA,9,8,1,2.25,50.0,18
+65,V. Bratoev,BUL,9,2,0,2.25,81.82,11
+66,Wang B.,CHN,8,7,2,0.67,47.06,17
+66,Hajipour,IRI,8,8,3,0.73,42.11,19
+66,Gallego,ARG,8,2,1,0.62,72.73,11
+66,Thondike,CUB,8,6,0,0.67,57.14,14
+66,Katic,SRB,8,2,2,1.0,66.67,12
+66,Vucicevic,SRB,8,6,1,0.67,53.33,15
+66,Dulski,POL,8,1,2,2.0,72.73,11
+66,Firlej,POL,8,3,4,1.0,53.33,15
+66,Averill,USA,8,3,3,0.53,57.14,14
+66,Chen L.Y.,CHN,8,5,2,1.0,53.33,15
+66,Eiro,JPN,8,5,0,1.14,61.54,13
+67,Petkov,BUL,7,2,0,0.58,77.78,9
+67,Li Y.Z.,CHN,7,2,0,0.58,77.78,9
+67,Z. Štern,SLO,7,6,3,0.54,43.75,16
+67,Walsh,CAN,7,8,3,0.88,38.89,18
+67,Anzani,ITA,7,1,0,1.75,87.5,8
+67,Saadat,IRI,7,9,2,1.75,38.89,18
+68,Szymanski,POL,6,0,3,1.5,66.67,9
+68,Kłos,POL,6,5,1,0.75,50.0,12
+68,Krage,GER,6,2,2,0.5,60.0,10
+68,Toniutti,FRA,6,8,1,1.2,40.0,15
+68,Fromm,GER,6,5,1,1.5,50.0,12
+69,Wang D.C.,CHN,5,4,3,0.42,41.67,12
+69,Kentaro,JPN,5,1,1,0.33,71.43,7
+69,Tomita,JPN,5,2,0,0.33,71.43,7
+69,Recine,ITA,5,1,1,1.25,71.43,7
+69,Sanguinetti,ITA,5,0,0,0.45,100.0,5
+69,Ramos,ARG,5,4,3,0.38,41.67,12
+69,Butryn,POL,5,3,2,1.25,50.0,10
+69,Abouba,BRA,5,8,4,1.25,29.41,17
+69,Maase,GER,5,1,0,0.62,83.33,6
+69,Cooper,CAN,5,5,1,0.62,45.45,11
+69,Roque,BRA,5,2,1,0.56,62.5,8
+69,A. Ramezani,IRI,5,5,0,1.25,50.0,10
+70,Gotsev,BUL,4,0,0,0.33,100.0,4
+70,Meijs,NED,4,1,1,0.33,66.67,6
+70,Parkinson,NED,4,1,1,1.0,66.67,6
+70,Yang Y.M.,CHN,4,3,1,0.5,50.0,8
+70,Raev,BUL,4,4,0,0.5,50.0,8
+70,Bołądź,POL,4,4,0,1.0,50.0,8
+71,Zhang G.H.,CHN,3,0,1,0.38,75.0,4
+71,Fukatsu,JPN,3,0,0,0.38,100.0,3
+71,Jelveh,IRI,3,2,1,0.25,50.0,6
+71,Cortesia,ITA,3,0,1,0.75,75.0,4
+71,Gutierrez,CUB,3,2,1,0.25,50.0,6
+71,J. Gutierrez,CUB,3,2,0,0.25,60.0,5
+71,Mašulović V.,SRB,3,0,0,0.38,100.0,3
+71,Tuaniga,USA,3,1,0,0.75,75.0,4
+71,Le Goff,FRA,3,2,1,0.6,50.0,6
+72,Guo C.,CHN,2,0,1,0.17,66.67,3
+72,Falaschi,ITA,2,0,1,0.5,66.67,3
+72,Vitelli,ITA,2,0,0,0.5,100.0,2
+72,Blankenau,CAN,2,2,0,0.5,50.0,4
+72,Urbanowicz,POL,2,2,0,0.25,50.0,4
+72,Hawryluk,POL,2,0,0,0.5,100.0,2
+72,Kessel,USA,2,0,1,0.25,66.67,3
+72,Wijkstra,NED,2,1,1,0.5,50.0,4
+72,Arthur,BRA,2,1,0,0.25,66.67,3
+72,Zimmermann,GER,2,2,1,0.5,40.0,5
+72,Mašulović N.,SRB,2,1,1,0.25,50.0,4
+72,S.Ivanov,BUL,2,3,2,0.5,28.57,7
+72,Adamczyk,POL,2,0,0,0.5,100.0,2
+72,Larry,JPN,2,1,0,0.4,66.67,3
+72,Kovačević,SRB,2,0,0,0.5,100.0,2
+72,K. Russell,USA,2,1,0,0.5,66.67,3
+72,Nishiyama,JPN,2,0,0,0.67,100.0,2
+73,G. Bratoev,BUL,1,0,1,0.25,50.0,2
+73,Liu M.,CHN,1,0,0,0.25,100.0,1
+73,Kai,JPN,1,0,0,0.12,100.0,1
+73,Gironi,ITA,1,2,0,0.09,33.33,3
+73,Federici,ITA,1,1,0,0.12,50.0,2
+73,Mosca,ITA,1,4,0,0.09,20.0,5
+73,Pedroso,CUB,1,2,0,0.08,33.33,3
+73,Kök,SLO,1,0,1,0.08,50.0,2
+73,Sawicki,POL,1,0,0,0.25,100.0,1
+73,Dagostino,USA,1,2,0,0.14,33.33,3
+73,Giraudo,ARG,1,3,2,0.25,16.67,6
+73,Ter Horst,NED,1,3,0,0.12,25.0,4
+73,Caneschi,ITA,1,0,0,0.25,100.0,1
+73,Vaccari,BRA,1,0,1,0.25,50.0,2
+73,A. Afshinfar,IRI,1,0,0,0.25,100.0,1
+74,Chen J.J.,CHN,0,0,0,,,0
+74,Gardini,ITA,0,0,0,,,0
+74,Zelayeta,ARG,0,0,0,,,0
+74,Armoa Morel,ARG,0,2,2,0.0,0.0,4
+74,Schnitzer,CAN,0,0,0,,,0
+74,Goide,CUB,0,0,0,,,0
+74,Toman,SLO,0,0,0,,,0
+74,Bračko,SLO,0,0,0,,,0
+74,Štalekar,SLO,0,1,1,0.0,0.0,2
+74,Koncilja,SLO,0,0,0,,,0
+74,Gajović,SRB,0,0,0,,,0
+74,Krsteski,SRB,0,0,0,,,0
+74,Petrović,SRB,0,0,0,,,0
+74,Poręba,POL,0,0,0,,,0
+74,Motta Paes,FRA,0,0,0,,,0
+74,Henry,FRA,0,0,0,,,0
+74,Pothron,FRA,0,0,0,,,0
+74,Basic,FRA,0,0,0,,,0
+74,Henno,FRA,0,0,0,,,0
+74,Loubeyre,FRA,0,0,0,,,0
+74,Roehrig,FRA,0,0,0,,,0
+74,Ensing,USA,0,0,1,0.0,0.0,1
+74,Korenblek,NED,0,0,0,,,0
+74,Van Der Ent,NED,0,0,0,,,0
+74,Bak,NED,0,0,0,,,0
+74,Lipke,NED,0,0,0,,,0
+74,Thiery,BRA,0,0,0,,,0
+74,Salehi,IRI,0,0,0,,,0
+74,Günthör,GER,0,0,0,,,0
+74,Mujanović,SLO,0,0,0,,,0
+74,Sbertoli,ITA,0,1,0,0.0,0.0,1
+74,Magalini,ITA,0,0,0,,,0
+74,Huetz,FRA,0,0,0,,,0
+74,Sala,ITA,0,0,0,,,0
+74,Rao S.H.,CHN,0,0,0,,,0
+74,Podraščanin,ITA,0,0,0,,,0
+74,Daneshdoust,IRI,0,0,0,,,0
+74,Leal,BRA,0,0,0,,,0

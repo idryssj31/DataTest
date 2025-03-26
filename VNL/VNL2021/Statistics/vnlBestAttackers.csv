@@ -1,278 +1,278 @@
-﻿web-scraper-order,web-scraper-start-url,Rank,Player Name,Team,Points,Errors,Attempts,Average Per Match,Success,Total
-"1741285231-1","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","1","Nimir","NED","218","77","113","18.17","53.43","408"
-"1741285231-2","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","2","Čebulj","SLO","200","56","168","11.76","47.17","424"
-"1741285231-3","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","3","Mikhaylov","RUS","167","45","111","11.93","51.70","323"
-"1741285231-4","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","4","Ivović","SRB","158","35","111","10.53","51.97","304"
-"1741285231-5","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","5","T. Štern","SLO","154","61","97","10.27","49.36","312"
-"1741285231-6","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","6","Kazemi","IRI","152","47","141","10.86","44.71","340"
-"1741285231-7","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","6","Michieletto","ITA","152","27","125","10.13","50.00","304"
-"1741285231-8","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","7","Urnaut","SLO","150","39","128","8.82","47.32","317"
-"1741285231-9","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","7","Wallace","BRA","150","39","69","8.82","58.14","258"
-"1741285231-10","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","8","Ishikawa","JPN","149","28","93","10.64","55.19","270"
-"1741285231-11","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","9","Leal","BRA","139","39","94","9.27","51.10","272"
-"1741285231-12","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","10","Salehi","IRI","138","44","68","9.20","55.20","250"
-"1741285231-13","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","11","Luburić","SRB","133","46","81","8.87","51.15","260"
-"1741285231-14","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","12","Kliuka","RUS","132","37","119","9.43","45.83","288"
-"1741285231-15","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","13","Lucarelli","BRA","131","38","79","8.73","52.82","248"
-"1741285231-16","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","14","Weber","GER","128","49","107","9.85","45.07","284"
-"1741285231-17","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","15","Patry","FRA","127","42","104","9.07","46.52","273"
-"1741285231-18","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","16","Kovačević","SRB","126","44","86","12.60","49.22","256"
-"1741285231-19","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","16","Defalco","USA","126","38","106","8.40","46.67","270"
-"1741285231-20","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","17","Pereyra L.","ARG","125","56","73","8.33","49.21","254"
-"1741285231-21","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","18","Tuinstra","NED","118","46","132","8.43","39.86","296"
-"1741285231-22","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","19","Recine","ITA","117","43","122","7.80","41.49","282"
-"1741285231-23","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","20","Smith","AUS","115","37","113","9.58","43.40","265"
-"1741285231-24","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","21","Atanasijević","SRB","114","52","67","7.60","48.93","233"
-"1741285231-25","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","22","Boyer","FRA","113","37","75","7.53","50.22","225"
-"1741285231-26","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","23","Ngapeth","FRA","111","43","71","9.25","49.33","225"
-"1741285231-27","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","24","Perrin","CAN","109","20","106","8.38","46.38","235"
-"1741285231-28","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","25","Nelli","ITA","108","38","96","8.31","44.63","242"
-"1741285231-29","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","26","Asparuhov","BUL","106","31","86","7.07","47.53","223"
-"1741285231-30","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","26","Ran","JPN","106","35","72","7.07","49.77","213"
-"1741285231-31","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","26","Krsmanović","SRB","106","21","32","7.07","66.67","159"
-"1741285231-32","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","27","Shimizu","JPN","103","40","75","7.92","47.25","218"
-"1741285231-33","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","27","Vernon","CAN","103","37","74","6.87","48.13","214"
-"1741285231-34","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","28","Pajenk","SLO","102","15","41","6.00","64.56","158"
-"1741285231-35","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","29","Douglas","BRA","101","34","59","5.94","52.06","194"
-"1741285231-36","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","30","Ter Horst","NED","99","26","64","9.00","52.38","189"
-"1741285231-37","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","31","Kurek","POL","97","27","67","8.82","50.79","191"
-"1741285231-38","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","32","Tillie","FRA","96","19","68","6.00","52.46","183"
-"1741285231-39","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","32","Graham","AUS","96","60","94","6.40","38.40","250"
-"1741285231-40","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","33","Hoag","CAN","95","45","81","6.33","42.99","221"
-"1741285231-41","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","34","Volkov","RUS","93","28","64","6.64","50.27","185"
-"1741285231-42","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","35","Clevenot","FRA","92","30","68","6.57","48.42","190"
-"1741285231-43","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","35","Pinali","ITA","92","23","65","6.13","51.11","180"
-"1741285231-44","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","35","Facu","ARG","92","43","100","6.13","39.15","235"
-"1741285231-45","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","36","Podraščanin","ITA","87","15","27","5.80","67.44","129"
-"1741285231-46","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","37","Leon","POL","86","18","73","6.62","48.59","177"
-"1741285231-47","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","37","Loser Bruno","ARG","86","8","32","7.17","68.25","126"
-"1741285231-48","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","38","Schott","GER","85","30","94","5.67","40.67","209"
-"1741285231-49","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","38","Sclater","CAN","85","30","66","5.67","46.96","181"
-"1741285231-50","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","38","Alan","BRA","85","18","49","5.31","55.92","152"
-"1741285231-51","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","39","Chinenyeze","FRA","84","15","53","4.94","55.26","152"
-"1741285231-52","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","40","Krick","GER","83","15","32","5.93","63.85","130"
-"1741285231-53","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","41","Parapunov","BUL","82","54","62","5.47","41.41","198"
-"1741285231-54","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","41","Milad","IRI","82","38","84","6.31","40.20","204"
-"1741285231-55","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","42","Reichert","GER","78","29","91","5.20","39.39","198"
-"1741285231-56","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","42","Muagututia","USA","78","19","71","5.20","46.43","168"
-"1741285231-57","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","42","Kubiak","POL","78","26","75","6.50","43.58","179"
-"1741285231-58","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","43","Anderson","USA","77","20","44","8.56","54.61","141"
-"1741285231-59","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","44","Lima B.","ARG","76","31","33","10.86","54.29","140"
-"1741285231-60","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","45","Mote","AUS","74","15","53","5.29","52.11","142"
-"1741285231-61","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","46","Takanashi","JPN","73","26","47","5.21","50.00","146"
-"1741285231-62","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","47","Ensing","USA","70","25","63","5.00","44.30","158"
-"1741285231-63","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","48","Sokolov","BUL","68","26","46","8.50","48.57","140"
-"1741285231-64","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","48","Bottolo","ITA","68","36","86","4.53","35.79","190"
-"1741285231-65","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","48","Saadat","IRI","68","28","39","4.86","50.37","135"
-"1741285231-66","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","49","Volvich","RUS","67","11","21","4.47","67.68","99"
-"1741285231-67","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","49","Bieniek","POL","67","8","43","5.15","56.78","118"
-"1741285231-68","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","50","Fromm","GER","66","18","66","4.40","44.00","150"
-"1741285231-69","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","50","Otsuka","JPN","66","23","97","4.40","35.48","186"
-"1741285231-70","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","50","Seyed","IRI","66","18","37","4.71","54.55","121"
-"1741285231-71","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","50","Možič","SLO","66","16","34","3.88","56.90","116"
-"1741285231-72","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","50","Isac","BRA","66","9","40","4.12","57.39","115"
-"1741285231-73","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","51","Kozamernik","SLO","65","16","30","4.06","58.56","111"
-"1741285231-74","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","52","Hirsch","GER","63","25","68","4.50","40.38","156"
-"1741285231-75","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","53","Semeniuk","POL","61","14","47","4.69","50.00","122"
-"1741285231-76","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","54","Esfandiar","IRI","60","21","45","4.29","47.62","126"
-"1741285231-77","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","55","O'Dea","AUS","59","18","47","3.93","47.58","124"
-"1741285231-78","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","55","Kurkaev","RUS","59","7","22","3.93","67.05","88"
-"1741285231-79","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","55","Sole","ITA","59","6","39","5.36","56.73","104"
-"1741285231-80","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","56","Loeppky","CAN","58","23","47","4.14","45.31","128"
-"1741285231-81","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","56","Andringa","NED","58","25","68","4.14","38.41","151"
-"1741285231-82","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","57","Karyagin","BUL","57","28","57","3.80","40.14","142"
-"1741285231-83","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","58","Poletaev","RUS","56","16","35","3.73","52.34","107"
-"1741285231-84","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","59","Patch","USA","55","23","37","6.11","47.83","115"
-"1741285231-85","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","60","Podlesnykh","RUS","54","18","49","3.86","44.63","121"
-"1741285231-86","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","61","Bultor","FRA","52","15","25","3.06","56.52","92"
-"1741285231-87","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","62","Le Goff","FRA","51","13","30","3.00","54.26","94"
-"1741285231-88","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","62","van Tilburg","NED","51","22","52","3.40","40.80","125"
-"1741285231-89","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","62","Martinez Franchi","ARG","51","13","57","4.25","42.15","121"
-"1741285231-90","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","62","Azeez","AUS","51","24","59","4.25","38.06","134"
-"1741285231-91","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","63","Krage","GER","50","14","26","3.85","55.56","90"
-"1741285231-92","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","63","Vlasov","RUS","50","4","30","3.33","59.52","84"
-"1741285231-93","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","63","Ramos","ARG","50","10","23","3.33","60.24","83"
-"1741285231-94","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","64","Onodera","JPN","49","8","42","3.77","49.49","99"
-"1741285231-95","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","64","Parkinson","NED","49","5","16","3.77","70.00","70"
-"1741285231-96","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","64","Galassi","ITA","49","3","17","6.12","71.01","69"
-"1741285231-97","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","64","Cortesia","ITA","49","6","32","3.50","56.32","87"
-"1741285231-98","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","64","Otake","JPN","49","14","35","8.17","50.00","98"
-"1741285231-99","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","65","Kaczmarek","POL","48","16","42","4.00","45.28","106"
-"1741285231-100","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","66","Rossard T","FRA","47","15","34","4.70","48.96","96"
-"1741285231-101","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","66","Kolev","BUL","47","6","28","3.13","58.02","81"
-"1741285231-102","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","66","Kaliberda","GER","47","12","44","3.62","45.63","103"
-"1741285231-103","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","66","Szwarc","CAN","47","14","22","3.13","56.63","83"
-"1741285231-104","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","66","Mosca","ITA","47","9","28","3.36","55.95","84"
-"1741285231-105","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","67","Plak","NED","46","10","23","3.54","58.23","79"
-"1741285231-106","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","68","Atanasov","BUL","45","27","56","3.00","35.16","128"
-"1741285231-107","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","68","Yamauchi","JPN","45","8","34","3.00","51.72","87"
-"1741285231-108","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","68","Kochanowski","POL","45","9","19","3.75","61.64","73"
-"1741285231-109","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","68","Cavuto","ITA","45","18","35","3.00","45.92","98"
-"1741285231-110","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","68","Flavio","BRA","45","14","32","2.65","49.45","91"
-"1741285231-111","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","68","Poglajen","ARG","45","15","51","4.09","40.54","111"
-"1741285231-112","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","69","Perić","SRB","44","17","31","2.93","47.83","92"
-"1741285231-113","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","70","Louati","FRA","43","17","55","3.31","37.39","115"
-"1741285231-114","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","70","Jaeschke","USA","43","14","45","3.58","42.16","102"
-"1741285231-115","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","70","T. Sander","USA","43","9","28","7.17","53.75","80"
-"1741285231-116","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","71","Smith","USA","42","10","26","3.00","53.85","78"
-"1741285231-117","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","72","Masoud","IRI","41","9","26","2.73","53.95","76"
-"1741285231-118","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","72","Śliwka","POL","41","8","38","2.73","47.13","87"
-"1741285231-119","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","73","Holt","USA","40","7","28","3.33","53.33","75"
-"1741285231-120","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","73","Maar","CAN","40","14","43","4.00","41.24","97"
-"1741285231-121","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","74","Stahl","USA","39","7","25","3.00","54.93","71"
-"1741285231-122","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","75","Mendez","ARG","38","17","37","2.53","41.30","92"
-"1741285231-123","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","75","Van Berkel","CAN","38","5","20","2.71","60.32","63"
-"1741285231-124","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","76","Petrov","BUL","37","17","41","2.47","38.95","95"
-"1741285231-125","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","76","Kartev","BUL","37","10","20","2.85","55.22","67"
-"1741285231-126","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","76","Z. Štern","SLO","37","9","30","2.18","48.68","76"
-"1741285231-127","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","76","Muzaj","POL","37","13","41","3.36","40.66","91"
-"1741285231-128","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","77","Bogdan","RUS","36","12","35","2.40","43.37","83"
-"1741285231-129","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","77","M. Souza","BRA","36","6","22","2.77","56.25","64"
-"1741285231-130","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","77","Nishida","JPN","36","13","21","7.20","51.43","70"
-"1741285231-131","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","78","Fornal","POL","35","6","19","2.92","58.33","60"
-"1741285231-132","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","79","Garrett","AUS","33","37","61","2.75","25.19","131"
-"1741285231-133","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","79","Fukuzawa","JPN","33","20","29","2.36","40.24","82"
-"1741285231-134","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","79","A. Ghafour","IRI","33","13","12","6.60","56.90","58"
-"1741285231-135","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","79","Mauricio","BRA","33","18","29","1.94","41.25","80"
-"1741285231-136","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","80","Jansen Vandoorn","CAN","32","10","16","2.13","55.17","58"
-"1741285231-137","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","80","Nowakowski","POL","32","3","13","2.67","66.67","48"
-"1741285231-138","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","80","Muserskiy","RUS","32","5","22","4.57","54.24","59"
-"1741285231-139","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","81","S.Ivanov","BUL","31","9","36","2.82","40.79","76"
-"1741285231-140","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","82","Senica","AUS","30","16","42","2.00","34.09","88"
-"1741285231-141","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","82","Lee","JPN","30","6","18","2.00","55.56","54"
-"1741285231-142","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","83","Faure","FRA","29","10","20","5.80","49.15","59"
-"1741285231-143","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","84","Chavdarov","BUL","28","2","19","2.15","57.14","49"
-"1741285231-144","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","85","Šket","SLO","27","4","35","1.69","40.91","66"
-"1741285231-145","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","86","Brizard","FRA","26","2","12","1.62","65.00","40"
-"1741285231-146","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","86","Vigrass","CAN","26","1","14","3.25","63.41","41"
-"1741285231-147","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","86","Kłos","POL","26","5","8","2.36","66.67","39"
-"1741285231-148","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","86","Kujundžić","SRB","26","8","28","1.86","41.94","62"
-"1741285231-149","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","87","Böhme","GER","25","4","13","1.92","59.52","42"
-"1741285231-150","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","87","Dosanjh","AUS","25","7","33","1.67","38.46","65"
-"1741285231-151","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","87","Kentaro","JPN","25","4","14","2.50","58.14","43"
-"1741285231-152","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","87","Mojarad","IRI","25","5","14","2.27","56.82","44"
-"1741285231-153","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","88","Jendryk","USA","23","2","18","1.77","53.49","43"
-"1741285231-154","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","89","Taylor","AUS","22","15","23","1.47","36.67","60"
-"1741285231-155","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","90","Bednorz","POL","21","15","25","2.33","34.43","61"
-"1741285231-156","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","90","Morteza","IRI","21","8","21","1.91","42.00","50"
-"1741285231-157","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","91","Gasparini","SLO","19","8","19","1.19","41.30","46"
-"1741285231-158","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","91","Lucas","BRA","19","5","17","3.80","46.34","41"
-"1741285231-159","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","92","Weir","AUS","18","11","15","1.20","40.91","44"
-"1741285231-160","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","92","Van Der Ent","NED","18","0","14","1.64","56.25","32"
-"1741285231-161","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","93","Sossenheimer","GER","17","7","17","1.42","41.46","41"
-"1741285231-162","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","93","Averill","USA","17","3","7","2.43","62.96","27"
-"1741285231-163","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","94","Wiltenburg","NED","16","5","13","1.14","47.06","34"
-"1741285231-164","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","94","Christenson","USA","16","2","18","1.33","44.44","36"
-"1741285231-165","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","94","Palacios","ARG","16","8","16","1.45","40.00","40"
-"1741285231-166","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","95","Vitelli","ITA","15","3","16","1.36","44.12","34"
-"1741285231-167","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","96","B. Sander","USA","14","10","17","1.27","34.15","41"
-"1741285231-168","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","96","Huber","POL","14","2","6","1.17","63.64","22"
-"1741285231-169","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","96","Palonsky","ARG","14","8","16","1.17","36.84","38"
-"1741285231-170","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","97","Ropret","SLO","12","1","6","0.71","63.16","19"
-"1741285231-171","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","97","van Zeist","NED","12","2","12","1.00","46.15","26"
-"1741285231-172","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","98","Seganov","BUL","11","3","4","0.73","61.11","18"
-"1741285231-173","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","98","Grozdanov","BUL","11","4","8","3.67","47.83","23"
-"1741285231-174","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","98","Baxpöhler","GER","11","1","4","1.10","68.75","16"
-"1741285231-175","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","98","Simic","SRB","11","0","2","0.92","84.62","13"
-"1741285231-176","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","98","Blankenau","CAN","11","1","14","0.79","42.31","26"
-"1741285231-177","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","98","Lyutskanov","BUL","11","7","16","1.22","32.35","34"
-"1741285231-178","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","99","Kobzar","RUS","10","2","10","0.67","45.45","22"
-"1741285231-179","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","100","van Schie","NED","9","11","14","0.75","26.47","34"
-"1741285231-180","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","100","Semyshev","RUS","9","6","11","1.12","34.62","26"
-"1741285231-181","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","100","Bruno","BRA","9","0","5","0.53","64.29","14"
-"1741285231-182","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","100","Nicolas","ARG","9","8","11","1.80","32.14","28"
-"1741285231-183","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","101","Gueye","FRA","8","2","4","0.50","57.14","14"
-"1741285231-184","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","101","Zimmermann","GER","8","2","9","0.53","42.11","19"
-"1741285231-185","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","101","Reza","IRI","8","3","1","0.73","66.67","12"
-"1741285231-186","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","101","De Cecco","ARG","8","1","14","0.53","34.78","23"
-"1741285231-187","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","101","S. Marouf","IRI","8","0","12","0.62","40.00","20"
-"1741285231-188","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","102","K. Shoji","USA","7","0","1","0.54","87.50","8"
-"1741285231-189","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","102","Sbertoli","ITA","7","3","8","0.47","38.89","18"
-"1741285231-190","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","103","Lyneel","FRA","6","7","6","0.86","31.58","19"
-"1741285231-191","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","103","Aubrey","AUS","6","4","6","0.40","37.50","16"
-"1741285231-192","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","103","Vaccari","BRA","6","2","2","0.60","60.00","10"
-"1741285231-193","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","103","Crer","ARG","6","1","2","2.00","66.67","9"
-"1741285231-194","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","104","Jovović","SRB","5","1","6","0.33","41.67","12"
-"1741285231-195","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","104","Pankov","RUS","5","0","1","0.33","83.33","6"
-"1741285231-196","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","104","Spirito","ITA","5","4","8","0.33","29.41","17"
-"1741285231-197","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","104","Matheus","BRA","5","3","0","1.00","62.50","8"
-"1741285231-198","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","104","Gardini","ITA","5","1","8","0.42","35.71","14"
-"1741285231-199","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","104","Röhrs","GER","5","3","4","0.38","41.67","12"
-"1741285231-200","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","105","Kovač","SRB","4","3","8","0.27","26.67","15"
-"1741285231-201","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","105","Videčnik","SLO","4","0","2","0.29","66.67","6"
-"1741285231-202","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","105","Tuaniga","USA","4","1","1","0.80","66.67","6"
-"1741285231-203","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","106","Vadi","IRI","3","0","5","0.33","37.50","8"
-"1741285231-204","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","106","Lisinac","SRB","3","0","4","3.00","42.86","7"
-"1741285231-205","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","106","Jorna","NED","3","5","13","0.50","14.29","21"
-"1741285231-206","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","106","Fernando","BRA","3","1","2","0.18","50.00","6"
-"1741285231-207","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","106","Uriarte","ARG","3","0","6","0.30","33.33","9"
-"1741285231-208","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","106","Marshall","CAN","3","6","13","0.23","13.64","22"
-"1741285231-209","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","106","Keemink","NED","3","0","7","0.30","30.00","10"
-"1741285231-210","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","106","V.Stankov","BUL","3","1","2","0.30","50.00","6"
-"1741285231-211","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","106","João Rafael","BRA","3","0","3","0.75","50.00","6"
-"1741285231-212","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","107","Fujii","JPN","2","0","2","0.22","50.00","4"
-"1741285231-213","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","107","P. Fayazi","IRI","2","1","13","0.18","12.50","16"
-"1741285231-214","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","107","Štalekar","SLO","2","3","3","0.18","25.00","8"
-"1741285231-215","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","107","De Weijer","NED","2","1","4","0.18","28.57","7"
-"1741285231-216","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","107","Hanes","USA","2","0","1","0.50","66.67","3"
-"1741285231-217","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","107","Drzyzga","POL","2","1","4","0.12","28.57","7"
-"1741285231-218","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","107","Łomacz","POL","2","0","0","0.12","100.00","2"
-"1741285231-219","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","107","Todorović","SRB","2","0","1","0.15","66.67","3"
-"1741285231-220","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","107","Sanchez Pages","ARG","2","0","0","0.29","100.00","2"
-"1741285231-221","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","108","Toniutti","FRA","1","0","2","0.07","33.33","3"
-"1741285231-222","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","108","Butler","AUS","1","0","0","0.07","100.00","1"
-"1741285231-223","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","108","Sekita","JPN","1","1","5","0.07","14.29","7"
-"1741285231-224","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","108","A. Shafiei","IRI","1","3","7","0.17","9.09","11"
-"1741285231-225","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","108","Van Solkema","NED","1","1","0","0.08","50.00","2"
-"1741285231-226","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","108","Walsh","CAN","1","1","4","0.10","16.67","6"
-"1741285231-227","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","108","Demyanenko","CAN","1","1","1","0.12","33.33","3"
-"1741285231-228","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","108","Meyer","FRA","1","0","0","0.33","100.00","1"
-"1741285231-229","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","108","TJ","CAN","1","0","4","0.12","20.00","5"
-"1741285231-230","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","108","Javad","IRI","1","1","3","0.17","20.00","5"
-"1741285231-231","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","108","Douglas-Powell","AUS","1","0","0","1.00","100.00","1"
-"1741285231-232","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","108","Komenda","POL","1","0","0","0.33","100.00","1"
-"1741285231-233","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","109","Diez","FRA","0","0","0","","","0"
-"1741285231-234","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","109","Stankov","BUL","0","0","0","","","0"
-"1741285231-235","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","109","V. Ivanov","BUL","0","0","0","","","0"
-"1741285231-236","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","109","M. Ivanov","BUL","0","0","0","","","0"
-"1741285231-237","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","109","Zenger","GER","0","0","0","","","0"
-"1741285231-238","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","109","Burggräf","GER","0","0","0","","","0"
-"1741285231-239","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","109","Perry","AUS","0","0","0","","","0"
-"1741285231-240","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","109","Flowerday","AUS","0","2","0","0.00","0.00","2"
-"1741285231-241","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","109","Greber","AUS","0","0","0","","","0"
-"1741285231-242","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","109","Yamamoto","JPN","0","0","0","","","0"
-"1741285231-243","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","109","Ogawa","JPN","0","0","0","","","0"
-"1741285231-244","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","109","Hazrat","IRI","0","0","0","","","0"
-"1741285231-245","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","109","Arman","IRI","0","0","0","","","0"
-"1741285231-246","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","109","Kapur","SRB","0","0","0","","","0"
-"1741285231-247","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","109","Pekovic","SRB","0","0","0","","","0"
-"1741285231-248","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","109","Batak","SRB","0","0","0","","","0"
-"1741285231-249","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","109","Vinčić","SLO","0","2","0","0.00","0.00","2"
-"1741285231-250","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","109","Klobucar","SLO","0","0","1","0.00","0.00","1"
-"1741285231-251","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","109","Kovačič","SLO","0","0","0","","","0"
-"1741285231-252","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","109","Dronkers","NED","0","0","0","","","0"
-"1741285231-253","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","109","Ottevanger","NED","0","0","0","","","0"
-"1741285231-254","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","109","Baranov","RUS","0","0","0","","","0"
-"1741285231-255","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","109","Golubev","RUS","0","0","0","","","0"
-"1741285231-256","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","109","Watten","USA","0","0","0","","","0"
-"1741285231-257","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","109","E. Shoji","USA","0","0","0","","","0"
-"1741285231-258","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","109","Pereira","CAN","0","0","0","","","0"
-"1741285231-259","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","109","Bann","CAN","0","0","0","","","0"
-"1741285231-260","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","109","Wojtaszek","POL","0","0","0","","","0"
-"1741285231-261","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","109","Zatorski","POL","0","0","0","","","0"
-"1741285231-262","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","109","Balaso","ITA","0","0","0","","","0"
-"1741285231-263","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","109","Scanferla","ITA","0","0","0","","","0"
-"1741285231-264","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","109","Federici","ITA","0","0","0","","","0"
-"1741285231-265","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","109","Maique","BRA","0","0","0","","","0"
-"1741285231-266","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","109","Thales","BRA","0","0","0","","","0"
-"1741285231-267","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","109","Roque","BRA","0","0","4","0.00","0.00","4"
-"1741285231-268","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","109","Macdonald","AUS","0","0","0","","","0"
-"1741285231-269","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","109","Janusz","POL","0","0","0","","","0"
-"1741285231-270","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","109","Vucicevic","SRB","0","1","0","0.00","0.00","1"
-"1741285231-271","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","109","Oya","JPN","0","1","0","0.00","0.00","1"
-"1741285231-272","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","109","Massimino","ARG","0","0","0","","","0"
-"1741285231-273","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","109","Grebennikov","FRA","0","0","0","","","0"
-"1741285231-274","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","109","Pernuš","SLO","0","0","0","","","0"
-"1741285231-275","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","109","Maase","GER","0","0","3","0.00","0.00","3"
-"1741285231-276","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","109","Danani","ARG","0","0","0","","","0"
-"1741285231-277","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/statistics/men/best-attackers/","109","Iakovlev","RUS","0","0","0","","","0"
+Rank,Player Name,Team,Points,Errors,Attempts,Average Per Match,Success,Total
+1,Nimir,NED,218,77,113,18.17,53.43,408
+2,Čebulj,SLO,200,56,168,11.76,47.17,424
+3,Mikhaylov,RUS,167,45,111,11.93,51.7,323
+4,Ivović,SRB,158,35,111,10.53,51.97,304
+5,T. Štern,SLO,154,61,97,10.27,49.36,312
+6,Kazemi,IRI,152,47,141,10.86,44.71,340
+6,Michieletto,ITA,152,27,125,10.13,50.0,304
+7,Urnaut,SLO,150,39,128,8.82,47.32,317
+7,Wallace,BRA,150,39,69,8.82,58.14,258
+8,Ishikawa,JPN,149,28,93,10.64,55.19,270
+9,Leal,BRA,139,39,94,9.27,51.1,272
+10,Salehi,IRI,138,44,68,9.2,55.2,250
+11,Luburić,SRB,133,46,81,8.87,51.15,260
+12,Kliuka,RUS,132,37,119,9.43,45.83,288
+13,Lucarelli,BRA,131,38,79,8.73,52.82,248
+14,Weber,GER,128,49,107,9.85,45.07,284
+15,Patry,FRA,127,42,104,9.07,46.52,273
+16,Kovačević,SRB,126,44,86,12.6,49.22,256
+16,Defalco,USA,126,38,106,8.4,46.67,270
+17,Pereyra L.,ARG,125,56,73,8.33,49.21,254
+18,Tuinstra,NED,118,46,132,8.43,39.86,296
+19,Recine,ITA,117,43,122,7.8,41.49,282
+20,Smith,AUS,115,37,113,9.58,43.4,265
+21,Atanasijević,SRB,114,52,67,7.6,48.93,233
+22,Boyer,FRA,113,37,75,7.53,50.22,225
+23,Ngapeth,FRA,111,43,71,9.25,49.33,225
+24,Perrin,CAN,109,20,106,8.38,46.38,235
+25,Nelli,ITA,108,38,96,8.31,44.63,242
+26,Asparuhov,BUL,106,31,86,7.07,47.53,223
+26,Ran,JPN,106,35,72,7.07,49.77,213
+26,Krsmanović,SRB,106,21,32,7.07,66.67,159
+27,Shimizu,JPN,103,40,75,7.92,47.25,218
+27,Vernon,CAN,103,37,74,6.87,48.13,214
+28,Pajenk,SLO,102,15,41,6.0,64.56,158
+29,Douglas,BRA,101,34,59,5.94,52.06,194
+30,Ter Horst,NED,99,26,64,9.0,52.38,189
+31,Kurek,POL,97,27,67,8.82,50.79,191
+32,Tillie,FRA,96,19,68,6.0,52.46,183
+32,Graham,AUS,96,60,94,6.4,38.4,250
+33,Hoag,CAN,95,45,81,6.33,42.99,221
+34,Volkov,RUS,93,28,64,6.64,50.27,185
+35,Clevenot,FRA,92,30,68,6.57,48.42,190
+35,Pinali,ITA,92,23,65,6.13,51.11,180
+35,Facu,ARG,92,43,100,6.13,39.15,235
+36,Podraščanin,ITA,87,15,27,5.8,67.44,129
+37,Leon,POL,86,18,73,6.62,48.59,177
+37,Loser Bruno,ARG,86,8,32,7.17,68.25,126
+38,Schott,GER,85,30,94,5.67,40.67,209
+38,Sclater,CAN,85,30,66,5.67,46.96,181
+38,Alan,BRA,85,18,49,5.31,55.92,152
+39,Chinenyeze,FRA,84,15,53,4.94,55.26,152
+40,Krick,GER,83,15,32,5.93,63.85,130
+41,Parapunov,BUL,82,54,62,5.47,41.41,198
+41,Milad,IRI,82,38,84,6.31,40.2,204
+42,Reichert,GER,78,29,91,5.2,39.39,198
+42,Muagututia,USA,78,19,71,5.2,46.43,168
+42,Kubiak,POL,78,26,75,6.5,43.58,179
+43,Anderson,USA,77,20,44,8.56,54.61,141
+44,Lima B.,ARG,76,31,33,10.86,54.29,140
+45,Mote,AUS,74,15,53,5.29,52.11,142
+46,Takanashi,JPN,73,26,47,5.21,50.0,146
+47,Ensing,USA,70,25,63,5.0,44.3,158
+48,Sokolov,BUL,68,26,46,8.5,48.57,140
+48,Bottolo,ITA,68,36,86,4.53,35.79,190
+48,Saadat,IRI,68,28,39,4.86,50.37,135
+49,Volvich,RUS,67,11,21,4.47,67.68,99
+49,Bieniek,POL,67,8,43,5.15,56.78,118
+50,Fromm,GER,66,18,66,4.4,44.0,150
+50,Otsuka,JPN,66,23,97,4.4,35.48,186
+50,Seyed,IRI,66,18,37,4.71,54.55,121
+50,Možič,SLO,66,16,34,3.88,56.9,116
+50,Isac,BRA,66,9,40,4.12,57.39,115
+51,Kozamernik,SLO,65,16,30,4.06,58.56,111
+52,Hirsch,GER,63,25,68,4.5,40.38,156
+53,Semeniuk,POL,61,14,47,4.69,50.0,122
+54,Esfandiar,IRI,60,21,45,4.29,47.62,126
+55,O'Dea,AUS,59,18,47,3.93,47.58,124
+55,Kurkaev,RUS,59,7,22,3.93,67.05,88
+55,Sole,ITA,59,6,39,5.36,56.73,104
+56,Loeppky,CAN,58,23,47,4.14,45.31,128
+56,Andringa,NED,58,25,68,4.14,38.41,151
+57,Karyagin,BUL,57,28,57,3.8,40.14,142
+58,Poletaev,RUS,56,16,35,3.73,52.34,107
+59,Patch,USA,55,23,37,6.11,47.83,115
+60,Podlesnykh,RUS,54,18,49,3.86,44.63,121
+61,Bultor,FRA,52,15,25,3.06,56.52,92
+62,Le Goff,FRA,51,13,30,3.0,54.26,94
+62,van Tilburg,NED,51,22,52,3.4,40.8,125
+62,Martinez Franchi,ARG,51,13,57,4.25,42.15,121
+62,Azeez,AUS,51,24,59,4.25,38.06,134
+63,Krage,GER,50,14,26,3.85,55.56,90
+63,Vlasov,RUS,50,4,30,3.33,59.52,84
+63,Ramos,ARG,50,10,23,3.33,60.24,83
+64,Onodera,JPN,49,8,42,3.77,49.49,99
+64,Parkinson,NED,49,5,16,3.77,70.0,70
+64,Galassi,ITA,49,3,17,6.12,71.01,69
+64,Cortesia,ITA,49,6,32,3.5,56.32,87
+64,Otake,JPN,49,14,35,8.17,50.0,98
+65,Kaczmarek,POL,48,16,42,4.0,45.28,106
+66,Rossard T,FRA,47,15,34,4.7,48.96,96
+66,Kolev,BUL,47,6,28,3.13,58.02,81
+66,Kaliberda,GER,47,12,44,3.62,45.63,103
+66,Szwarc,CAN,47,14,22,3.13,56.63,83
+66,Mosca,ITA,47,9,28,3.36,55.95,84
+67,Plak,NED,46,10,23,3.54,58.23,79
+68,Atanasov,BUL,45,27,56,3.0,35.16,128
+68,Yamauchi,JPN,45,8,34,3.0,51.72,87
+68,Kochanowski,POL,45,9,19,3.75,61.64,73
+68,Cavuto,ITA,45,18,35,3.0,45.92,98
+68,Flavio,BRA,45,14,32,2.65,49.45,91
+68,Poglajen,ARG,45,15,51,4.09,40.54,111
+69,Perić,SRB,44,17,31,2.93,47.83,92
+70,Louati,FRA,43,17,55,3.31,37.39,115
+70,Jaeschke,USA,43,14,45,3.58,42.16,102
+70,T. Sander,USA,43,9,28,7.17,53.75,80
+71,Smith,USA,42,10,26,3.0,53.85,78
+72,Masoud,IRI,41,9,26,2.73,53.95,76
+72,Śliwka,POL,41,8,38,2.73,47.13,87
+73,Holt,USA,40,7,28,3.33,53.33,75
+73,Maar,CAN,40,14,43,4.0,41.24,97
+74,Stahl,USA,39,7,25,3.0,54.93,71
+75,Mendez,ARG,38,17,37,2.53,41.3,92
+75,Van Berkel,CAN,38,5,20,2.71,60.32,63
+76,Petrov,BUL,37,17,41,2.47,38.95,95
+76,Kartev,BUL,37,10,20,2.85,55.22,67
+76,Z. Štern,SLO,37,9,30,2.18,48.68,76
+76,Muzaj,POL,37,13,41,3.36,40.66,91
+77,Bogdan,RUS,36,12,35,2.4,43.37,83
+77,M. Souza,BRA,36,6,22,2.77,56.25,64
+77,Nishida,JPN,36,13,21,7.2,51.43,70
+78,Fornal,POL,35,6,19,2.92,58.33,60
+79,Garrett,AUS,33,37,61,2.75,25.19,131
+79,Fukuzawa,JPN,33,20,29,2.36,40.24,82
+79,A. Ghafour,IRI,33,13,12,6.6,56.9,58
+79,Mauricio,BRA,33,18,29,1.94,41.25,80
+80,Jansen Vandoorn,CAN,32,10,16,2.13,55.17,58
+80,Nowakowski,POL,32,3,13,2.67,66.67,48
+80,Muserskiy,RUS,32,5,22,4.57,54.24,59
+81,S.Ivanov,BUL,31,9,36,2.82,40.79,76
+82,Senica,AUS,30,16,42,2.0,34.09,88
+82,Lee,JPN,30,6,18,2.0,55.56,54
+83,Faure,FRA,29,10,20,5.8,49.15,59
+84,Chavdarov,BUL,28,2,19,2.15,57.14,49
+85,Šket,SLO,27,4,35,1.69,40.91,66
+86,Brizard,FRA,26,2,12,1.62,65.0,40
+86,Vigrass,CAN,26,1,14,3.25,63.41,41
+86,Kłos,POL,26,5,8,2.36,66.67,39
+86,Kujundžić,SRB,26,8,28,1.86,41.94,62
+87,Böhme,GER,25,4,13,1.92,59.52,42
+87,Dosanjh,AUS,25,7,33,1.67,38.46,65
+87,Kentaro,JPN,25,4,14,2.5,58.14,43
+87,Mojarad,IRI,25,5,14,2.27,56.82,44
+88,Jendryk,USA,23,2,18,1.77,53.49,43
+89,Taylor,AUS,22,15,23,1.47,36.67,60
+90,Bednorz,POL,21,15,25,2.33,34.43,61
+90,Morteza,IRI,21,8,21,1.91,42.0,50
+91,Gasparini,SLO,19,8,19,1.19,41.3,46
+91,Lucas,BRA,19,5,17,3.8,46.34,41
+92,Weir,AUS,18,11,15,1.2,40.91,44
+92,Van Der Ent,NED,18,0,14,1.64,56.25,32
+93,Sossenheimer,GER,17,7,17,1.42,41.46,41
+93,Averill,USA,17,3,7,2.43,62.96,27
+94,Wiltenburg,NED,16,5,13,1.14,47.06,34
+94,Christenson,USA,16,2,18,1.33,44.44,36
+94,Palacios,ARG,16,8,16,1.45,40.0,40
+95,Vitelli,ITA,15,3,16,1.36,44.12,34
+96,B. Sander,USA,14,10,17,1.27,34.15,41
+96,Huber,POL,14,2,6,1.17,63.64,22
+96,Palonsky,ARG,14,8,16,1.17,36.84,38
+97,Ropret,SLO,12,1,6,0.71,63.16,19
+97,van Zeist,NED,12,2,12,1.0,46.15,26
+98,Seganov,BUL,11,3,4,0.73,61.11,18
+98,Grozdanov,BUL,11,4,8,3.67,47.83,23
+98,Baxpöhler,GER,11,1,4,1.1,68.75,16
+98,Simic,SRB,11,0,2,0.92,84.62,13
+98,Blankenau,CAN,11,1,14,0.79,42.31,26
+98,Lyutskanov,BUL,11,7,16,1.22,32.35,34
+99,Kobzar,RUS,10,2,10,0.67,45.45,22
+100,van Schie,NED,9,11,14,0.75,26.47,34
+100,Semyshev,RUS,9,6,11,1.12,34.62,26
+100,Bruno,BRA,9,0,5,0.53,64.29,14
+100,Nicolas,ARG,9,8,11,1.8,32.14,28
+101,Gueye,FRA,8,2,4,0.5,57.14,14
+101,Zimmermann,GER,8,2,9,0.53,42.11,19
+101,Reza,IRI,8,3,1,0.73,66.67,12
+101,De Cecco,ARG,8,1,14,0.53,34.78,23
+101,S. Marouf,IRI,8,0,12,0.62,40.0,20
+102,K. Shoji,USA,7,0,1,0.54,87.5,8
+102,Sbertoli,ITA,7,3,8,0.47,38.89,18
+103,Lyneel,FRA,6,7,6,0.86,31.58,19
+103,Aubrey,AUS,6,4,6,0.4,37.5,16
+103,Vaccari,BRA,6,2,2,0.6,60.0,10
+103,Crer,ARG,6,1,2,2.0,66.67,9
+104,Jovović,SRB,5,1,6,0.33,41.67,12
+104,Pankov,RUS,5,0,1,0.33,83.33,6
+104,Spirito,ITA,5,4,8,0.33,29.41,17
+104,Matheus,BRA,5,3,0,1.0,62.5,8
+104,Gardini,ITA,5,1,8,0.42,35.71,14
+104,Röhrs,GER,5,3,4,0.38,41.67,12
+105,Kovač,SRB,4,3,8,0.27,26.67,15
+105,Videčnik,SLO,4,0,2,0.29,66.67,6
+105,Tuaniga,USA,4,1,1,0.8,66.67,6
+106,Vadi,IRI,3,0,5,0.33,37.5,8
+106,Lisinac,SRB,3,0,4,3.0,42.86,7
+106,Jorna,NED,3,5,13,0.5,14.29,21
+106,Fernando,BRA,3,1,2,0.18,50.0,6
+106,Uriarte,ARG,3,0,6,0.3,33.33,9
+106,Marshall,CAN,3,6,13,0.23,13.64,22
+106,Keemink,NED,3,0,7,0.3,30.0,10
+106,V.Stankov,BUL,3,1,2,0.3,50.0,6
+106,João Rafael,BRA,3,0,3,0.75,50.0,6
+107,Fujii,JPN,2,0,2,0.22,50.0,4
+107,P. Fayazi,IRI,2,1,13,0.18,12.5,16
+107,Štalekar,SLO,2,3,3,0.18,25.0,8
+107,De Weijer,NED,2,1,4,0.18,28.57,7
+107,Hanes,USA,2,0,1,0.5,66.67,3
+107,Drzyzga,POL,2,1,4,0.12,28.57,7
+107,Łomacz,POL,2,0,0,0.12,100.0,2
+107,Todorović,SRB,2,0,1,0.15,66.67,3
+107,Sanchez Pages,ARG,2,0,0,0.29,100.0,2
+108,Toniutti,FRA,1,0,2,0.07,33.33,3
+108,Butler,AUS,1,0,0,0.07,100.0,1
+108,Sekita,JPN,1,1,5,0.07,14.29,7
+108,A. Shafiei,IRI,1,3,7,0.17,9.09,11
+108,Van Solkema,NED,1,1,0,0.08,50.0,2
+108,Walsh,CAN,1,1,4,0.1,16.67,6
+108,Demyanenko,CAN,1,1,1,0.12,33.33,3
+108,Meyer,FRA,1,0,0,0.33,100.0,1
+108,TJ,CAN,1,0,4,0.12,20.0,5
+108,Javad,IRI,1,1,3,0.17,20.0,5
+108,Douglas-Powell,AUS,1,0,0,1.0,100.0,1
+108,Komenda,POL,1,0,0,0.33,100.0,1
+109,Diez,FRA,0,0,0,,,0
+109,Stankov,BUL,0,0,0,,,0
+109,V. Ivanov,BUL,0,0,0,,,0
+109,M. Ivanov,BUL,0,0,0,,,0
+109,Zenger,GER,0,0,0,,,0
+109,Burggräf,GER,0,0,0,,,0
+109,Perry,AUS,0,0,0,,,0
+109,Flowerday,AUS,0,2,0,0.0,0.0,2
+109,Greber,AUS,0,0,0,,,0
+109,Yamamoto,JPN,0,0,0,,,0
+109,Ogawa,JPN,0,0,0,,,0
+109,Hazrat,IRI,0,0,0,,,0
+109,Arman,IRI,0,0,0,,,0
+109,Kapur,SRB,0,0,0,,,0
+109,Pekovic,SRB,0,0,0,,,0
+109,Batak,SRB,0,0,0,,,0
+109,Vinčić,SLO,0,2,0,0.0,0.0,2
+109,Klobucar,SLO,0,0,1,0.0,0.0,1
+109,Kovačič,SLO,0,0,0,,,0
+109,Dronkers,NED,0,0,0,,,0
+109,Ottevanger,NED,0,0,0,,,0
+109,Baranov,RUS,0,0,0,,,0
+109,Golubev,RUS,0,0,0,,,0
+109,Watten,USA,0,0,0,,,0
+109,E. Shoji,USA,0,0,0,,,0
+109,Pereira,CAN,0,0,0,,,0
+109,Bann,CAN,0,0,0,,,0
+109,Wojtaszek,POL,0,0,0,,,0
+109,Zatorski,POL,0,0,0,,,0
+109,Balaso,ITA,0,0,0,,,0
+109,Scanferla,ITA,0,0,0,,,0
+109,Federici,ITA,0,0,0,,,0
+109,Maique,BRA,0,0,0,,,0
+109,Thales,BRA,0,0,0,,,0
+109,Roque,BRA,0,0,4,0.0,0.0,4
+109,Macdonald,AUS,0,0,0,,,0
+109,Janusz,POL,0,0,0,,,0
+109,Vucicevic,SRB,0,1,0,0.0,0.0,1
+109,Oya,JPN,0,1,0,0.0,0.0,1
+109,Massimino,ARG,0,0,0,,,0
+109,Grebennikov,FRA,0,0,0,,,0
+109,Pernuš,SLO,0,0,0,,,0
+109,Maase,GER,0,0,3,0.0,0.0,3
+109,Danani,ARG,0,0,0,,,0
+109,Iakovlev,RUS,0,0,0,,,0

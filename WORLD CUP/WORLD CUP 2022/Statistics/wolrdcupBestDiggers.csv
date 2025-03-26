@@ -1,337 +1,337 @@
-﻿web-scraper-order,web-scraper-start-url,Rank,Player Name,Team,Digs,Errors,Receptions,Average Per Match,Success,Total
-"1742823468-1","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","1","Thales","BRA","59","12","7","8.43","75.64","78"
-"1742823468-2","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","2","Zatorski","POL","52","15","6","7.43","71.23","73"
-"1742823468-3","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","3","Balaso","ITA","48","19","11","6.86","61.54","78"
-"1742823468-4","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","4","Kovačič","SLO","39","17","5","5.57","63.93","61"
-"1742823468-5","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","5","Danani","ARG","30","10","4","6.00","68.18","44"
-"1742823468-6","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","6","E. Shoji","USA","28","17","6","5.60","54.90","51"
-"1742823468-7","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","7","Lavia","ITA","26","7","0","3.71","78.79","33"
-"1742823468-8","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","8","Giannelli","ITA","25","10","5","3.57","62.50","40"
-"1742823468-9","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","9","Garcia","CUB","24","12","2","6.00","63.16","38"
-"1742823468-10","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","9","Anderson","USA","24","14","2","4.80","60.00","40"
-"1742823468-11","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","10","Kurek","POL","23","8","4","3.29","65.71","35"
-"1742823468-12","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","11","Plotnytskyi","UKR","22","7","1","4.40","73.33","30"
-"1742823468-13","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","11","Michieletto","ITA","22","10","1","3.14","66.67","33"
-"1742823468-14","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","12","Urnaut","SLO","21","8","2","3.00","67.74","31"
-"1742823468-15","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","12","Romanò","ITA","21","11","3","3.00","60.00","35"
-"1742823468-16","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","13","Leal","BRA","20","7","8","2.86","57.14","35"
-"1742823468-17","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","13","Lucarelli","BRA","20","6","1","2.86","74.07","27"
-"1742823468-18","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","13","Kovalov","UKR","20","9","2","4.00","64.52","31"
-"1742823468-19","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","14","Yamamoto","JPN","19","6","1","4.75","73.08","26"
-"1742823468-20","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","14","Grebennikov","FRA","19","8","0","3.80","70.37","27"
-"1742823468-21","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","14","Zenger","GER","19","7","1","4.75","70.37","27"
-"1742823468-22","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","14","Čebulj","SLO","19","17","3","2.71","48.72","39"
-"1742823468-23","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","15","Semeniuk","POL","18","5","5","2.57","64.29","28"
-"1742823468-24","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","15","Janusz","POL","18","11","0","2.57","62.07","29"
-"1742823468-25","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","16","Ran","JPN","17","3","3","4.25","73.91","23"
-"1742823468-26","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","16","Kampa","GER","17","5","0","4.25","77.27","22"
-"1742823468-27","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","16","V. Ivanov","BUL","17","11","4","5.67","53.12","32"
-"1742823468-28","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","16","Ropret","SLO","17","6","1","2.43","70.83","24"
-"1742823468-29","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","17","Russell","USA","16","16","1","3.20","48.48","33"
-"1742823468-30","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","17","Kanaiev","UKR","16","11","2","3.20","55.17","29"
-"1742823468-31","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","18","Wallace","BRA","14","4","2","2.00","70.00","20"
-"1742823468-32","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","18","Ngapeth","FRA","14","2","1","2.80","82.35","17"
-"1742823468-33","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","19","Bravo","MEX","13","7","0","4.33","65.00","20"
-"1742823468-34","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","19","Śliwka","POL","13","5","0","1.86","72.22","18"
-"1742823468-35","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","19","Subaşı","TUR","13","4","0","3.25","76.47","17"
-"1742823468-36","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","20","Fernando","BRA","12","10","3","1.71","48.00","25"
-"1742823468-37","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","20","Herrera","CUB","12","5","2","3.00","63.16","19"
-"1742823468-38","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","20","T. Štern","SLO","12","6","1","1.71","63.16","19"
-"1742823468-39","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","20","Milad","IRI","12","6","1","3.00","63.16","19"
-"1742823468-40","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","20","Hazrat","IRI","12","4","1","3.00","70.59","17"
-"1742823468-41","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","21","Bruno","BRA","11","7","2","1.57","55.00","20"
-"1742823468-42","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","21","Christenson","USA","11","8","1","2.20","55.00","20"
-"1742823468-43","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","21","Bieniek","POL","11","6","1","1.57","61.11","18"
-"1742823468-44","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","21","Ter Horst","NED","11","4","0","2.75","73.33","15"
-"1742823468-45","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","21","Facu","ARG","11","5","6","2.20","50.00","22"
-"1742823468-46","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","21","Tupchii","UKR","11","7","2","2.20","55.00","20"
-"1742823468-47","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","21","Shchytkov","UKR","11","3","2","2.20","68.75","16"
-"1742823468-48","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","22","Lucas","BRA","10","1","1","1.43","83.33","12"
-"1742823468-49","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","22","Defalco","USA","10","6","4","2.00","50.00","20"
-"1742823468-50","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","22","Sokolov","BUL","10","12","1","3.33","43.48","23"
-"1742823468-51","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","22","Pajenk","SLO","10","4","0","1.43","71.43","14"
-"1742823468-52","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","22","Kozamernik","SLO","10","2","2","1.43","71.43","14"
-"1742823468-53","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","22","De Cecco","ARG","10","5","3","2.00","55.56","18"
-"1742823468-54","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","22","Vadi","IRI","10","1","0","2.50","90.91","11"
-"1742823468-55","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","22","Ben Slimene K","TUN","10","7","1","2.50","55.56","18"
-"1742823468-56","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","22","Nagga H.","TUN","10","5","1","2.50","62.50","16"
-"1742823468-57","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","22","Hmissi S","TUN","10","8","1","2.50","52.63","19"
-"1742823468-58","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","22","Vargas","PUR","10","6","0","3.33","62.50","16"
-"1742823468-59","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","22","Marshall","CAN","10","5","3","3.33","55.56","18"
-"1742823468-60","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","23","Flavio","BRA","9","1","1","1.29","81.82","11"
-"1742823468-61","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","23","Nishida","JPN","9","8","2","2.25","47.37","19"
-"1742823468-62","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","23","Sekita","JPN","9","5","1","2.25","60.00","15"
-"1742823468-63","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","23","Brizard","FRA","9","5","1","1.80","60.00","15"
-"1742823468-64","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","23","Boyer","FRA","9","3","2","1.80","64.29","14"
-"1742823468-65","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","23","Clevenot","FRA","9","2","0","1.80","81.82","11"
-"1742823468-66","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","23","Gonzalez","MEX","9","7","2","3.00","50.00","18"
-"1742823468-67","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","23","Döne","TUR","9","9","2","2.25","45.00","20"
-"1742823468-68","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","23","Nimir","NED","9","7","2","2.25","50.00","18"
-"1742823468-69","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","23","Cabrera","PUR","9","6","2","3.00","52.94","17"
-"1742823468-70","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","23","Kovačević","SRB","9","2","0","2.25","81.82","11"
-"1742823468-71","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","23","Pekovic","SRB","9","13","1","2.25","39.13","23"
-"1742823468-72","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","23","Ivović","SRB","9","1","2","2.25","75.00","12"
-"1742823468-73","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","24","Yant","CUB","8","2","1","2.00","72.73","11"
-"1742823468-74","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","24","Ishikawa","JPN","8","6","1","2.00","53.33","15"
-"1742823468-75","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","24","Sulaiman","QAT","8","5","0","2.67","61.54","13"
-"1742823468-76","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","24","Tillie","FRA","8","4","0","1.60","66.67","12"
-"1742823468-77","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","24","Kochanowski","POL","8","7","1","1.14","50.00","16"
-"1742823468-78","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","24","Seganov","BUL","8","4","1","2.67","61.54","13"
-"1742823468-79","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","24","Vinčić","SLO","8","4","1","1.14","61.54","13"
-"1742823468-80","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","24","Keemink","NED","8","1","3","2.00","66.67","12"
-"1742823468-81","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","24","Issa","EGY","8","3","3","2.67","57.14","14"
-"1742823468-82","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","24","Molina","PUR","8","2","0","2.67","80.00","10"
-"1742823468-83","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","24","Anzani","ITA","8","0","1","1.14","88.89","9"
-"1742823468-84","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","24","Maar","CAN","8","7","2","2.67","47.06","17"
-"1742823468-85","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","25","Simón","CUB","7","4","1","1.75","58.33","12"
-"1742823468-86","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","25","Lopez","CUB","7","5","0","1.75","58.33","12"
-"1742823468-87","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","25","Smith","USA","7","4","1","1.40","58.33","12"
-"1742823468-88","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","25","Aranda","MEX","7","8","3","2.33","38.89","18"
-"1742823468-89","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","25","Kaczmarek","POL","7","1","1","1.00","77.78","9"
-"1742823468-90","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","25","Fornal","POL","7","2","1","1.00","70.00","10"
-"1742823468-91","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","25","Možič","SLO","7","4","0","1.00","63.64","11"
-"1742823468-92","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","25","Güngör","TUR","7","3","0","1.75","70.00","10"
-"1742823468-93","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","25","Ekşi","TUR","7","6","1","1.75","50.00","14"
-"1742823468-94","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","25","A. Lagumdzija","TUR","7","3","1","1.75","63.64","11"
-"1742823468-95","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","25","Bayraktar","TUR","7","5","1","1.75","53.85","13"
-"1742823468-96","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","25","Yang Y.M.","CHN","7","5","1","2.33","53.85","13"
-"1742823468-97","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","25","Tuinstra","NED","7","2","0","1.75","77.78","9"
-"1742823468-98","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","25","Andringa","NED","7","7","2","1.75","43.75","16"
-"1742823468-99","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","25","Iglesias","PUR","7","6","1","2.33","50.00","14"
-"1742823468-100","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","26","Rodriguinho","BRA","6","4","1","0.86","54.55","11"
-"1742823468-101","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","26","Mergarejo","CUB","6","5","0","1.50","54.55","11"
-"1742823468-102","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","26","Onodera","JPN","6","1","0","1.50","85.71","7"
-"1742823468-103","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","26","Renan","QAT","6","7","1","2.00","42.86","14"
-"1742823468-104","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","26","Diez","FRA","6","1","0","1.20","85.71","7"
-"1742823468-105","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","26","Mendoza","MEX","6","3","0","2.00","66.67","9"
-"1742823468-106","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","26","Fuentes","MEX","6","7","0","2.00","46.15","13"
-"1742823468-107","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","26","Asparuhov","BUL","6","5","1","2.00","50.00","12"
-"1742823468-108","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","26","Yu Y.C.","CHN","6","2","1","2.00","66.67","9"
-"1742823468-109","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","26","Bouguerra.A","TUN","6","3","2","1.50","54.55","11"
-"1742823468-110","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","26","Lawrence","PUR","6","7","1","2.00","42.86","14"
-"1742823468-111","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","26","Semeniuk","UKR","6","2","2","1.20","60.00","10"
-"1742823468-112","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","26","Jovović","SRB","6","3","1","1.50","60.00","10"
-"1742823468-113","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","26","Atanasijević","SRB","6","4","4","1.50","42.86","14"
-"1742823468-114","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","26","Epp","CAN","6","2","0","2.00","75.00","8"
-"1742823468-115","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","27","Otsuka","JPN","5","0","0","1.25","100.00","5"
-"1742823468-116","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","27","Reichert","GER","5","5","1","1.25","45.45","11"
-"1742823468-117","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","27","Muagututia","USA","5","2","0","1.00","71.43","7"
-"1742823468-118","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","27","Zhang J.Y.","CHN","5","4","0","1.67","55.56","9"
-"1742823468-119","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","27","R.Haikal","EGY","5","1","1","1.67","71.43","7"
-"1742823468-120","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","27","Karamosli E","TUN","5","6","1","1.25","41.67","12"
-"1742823468-121","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","27","Katic","SRB","5","2","0","1.25","71.43","7"
-"1742823468-122","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","27","Petkovic","SRB","5","5","0","1.25","50.00","10"
-"1742823468-123","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","27","Galassi","ITA","5","1","0","0.71","83.33","6"
-"1742823468-124","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","27","Van Berkel","CAN","5","2","0","1.67","71.43","7"
-"1742823468-125","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","28","Goide","CUB","4","3","1","1.00","50.00","8"
-"1742823468-126","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","28","Y.Oughlaf","QAT","4","2","0","1.33","66.67","6"
-"1742823468-127","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","28","Nikola","QAT","4","4","1","1.33","44.44","9"
-"1742823468-128","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","28","Louati","FRA","4","2","0","0.80","66.67","6"
-"1742823468-129","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","28","Weber","GER","4","1","0","1.00","80.00","5"
-"1742823468-130","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","28","Łomacz","POL","4","1","0","0.57","80.00","5"
-"1742823468-131","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","28","A. Nikolov","BUL","4","5","1","1.33","40.00","10"
-"1742823468-132","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","28","Bassoko","CMR","4","3","0","1.33","57.14","7"
-"1742823468-133","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","28","Landry","CMR","4","3","0","1.33","57.14","7"
-"1742823468-134","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","28","Kody","CMR","4","2","3","1.33","44.44","9"
-"1742823468-135","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","28","Zhang G.H.","CHN","4","3","0","1.33","57.14","7"
-"1742823468-136","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","28","A. Seoudy","EGY","4","1","0","1.33","80.00","5"
-"1742823468-137","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","28","M. Reda","EGY","4","2","1","1.33","57.14","7"
-"1742823468-138","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","28","A.Said","EGY","4","4","4","1.33","33.33","12"
-"1742823468-139","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","28","Lima B.","ARG","4","3","2","0.80","44.44","9"
-"1742823468-140","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","28","Palonsky","ARG","4","2","1","0.80","57.14","7"
-"1742823468-141","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","28","Mojarad","IRI","4","4","0","1.00","50.00","8"
-"1742823468-142","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","28","Kadhi A","TUN","4","3","0","1.00","57.14","7"
-"1742823468-143","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","28","Torres","PUR","4","0","0","1.33","100.00","4"
-"1742823468-144","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","28","Podraščanin","ITA","4","3","1","1.00","50.00","8"
-"1742823468-145","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","28","Scanferla","ITA","4","0","0","0.57","100.00","4"
-"1742823468-146","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","28","Sclater","CAN","4","4","1","1.33","44.44","9"
-"1742823468-147","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","28","Barnes","CAN","4","3","0","1.33","57.14","7"
-"1742823468-148","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","29","Adriano","BRA","3","0","0","0.43","100.00","3"
-"1742823468-149","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","29","Taboada","CUB","3","2","0","0.75","60.00","5"
-"1742823468-150","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","29","Oya","JPN","3","0","0","0.75","100.00","3"
-"1742823468-151","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","29","Milos","QAT","3","2","2","1.00","42.86","7"
-"1742823468-152","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","29","Patry","FRA","3","5","1","0.60","33.33","9"
-"1742823468-153","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","29","Le Goff","FRA","3","1","0","0.60","75.00","4"
-"1742823468-154","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","29","Jouffroy","FRA","3","0","0","0.60","100.00","3"
-"1742823468-155","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","29","Schott","GER","3","1","0","0.75","75.00","4"
-"1742823468-156","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","29","Karlitzek","GER","3","1","1","0.75","60.00","5"
-"1742823468-157","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","29","Krage","GER","3","0","0","0.75","100.00","3"
-"1742823468-158","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","29","Lopez","MEX","3","4","0","1.00","42.86","7"
-"1742823468-159","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","29","Gotsev","BUL","3","1","0","1.00","75.00","4"
-"1742823468-160","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","29","Dolengombai","CMR","3","0","0","1.00","100.00","3"
-"1742823468-161","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","29","Djam","CMR","3","1","1","1.00","60.00","5"
-"1742823468-162","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","29","Yu Y.T.","CHN","3","2","0","1.00","60.00","5"
-"1742823468-163","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","29","Dola","EGY","3","1","0","1.00","75.00","4"
-"1742823468-164","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","29","Hossam","EGY","3","3","1","1.00","42.86","7"
-"1742823468-165","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","29","Loser Bruno","ARG","3","3","0","0.60","50.00","6"
-"1742823468-166","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","29","Kazemi","IRI","3","0","0","0.75","100.00","3"
-"1742823468-167","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","29","Esfandiar","IRI","3","1","0","0.75","75.00","4"
-"1742823468-168","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","29","B.Othmen M.","TUN","3","4","0","0.75","42.86","7"
-"1742823468-169","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","29","Del Valle","PUR","3","11","0","1.00","21.43","14"
-"1742823468-170","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","29","Poluian","UKR","3","1","0","0.60","75.00","4"
-"1742823468-171","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","29","Drozd","UKR","3","3","1","0.60","42.86","7"
-"1742823468-172","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","29","Sbertoli","ITA","3","0","0","0.43","100.00","3"
-"1742823468-173","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","29","Russo","ITA","3","2","0","0.43","60.00","5"
-"1742823468-174","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","29","Hoag","CAN","3","0","0","1.00","100.00","3"
-"1742823468-175","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","30","Darlan","BRA","2","2","0","0.29","50.00","4"
-"1742823468-176","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","30","Ibrahim","QAT","2","2","0","0.67","50.00","4"
-"1742823468-177","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","30","Toniutti","FRA","2","2","0","0.40","50.00","4"
-"1742823468-178","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","30","Zimmermann","GER","2","0","0","0.50","100.00","2"
-"1742823468-179","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","30","Ensing","USA","2","2","0","0.40","50.00","4"
-"1742823468-180","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","30","K. Russell","USA","2","1","0","0.40","66.67","3"
-"1742823468-181","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","30","Popiwczak","POL","2","1","0","0.29","66.67","3"
-"1742823468-182","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","30","Kłos","POL","2","1","0","0.29","66.67","3"
-"1742823468-183","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","30","Ahmed","CMR","2","2","1","0.67","40.00","5"
-"1742823468-184","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","30","Güneş","TUR","2","1","0","0.50","66.67","3"
-"1742823468-185","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","30","Bedirhan","TUR","2","3","0","0.50","40.00","5"
-"1742823468-186","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","30","Peng S.K.","CHN","2","0","0","0.67","100.00","2"
-"1742823468-187","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","30","Wang B.","CHN","2","0","0","0.67","100.00","2"
-"1742823468-188","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","30","Jorna","NED","2","0","1","0.50","66.67","3"
-"1742823468-189","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","30","Plak","NED","2","2","0","0.50","50.00","4"
-"1742823468-190","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","30","Parkinson","NED","2","3","0","0.50","40.00","5"
-"1742823468-191","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","30","M. Ramadan","EGY","2","0","1","0.67","66.67","3"
-"1742823468-192","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","30","Palacios","ARG","2","1","2","0.40","40.00","5"
-"1742823468-193","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","30","Vicentin","ARG","2","7","1","0.40","20.00","10"
-"1742823468-194","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","30","Ramos","ARG","2","2","2","0.40","33.33","6"
-"1742823468-195","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","30","Zerba","ARG","2","0","0","0.40","100.00","2"
-"1742823468-196","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","30","Morteza","IRI","2","2","0","0.50","50.00","4"
-"1742823468-197","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","30","Agrebi O","TUN","2","2","1","0.50","40.00","5"
-"1742823468-198","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","30","Korbosli T","TUN","2","4","1","0.50","28.57","7"
-"1742823468-199","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","30","Rodriguez","PUR","2","2","0","0.67","50.00","4"
-"1742823468-200","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","30","Lisinac","SRB","2","4","0","0.50","33.33","6"
-"1742823468-201","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","30","Walsh","CAN","2","3","0","0.67","40.00","5"
-"1742823468-202","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","31","Leandro","BRA","1","0","0","0.14","100.00","1"
-"1742823468-203","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","31","Roque","BRA","1","1","0","0.14","50.00","2"
-"1742823468-204","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","31","Gorguet","CUB","1","0","0","0.25","100.00","1"
-"1742823468-205","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","31","M. Essam","QAT","1","3","0","0.33","25.00","4"
-"1742823468-206","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","31","Belal","QAT","1","1","0","0.33","50.00","2"
-"1742823468-207","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","31","Mubarak","QAT","1","0","1","0.33","50.00","2"
-"1742823468-208","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","31","Henry","FRA","1","0","0","0.20","100.00","1"
-"1742823468-209","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","31","Fromm","GER","1","2","1","0.25","25.00","4"
-"1742823468-210","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","31","Brand","GER","1","1","0","0.25","50.00","2"
-"1742823468-211","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","31","Averill","USA","1","1","0","0.20","50.00","2"
-"1742823468-212","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","31","Rodriguez","MEX","1","0","0","0.33","100.00","1"
-"1742823468-213","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","31","Martinez","MEX","1","1","1","0.33","33.33","3"
-"1742823468-214","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","31","Sanay","MEX","1","4","0","0.33","20.00","5"
-"1742823468-215","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","31","Kwolek","POL","1","0","0","0.14","100.00","1"
-"1742823468-216","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","31","Poręba","POL","1","0","0","0.14","100.00","1"
-"1742823468-217","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","31","Kolev","BUL","1","3","0","0.33","25.00","4"
-"1742823468-218","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","31","Grozdanov","BUL","1","0","0","0.33","100.00","1"
-"1742823468-219","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","31","Mandengo","CMR","1","1","0","0.33","50.00","2"
-"1742823468-220","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","31","Bitouna","CMR","1","0","0","0.33","100.00","1"
-"1742823468-221","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","31","Deffo","CMR","1","0","0","0.33","100.00","1"
-"1742823468-222","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","31","Li Y.Z.","CHN","1","0","0","0.33","100.00","1"
-"1742823468-223","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","31","Zhang Z.J.","CHN","1","0","0","0.33","100.00","1"
-"1742823468-224","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","31","De Weijer","NED","1","0","0","0.25","100.00","1"
-"1742823468-225","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","31","Martinez Franchi","ARG","1","0","0","0.20","100.00","1"
-"1742823468-226","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","31","Toukhteh","IRI","1","1","1","0.25","33.33","3"
-"1742823468-227","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","31","Amin","IRI","1","6","0","0.25","14.29","7"
-"1742823468-228","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","31","Bennour R.","TUN","1","0","0","0.25","100.00","1"
-"1742823468-229","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","31","Ben Taher.M","TUN","1","0","0","0.25","100.00","1"
-"1742823468-230","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","31","Lopez","PUR","1","3","0","0.33","25.00","4"
-"1742823468-231","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","31","Kisiliuk","UKR","1","1","1","0.20","33.33","3"
-"1742823468-232","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","31","Synytsia","UKR","1","3","0","0.20","25.00","4"
-"1742823468-233","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","31","Szwarc","CAN","1","0","0","0.33","100.00","1"
-"1742823468-234","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","Maique","BRA","0","0","0","","","0"
-"1742823468-235","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","Sánchez B.","CUB","0","0","0","","","0"
-"1742823468-236","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","Concepcion","CUB","0","0","0","","","0"
-"1742823468-237","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","Osoria","CUB","0","1","0","0.00","0.00","1"
-"1742823468-238","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","Gutierrez","CUB","0","0","0","","","0"
-"1742823468-239","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","J. Gutierrez","CUB","0","0","0","","","0"
-"1742823468-240","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","Yamauchi","JPN","0","0","0","","","0"
-"1742823468-241","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","Takanashi","JPN","0","0","0","","","0"
-"1742823468-242","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","Ogawa","JPN","0","0","0","","","0"
-"1742823468-243","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","Miyaura","JPN","0","0","0","","","0"
-"1742823468-244","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","Sato","JPN","0","0","0","","","0"
-"1742823468-245","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","Murayama","JPN","0","0","0","","","0"
-"1742823468-246","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","Bojan","QAT","0","0","0","","","0"
-"1742823468-247","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","Ababacar","QAT","0","0","0","","","0"
-"1742823468-248","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","Abdullah","QAT","0","0","0","","","0"
-"1742823468-249","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","A. Jamal","QAT","0","0","0","","","0"
-"1742823468-250","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","Osman","QAT","0","0","0","","","0"
-"1742823468-251","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","Chinenyeze","FRA","0","1","0","0.00","0.00","1"
-"1742823468-252","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","Sossenheimer","GER","0","0","0","","","0"
-"1742823468-253","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","Krick","GER","0","0","2","0.00","0.00","2"
-"1742823468-254","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","Maase","GER","0","1","0","0.00","0.00","1"
-"1742823468-255","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","Günthör","GER","0","0","0","","","0"
-"1742823468-256","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","Jendryk","USA","0","3","1","0.00","0.00","4"
-"1742823468-257","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","Tuaniga","USA","0","3","0","0.00","0.00","3"
-"1742823468-258","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","Briggs","USA","0","0","0","","","0"
-"1742823468-259","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","Kessel","USA","0","0","0","","","0"
-"1742823468-260","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","Ferran","MEX","0","0","0","","","0"
-"1742823468-261","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","Mendoza","MEX","0","0","0","","","0"
-"1742823468-262","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","Chavez","MEX","0","0","0","","","0"
-"1742823468-263","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","Baca","MEX","0","0","0","","","0"
-"1742823468-264","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","Lopez B.","MEX","0","0","0","","","0"
-"1742823468-265","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","Karyagin","BUL","0","0","0","","","0"
-"1742823468-266","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","Chavdarov","BUL","0","0","0","","","0"
-"1742823468-267","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","Atanasov","BUL","0","4","0","0.00","0.00","4"
-"1742823468-268","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","D. Dimitrov","BUL","0","0","0","","","0"
-"1742823468-269","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","Skrimov","BUL","0","0","0","","","0"
-"1742823468-270","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","S.Ivanov","BUL","0","0","0","","","0"
-"1742823468-271","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","Gasparini","SLO","0","0","0","","","0"
-"1742823468-272","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","Štalekar","SLO","0","0","0","","","0"
-"1742823468-273","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","Koncilja","SLO","0","0","0","","","0"
-"1742823468-274","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","Klobucar","SLO","0","0","0","","","0"
-"1742823468-275","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","Z. Štern","SLO","0","0","0","","","0"
-"1742823468-276","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","Badawe","CMR","0","2","0","0.00","0.00","2"
-"1742823468-277","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","Amabaya","CMR","0","0","0","","","0"
-"1742823468-278","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","Kofane","CMR","0","0","1","0.00","0.00","1"
-"1742823468-279","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","Hile","CMR","0","0","0","","","0"
-"1742823468-280","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","Voukeng","CMR","0","1","0","0.00","0.00","1"
-"1742823468-281","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","Metin T.","TUR","0","0","0","","","0"
-"1742823468-282","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","Bostan","TUR","0","0","0","","","0"
-"1742823468-283","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","M. Lagumdzija","TUR","0","0","0","","","0"
-"1742823468-284","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","Tümer","TUR","0","0","0","","","0"
-"1742823468-285","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","Gürbüz","TUR","0","0","0","","","0"
-"1742823468-286","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","Doğukan U.","TUR","0","0","0","","","0"
-"1742823468-287","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","Dai Q.Y.","CHN","0","0","0","","","0"
-"1742823468-288","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","Zhang B.L.","CHN","0","0","0","","","0"
-"1742823468-289","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","Yang T.Y.","CHN","0","1","0","0.00","0.00","1"
-"1742823468-290","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","Liu M.","CHN","0","0","0","","","0"
-"1742823468-291","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","Miao R.T.","CHN","0","0","0","","","0"
-"1742823468-292","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","Van Garderen","NED","0","0","0","","","0"
-"1742823468-293","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","Van Der Ent","NED","0","0","0","","","0"
-"1742823468-294","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","Bleeker","NED","0","0","0","","","0"
-"1742823468-295","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","Ter Maat","NED","0","0","0","","","0"
-"1742823468-296","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","Wiltenburg","NED","0","0","0","","","0"
-"1742823468-297","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","A. Fathy","EGY","0","0","0","","","0"
-"1742823468-298","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","Elhossiny","EGY","0","0","0","","","0"
-"1742823468-299","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","M.Elmahdy","EGY","0","0","0","","","0"
-"1742823468-300","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","A. Kotb","EGY","0","1","0","0.00","0.00","1"
-"1742823468-301","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","Deyo","EGY","0","0","0","","","0"
-"1742823468-302","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","M. Magdy","EGY","0","0","0","","","0"
-"1742823468-303","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","Sanchez Pages","ARG","0","2","1","0.00","0.00","3"
-"1742823468-304","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","Gallego","ARG","0","0","0","","","0"
-"1742823468-305","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","Kukartsev","ARG","0","0","0","","","0"
-"1742823468-306","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","Jelveh","IRI","0","0","0","","","0"
-"1742823468-307","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","Shahrooz","IRI","0","0","0","","","0"
-"1742823468-308","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","M. R. Moazzen","IRI","0","0","0","","","0"
-"1742823468-309","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","J.Manavi","IRI","0","1","0","0.00","0.00","1"
-"1742823468-310","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","Javad","IRI","0","1","0","0.00","0.00","1"
-"1742823468-311","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","Abdelhedi Y","TUN","0","0","0","","","0"
-"1742823468-312","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","Mbareki S.","TUN","0","0","0","","","0"
-"1742823468-313","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","Bongui.A","TUN","0","0","0","","","0"
-"1742823468-314","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","Hoyos","PUR","0","0","0","","","0"
-"1742823468-315","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","Nieves","PUR","0","3","0","0.00","0.00","3"
-"1742823468-316","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","Nido","PUR","0","0","0","","","0"
-"1742823468-317","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","Alomar","PUR","0","0","0","","","0"
-"1742823468-318","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","Elias","PUR","0","0","0","","","0"
-"1742823468-319","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","Shevchenko","UKR","0","0","0","","","0"
-"1742823468-320","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","Brova","UKR","0","0","0","","","0"
-"1742823468-321","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","Ostapenko","UKR","0","0","0","","","0"
-"1742823468-322","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","Fomin","UKR","0","0","0","","","0"
-"1742823468-323","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","Petric","SRB","0","0","1","0.00","0.00","1"
-"1742823468-324","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","Krsmanović","SRB","0","0","0","","","0"
-"1742823468-325","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","Perić","SRB","0","0","0","","","0"
-"1742823468-326","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","Mašulović N.","SRB","0","0","0","","","0"
-"1742823468-327","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","Todorović","SRB","0","0","0","","","0"
-"1742823468-328","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","Pinali","ITA","0","0","0","","","0"
-"1742823468-329","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","Recine","ITA","0","0","0","","","0"
-"1742823468-330","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","Bottolo","ITA","0","0","0","","","0"
-"1742823468-331","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","Mosca","ITA","0","0","0","","","0"
-"1742823468-332","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","Loeppky","CAN","0","0","0","","","0"
-"1742823468-333","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","Eshenko","CAN","0","0","0","","","0"
-"1742823468-334","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","Hofer","CAN","0","0","0","","","0"
-"1742823468-335","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","Howe","CAN","0","0","0","","","0"
-"1742823468-336","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-diggers/","32","M. Elser","CAN","0","0","0","","","0"
+Rank,Player Name,Team,Digs,Errors,Receptions,Average Per Match,Success,Total
+1,Thales,BRA,59,12,7,8.43,75.64,78
+2,Zatorski,POL,52,15,6,7.43,71.23,73
+3,Balaso,ITA,48,19,11,6.86,61.54,78
+4,Kovačič,SLO,39,17,5,5.57,63.93,61
+5,Danani,ARG,30,10,4,6.0,68.18,44
+6,E. Shoji,USA,28,17,6,5.6,54.9,51
+7,Lavia,ITA,26,7,0,3.71,78.79,33
+8,Giannelli,ITA,25,10,5,3.57,62.5,40
+9,Garcia,CUB,24,12,2,6.0,63.16,38
+9,Anderson,USA,24,14,2,4.8,60.0,40
+10,Kurek,POL,23,8,4,3.29,65.71,35
+11,Plotnytskyi,UKR,22,7,1,4.4,73.33,30
+11,Michieletto,ITA,22,10,1,3.14,66.67,33
+12,Urnaut,SLO,21,8,2,3.0,67.74,31
+12,Romanò,ITA,21,11,3,3.0,60.0,35
+13,Leal,BRA,20,7,8,2.86,57.14,35
+13,Lucarelli,BRA,20,6,1,2.86,74.07,27
+13,Kovalov,UKR,20,9,2,4.0,64.52,31
+14,Yamamoto,JPN,19,6,1,4.75,73.08,26
+14,Grebennikov,FRA,19,8,0,3.8,70.37,27
+14,Zenger,GER,19,7,1,4.75,70.37,27
+14,Čebulj,SLO,19,17,3,2.71,48.72,39
+15,Semeniuk,POL,18,5,5,2.57,64.29,28
+15,Janusz,POL,18,11,0,2.57,62.07,29
+16,Ran,JPN,17,3,3,4.25,73.91,23
+16,Kampa,GER,17,5,0,4.25,77.27,22
+16,V. Ivanov,BUL,17,11,4,5.67,53.12,32
+16,Ropret,SLO,17,6,1,2.43,70.83,24
+17,Russell,USA,16,16,1,3.2,48.48,33
+17,Kanaiev,UKR,16,11,2,3.2,55.17,29
+18,Wallace,BRA,14,4,2,2.0,70.0,20
+18,Ngapeth,FRA,14,2,1,2.8,82.35,17
+19,Bravo,MEX,13,7,0,4.33,65.0,20
+19,Śliwka,POL,13,5,0,1.86,72.22,18
+19,Subaşı,TUR,13,4,0,3.25,76.47,17
+20,Fernando,BRA,12,10,3,1.71,48.0,25
+20,Herrera,CUB,12,5,2,3.0,63.16,19
+20,T. Štern,SLO,12,6,1,1.71,63.16,19
+20,Milad,IRI,12,6,1,3.0,63.16,19
+20,Hazrat,IRI,12,4,1,3.0,70.59,17
+21,Bruno,BRA,11,7,2,1.57,55.0,20
+21,Christenson,USA,11,8,1,2.2,55.0,20
+21,Bieniek,POL,11,6,1,1.57,61.11,18
+21,Ter Horst,NED,11,4,0,2.75,73.33,15
+21,Facu,ARG,11,5,6,2.2,50.0,22
+21,Tupchii,UKR,11,7,2,2.2,55.0,20
+21,Shchytkov,UKR,11,3,2,2.2,68.75,16
+22,Lucas,BRA,10,1,1,1.43,83.33,12
+22,Defalco,USA,10,6,4,2.0,50.0,20
+22,Sokolov,BUL,10,12,1,3.33,43.48,23
+22,Pajenk,SLO,10,4,0,1.43,71.43,14
+22,Kozamernik,SLO,10,2,2,1.43,71.43,14
+22,De Cecco,ARG,10,5,3,2.0,55.56,18
+22,Vadi,IRI,10,1,0,2.5,90.91,11
+22,Ben Slimene K,TUN,10,7,1,2.5,55.56,18
+22,Nagga H.,TUN,10,5,1,2.5,62.5,16
+22,Hmissi S,TUN,10,8,1,2.5,52.63,19
+22,Vargas,PUR,10,6,0,3.33,62.5,16
+22,Marshall,CAN,10,5,3,3.33,55.56,18
+23,Flavio,BRA,9,1,1,1.29,81.82,11
+23,Nishida,JPN,9,8,2,2.25,47.37,19
+23,Sekita,JPN,9,5,1,2.25,60.0,15
+23,Brizard,FRA,9,5,1,1.8,60.0,15
+23,Boyer,FRA,9,3,2,1.8,64.29,14
+23,Clevenot,FRA,9,2,0,1.8,81.82,11
+23,Gonzalez,MEX,9,7,2,3.0,50.0,18
+23,Döne,TUR,9,9,2,2.25,45.0,20
+23,Nimir,NED,9,7,2,2.25,50.0,18
+23,Cabrera,PUR,9,6,2,3.0,52.94,17
+23,Kovačević,SRB,9,2,0,2.25,81.82,11
+23,Pekovic,SRB,9,13,1,2.25,39.13,23
+23,Ivović,SRB,9,1,2,2.25,75.0,12
+24,Yant,CUB,8,2,1,2.0,72.73,11
+24,Ishikawa,JPN,8,6,1,2.0,53.33,15
+24,Sulaiman,QAT,8,5,0,2.67,61.54,13
+24,Tillie,FRA,8,4,0,1.6,66.67,12
+24,Kochanowski,POL,8,7,1,1.14,50.0,16
+24,Seganov,BUL,8,4,1,2.67,61.54,13
+24,Vinčić,SLO,8,4,1,1.14,61.54,13
+24,Keemink,NED,8,1,3,2.0,66.67,12
+24,Issa,EGY,8,3,3,2.67,57.14,14
+24,Molina,PUR,8,2,0,2.67,80.0,10
+24,Anzani,ITA,8,0,1,1.14,88.89,9
+24,Maar,CAN,8,7,2,2.67,47.06,17
+25,Simón,CUB,7,4,1,1.75,58.33,12
+25,Lopez,CUB,7,5,0,1.75,58.33,12
+25,Smith,USA,7,4,1,1.4,58.33,12
+25,Aranda,MEX,7,8,3,2.33,38.89,18
+25,Kaczmarek,POL,7,1,1,1.0,77.78,9
+25,Fornal,POL,7,2,1,1.0,70.0,10
+25,Možič,SLO,7,4,0,1.0,63.64,11
+25,Güngör,TUR,7,3,0,1.75,70.0,10
+25,Ekşi,TUR,7,6,1,1.75,50.0,14
+25,A. Lagumdzija,TUR,7,3,1,1.75,63.64,11
+25,Bayraktar,TUR,7,5,1,1.75,53.85,13
+25,Yang Y.M.,CHN,7,5,1,2.33,53.85,13
+25,Tuinstra,NED,7,2,0,1.75,77.78,9
+25,Andringa,NED,7,7,2,1.75,43.75,16
+25,Iglesias,PUR,7,6,1,2.33,50.0,14
+26,Rodriguinho,BRA,6,4,1,0.86,54.55,11
+26,Mergarejo,CUB,6,5,0,1.5,54.55,11
+26,Onodera,JPN,6,1,0,1.5,85.71,7
+26,Renan,QAT,6,7,1,2.0,42.86,14
+26,Diez,FRA,6,1,0,1.2,85.71,7
+26,Mendoza,MEX,6,3,0,2.0,66.67,9
+26,Fuentes,MEX,6,7,0,2.0,46.15,13
+26,Asparuhov,BUL,6,5,1,2.0,50.0,12
+26,Yu Y.C.,CHN,6,2,1,2.0,66.67,9
+26,Bouguerra.A,TUN,6,3,2,1.5,54.55,11
+26,Lawrence,PUR,6,7,1,2.0,42.86,14
+26,Semeniuk,UKR,6,2,2,1.2,60.0,10
+26,Jovović,SRB,6,3,1,1.5,60.0,10
+26,Atanasijević,SRB,6,4,4,1.5,42.86,14
+26,Epp,CAN,6,2,0,2.0,75.0,8
+27,Otsuka,JPN,5,0,0,1.25,100.0,5
+27,Reichert,GER,5,5,1,1.25,45.45,11
+27,Muagututia,USA,5,2,0,1.0,71.43,7
+27,Zhang J.Y.,CHN,5,4,0,1.67,55.56,9
+27,R.Haikal,EGY,5,1,1,1.67,71.43,7
+27,Karamosli E,TUN,5,6,1,1.25,41.67,12
+27,Katic,SRB,5,2,0,1.25,71.43,7
+27,Petkovic,SRB,5,5,0,1.25,50.0,10
+27,Galassi,ITA,5,1,0,0.71,83.33,6
+27,Van Berkel,CAN,5,2,0,1.67,71.43,7
+28,Goide,CUB,4,3,1,1.0,50.0,8
+28,Y.Oughlaf,QAT,4,2,0,1.33,66.67,6
+28,Nikola,QAT,4,4,1,1.33,44.44,9
+28,Louati,FRA,4,2,0,0.8,66.67,6
+28,Weber,GER,4,1,0,1.0,80.0,5
+28,Łomacz,POL,4,1,0,0.57,80.0,5
+28,A. Nikolov,BUL,4,5,1,1.33,40.0,10
+28,Bassoko,CMR,4,3,0,1.33,57.14,7
+28,Landry,CMR,4,3,0,1.33,57.14,7
+28,Kody,CMR,4,2,3,1.33,44.44,9
+28,Zhang G.H.,CHN,4,3,0,1.33,57.14,7
+28,A. Seoudy,EGY,4,1,0,1.33,80.0,5
+28,M. Reda,EGY,4,2,1,1.33,57.14,7
+28,A.Said,EGY,4,4,4,1.33,33.33,12
+28,Lima B.,ARG,4,3,2,0.8,44.44,9
+28,Palonsky,ARG,4,2,1,0.8,57.14,7
+28,Mojarad,IRI,4,4,0,1.0,50.0,8
+28,Kadhi A,TUN,4,3,0,1.0,57.14,7
+28,Torres,PUR,4,0,0,1.33,100.0,4
+28,Podraščanin,ITA,4,3,1,1.0,50.0,8
+28,Scanferla,ITA,4,0,0,0.57,100.0,4
+28,Sclater,CAN,4,4,1,1.33,44.44,9
+28,Barnes,CAN,4,3,0,1.33,57.14,7
+29,Adriano,BRA,3,0,0,0.43,100.0,3
+29,Taboada,CUB,3,2,0,0.75,60.0,5
+29,Oya,JPN,3,0,0,0.75,100.0,3
+29,Milos,QAT,3,2,2,1.0,42.86,7
+29,Patry,FRA,3,5,1,0.6,33.33,9
+29,Le Goff,FRA,3,1,0,0.6,75.0,4
+29,Jouffroy,FRA,3,0,0,0.6,100.0,3
+29,Schott,GER,3,1,0,0.75,75.0,4
+29,Karlitzek,GER,3,1,1,0.75,60.0,5
+29,Krage,GER,3,0,0,0.75,100.0,3
+29,Lopez,MEX,3,4,0,1.0,42.86,7
+29,Gotsev,BUL,3,1,0,1.0,75.0,4
+29,Dolengombai,CMR,3,0,0,1.0,100.0,3
+29,Djam,CMR,3,1,1,1.0,60.0,5
+29,Yu Y.T.,CHN,3,2,0,1.0,60.0,5
+29,Dola,EGY,3,1,0,1.0,75.0,4
+29,Hossam,EGY,3,3,1,1.0,42.86,7
+29,Loser Bruno,ARG,3,3,0,0.6,50.0,6
+29,Kazemi,IRI,3,0,0,0.75,100.0,3
+29,Esfandiar,IRI,3,1,0,0.75,75.0,4
+29,B.Othmen M.,TUN,3,4,0,0.75,42.86,7
+29,Del Valle,PUR,3,11,0,1.0,21.43,14
+29,Poluian,UKR,3,1,0,0.6,75.0,4
+29,Drozd,UKR,3,3,1,0.6,42.86,7
+29,Sbertoli,ITA,3,0,0,0.43,100.0,3
+29,Russo,ITA,3,2,0,0.43,60.0,5
+29,Hoag,CAN,3,0,0,1.0,100.0,3
+30,Darlan,BRA,2,2,0,0.29,50.0,4
+30,Ibrahim,QAT,2,2,0,0.67,50.0,4
+30,Toniutti,FRA,2,2,0,0.4,50.0,4
+30,Zimmermann,GER,2,0,0,0.5,100.0,2
+30,Ensing,USA,2,2,0,0.4,50.0,4
+30,K. Russell,USA,2,1,0,0.4,66.67,3
+30,Popiwczak,POL,2,1,0,0.29,66.67,3
+30,Kłos,POL,2,1,0,0.29,66.67,3
+30,Ahmed,CMR,2,2,1,0.67,40.0,5
+30,Güneş,TUR,2,1,0,0.5,66.67,3
+30,Bedirhan,TUR,2,3,0,0.5,40.0,5
+30,Peng S.K.,CHN,2,0,0,0.67,100.0,2
+30,Wang B.,CHN,2,0,0,0.67,100.0,2
+30,Jorna,NED,2,0,1,0.5,66.67,3
+30,Plak,NED,2,2,0,0.5,50.0,4
+30,Parkinson,NED,2,3,0,0.5,40.0,5
+30,M. Ramadan,EGY,2,0,1,0.67,66.67,3
+30,Palacios,ARG,2,1,2,0.4,40.0,5
+30,Vicentin,ARG,2,7,1,0.4,20.0,10
+30,Ramos,ARG,2,2,2,0.4,33.33,6
+30,Zerba,ARG,2,0,0,0.4,100.0,2
+30,Morteza,IRI,2,2,0,0.5,50.0,4
+30,Agrebi O,TUN,2,2,1,0.5,40.0,5
+30,Korbosli T,TUN,2,4,1,0.5,28.57,7
+30,Rodriguez,PUR,2,2,0,0.67,50.0,4
+30,Lisinac,SRB,2,4,0,0.5,33.33,6
+30,Walsh,CAN,2,3,0,0.67,40.0,5
+31,Leandro,BRA,1,0,0,0.14,100.0,1
+31,Roque,BRA,1,1,0,0.14,50.0,2
+31,Gorguet,CUB,1,0,0,0.25,100.0,1
+31,M. Essam,QAT,1,3,0,0.33,25.0,4
+31,Belal,QAT,1,1,0,0.33,50.0,2
+31,Mubarak,QAT,1,0,1,0.33,50.0,2
+31,Henry,FRA,1,0,0,0.2,100.0,1
+31,Fromm,GER,1,2,1,0.25,25.0,4
+31,Brand,GER,1,1,0,0.25,50.0,2
+31,Averill,USA,1,1,0,0.2,50.0,2
+31,Rodriguez,MEX,1,0,0,0.33,100.0,1
+31,Martinez,MEX,1,1,1,0.33,33.33,3
+31,Sanay,MEX,1,4,0,0.33,20.0,5
+31,Kwolek,POL,1,0,0,0.14,100.0,1
+31,Poręba,POL,1,0,0,0.14,100.0,1
+31,Kolev,BUL,1,3,0,0.33,25.0,4
+31,Grozdanov,BUL,1,0,0,0.33,100.0,1
+31,Mandengo,CMR,1,1,0,0.33,50.0,2
+31,Bitouna,CMR,1,0,0,0.33,100.0,1
+31,Deffo,CMR,1,0,0,0.33,100.0,1
+31,Li Y.Z.,CHN,1,0,0,0.33,100.0,1
+31,Zhang Z.J.,CHN,1,0,0,0.33,100.0,1
+31,De Weijer,NED,1,0,0,0.25,100.0,1
+31,Martinez Franchi,ARG,1,0,0,0.2,100.0,1
+31,Toukhteh,IRI,1,1,1,0.25,33.33,3
+31,Amin,IRI,1,6,0,0.25,14.29,7
+31,Bennour R.,TUN,1,0,0,0.25,100.0,1
+31,Ben Taher.M,TUN,1,0,0,0.25,100.0,1
+31,Lopez,PUR,1,3,0,0.33,25.0,4
+31,Kisiliuk,UKR,1,1,1,0.2,33.33,3
+31,Synytsia,UKR,1,3,0,0.2,25.0,4
+31,Szwarc,CAN,1,0,0,0.33,100.0,1
+32,Maique,BRA,0,0,0,,,0
+32,Sánchez B.,CUB,0,0,0,,,0
+32,Concepcion,CUB,0,0,0,,,0
+32,Osoria,CUB,0,1,0,0.0,0.0,1
+32,Gutierrez,CUB,0,0,0,,,0
+32,J. Gutierrez,CUB,0,0,0,,,0
+32,Yamauchi,JPN,0,0,0,,,0
+32,Takanashi,JPN,0,0,0,,,0
+32,Ogawa,JPN,0,0,0,,,0
+32,Miyaura,JPN,0,0,0,,,0
+32,Sato,JPN,0,0,0,,,0
+32,Murayama,JPN,0,0,0,,,0
+32,Bojan,QAT,0,0,0,,,0
+32,Ababacar,QAT,0,0,0,,,0
+32,Abdullah,QAT,0,0,0,,,0
+32,A. Jamal,QAT,0,0,0,,,0
+32,Osman,QAT,0,0,0,,,0
+32,Chinenyeze,FRA,0,1,0,0.0,0.0,1
+32,Sossenheimer,GER,0,0,0,,,0
+32,Krick,GER,0,0,2,0.0,0.0,2
+32,Maase,GER,0,1,0,0.0,0.0,1
+32,Günthör,GER,0,0,0,,,0
+32,Jendryk,USA,0,3,1,0.0,0.0,4
+32,Tuaniga,USA,0,3,0,0.0,0.0,3
+32,Briggs,USA,0,0,0,,,0
+32,Kessel,USA,0,0,0,,,0
+32,Ferran,MEX,0,0,0,,,0
+32,Mendoza,MEX,0,0,0,,,0
+32,Chavez,MEX,0,0,0,,,0
+32,Baca,MEX,0,0,0,,,0
+32,Lopez B.,MEX,0,0,0,,,0
+32,Karyagin,BUL,0,0,0,,,0
+32,Chavdarov,BUL,0,0,0,,,0
+32,Atanasov,BUL,0,4,0,0.0,0.0,4
+32,D. Dimitrov,BUL,0,0,0,,,0
+32,Skrimov,BUL,0,0,0,,,0
+32,S.Ivanov,BUL,0,0,0,,,0
+32,Gasparini,SLO,0,0,0,,,0
+32,Štalekar,SLO,0,0,0,,,0
+32,Koncilja,SLO,0,0,0,,,0
+32,Klobucar,SLO,0,0,0,,,0
+32,Z. Štern,SLO,0,0,0,,,0
+32,Badawe,CMR,0,2,0,0.0,0.0,2
+32,Amabaya,CMR,0,0,0,,,0
+32,Kofane,CMR,0,0,1,0.0,0.0,1
+32,Hile,CMR,0,0,0,,,0
+32,Voukeng,CMR,0,1,0,0.0,0.0,1
+32,Metin T.,TUR,0,0,0,,,0
+32,Bostan,TUR,0,0,0,,,0
+32,M. Lagumdzija,TUR,0,0,0,,,0
+32,Tümer,TUR,0,0,0,,,0
+32,Gürbüz,TUR,0,0,0,,,0
+32,Doğukan U.,TUR,0,0,0,,,0
+32,Dai Q.Y.,CHN,0,0,0,,,0
+32,Zhang B.L.,CHN,0,0,0,,,0
+32,Yang T.Y.,CHN,0,1,0,0.0,0.0,1
+32,Liu M.,CHN,0,0,0,,,0
+32,Miao R.T.,CHN,0,0,0,,,0
+32,Van Garderen,NED,0,0,0,,,0
+32,Van Der Ent,NED,0,0,0,,,0
+32,Bleeker,NED,0,0,0,,,0
+32,Ter Maat,NED,0,0,0,,,0
+32,Wiltenburg,NED,0,0,0,,,0
+32,A. Fathy,EGY,0,0,0,,,0
+32,Elhossiny,EGY,0,0,0,,,0
+32,M.Elmahdy,EGY,0,0,0,,,0
+32,A. Kotb,EGY,0,1,0,0.0,0.0,1
+32,Deyo,EGY,0,0,0,,,0
+32,M. Magdy,EGY,0,0,0,,,0
+32,Sanchez Pages,ARG,0,2,1,0.0,0.0,3
+32,Gallego,ARG,0,0,0,,,0
+32,Kukartsev,ARG,0,0,0,,,0
+32,Jelveh,IRI,0,0,0,,,0
+32,Shahrooz,IRI,0,0,0,,,0
+32,M. R. Moazzen,IRI,0,0,0,,,0
+32,J.Manavi,IRI,0,1,0,0.0,0.0,1
+32,Javad,IRI,0,1,0,0.0,0.0,1
+32,Abdelhedi Y,TUN,0,0,0,,,0
+32,Mbareki S.,TUN,0,0,0,,,0
+32,Bongui.A,TUN,0,0,0,,,0
+32,Hoyos,PUR,0,0,0,,,0
+32,Nieves,PUR,0,3,0,0.0,0.0,3
+32,Nido,PUR,0,0,0,,,0
+32,Alomar,PUR,0,0,0,,,0
+32,Elias,PUR,0,0,0,,,0
+32,Shevchenko,UKR,0,0,0,,,0
+32,Brova,UKR,0,0,0,,,0
+32,Ostapenko,UKR,0,0,0,,,0
+32,Fomin,UKR,0,0,0,,,0
+32,Petric,SRB,0,0,1,0.0,0.0,1
+32,Krsmanović,SRB,0,0,0,,,0
+32,Perić,SRB,0,0,0,,,0
+32,Mašulović N.,SRB,0,0,0,,,0
+32,Todorović,SRB,0,0,0,,,0
+32,Pinali,ITA,0,0,0,,,0
+32,Recine,ITA,0,0,0,,,0
+32,Bottolo,ITA,0,0,0,,,0
+32,Mosca,ITA,0,0,0,,,0
+32,Loeppky,CAN,0,0,0,,,0
+32,Eshenko,CAN,0,0,0,,,0
+32,Hofer,CAN,0,0,0,,,0
+32,Howe,CAN,0,0,0,,,0
+32,M. Elser,CAN,0,0,0,,,0

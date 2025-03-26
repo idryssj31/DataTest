@@ -1,145 +1,145 @@
-﻿web-scraper-order,web-scraper-start-url,Rank,Player Name,Team,Successful,Errors,Attempts,Average Per Match,Success,Total
-"1742822528-1","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","1","De Cecco","ARG","362","2","323","45.25","52.69","687"
-"1742822528-2","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","2","Bruno","BRA","345","2","308","43.12","52.67","655"
-"1742822528-3","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","3","Drzyzga","POL","265","3","198","44.17","56.87","466"
-"1742822528-4","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","4","Kobzar","ROC","262","3","231","32.75","52.82","496"
-"1742822528-5","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","5","Christenson","USA","240","1","178","48.00","57.28","419"
-"1742822528-6","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","6","Brizard","FRA","234","1","184","29.25","55.85","419"
-"1742822528-7","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","7","Sekita","JPN","215","1","204","35.83","51.19","420"
-"1742822528-8","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","8","Giannelli","ITA","202","2","160","50.50","55.49","364"
-"1742822528-9","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","9","TJ","CAN","186","0","161","31.00","53.60","347"
-"1742822528-10","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","10","S. Marouf","IRI","160","0","150","32.00","51.61","310"
-"1742822528-11","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","11","Ben Slimene K","TUN","157","3","206","31.40","42.90","366"
-"1742822528-12","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","12","Toniutti","FRA","136","0","101","27.20","57.38","237"
-"1742822528-13","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","13","Chema","VEN","92","2","112","18.40","44.66","206"
-"1742822528-14","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","14","Sbertoli","ITA","74","0","54","12.33","57.81","128"
-"1742822528-15","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","15","Pankov","ROC","65","2","68","8.12","48.15","135"
-"1742822528-16","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","16","Armando","VEN","51","0","56","10.20","47.66","107"
-"1742822528-17","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","16","Javad","IRI","51","1","41","12.75","54.84","93"
-"1742822528-18","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","17","Fujii","JPN","46","0","36","11.50","56.10","82"
-"1742822528-19","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","18","Fernando","BRA","36","0","43","6.00","45.57","79"
-"1742822528-20","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","19","Blankenau","CAN","32","2","27","5.33","52.46","61"
-"1742822528-21","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","20","Sanchez Pages","ARG","19","1","24","2.38","43.18","44"
-"1742822528-22","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","21","Bann","CAN","17","0","21","2.83","44.74","38"
-"1742822528-23","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","22","Facu","ARG","15","0","19","1.88","44.12","34"
-"1742822528-24","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","22","Grebennikov","FRA","15","1","19","1.88","42.86","35"
-"1742822528-25","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","23","Thales","BRA","14","0","26","1.75","35.00","40"
-"1742822528-26","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","24","Ishikawa","JPN","13","0","17","2.17","43.33","30"
-"1742822528-27","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","25","Ngapeth","FRA","12","0","21","1.50","36.36","33"
-"1742822528-28","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","26","Mata","VEN","11","0","15","2.20","42.31","26"
-"1742822528-29","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","27","Colaci","ITA","10","0","10","1.67","50.00","20"
-"1742822528-30","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","27","Kliuka","ROC","10","1","21","1.25","31.25","32"
-"1742822528-31","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","27","Milad","IRI","10","0","7","2.00","58.82","17"
-"1742822528-32","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","28","Hmissi S","TUN","9","0","16","1.80","36.00","25"
-"1742822528-33","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","28","Łomacz","POL","9","0","3","2.25","75.00","12"
-"1742822528-34","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","28","Defalco","USA","9","0","10","1.80","47.37","19"
-"1742822528-35","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","28","Clevenot","FRA","9","0","15","1.12","37.50","24"
-"1742822528-36","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","29","Juantorena","ITA","8","0","19","1.33","29.63","27"
-"1742822528-37","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","29","Golubev","ROC","8","0","16","1.00","33.33","24"
-"1742822528-38","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","30","Hoag","CAN","7","0","12","1.17","36.84","19"
-"1742822528-39","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","30","Lucarelli","BRA","7","0","16","0.88","30.43","23"
-"1742822528-40","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","30","Danani","ARG","7","0","18","0.88","28.00","25"
-"1742822528-41","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","30","Kubiak","POL","7","0","5","1.75","58.33","12"
-"1742822528-42","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","31","Perrin","CAN","6","1","8","1.20","40.00","15"
-"1742822528-43","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","31","Volkov","ROC","6","0","16","0.75","27.27","22"
-"1742822528-44","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","31","Mikhaylov","ROC","6","0","5","0.75","54.55","11"
-"1742822528-45","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","31","Zatorski","POL","6","0","11","1.00","35.29","17"
-"1742822528-46","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","32","Moalla I.","TUN","5","0","3","1.00","62.50","8"
-"1742822528-47","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","32","Yamamoto","JPN","5","0","7","0.83","41.67","12"
-"1742822528-48","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","32","Salehi","IRI","5","0","5","1.00","50.00","10"
-"1742822528-49","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","32","Patry","FRA","5","0","12","0.62","29.41","17"
-"1742822528-50","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","33","Zaytsev","ITA","4","1","4","0.80","44.44","9"
-"1742822528-51","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","33","Michieletto","ITA","4","0","6","0.67","40.00","10"
-"1742822528-52","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","33","Palacios","ARG","4","0","11","0.50","26.67","15"
-"1742822528-53","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","33","Ran","JPN","4","0","5","0.67","44.44","9"
-"1742822528-54","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","33","Takanashi","JPN","4","0","1","0.67","80.00","5"
-"1742822528-55","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","33","Marandi","IRI","4","0","11","0.80","26.67","15"
-"1742822528-56","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","33","Arman","IRI","4","0","1","2.00","80.00","5"
-"1742822528-57","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","33","E. Shoji","USA","4","0","17","0.80","19.05","21"
-"1742822528-58","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","33","Holt","USA","4","0","3","0.80","57.14","7"
-"1742822528-59","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","33","Chinenyeze","FRA","4","0","4","0.50","50.00","8"
-"1742822528-60","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","34","Sclater","CAN","3","0","4","0.50","42.86","7"
-"1742822528-61","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","34","Ben Cheikh M","TUN","3","0","3","3.00","50.00","6"
-"1742822528-62","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","34","Leon","POL","3","0","6","0.60","33.33","9"
-"1742822528-63","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","34","Śliwka","POL","3","0","10","0.75","23.08","13"
-"1742822528-64","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","34","Seyed","IRI","3","0","4","0.75","42.86","7"
-"1742822528-65","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","35","Piano","ITA","2","0","1","0.40","66.67","3"
-"1742822528-66","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","35","Van Berkel","CAN","2","0","3","0.33","40.00","5"
-"1742822528-67","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","35","Vernon","CAN","2","0","2","0.40","50.00","4"
-"1742822528-68","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","35","Anzani","ITA","2","1","2","0.40","40.00","5"
-"1742822528-69","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","35","Maar","CAN","2","0","4","0.50","33.33","6"
-"1742822528-70","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","35","Wallace","BRA","2","0","6","0.25","25.00","8"
-"1742822528-71","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","35","B.Othmen M.","TUN","2","1","4","0.40","28.57","7"
-"1742822528-72","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","35","M. Souza","BRA","2","0","4","0.29","33.33","6"
-"1742822528-73","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","35","Volvich","ROC","2","0","3","0.29","40.00","5"
-"1742822528-74","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","35","Podlesnykh","ROC","2","0","2","0.33","50.00","4"
-"1742822528-75","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","35","Sole","ITA","2","0","7","0.25","22.22","9"
-"1742822528-76","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","35","Loser Bruno","ARG","2","0","4","0.25","33.33","6"
-"1742822528-77","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","35","Poglajen","ARG","2","0","4","0.25","33.33","6"
-"1742822528-78","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","35","Nishida","JPN","2","0","7","0.33","22.22","9"
-"1742822528-79","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","35","Willner","VEN","2","0","2","0.40","50.00","4"
-"1742822528-80","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","35","Fayola","VEN","2","0","10","0.40","16.67","12"
-"1742822528-81","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","35","Kurek","POL","2","0","1","0.33","66.67","3"
-"1742822528-82","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","35","Bieniek","POL","2","0","1","0.33","66.67","3"
-"1742822528-83","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","35","Kaczmarek","POL","2","0","2","0.33","50.00","4"
-"1742822528-84","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","35","Smith","USA","2","0","2","0.40","50.00","4"
-"1742822528-85","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","35","T. Sander","USA","2","0","9","0.40","18.18","11"
-"1742822528-86","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","36","Galassi","ITA","1","0","4","0.17","20.00","5"
-"1742822528-87","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","36","Vigrass","CAN","1","1","4","0.17","16.67","6"
-"1742822528-88","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","36","Szwarc","CAN","1","0","2","0.25","33.33","3"
-"1742822528-89","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","36","Leal","BRA","1","1","7","0.12","11.11","9"
-"1742822528-90","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","36","Kadhi A","TUN","1","0","1","0.20","50.00","2"
-"1742822528-91","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","36","Karamosli E","TUN","1","0","2","0.25","33.33","3"
-"1742822528-92","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","36","Nagga H.","TUN","1","0","2","0.33","33.33","3"
-"1742822528-93","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","36","Mauricio","BRA","1","0","2","0.12","33.33","3"
-"1742822528-94","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","36","Iakovlev","ROC","1","1","5","0.12","14.29","7"
-"1742822528-95","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","36","Pereyra L.","ARG","1","0","0","0.14","100.00","1"
-"1742822528-96","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","36","Onodera","JPN","1","0","4","0.17","20.00","5"
-"1742822528-97","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","36","Emerson","VEN","1","0","4","0.20","20.00","5"
-"1742822528-98","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","36","Valencia","VEN","1","0","5","0.20","16.67","6"
-"1742822528-99","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","36","Otsuka","JPN","1","0","0","1.00","100.00","1"
-"1742822528-100","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","36","Kochanowski","POL","1","0","1","0.17","50.00","2"
-"1742822528-101","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","36","A. Ghafour","IRI","1","0","3","0.20","25.00","4"
-"1742822528-102","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","36","Anderson","USA","1","0","8","0.20","11.11","9"
-"1742822528-103","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","36","Le Goff","FRA","1","0","3","0.12","25.00","4"
-"1742822528-104","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","37","Lavia","ITA","0","0","1","0.00","0.00","1"
-"1742822528-105","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","37","Vettori","ITA","0","0","2","0.00","0.00","2"
-"1742822528-106","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","37","Kovar","ITA","0","0","0","","","0"
-"1742822528-107","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","37","Marshall","CAN","0","0","1","0.00","0.00","1"
-"1742822528-108","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","37","Isac","BRA","0","0","0","","","0"
-"1742822528-109","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","37","Lucas","BRA","0","0","3","0.00","0.00","3"
-"1742822528-110","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","37","Agrebi O","TUN","0","0","3","0.00","0.00","3"
-"1742822528-111","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","37","Ben Tara W","TUN","0","1","3","0.00","0.00","4"
-"1742822528-112","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","37","Douglas","BRA","0","0","1","0.00","0.00","1"
-"1742822528-113","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","37","Alan","BRA","0","0","0","","","0"
-"1742822528-114","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","37","Bouguerra.A","TUN","0","0","0","","","0"
-"1742822528-115","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","37","Mbareki S.","TUN","0","0","1","0.00","0.00","1"
-"1742822528-116","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","37","Lima B.","ARG","0","0","9","0.00","0.00","9"
-"1742822528-117","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","37","Bogdan","ROC","0","0","1","0.00","0.00","1"
-"1742822528-118","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","37","Poletaev","ROC","0","0","0","","","0"
-"1742822528-119","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","37","Kurkaev","ROC","0","0","0","","","0"
-"1742822528-120","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","37","Mendez","ARG","0","0","0","","","0"
-"1742822528-121","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","37","Ramos","ARG","0","0","0","","","0"
-"1742822528-122","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","37","Yamauchi","JPN","0","0","3","0.00","0.00","3"
-"1742822528-123","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","37","Maita","VEN","0","0","3","0.00","0.00","3"
-"1742822528-124","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","37","Verdi","VEN","0","0","2","0.00","0.00","2"
-"1742822528-125","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","37","Shimizu","JPN","0","0","1","0.00","0.00","1"
-"1742822528-126","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","37","Lee","JPN","0","0","1","0.00","0.00","1"
-"1742822528-127","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","37","Fernando","VEN","0","0","0","","","0"
-"1742822528-128","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","37","Oramas","VEN","0","0","0","","","0"
-"1742822528-129","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","37","Canelo","VEN","0","0","1","0.00","0.00","1"
-"1742822528-130","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","37","Mojarad","IRI","0","0","3","0.00","0.00","3"
-"1742822528-131","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","37","Kazemi","IRI","0","0","0","","","0"
-"1742822528-132","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","37","Semeniuk","POL","0","0","0","","","0"
-"1742822528-133","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","37","Nowakowski","POL","0","0","1","0.00","0.00","1"
-"1742822528-134","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","37","Morteza","IRI","0","0","1","0.00","0.00","1"
-"1742822528-135","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","37","Masoud","IRI","0","0","1","0.00","0.00","1"
-"1742822528-136","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","37","Boyer","FRA","0","0","3","0.00","0.00","3"
-"1742822528-137","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","37","Tillie","FRA","0","0","0","","","0"
-"1742822528-138","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","37","Louati","FRA","0","0","0","","","0"
-"1742822528-139","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","37","Ensing","USA","0","0","0","","","0"
-"1742822528-140","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","37","Stahl","USA","0","0","1","0.00","0.00","1"
-"1742822528-141","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","37","K. Shoji","USA","0","0","0","","","0"
-"1742822528-142","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","37","Jaeschke","USA","0","0","0","","","0"
-"1742822528-143","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","37","Muagututia","USA","0","0","3","0.00","0.00","3"
-"1742822528-144","https://en.volleyballworld.com/volleyball/competitions/olympics-2020/statistics/men/best-setters/","37","Bultor","FRA","0","0","0","","","0"
+Rank,Player Name,Team,Successful,Errors,Attempts,Average Per Match,Success,Total
+1,De Cecco,ARG,362,2,323,45.25,52.69,687
+2,Bruno,BRA,345,2,308,43.12,52.67,655
+3,Drzyzga,POL,265,3,198,44.17,56.87,466
+4,Kobzar,ROC,262,3,231,32.75,52.82,496
+5,Christenson,USA,240,1,178,48.0,57.28,419
+6,Brizard,FRA,234,1,184,29.25,55.85,419
+7,Sekita,JPN,215,1,204,35.83,51.19,420
+8,Giannelli,ITA,202,2,160,50.5,55.49,364
+9,TJ,CAN,186,0,161,31.0,53.6,347
+10,S. Marouf,IRI,160,0,150,32.0,51.61,310
+11,Ben Slimene K,TUN,157,3,206,31.4,42.9,366
+12,Toniutti,FRA,136,0,101,27.2,57.38,237
+13,Chema,VEN,92,2,112,18.4,44.66,206
+14,Sbertoli,ITA,74,0,54,12.33,57.81,128
+15,Pankov,ROC,65,2,68,8.12,48.15,135
+16,Armando,VEN,51,0,56,10.2,47.66,107
+16,Javad,IRI,51,1,41,12.75,54.84,93
+17,Fujii,JPN,46,0,36,11.5,56.1,82
+18,Fernando,BRA,36,0,43,6.0,45.57,79
+19,Blankenau,CAN,32,2,27,5.33,52.46,61
+20,Sanchez Pages,ARG,19,1,24,2.38,43.18,44
+21,Bann,CAN,17,0,21,2.83,44.74,38
+22,Facu,ARG,15,0,19,1.88,44.12,34
+22,Grebennikov,FRA,15,1,19,1.88,42.86,35
+23,Thales,BRA,14,0,26,1.75,35.0,40
+24,Ishikawa,JPN,13,0,17,2.17,43.33,30
+25,Ngapeth,FRA,12,0,21,1.5,36.36,33
+26,Mata,VEN,11,0,15,2.2,42.31,26
+27,Colaci,ITA,10,0,10,1.67,50.0,20
+27,Kliuka,ROC,10,1,21,1.25,31.25,32
+27,Milad,IRI,10,0,7,2.0,58.82,17
+28,Hmissi S,TUN,9,0,16,1.8,36.0,25
+28,Łomacz,POL,9,0,3,2.25,75.0,12
+28,Defalco,USA,9,0,10,1.8,47.37,19
+28,Clevenot,FRA,9,0,15,1.12,37.5,24
+29,Juantorena,ITA,8,0,19,1.33,29.63,27
+29,Golubev,ROC,8,0,16,1.0,33.33,24
+30,Hoag,CAN,7,0,12,1.17,36.84,19
+30,Lucarelli,BRA,7,0,16,0.88,30.43,23
+30,Danani,ARG,7,0,18,0.88,28.0,25
+30,Kubiak,POL,7,0,5,1.75,58.33,12
+31,Perrin,CAN,6,1,8,1.2,40.0,15
+31,Volkov,ROC,6,0,16,0.75,27.27,22
+31,Mikhaylov,ROC,6,0,5,0.75,54.55,11
+31,Zatorski,POL,6,0,11,1.0,35.29,17
+32,Moalla I.,TUN,5,0,3,1.0,62.5,8
+32,Yamamoto,JPN,5,0,7,0.83,41.67,12
+32,Salehi,IRI,5,0,5,1.0,50.0,10
+32,Patry,FRA,5,0,12,0.62,29.41,17
+33,Zaytsev,ITA,4,1,4,0.8,44.44,9
+33,Michieletto,ITA,4,0,6,0.67,40.0,10
+33,Palacios,ARG,4,0,11,0.5,26.67,15
+33,Ran,JPN,4,0,5,0.67,44.44,9
+33,Takanashi,JPN,4,0,1,0.67,80.0,5
+33,Marandi,IRI,4,0,11,0.8,26.67,15
+33,Arman,IRI,4,0,1,2.0,80.0,5
+33,E. Shoji,USA,4,0,17,0.8,19.05,21
+33,Holt,USA,4,0,3,0.8,57.14,7
+33,Chinenyeze,FRA,4,0,4,0.5,50.0,8
+34,Sclater,CAN,3,0,4,0.5,42.86,7
+34,Ben Cheikh M,TUN,3,0,3,3.0,50.0,6
+34,Leon,POL,3,0,6,0.6,33.33,9
+34,Śliwka,POL,3,0,10,0.75,23.08,13
+34,Seyed,IRI,3,0,4,0.75,42.86,7
+35,Piano,ITA,2,0,1,0.4,66.67,3
+35,Van Berkel,CAN,2,0,3,0.33,40.0,5
+35,Vernon,CAN,2,0,2,0.4,50.0,4
+35,Anzani,ITA,2,1,2,0.4,40.0,5
+35,Maar,CAN,2,0,4,0.5,33.33,6
+35,Wallace,BRA,2,0,6,0.25,25.0,8
+35,B.Othmen M.,TUN,2,1,4,0.4,28.57,7
+35,M. Souza,BRA,2,0,4,0.29,33.33,6
+35,Volvich,ROC,2,0,3,0.29,40.0,5
+35,Podlesnykh,ROC,2,0,2,0.33,50.0,4
+35,Sole,ITA,2,0,7,0.25,22.22,9
+35,Loser Bruno,ARG,2,0,4,0.25,33.33,6
+35,Poglajen,ARG,2,0,4,0.25,33.33,6
+35,Nishida,JPN,2,0,7,0.33,22.22,9
+35,Willner,VEN,2,0,2,0.4,50.0,4
+35,Fayola,VEN,2,0,10,0.4,16.67,12
+35,Kurek,POL,2,0,1,0.33,66.67,3
+35,Bieniek,POL,2,0,1,0.33,66.67,3
+35,Kaczmarek,POL,2,0,2,0.33,50.0,4
+35,Smith,USA,2,0,2,0.4,50.0,4
+35,T. Sander,USA,2,0,9,0.4,18.18,11
+36,Galassi,ITA,1,0,4,0.17,20.0,5
+36,Vigrass,CAN,1,1,4,0.17,16.67,6
+36,Szwarc,CAN,1,0,2,0.25,33.33,3
+36,Leal,BRA,1,1,7,0.12,11.11,9
+36,Kadhi A,TUN,1,0,1,0.2,50.0,2
+36,Karamosli E,TUN,1,0,2,0.25,33.33,3
+36,Nagga H.,TUN,1,0,2,0.33,33.33,3
+36,Mauricio,BRA,1,0,2,0.12,33.33,3
+36,Iakovlev,ROC,1,1,5,0.12,14.29,7
+36,Pereyra L.,ARG,1,0,0,0.14,100.0,1
+36,Onodera,JPN,1,0,4,0.17,20.0,5
+36,Emerson,VEN,1,0,4,0.2,20.0,5
+36,Valencia,VEN,1,0,5,0.2,16.67,6
+36,Otsuka,JPN,1,0,0,1.0,100.0,1
+36,Kochanowski,POL,1,0,1,0.17,50.0,2
+36,A. Ghafour,IRI,1,0,3,0.2,25.0,4
+36,Anderson,USA,1,0,8,0.2,11.11,9
+36,Le Goff,FRA,1,0,3,0.12,25.0,4
+37,Lavia,ITA,0,0,1,0.0,0.0,1
+37,Vettori,ITA,0,0,2,0.0,0.0,2
+37,Kovar,ITA,0,0,0,,,0
+37,Marshall,CAN,0,0,1,0.0,0.0,1
+37,Isac,BRA,0,0,0,,,0
+37,Lucas,BRA,0,0,3,0.0,0.0,3
+37,Agrebi O,TUN,0,0,3,0.0,0.0,3
+37,Ben Tara W,TUN,0,1,3,0.0,0.0,4
+37,Douglas,BRA,0,0,1,0.0,0.0,1
+37,Alan,BRA,0,0,0,,,0
+37,Bouguerra.A,TUN,0,0,0,,,0
+37,Mbareki S.,TUN,0,0,1,0.0,0.0,1
+37,Lima B.,ARG,0,0,9,0.0,0.0,9
+37,Bogdan,ROC,0,0,1,0.0,0.0,1
+37,Poletaev,ROC,0,0,0,,,0
+37,Kurkaev,ROC,0,0,0,,,0
+37,Mendez,ARG,0,0,0,,,0
+37,Ramos,ARG,0,0,0,,,0
+37,Yamauchi,JPN,0,0,3,0.0,0.0,3
+37,Maita,VEN,0,0,3,0.0,0.0,3
+37,Verdi,VEN,0,0,2,0.0,0.0,2
+37,Shimizu,JPN,0,0,1,0.0,0.0,1
+37,Lee,JPN,0,0,1,0.0,0.0,1
+37,Fernando,VEN,0,0,0,,,0
+37,Oramas,VEN,0,0,0,,,0
+37,Canelo,VEN,0,0,1,0.0,0.0,1
+37,Mojarad,IRI,0,0,3,0.0,0.0,3
+37,Kazemi,IRI,0,0,0,,,0
+37,Semeniuk,POL,0,0,0,,,0
+37,Nowakowski,POL,0,0,1,0.0,0.0,1
+37,Morteza,IRI,0,0,1,0.0,0.0,1
+37,Masoud,IRI,0,0,1,0.0,0.0,1
+37,Boyer,FRA,0,0,3,0.0,0.0,3
+37,Tillie,FRA,0,0,0,,,0
+37,Louati,FRA,0,0,0,,,0
+37,Ensing,USA,0,0,0,,,0
+37,Stahl,USA,0,0,1,0.0,0.0,1
+37,K. Shoji,USA,0,0,0,,,0
+37,Jaeschke,USA,0,0,0,,,0
+37,Muagututia,USA,0,0,3,0.0,0.0,3
+37,Bultor,FRA,0,0,0,,,0

@@ -1,83 +1,83 @@
-﻿web-scraper-order,web-scraper-start-url,Rank,Player Name,Team,Successful,Errors,Attempts,Average Per Match,Success,Total
-"1742825723-1","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-setters/","1","De Cecco","ARG","112","3","188","28.00","36.96","303"
-"1742825723-2","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-setters/","2","Fernando","BRA","107","2","139","26.75","43.15","248"
-"1742825723-3","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-setters/","3","M. Radke","BRA","98","2","241","24.50","28.74","341"
-"1742825723-4","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-setters/","4","Sbertoli","ITA","97","4","180","24.25","34.52","281"
-"1742825723-5","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-setters/","5","A.Behbodi","IRI","61","3","32","30.50","63.54","96"
-"1742825723-6","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-setters/","6","Brajkovic","ARG","26","0","99","13.00","20.80","125"
-"1742825723-7","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-setters/","7","Thales","BRA","10","0","0","2.50","100.00","10"
-"1742825723-8","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-setters/","8","Perren","ARG","8","0","8","4.00","50.00","16"
-"1742825723-9","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-setters/","8","AmirHossein","IRI","8","0","0","4.00","100.00","8"
-"1742825723-10","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-setters/","9","Lucarelli","BRA","7","0","5","1.75","58.33","12"
-"1742825723-11","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-setters/","10","Kaziyski","BUL","5","0","8","1.25","38.46","13"
-"1742825723-12","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-setters/","10","Zenger","GER","5","0","4","1.25","55.56","9"
-"1742825723-13","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-setters/","11","Matheus Krauchuk","BRA","3","0","2","0.75","60.00","5"
-"1742825723-14","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-setters/","11","Bozikovich","ARG","3","0","9","1.50","25.00","12"
-"1742825723-15","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-setters/","11","Lukinha","BRA","3","0","6","0.75","33.33","9"
-"1742825723-16","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-setters/","11","Otávio","BRA","3","0","3","0.75","50.00","6"
-"1742825723-17","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-setters/","11","Balaso","ITA","3","1","1","0.75","60.00","5"
-"1742825723-18","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-setters/","11","Lavia","ITA","3","1","4","0.75","37.50","8"
-"1742825723-19","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-setters/","12","Gasman","USA","2","1","1","0.50","50.00","4"
-"1742825723-20","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-setters/","12","Gabriel","BRA","2","0","0","0.50","100.00","2"
-"1742825723-21","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-setters/","12","Jelveh","IRI","2","0","0","1.00","100.00","2"
-"1742825723-22","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-setters/","12","Daneshdoust","IRI","2","0","0","1.00","100.00","2"
-"1742825723-23","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-setters/","12","Isac","BRA","2","0","2","0.50","50.00","4"
-"1742825723-24","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-setters/","12","Zaytsev","ITA","2","0","1","0.50","66.67","3"
-"1742825723-25","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-setters/","12","Michieletto","ITA","2","0","4","0.50","33.33","6"
-"1742825723-26","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-setters/","13","Joao Gabriel","BRA","1","1","2","0.25","25.00","4"
-"1742825723-27","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-setters/","13","Fabio","BRA","1","0","2","0.25","33.33","3"
-"1742825723-28","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-setters/","13","Melgarejo","ARG","1","1","2","0.50","25.00","4"
-"1742825723-29","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-setters/","13","Armoa Morel","ARG","1","0","1","0.50","50.00","2"
-"1742825723-30","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-setters/","13","Jaraba J","COL","1","0","2","0.50","33.33","3"
-"1742825723-31","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-setters/","13","Salvo","ARG","1","0","1","0.50","50.00","2"
-"1742825723-32","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-setters/","13","Flores","ARG","1","0","0","0.50","100.00","1"
-"1742825723-33","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-setters/","13","Esfandiar","IRI","1","0","1","0.50","50.00","2"
-"1742825723-34","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-setters/","13","M.Heydari","IRI","1","0","0","0.50","100.00","1"
-"1742825723-35","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-setters/","13","Wallace","BRA","1","0","3","0.25","25.00","4"
-"1742825723-36","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-setters/","13","Lisinac","SRB","1","0","0","0.25","100.00","1"
-"1742825723-37","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-setters/","14","Andre","BRA","0","0","0","","","0"
-"1742825723-38","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-setters/","14","Yudi","BRA","0","0","3","0.00","0.00","3"
-"1742825723-39","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-setters/","14","Gabriel","BRA","0","0","0","","","0"
-"1742825723-40","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-setters/","14","Riad","BRA","0","0","0","","","0"
-"1742825723-41","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-setters/","14","Brito","BRA","0","0","0","","","0"
-"1742825723-42","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-setters/","14","Roque","BRA","0","0","0","","","0"
-"1742825723-43","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-setters/","14","Symon","BRA","0","0","0","","","0"
-"1742825723-44","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-setters/","14","Olivieri","ARG","0","0","0","","","0"
-"1742825723-45","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-setters/","14","Ibazeta","ARG","0","0","0","","","0"
-"1742825723-46","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-setters/","14","Caceres","ARG","0","0","0","","","0"
-"1742825723-47","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-setters/","14","Igor","BRA","0","0","1","0.00","0.00","1"
-"1742825723-48","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-setters/","14","Gallardo","ARG","0","0","0","","","0"
-"1742825723-49","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-setters/","14","Jailton","BRA","0","0","0","","","0"
-"1742825723-50","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-setters/","14","Sahand","IRI","0","0","0","","","0"
-"1742825723-51","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-setters/","14","Blagojevic","SRB","0","1","0","0.00","0.00","1"
-"1742825723-52","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-setters/","14","Reza","IRI","0","0","0","","","0"
-"1742825723-53","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-setters/","14","R.Shahsavari","IRI","0","0","0","","","0"
-"1742825723-54","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-setters/","14","M. Sadeghi","IRI","0","0","3","0.00","0.00","3"
-"1742825723-55","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-setters/","14","M. Gholizad","IRI","0","0","0","","","0"
-"1742825723-56","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-setters/","14","A. Tashakori","IRI","0","0","2","0.00","0.00","2"
-"1742825723-57","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-setters/","14","Oppenkoski","BRA","0","0","0","","","0"
-"1742825723-58","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-setters/","14","Lucas Loh","BRA","0","0","0","","","0"
-"1742825723-59","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-setters/","14","Rech","BRA","0","0","0","","","0"
-"1742825723-60","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-setters/","14","C. Souza","BRA","0","0","0","","","0"
-"1742825723-61","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-setters/","14","Rodriguinho","BRA","0","0","5","0.00","0.00","5"
-"1742825723-62","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-setters/","14","Bauer","BRA","0","0","0","","","0"
-"1742825723-63","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-setters/","14","Resley","BRA","0","0","0","","","0"
-"1742825723-64","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-setters/","14","Matias","BRA","0","0","0","","","0"
-"1742825723-65","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-setters/","14","Lopez","CUB","0","0","0","","","0"
-"1742825723-66","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-setters/","14","Garcia","USA","0","1","0","0.00","0.00","1"
-"1742825723-67","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-setters/","14","Kovar","ITA","0","0","0","","","0"
-"1742825723-68","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-setters/","14","Sottile","ITA","0","0","2","0.00","0.00","2"
-"1742825723-69","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-setters/","14","Marchisio","ITA","0","0","1","0.00","0.00","1"
-"1742825723-70","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-setters/","14","Juantorena","ITA","0","0","0","","","0"
-"1742825723-71","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-setters/","14","Jeroncic","ITA","0","0","0","","","0"
-"1742825723-72","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-setters/","14","Diamantini","ITA","0","0","0","","","0"
-"1742825723-73","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-setters/","14","Simón","CUB","0","1","1","0.00","0.00","2"
-"1742825723-74","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-setters/","14","Anzani","ITA","0","0","0","","","0"
-"1742825723-75","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-setters/","14","Yant","CUB","0","1","1","0.00","0.00","2"
-"1742825723-76","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-setters/","14","D'heer","BEL","0","0","0","","","0"
-"1742825723-77","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-setters/","14","Cavuto","ITA","0","0","0","","","0"
-"1742825723-78","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-setters/","14","Pinali","ITA","0","0","0","","","0"
-"1742825723-79","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-setters/","14","Albergati","ITA","0","0","0","","","0"
-"1742825723-80","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-setters/","14","Podraščanin","ITA","0","0","2","0.00","0.00","2"
-"1742825723-81","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-setters/","14","Sperotto","ITA","0","0","1","0.00","0.00","1"
-"1742825723-82","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-setters/","14","De Angelis","ITA","0","0","0","","","0"
+Rank,Player Name,Team,Successful,Errors,Attempts,Average Per Match,Success,Total
+1,De Cecco,ARG,112,3,188,28.0,36.96,303
+2,Fernando,BRA,107,2,139,26.75,43.15,248
+3,M. Radke,BRA,98,2,241,24.5,28.74,341
+4,Sbertoli,ITA,97,4,180,24.25,34.52,281
+5,A.Behbodi,IRI,61,3,32,30.5,63.54,96
+6,Brajkovic,ARG,26,0,99,13.0,20.8,125
+7,Thales,BRA,10,0,0,2.5,100.0,10
+8,Perren,ARG,8,0,8,4.0,50.0,16
+8,AmirHossein,IRI,8,0,0,4.0,100.0,8
+9,Lucarelli,BRA,7,0,5,1.75,58.33,12
+10,Kaziyski,BUL,5,0,8,1.25,38.46,13
+10,Zenger,GER,5,0,4,1.25,55.56,9
+11,Matheus Krauchuk,BRA,3,0,2,0.75,60.0,5
+11,Bozikovich,ARG,3,0,9,1.5,25.0,12
+11,Lukinha,BRA,3,0,6,0.75,33.33,9
+11,Otávio,BRA,3,0,3,0.75,50.0,6
+11,Balaso,ITA,3,1,1,0.75,60.0,5
+11,Lavia,ITA,3,1,4,0.75,37.5,8
+12,Gasman,USA,2,1,1,0.5,50.0,4
+12,Gabriel,BRA,2,0,0,0.5,100.0,2
+12,Jelveh,IRI,2,0,0,1.0,100.0,2
+12,Daneshdoust,IRI,2,0,0,1.0,100.0,2
+12,Isac,BRA,2,0,2,0.5,50.0,4
+12,Zaytsev,ITA,2,0,1,0.5,66.67,3
+12,Michieletto,ITA,2,0,4,0.5,33.33,6
+13,Joao Gabriel,BRA,1,1,2,0.25,25.0,4
+13,Fabio,BRA,1,0,2,0.25,33.33,3
+13,Melgarejo,ARG,1,1,2,0.5,25.0,4
+13,Armoa Morel,ARG,1,0,1,0.5,50.0,2
+13,Jaraba J,COL,1,0,2,0.5,33.33,3
+13,Salvo,ARG,1,0,1,0.5,50.0,2
+13,Flores,ARG,1,0,0,0.5,100.0,1
+13,Esfandiar,IRI,1,0,1,0.5,50.0,2
+13,M.Heydari,IRI,1,0,0,0.5,100.0,1
+13,Wallace,BRA,1,0,3,0.25,25.0,4
+13,Lisinac,SRB,1,0,0,0.25,100.0,1
+14,Andre,BRA,0,0,0,,,0
+14,Yudi,BRA,0,0,3,0.0,0.0,3
+14,Gabriel,BRA,0,0,0,,,0
+14,Riad,BRA,0,0,0,,,0
+14,Brito,BRA,0,0,0,,,0
+14,Roque,BRA,0,0,0,,,0
+14,Symon,BRA,0,0,0,,,0
+14,Olivieri,ARG,0,0,0,,,0
+14,Ibazeta,ARG,0,0,0,,,0
+14,Caceres,ARG,0,0,0,,,0
+14,Igor,BRA,0,0,1,0.0,0.0,1
+14,Gallardo,ARG,0,0,0,,,0
+14,Jailton,BRA,0,0,0,,,0
+14,Sahand,IRI,0,0,0,,,0
+14,Blagojevic,SRB,0,1,0,0.0,0.0,1
+14,Reza,IRI,0,0,0,,,0
+14,R.Shahsavari,IRI,0,0,0,,,0
+14,M. Sadeghi,IRI,0,0,3,0.0,0.0,3
+14,M. Gholizad,IRI,0,0,0,,,0
+14,A. Tashakori,IRI,0,0,2,0.0,0.0,2
+14,Oppenkoski,BRA,0,0,0,,,0
+14,Lucas Loh,BRA,0,0,0,,,0
+14,Rech,BRA,0,0,0,,,0
+14,C. Souza,BRA,0,0,0,,,0
+14,Rodriguinho,BRA,0,0,5,0.0,0.0,5
+14,Bauer,BRA,0,0,0,,,0
+14,Resley,BRA,0,0,0,,,0
+14,Matias,BRA,0,0,0,,,0
+14,Lopez,CUB,0,0,0,,,0
+14,Garcia,USA,0,1,0,0.0,0.0,1
+14,Kovar,ITA,0,0,0,,,0
+14,Sottile,ITA,0,0,2,0.0,0.0,2
+14,Marchisio,ITA,0,0,1,0.0,0.0,1
+14,Juantorena,ITA,0,0,0,,,0
+14,Jeroncic,ITA,0,0,0,,,0
+14,Diamantini,ITA,0,0,0,,,0
+14,Simón,CUB,0,1,1,0.0,0.0,2
+14,Anzani,ITA,0,0,0,,,0
+14,Yant,CUB,0,1,1,0.0,0.0,2
+14,D'heer,BEL,0,0,0,,,0
+14,Cavuto,ITA,0,0,0,,,0
+14,Pinali,ITA,0,0,0,,,0
+14,Albergati,ITA,0,0,0,,,0
+14,Podraščanin,ITA,0,0,2,0.0,0.0,2
+14,Sperotto,ITA,0,0,1,0.0,0.0,1
+14,De Angelis,ITA,0,0,0,,,0

@@ -1,85 +1,85 @@
-﻿web-scraper-order,web-scraper-start-url,Rank,Player Name,Team,Digs,Errors,Receptions,Average Per Match,Success,Total
-"1742890303-1","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-diggers/","1","Maique","BRA","20","0","2","5.00","90.91","22"
-"1742890303-2","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-diggers/","1","Laurenzano","ITA","20","0","0","5.00","100.00","20"
-"1742890303-3","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-diggers/","2","Lukinha","BRA","18","0","1","4.50","94.74","19"
-"1742890303-4","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-diggers/","3","Colaci","ITA","15","0","0","3.75","100.00","15"
-"1742890303-5","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-diggers/","4","William","BRA","14","0","1","3.50","93.33","15"
-"1742890303-6","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-diggers/","5","Sbertoli","ITA","13","0","1","3.25","92.86","14"
-"1742890303-7","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-diggers/","6","Vaccari","BRA","12","0","1","3.00","92.31","13"
-"1742890303-8","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-diggers/","6","Kaziyski","BUL","12","0","0","3.00","100.00","12"
-"1742890303-9","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-diggers/","7","Hazrat","IRI","11","0","1","5.50","91.67","12"
-"1742890303-10","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-diggers/","7","Giannelli","ITA","11","0","0","2.75","100.00","11"
-"1742890303-11","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-diggers/","8","P. Fayazi","IRI","9","0","0","4.50","100.00","9"
-"1742890303-12","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-diggers/","8","Alexandre","BRA","9","0","0","4.50","100.00","9"
-"1742890303-13","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-diggers/","9","Lopez","CUB","7","0","2","1.75","77.78","9"
-"1742890303-14","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-diggers/","10","Vissotto","BRA","6","0","1","1.50","85.71","7"
-"1742890303-15","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-diggers/","10","Arthur","BRA","6","0","0","1.50","100.00","6"
-"1742890303-16","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-diggers/","10","Vadi","IRI","6","0","0","3.00","100.00","6"
-"1742890303-17","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-diggers/","10","Uriarte","ARG","6","0","0","1.50","100.00","6"
-"1742890303-18","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-diggers/","10","Rodriguinho","BRA","6","0","0","1.50","100.00","6"
-"1742890303-19","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-diggers/","10","Michieletto","ITA","6","0","0","1.50","100.00","6"
-"1742890303-20","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-diggers/","11","Estrada","FIV","5","0","0","1.25","100.00","5"
-"1742890303-21","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-diggers/","11","Honorato","BRA","5","0","0","1.25","100.00","5"
-"1742890303-22","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-diggers/","11","Gonzalez","ARG","5","0","2","2.50","71.43","7"
-"1742890303-23","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-diggers/","11","Leon","POL","5","0","0","1.25","100.00","5"
-"1742890303-24","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-diggers/","12","Amin","IRI","4","0","1","2.00","80.00","5"
-"1742890303-25","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-diggers/","12","Wallace","BRA","4","0","1","1.00","80.00","5"
-"1742890303-26","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-diggers/","12","Lavia","ITA","4","0","0","1.00","100.00","4"
-"1742890303-27","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-diggers/","12","Semeniuk","POL","4","0","0","1.00","100.00","4"
-"1742890303-28","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-diggers/","12","Plotnytskyi","UKR","4","0","0","1.00","100.00","4"
-"1742890303-29","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-diggers/","13","Matheus","BRA","3","0","0","0.75","100.00","3"
-"1742890303-30","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-diggers/","13","Marcus","BRA","3","0","0","0.75","100.00","3"
-"1742890303-31","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-diggers/","13","A. Tashakori","IRI","3","0","1","1.50","75.00","4"
-"1742890303-32","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-diggers/","13","Otávio","BRA","3","0","1","0.75","75.00","4"
-"1742890303-33","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-diggers/","13","Lucas","BRA","3","0","0","1.50","100.00","3"
-"1742890303-34","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-diggers/","13","Rychlicki","ITA","3","0","1","0.75","75.00","4"
-"1742890303-35","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-diggers/","14","Resley","BRA","2","0","0","0.50","100.00","2"
-"1742890303-36","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-diggers/","14","Adriano","BRA","2","0","1","1.00","66.67","3"
-"1742890303-37","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-diggers/","14","Roque","BRA","2","0","0","1.00","100.00","2"
-"1742890303-38","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-diggers/","14","Herrera","CUB","2","0","0","0.50","100.00","2"
-"1742890303-39","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-diggers/","15","Paulo","BRA","1","0","0","0.25","100.00","1"
-"1742890303-40","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-diggers/","15","Juninho","BRA","1","0","0","0.25","100.00","1"
-"1742890303-41","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-diggers/","15","Amir Reza","IRI","1","0","0","0.50","100.00","1"
-"1742890303-42","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-diggers/","15","Fallah","IRI","1","0","0","0.50","100.00","1"
-"1742890303-43","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-diggers/","15","H. Zarini","IRI","1","0","1","0.50","50.00","2"
-"1742890303-44","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-diggers/","15","A. Afshinfar","IRI","1","0","0","0.50","100.00","1"
-"1742890303-45","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-diggers/","15","Mashhadi","IRI","1","0","1","0.50","50.00","2"
-"1742890303-46","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-diggers/","15","Rodrigo","BRA","1","0","0","0.25","100.00","1"
-"1742890303-47","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-diggers/","15","Lucas Borges","BRA","1","0","1","0.50","50.00","2"
-"1742890303-48","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-diggers/","15","Nelli","ITA","1","0","0","0.25","100.00","1"
-"1742890303-49","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-diggers/","15","Lisinac","SRB","1","0","0","0.25","100.00","1"
-"1742890303-50","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-diggers/","15","Russo","ITA","1","0","0","0.25","100.00","1"
-"1742890303-51","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-diggers/","15","Flavio","BRA","1","0","0","0.25","100.00","1"
-"1742890303-52","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-diggers/","16","Kelvi","BRA","0","0","1","0.00","0.00","1"
-"1742890303-53","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-diggers/","16","Henrique","BRA","0","0","0","","","0"
-"1742890303-54","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-diggers/","16","André S.","BRA","0","0","0","","","0"
-"1742890303-55","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-diggers/","16","Saberi","IRI","0","0","0","","","0"
-"1742890303-56","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-diggers/","16","A. Shafiei","IRI","0","0","0","","","0"
-"1742890303-57","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-diggers/","16","R. Aslani","IRI","0","0","0","","","0"
-"1742890303-58","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-diggers/","16","Reza","IRI","0","0","0","","","0"
-"1742890303-59","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-diggers/","16","Oppenkoski","BRA","0","0","0","","","0"
-"1742890303-60","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-diggers/","16","Guilherme","BRA","0","0","0","","","0"
-"1742890303-61","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-diggers/","16","Bauer","BRA","0","0","0","","","0"
-"1742890303-62","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-diggers/","16","C. Souza","BRA","0","0","0","","","0"
-"1742890303-63","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-diggers/","16","Lucas","BRA","0","0","0","","","0"
-"1742890303-64","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-diggers/","16","Carlos","BRA","0","0","0","","","0"
-"1742890303-65","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-diggers/","16","Bryan","BRA","0","0","0","","","0"
-"1742890303-66","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-diggers/","16","Samuel","BRA","0","0","0","","","0"
-"1742890303-67","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-diggers/","16","Everaldo","BRA","0","0","0","","","0"
-"1742890303-68","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-diggers/","16","Nicolas","ARG","0","0","0","","","0"
-"1742890303-69","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-diggers/","16","Franck","BRA","0","0","0","","","0"
-"1742890303-70","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-diggers/","16","Lima","BRA","0","0","0","","","0"
-"1742890303-71","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-diggers/","16","Barreto","BRA","0","0","0","","","0"
-"1742890303-72","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-diggers/","16","Brito","BRA","0","0","0","","","0"
-"1742890303-73","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-diggers/","16","D'heer","BEL","0","0","0","","","0"
-"1742890303-74","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-diggers/","16","Dzavoronok","CZE","0","0","0","","","0"
-"1742890303-75","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-diggers/","16","Cavuto","ITA","0","0","0","","","0"
-"1742890303-76","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-diggers/","16","Pace","ITA","0","0","0","","","0"
-"1742890303-77","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-diggers/","16","Berger","ITA","0","0","0","","","0"
-"1742890303-78","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-diggers/","16","Depalma","ITA","0","0","0","","","0"
-"1742890303-79","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-diggers/","16","Podraščanin","ITA","0","0","1","0.00","0.00","1"
-"1742890303-80","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-diggers/","16","Piccinelli","ITA","0","0","0","","","0"
-"1742890303-81","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-diggers/","16","Sole","ITA","0","0","0","","","0"
-"1742890303-82","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-diggers/","16","Ropret","SLO","0","0","0","","","0"
-"1742890303-83","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-diggers/","16","Cardenas","CUB","0","0","0","","","0"
-"1742890303-84","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-diggers/","16","Mengozzi","ITA","0","0","0","","","0"
+Rank,Player Name,Team,Digs,Errors,Receptions,Average Per Match,Success,Total
+1,Maique,BRA,20,0,2,5.0,90.91,22
+1,Laurenzano,ITA,20,0,0,5.0,100.0,20
+2,Lukinha,BRA,18,0,1,4.5,94.74,19
+3,Colaci,ITA,15,0,0,3.75,100.0,15
+4,William,BRA,14,0,1,3.5,93.33,15
+5,Sbertoli,ITA,13,0,1,3.25,92.86,14
+6,Vaccari,BRA,12,0,1,3.0,92.31,13
+6,Kaziyski,BUL,12,0,0,3.0,100.0,12
+7,Hazrat,IRI,11,0,1,5.5,91.67,12
+7,Giannelli,ITA,11,0,0,2.75,100.0,11
+8,P. Fayazi,IRI,9,0,0,4.5,100.0,9
+8,Alexandre,BRA,9,0,0,4.5,100.0,9
+9,Lopez,CUB,7,0,2,1.75,77.78,9
+10,Vissotto,BRA,6,0,1,1.5,85.71,7
+10,Arthur,BRA,6,0,0,1.5,100.0,6
+10,Vadi,IRI,6,0,0,3.0,100.0,6
+10,Uriarte,ARG,6,0,0,1.5,100.0,6
+10,Rodriguinho,BRA,6,0,0,1.5,100.0,6
+10,Michieletto,ITA,6,0,0,1.5,100.0,6
+11,Estrada,FIV,5,0,0,1.25,100.0,5
+11,Honorato,BRA,5,0,0,1.25,100.0,5
+11,Gonzalez,ARG,5,0,2,2.5,71.43,7
+11,Leon,POL,5,0,0,1.25,100.0,5
+12,Amin,IRI,4,0,1,2.0,80.0,5
+12,Wallace,BRA,4,0,1,1.0,80.0,5
+12,Lavia,ITA,4,0,0,1.0,100.0,4
+12,Semeniuk,POL,4,0,0,1.0,100.0,4
+12,Plotnytskyi,UKR,4,0,0,1.0,100.0,4
+13,Matheus,BRA,3,0,0,0.75,100.0,3
+13,Marcus,BRA,3,0,0,0.75,100.0,3
+13,A. Tashakori,IRI,3,0,1,1.5,75.0,4
+13,Otávio,BRA,3,0,1,0.75,75.0,4
+13,Lucas,BRA,3,0,0,1.5,100.0,3
+13,Rychlicki,ITA,3,0,1,0.75,75.0,4
+14,Resley,BRA,2,0,0,0.5,100.0,2
+14,Adriano,BRA,2,0,1,1.0,66.67,3
+14,Roque,BRA,2,0,0,1.0,100.0,2
+14,Herrera,CUB,2,0,0,0.5,100.0,2
+15,Paulo,BRA,1,0,0,0.25,100.0,1
+15,Juninho,BRA,1,0,0,0.25,100.0,1
+15,Amir Reza,IRI,1,0,0,0.5,100.0,1
+15,Fallah,IRI,1,0,0,0.5,100.0,1
+15,H. Zarini,IRI,1,0,1,0.5,50.0,2
+15,A. Afshinfar,IRI,1,0,0,0.5,100.0,1
+15,Mashhadi,IRI,1,0,1,0.5,50.0,2
+15,Rodrigo,BRA,1,0,0,0.25,100.0,1
+15,Lucas Borges,BRA,1,0,1,0.5,50.0,2
+15,Nelli,ITA,1,0,0,0.25,100.0,1
+15,Lisinac,SRB,1,0,0,0.25,100.0,1
+15,Russo,ITA,1,0,0,0.25,100.0,1
+15,Flavio,BRA,1,0,0,0.25,100.0,1
+16,Kelvi,BRA,0,0,1,0.0,0.0,1
+16,Henrique,BRA,0,0,0,,,0
+16,André S.,BRA,0,0,0,,,0
+16,Saberi,IRI,0,0,0,,,0
+16,A. Shafiei,IRI,0,0,0,,,0
+16,R. Aslani,IRI,0,0,0,,,0
+16,Reza,IRI,0,0,0,,,0
+16,Oppenkoski,BRA,0,0,0,,,0
+16,Guilherme,BRA,0,0,0,,,0
+16,Bauer,BRA,0,0,0,,,0
+16,C. Souza,BRA,0,0,0,,,0
+16,Lucas,BRA,0,0,0,,,0
+16,Carlos,BRA,0,0,0,,,0
+16,Bryan,BRA,0,0,0,,,0
+16,Samuel,BRA,0,0,0,,,0
+16,Everaldo,BRA,0,0,0,,,0
+16,Nicolas,ARG,0,0,0,,,0
+16,Franck,BRA,0,0,0,,,0
+16,Lima,BRA,0,0,0,,,0
+16,Barreto,BRA,0,0,0,,,0
+16,Brito,BRA,0,0,0,,,0
+16,D'heer,BEL,0,0,0,,,0
+16,Dzavoronok,CZE,0,0,0,,,0
+16,Cavuto,ITA,0,0,0,,,0
+16,Pace,ITA,0,0,0,,,0
+16,Berger,ITA,0,0,0,,,0
+16,Depalma,ITA,0,0,0,,,0
+16,Podraščanin,ITA,0,0,1,0.0,0.0,1
+16,Piccinelli,ITA,0,0,0,,,0
+16,Sole,ITA,0,0,0,,,0
+16,Ropret,SLO,0,0,0,,,0
+16,Cardenas,CUB,0,0,0,,,0
+16,Mengozzi,ITA,0,0,0,,,0

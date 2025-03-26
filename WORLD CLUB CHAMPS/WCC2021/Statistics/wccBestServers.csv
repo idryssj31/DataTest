@@ -1,83 +1,83 @@
-﻿web-scraper-order,web-scraper-start-url,Rank,Player Name,Team,Points,Errors,Attemps,Average Per Match,Success,Total
-"1742825638-1","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-servers/","1","Rodriguinho","BRA","8","13","36","2.00","14.04","57"
-"1742825638-2","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-servers/","2","De Cecco","ARG","6","9","44","1.50","10.17","59"
-"1742825638-3","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-servers/","2","Yant","CUB","6","18","27","1.50","11.76","51"
-"1742825638-4","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-servers/","3","Lucarelli","BRA","5","18","31","1.25","9.26","54"
-"1742825638-5","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-servers/","3","Kaziyski","BUL","5","12","39","1.25","8.93","56"
-"1742825638-6","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-servers/","4","Lopez","CUB","4","18","24","1.00","8.70","46"
-"1742825638-7","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-servers/","5","Esfandiar","IRI","3","7","11","1.50","14.29","21"
-"1742825638-8","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-servers/","5","Wallace","BRA","3","12","40","0.75","5.45","55"
-"1742825638-9","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-servers/","5","Garcia","USA","3","13","26","0.75","7.14","42"
-"1742825638-10","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-servers/","5","Michieletto","ITA","3","17","32","0.75","5.77","52"
-"1742825638-11","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-servers/","6","Matheus Krauchuk","BRA","2","12","32","0.50","4.35","46"
-"1742825638-12","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-servers/","6","Gasman","USA","2","22","19","0.50","4.65","43"
-"1742825638-13","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-servers/","6","Otávio","BRA","2","6","35","0.50","4.65","43"
-"1742825638-14","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-servers/","6","Isac","BRA","2","15","49","0.50","3.03","66"
-"1742825638-15","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-servers/","6","Simón","CUB","2","18","30","0.50","4.00","50"
-"1742825638-16","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-servers/","6","Sbertoli","ITA","2","5","48","0.50","3.64","55"
-"1742825638-17","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-servers/","7","M. Radke","BRA","1","14","33","0.25","2.08","48"
-"1742825638-18","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-servers/","7","Riad","BRA","1","3","2","0.25","16.67","6"
-"1742825638-19","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-servers/","7","Brito","BRA","1","6","34","0.25","2.44","41"
-"1742825638-20","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-servers/","7","Melgarejo","ARG","1","6","17","0.50","4.17","24"
-"1742825638-21","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-servers/","7","Bozikovich","ARG","1","1","4","0.50","16.67","6"
-"1742825638-22","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-servers/","7","Igor","BRA","1","7","7","0.50","6.67","15"
-"1742825638-23","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-servers/","7","Jaraba J","COL","1","4","12","0.50","5.88","17"
-"1742825638-24","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-servers/","7","Blagojevic","SRB","1","4","12","0.50","5.88","17"
-"1742825638-25","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-servers/","7","M. Gholizad","IRI","1","0","6","0.50","14.29","7"
-"1742825638-26","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-servers/","7","Kovar","ITA","1","2","0","0.25","33.33","3"
-"1742825638-27","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-servers/","7","Zaytsev","ITA","1","5","8","0.25","7.14","14"
-"1742825638-28","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-servers/","7","Anzani","ITA","1","2","35","0.25","2.63","38"
-"1742825638-29","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-servers/","7","Lavia","ITA","1","11","39","0.25","1.96","51"
-"1742825638-30","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-servers/","7","Lisinac","SRB","1","8","48","0.25","1.75","57"
-"1742825638-31","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-servers/","8","Andre","BRA","0","0","0","","","0"
-"1742825638-32","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-servers/","8","Yudi","BRA","0","3","55","0.00","0.00","58"
-"1742825638-33","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-servers/","8","Joao Gabriel","BRA","0","0","5","0.00","0.00","5"
-"1742825638-34","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-servers/","8","Gabriel","BRA","0","11","21","0.00","0.00","32"
-"1742825638-35","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-servers/","8","Gabriel","BRA","0","1","4","0.00","0.00","5"
-"1742825638-36","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-servers/","8","Thales","BRA","0","0","0","","","0"
-"1742825638-37","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-servers/","8","Roque","BRA","0","0","0","","","0"
-"1742825638-38","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-servers/","8","Symon","BRA","0","0","0","","","0"
-"1742825638-39","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-servers/","8","Fabio","BRA","0","0","20","0.00","0.00","20"
-"1742825638-40","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-servers/","8","Olivieri","ARG","0","0","0","","","0"
-"1742825638-41","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-servers/","8","Ibazeta","ARG","0","0","0","","","0"
-"1742825638-42","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-servers/","8","Caceres","ARG","0","0","4","0.00","0.00","4"
-"1742825638-43","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-servers/","8","Brajkovic","ARG","0","0","24","0.00","0.00","24"
-"1742825638-44","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-servers/","8","Armoa Morel","ARG","0","6","18","0.00","0.00","24"
-"1742825638-45","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-servers/","8","Gallardo","ARG","0","2","7","0.00","0.00","9"
-"1742825638-46","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-servers/","8","Salvo","ARG","0","0","2","0.00","0.00","2"
-"1742825638-47","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-servers/","8","Flores","ARG","0","1","24","0.00","0.00","25"
-"1742825638-48","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-servers/","8","Jailton","BRA","0","1","6","0.00","0.00","7"
-"1742825638-49","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-servers/","8","Perren","ARG","0","0","0","","","0"
-"1742825638-50","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-servers/","8","Sahand","IRI","0","1","1","0.00","0.00","2"
-"1742825638-51","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-servers/","8","Jelveh","IRI","0","1","13","0.00","0.00","14"
-"1742825638-52","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-servers/","8","AmirHossein","IRI","0","0","1","0.00","0.00","1"
-"1742825638-53","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-servers/","8","Reza","IRI","0","1","4","0.00","0.00","5"
-"1742825638-54","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-servers/","8","R.Shahsavari","IRI","0","0","0","","","0"
-"1742825638-55","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-servers/","8","Daneshdoust","IRI","0","2","5","0.00","0.00","7"
-"1742825638-56","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-servers/","8","M. Sadeghi","IRI","0","0","9","0.00","0.00","9"
-"1742825638-57","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-servers/","8","A.Behbodi","IRI","0","3","14","0.00","0.00","17"
-"1742825638-58","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-servers/","8","A. Tashakori","IRI","0","3","12","0.00","0.00","15"
-"1742825638-59","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-servers/","8","M.Heydari","IRI","0","0","0","","","0"
-"1742825638-60","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-servers/","8","Oppenkoski","BRA","0","0","0","","","0"
-"1742825638-61","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-servers/","8","Lukinha","BRA","0","0","0","","","0"
-"1742825638-62","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-servers/","8","Lucas Loh","BRA","0","0","0","","","0"
-"1742825638-63","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-servers/","8","Rech","BRA","0","0","1","0.00","0.00","1"
-"1742825638-64","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-servers/","8","C. Souza","BRA","0","0","0","","","0"
-"1742825638-65","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-servers/","8","Fernando","BRA","0","2","43","0.00","0.00","45"
-"1742825638-66","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-servers/","8","Bauer","BRA","0","0","0","","","0"
-"1742825638-67","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-servers/","8","Resley","BRA","0","1","2","0.00","0.00","3"
-"1742825638-68","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-servers/","8","Matias","BRA","0","0","0","","","0"
-"1742825638-69","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-servers/","8","Sottile","ITA","0","0","3","0.00","0.00","3"
-"1742825638-70","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-servers/","8","Marchisio","ITA","0","0","0","","","0"
-"1742825638-71","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-servers/","8","Juantorena","ITA","0","0","0","","","0"
-"1742825638-72","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-servers/","8","Jeroncic","ITA","0","0","0","","","0"
-"1742825638-73","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-servers/","8","Balaso","ITA","0","0","0","","","0"
-"1742825638-74","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-servers/","8","Diamantini","ITA","0","0","12","0.00","0.00","12"
-"1742825638-75","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-servers/","8","D'heer","BEL","0","1","0","0.00","0.00","1"
-"1742825638-76","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-servers/","8","Cavuto","ITA","0","0","1","0.00","0.00","1"
-"1742825638-77","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-servers/","8","Pinali","ITA","0","0","0","","","0"
-"1742825638-78","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-servers/","8","Albergati","ITA","0","0","0","","","0"
-"1742825638-79","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-servers/","8","Zenger","GER","0","0","0","","","0"
-"1742825638-80","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-servers/","8","Podraščanin","ITA","0","10","36","0.00","0.00","46"
-"1742825638-81","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-servers/","8","Sperotto","ITA","0","1","0","0.00","0.00","1"
-"1742825638-82","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2021/statistics/best-servers/","8","De Angelis","ITA","0","0","0","","","0"
+Rank,Player Name,Team,Points,Errors,Attemps,Average Per Match,Success,Total
+1,Rodriguinho,BRA,8,13,36,2.0,14.04,57
+2,De Cecco,ARG,6,9,44,1.5,10.17,59
+2,Yant,CUB,6,18,27,1.5,11.76,51
+3,Lucarelli,BRA,5,18,31,1.25,9.26,54
+3,Kaziyski,BUL,5,12,39,1.25,8.93,56
+4,Lopez,CUB,4,18,24,1.0,8.7,46
+5,Esfandiar,IRI,3,7,11,1.5,14.29,21
+5,Wallace,BRA,3,12,40,0.75,5.45,55
+5,Garcia,USA,3,13,26,0.75,7.14,42
+5,Michieletto,ITA,3,17,32,0.75,5.77,52
+6,Matheus Krauchuk,BRA,2,12,32,0.5,4.35,46
+6,Gasman,USA,2,22,19,0.5,4.65,43
+6,Otávio,BRA,2,6,35,0.5,4.65,43
+6,Isac,BRA,2,15,49,0.5,3.03,66
+6,Simón,CUB,2,18,30,0.5,4.0,50
+6,Sbertoli,ITA,2,5,48,0.5,3.64,55
+7,M. Radke,BRA,1,14,33,0.25,2.08,48
+7,Riad,BRA,1,3,2,0.25,16.67,6
+7,Brito,BRA,1,6,34,0.25,2.44,41
+7,Melgarejo,ARG,1,6,17,0.5,4.17,24
+7,Bozikovich,ARG,1,1,4,0.5,16.67,6
+7,Igor,BRA,1,7,7,0.5,6.67,15
+7,Jaraba J,COL,1,4,12,0.5,5.88,17
+7,Blagojevic,SRB,1,4,12,0.5,5.88,17
+7,M. Gholizad,IRI,1,0,6,0.5,14.29,7
+7,Kovar,ITA,1,2,0,0.25,33.33,3
+7,Zaytsev,ITA,1,5,8,0.25,7.14,14
+7,Anzani,ITA,1,2,35,0.25,2.63,38
+7,Lavia,ITA,1,11,39,0.25,1.96,51
+7,Lisinac,SRB,1,8,48,0.25,1.75,57
+8,Andre,BRA,0,0,0,,,0
+8,Yudi,BRA,0,3,55,0.0,0.0,58
+8,Joao Gabriel,BRA,0,0,5,0.0,0.0,5
+8,Gabriel,BRA,0,11,21,0.0,0.0,32
+8,Gabriel,BRA,0,1,4,0.0,0.0,5
+8,Thales,BRA,0,0,0,,,0
+8,Roque,BRA,0,0,0,,,0
+8,Symon,BRA,0,0,0,,,0
+8,Fabio,BRA,0,0,20,0.0,0.0,20
+8,Olivieri,ARG,0,0,0,,,0
+8,Ibazeta,ARG,0,0,0,,,0
+8,Caceres,ARG,0,0,4,0.0,0.0,4
+8,Brajkovic,ARG,0,0,24,0.0,0.0,24
+8,Armoa Morel,ARG,0,6,18,0.0,0.0,24
+8,Gallardo,ARG,0,2,7,0.0,0.0,9
+8,Salvo,ARG,0,0,2,0.0,0.0,2
+8,Flores,ARG,0,1,24,0.0,0.0,25
+8,Jailton,BRA,0,1,6,0.0,0.0,7
+8,Perren,ARG,0,0,0,,,0
+8,Sahand,IRI,0,1,1,0.0,0.0,2
+8,Jelveh,IRI,0,1,13,0.0,0.0,14
+8,AmirHossein,IRI,0,0,1,0.0,0.0,1
+8,Reza,IRI,0,1,4,0.0,0.0,5
+8,R.Shahsavari,IRI,0,0,0,,,0
+8,Daneshdoust,IRI,0,2,5,0.0,0.0,7
+8,M. Sadeghi,IRI,0,0,9,0.0,0.0,9
+8,A.Behbodi,IRI,0,3,14,0.0,0.0,17
+8,A. Tashakori,IRI,0,3,12,0.0,0.0,15
+8,M.Heydari,IRI,0,0,0,,,0
+8,Oppenkoski,BRA,0,0,0,,,0
+8,Lukinha,BRA,0,0,0,,,0
+8,Lucas Loh,BRA,0,0,0,,,0
+8,Rech,BRA,0,0,1,0.0,0.0,1
+8,C. Souza,BRA,0,0,0,,,0
+8,Fernando,BRA,0,2,43,0.0,0.0,45
+8,Bauer,BRA,0,0,0,,,0
+8,Resley,BRA,0,1,2,0.0,0.0,3
+8,Matias,BRA,0,0,0,,,0
+8,Sottile,ITA,0,0,3,0.0,0.0,3
+8,Marchisio,ITA,0,0,0,,,0
+8,Juantorena,ITA,0,0,0,,,0
+8,Jeroncic,ITA,0,0,0,,,0
+8,Balaso,ITA,0,0,0,,,0
+8,Diamantini,ITA,0,0,12,0.0,0.0,12
+8,D'heer,BEL,0,1,0,0.0,0.0,1
+8,Cavuto,ITA,0,0,1,0.0,0.0,1
+8,Pinali,ITA,0,0,0,,,0
+8,Albergati,ITA,0,0,0,,,0
+8,Zenger,GER,0,0,0,,,0
+8,Podraščanin,ITA,0,10,36,0.0,0.0,46
+8,Sperotto,ITA,0,1,0,0.0,0.0,1
+8,De Angelis,ITA,0,0,0,,,0

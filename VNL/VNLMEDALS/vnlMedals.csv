@@ -1,8 +1,8 @@
-﻿web-scraper-order,web-scraper-start-url,Years,VNL Hosts,Gold,Silver,Bronze
-"1742894301-1","https://en.wikipedia.org/wiki/FIVB_Men%27s_Volleyball_Nations_League_statistics#Medals_summary","2018","Lille","Russia","France","United States"
-"1742894301-2","https://en.wikipedia.org/wiki/FIVB_Men%27s_Volleyball_Nations_League_statistics#Medals_summary","2019","Chicago","Russia","United States","Poland"
-"1742894301-3","https://en.wikipedia.org/wiki/FIVB_Men%27s_Volleyball_Nations_League_statistics#Medals_summary","2021","Rimini","Brazil","Poland","France"
-"1742894301-4","https://en.wikipedia.org/wiki/FIVB_Men%27s_Volleyball_Nations_League_statistics#Medals_summary","2022","Bologna","France","United States","Poland"
-"1742894301-5","https://en.wikipedia.org/wiki/FIVB_Men%27s_Volleyball_Nations_League_statistics#Medals_summary","2023","Gdańsk","Poland","United States","Japan"
-"1742894301-6","https://en.wikipedia.org/wiki/FIVB_Men%27s_Volleyball_Nations_League_statistics#Medals_summary","2024","Łódź","France","Japan","Poland"
-"1742894301-7","https://en.wikipedia.org/wiki/FIVB_Men%27s_Volleyball_Nations_League_statistics#Medals_summary","2025","","TBD","TBD","TBD"
+Years,VNL Hosts,Gold,Silver,Bronze
+2018,Lille,Russia,France,United States
+2019,Chicago,Russia,United States,Poland
+2021,Rimini,Brazil,Poland,France
+2022,Bologna,France,United States,Poland
+2023,Gdańsk,Poland,United States,Japan
+2024,Łódź,France,Japan,Poland
+2025,,TBD,TBD,TBD

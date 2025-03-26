@@ -1,298 +1,298 @@
-﻿web-scraper-order,web-scraper-start-url,Rank,Player Name,Team,Serve Points,Errors,Attemps,Average Per Match,Success,Total
-"1741279271-1","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","1","Nimir","NED","25","53","101","2.08","13.97","179"
-"1741279271-2","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","2","Romanò","ITA","22","49","121","1.47","11.46","192"
-"1741279271-3","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","3","Ishikawa","JPN","21","58","152","1.40","9.09","231"
-"1741279271-4","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","3","Herrera","CUB","21","52","123","1.75","10.71","196"
-"1741279271-5","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","4","Palonsky","ARG","19","48","137","1.46","9.31","204"
-"1741279271-6","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","4","Lucarelli","BRA","19","32","156","1.46","9.18","207"
-"1741279271-7","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","5","Urnaut","SLO","18","37","137","1.38","9.38","192"
-"1741279271-8","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","6","Zhang J.Y.","CHN","17","28","104","1.42","11.41","149"
-"1741279271-9","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","6","Anderson","USA","17","28","119","1.13","10.37","164"
-"1741279271-10","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","7","Lopez","CUB","16","46","112","1.33","9.20","174"
-"1741279271-11","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","7","Kujundžić","SRB","16","34","117","1.33","9.58","167"
-"1741279271-12","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","7","Defalco","USA","16","46","109","1.07","9.36","171"
-"1741279271-13","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","8","Miyaura","JPN","15","30","75","1.00","12.50","120"
-"1741279271-14","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","8","Ran","JPN","15","34","153","1.00","7.43","202"
-"1741279271-15","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","9","Amin","IRI","14","15","67","1.75","14.58","96"
-"1741279271-16","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","9","Leon","POL","14","33","63","1.27","12.73","110"
-"1741279271-17","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","10","Luburić","SRB","13","41","120","1.08","7.47","174"
-"1741279271-18","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","10","Russell","USA","13","26","65","0.93","12.50","104"
-"1741279271-19","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","10","Michieletto","ITA","13","19","120","1.18","8.55","152"
-"1741279271-20","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","10","Russo","ITA","13","17","131","1.18","8.07","161"
-"1741279271-21","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","10","Kochanowski","POL","13","19","89","1.18","10.74","121"
-"1741279271-22","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","11","Nishida","JPN","12","51","62","0.86","9.60","125"
-"1741279271-23","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","11","Loser Bruno","ARG","12","31","173","0.92","5.56","216"
-"1741279271-24","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","11","Bieniek","POL","12","21","95","1.09","9.38","128"
-"1741279271-25","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","12","Tuinstra","NED","11","22","66","0.92","11.11","99"
-"1741279271-26","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","12","Brehme","GER","11","38","92","0.92","7.80","141"
-"1741279271-27","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","13","Hoag","CAN","10","24","135","0.83","5.92","169"
-"1741279271-28","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","13","Kozamernik","SLO","10","25","182","0.77","4.61","217"
-"1741279271-29","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","13","Možič","SLO","10","31","80","0.77","8.26","121"
-"1741279271-30","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","13","Van Garderen","NED","10","26","95","0.83","7.63","131"
-"1741279271-31","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","14","Szwarc","CAN","9","12","59","0.75","11.25","80"
-"1741279271-32","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","14","Čebulj","SLO","9","46","127","0.69","4.95","182"
-"1741279271-33","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","14","Holt","USA","9","28","98","0.60","6.67","135"
-"1741279271-34","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","14","Tille","GER","9","18","115","0.75","6.34","142"
-"1741279271-35","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","14","Reichert","GER","9","28","125","0.75","5.56","162"
-"1741279271-36","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","14","Weber","GER","9","35","47","0.75","9.89","91"
-"1741279271-37","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","14","Huber","POL","9","21","90","0.82","7.50","120"
-"1741279271-38","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","15","Atanasov","BUL","8","46","78","0.67","6.06","132"
-"1741279271-39","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","15","Esfandiar","IRI","8","20","69","0.67","8.25","97"
-"1741279271-40","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","15","Maar","CAN","8","25","84","0.67","6.84","117"
-"1741279271-41","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","15","Otávio","BRA","8","30","87","0.62","6.40","125"
-"1741279271-42","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","15","Giannelli","ITA","8","17","144","0.73","4.73","169"
-"1741279271-43","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","15","Galassi","ITA","8","28","60","0.73","8.33","96"
-"1741279271-44","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","16","A. Nikolov","BUL","7","28","74","0.88","6.42","109"
-"1741279271-45","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","16","Lima B.","ARG","7","28","99","0.54","5.22","134"
-"1741279271-46","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","16","Demyanenko","CAN","7","30","100","0.58","5.11","137"
-"1741279271-47","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","16","Sclater","CAN","7","14","76","0.58","7.22","97"
-"1741279271-48","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","16","Krsmanović","SRB","7","14","151","0.58","4.07","172"
-"1741279271-49","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","16","Carle","FRA","7","19","53","0.54","8.86","79"
-"1741279271-50","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","16","Jouffroy","FRA","7","37","68","0.54","6.25","112"
-"1741279271-51","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","16","Plak","NED","7","45","85","0.58","5.11","137"
-"1741279271-52","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","16","Alan","BRA","7","29","93","0.54","5.43","129"
-"1741279271-53","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","16","Jaeschke","USA","7","22","70","0.64","7.07","99"
-"1741279271-54","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","16","Brizard","FRA","7","28","73","0.78","6.48","108"
-"1741279271-55","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","17","Vicentin","ARG","6","52","92","0.46","4.00","150"
-"1741279271-56","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","17","Butryn","POL","6","14","19","1.50","15.38","39"
-"1741279271-57","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","17","Faure","FRA","6","14","44","1.50","9.38","64"
-"1741279271-58","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","17","Hanes","USA","6","11","27","0.55","13.64","44"
-"1741279271-59","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","17","Averill","USA","6","17","53","0.40","7.89","76"
-"1741279271-60","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","17","Smith","USA","6","24","85","0.40","5.22","115"
-"1741279271-61","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","17","Lavia","ITA","6","18","125","0.55","4.03","149"
-"1741279271-62","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","17","Patry","FRA","6","16","50","0.67","8.33","72"
-"1741279271-63","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","18","Dimitrov","BUL","5","28","65","0.42","5.10","98"
-"1741279271-64","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","18","Yu Y.T.","CHN","5","29","73","0.42","4.67","107"
-"1741279271-65","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","18","Zhai D.J.","CHN","5","18","50","0.42","6.85","73"
-"1741279271-66","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","18","Sekita","JPN","5","8","218","0.33","2.16","231"
-"1741279271-67","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","18","Mohammad","IRI","5","7","145","0.42","3.18","157"
-"1741279271-68","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","18","Sanguinetti","ITA","5","10","19","0.45","14.71","34"
-"1741279271-69","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","18","Semeniuk","POL","5","10","65","0.45","6.25","80"
-"1741279271-70","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","18","Honorato","BRA","5","32","105","0.38","3.52","142"
-"1741279271-71","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","18","Ivović","SRB","5","19","80","0.62","4.81","104"
-"1741279271-72","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","18","Lucas","BRA","5","19","51","0.56","6.67","75"
-"1741279271-73","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","19","Kolev","BUL","4","15","66","0.33","4.71","85"
-"1741279271-74","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","19","Jiang C.","CHN","4","26","65","0.33","4.21","95"
-"1741279271-75","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","19","Li Y.Z.","CHN","4","29","65","0.33","4.08","98"
-"1741279271-76","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","19","Peng S.K.","CHN","4","13","136","0.33","2.61","153"
-"1741279271-77","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","19","Wang B.","CHN","4","11","23","0.33","10.53","38"
-"1741279271-78","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","19","Onodera","JPN","4","24","159","0.27","2.14","187"
-"1741279271-79","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","19","Yamauchi","JPN","4","12","134","0.27","2.67","150"
-"1741279271-80","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","19","Hajipour","IRI","4","13","34","0.36","7.84","51"
-"1741279271-81","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","19","Poriya","IRI","4","13","66","0.40","4.82","83"
-"1741279271-82","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","19","Morteza","IRI","4","24","81","0.36","3.67","109"
-"1741279271-83","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","19","Recine","ITA","4","5","9","1.00","22.22","18"
-"1741279271-84","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","19","De Cecco","ARG","4","8","120","0.44","3.03","132"
-"1741279271-85","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","19","Yant","CUB","4","36","69","0.33","3.67","109"
-"1741279271-86","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","19","Perić","SRB","4","19","47","0.33","5.71","70"
-"1741279271-87","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","19","Nedeljković","SRB","4","10","131","0.33","2.76","145"
-"1741279271-88","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","19","Szalpuk","POL","4","10","52","0.50","6.06","66"
-"1741279271-89","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","19","Dulski","POL","4","4","25","1.00","12.12","33"
-"1741279271-90","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","19","Bultor","FRA","4","24","59","0.31","4.60","87"
-"1741279271-91","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","19","Christenson","USA","4","13","148","0.27","2.42","165"
-"1741279271-92","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","19","Bruno","BRA","4","13","144","0.31","2.48","161"
-"1741279271-93","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","19","Schott","GER","4","13","34","0.33","7.84","51"
-"1741279271-94","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","19","Cooper","CAN","4","5","7","0.50","25.00","16"
-"1741279271-95","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","19","Chinenyeze","FRA","4","20","82","0.44","3.77","106"
-"1741279271-96","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","19","Louati","FRA","4","10","58","0.44","5.56","72"
-"1741279271-97","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","19","Śliwka","POL","4","12","79","0.57","4.21","95"
-"1741279271-98","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","20","Grozdanov","BUL","3","16","130","0.25","2.01","149"
-"1741279271-99","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","20","Petkov","BUL","3","21","28","0.25","5.77","52"
-"1741279271-100","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","20","Wang D.C.","CHN","3","7","59","0.25","4.35","69"
-"1741279271-101","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","20","Wang H.B.","CHN","3","6","117","0.25","2.38","126"
-"1741279271-102","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","20","Seyed","IRI","3","36","90","0.25","2.33","129"
-"1741279271-103","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","20","Rinaldi","ITA","3","10","50","0.20","4.76","63"
-"1741279271-104","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","20","Armoa Morel","ARG","3","3","13","0.23","15.79","19"
-"1741279271-105","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","20","Kukartsev","ARG","3","14","67","0.23","3.57","84"
-"1741279271-106","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","20","Zerba","ARG","3","13","83","0.23","3.03","99"
-"1741279271-107","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","20","Herr","CAN","3","10","101","0.25","2.63","114"
-"1741279271-108","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","20","Masso","CUB","3","23","63","0.25","3.37","89"
-"1741279271-109","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","20","Concepcion","CUB","3","32","106","0.25","2.13","141"
-"1741279271-110","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","20","Pajenk","SLO","3","30","132","0.23","1.82","165"
-"1741279271-111","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","20","Todorović","SRB","3","16","109","0.25","2.34","128"
-"1741279271-112","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","20","Keemink","NED","3","7","122","0.25","2.27","132"
-"1741279271-113","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","20","Wiltenburg","NED","3","21","122","0.25","2.05","146"
-"1741279271-114","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","20","Bednorz","POL","3","10","50","0.27","4.76","63"
-"1741279271-115","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","20","Clevenot","FRA","3","23","87","0.33","2.65","113"
-"1741279271-116","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","21","Asparuhov","BUL","2","25","43","0.17","2.86","70"
-"1741279271-117","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","21","Javad","IRI","2","18","44","0.17","3.12","64"
-"1741279271-118","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","21","Bottolo","ITA","2","8","29","0.18","5.13","39"
-"1741279271-119","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","21","Eshenko","CAN","2","9","75","0.17","2.33","86"
-"1741279271-120","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","21","Mergarejo","CUB","2","20","57","0.17","2.53","79"
-"1741279271-121","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","21","Szymanski","POL","2","9","8","0.50","10.53","19"
-"1741279271-122","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","21","Kłos","POL","2","9","51","0.25","3.23","62"
-"1741279271-123","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","21","Tillie","FRA","2","19","110","0.22","1.53","131"
-"1741279271-124","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","21","Jendryk","USA","2","9","51","0.13","3.23","62"
-"1741279271-125","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","21","Muagututia","USA","2","3","36","0.18","4.88","41"
-"1741279271-126","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","21","Flavio","BRA","2","12","98","0.15","1.79","112"
-"1741279271-127","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","21","Kaliberda","GER","2","7","17","0.17","7.69","26"
-"1741279271-128","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","21","Kampa","GER","2","12","45","0.25","3.39","59"
-"1741279271-129","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","21","Krage","GER","2","2","45","0.17","4.08","49"
-"1741279271-130","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","21","Röhrs","GER","2","11","30","0.25","4.65","43"
-"1741279271-131","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","21","Walsh","CAN","2","5","16","0.25","8.70","23"
-"1741279271-132","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","21","Ter Maat","NED","2","13","22","0.25","5.41","37"
-"1741279271-133","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","21","Kurek","POL","2","25","47","0.18","2.70","74"
-"1741279271-134","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","21","Boyer","FRA","2","19","32","0.22","3.77","53"
-"1741279271-135","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","21","Kaczmarek","POL","2","13","60","0.29","2.67","75"
-"1741279271-136","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","21","Janusz","POL","2","5","64","0.29","2.82","71"
-"1741279271-137","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","22","Seganov","BUL","1","6","116","0.08","0.81","123"
-"1741279271-138","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","22","Karyagin","BUL","1","17","24","0.08","2.38","42"
-"1741279271-139","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","22","Zhang G.H.","CHN","1","1","4","0.12","16.67","6"
-"1741279271-140","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","22","Shahrooz","IRI","1","6","37","0.08","2.27","44"
-"1741279271-141","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","22","Sanchez Pages","ARG","1","6","55","0.08","1.61","62"
-"1741279271-142","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","22","Martinez Franchi","ARG","1","11","23","0.08","2.86","35"
-"1741279271-143","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","22","Hofer","CAN","1","4","31","0.08","2.78","36"
-"1741279271-144","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","22","Thondike","CUB","1","9","30","0.08","2.50","40"
-"1741279271-145","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","22","J. Gutierrez","CUB","1","18","28","0.08","2.13","47"
-"1741279271-146","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","22","Z. Štern","SLO","1","6","34","0.08","2.44","41"
-"1741279271-147","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","22","Ropret","SLO","1","13","110","0.08","0.81","124"
-"1741279271-148","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","22","Łomacz","POL","1","2","66","0.07","1.45","69"
-"1741279271-149","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","22","Urbanowicz","POL","1","4","24","0.12","3.45","29"
-"1741279271-150","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","22","Corre","FRA","1","10","54","0.25","1.54","65"
-"1741279271-151","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","22","Ma'a","USA","1","7","23","0.09","3.23","31"
-"1741279271-152","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","22","Meijs","NED","1","6","10","0.08","5.88","17"
-"1741279271-153","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","22","Jorna","NED","1","10","94","0.08","0.95","105"
-"1741279271-154","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","22","Adriano","BRA","1","3","44","0.08","2.08","48"
-"1741279271-155","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","22","Abouba","BRA","1","5","22","0.25","3.57","28"
-"1741279271-156","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","22","Mašulović N.","SRB","1","0","9","0.12","10.00","10"
-"1741279271-157","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","22","Ter Horst","NED","1","5","4","0.12","10.00","10"
-"1741279271-158","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","22","Parkinson","NED","1","1","32","0.25","2.94","34"
-"1741279271-159","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","22","Chen L.Y.","CHN","1","3","24","0.12","3.57","28"
-"1741279271-160","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","22","Roque","BRA","1","3","21","0.11","4.00","25"
-"1741279271-161","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","22","Anzani","ITA","1","2","22","0.25","4.00","25"
-"1741279271-162","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","22","Caneschi","ITA","1","2","2","0.25","20.00","5"
-"1741279271-163","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","22","Le Goff","FRA","1","7","20","0.20","3.57","28"
-"1741279271-164","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","22","Fromm","GER","1","5","30","0.25","2.78","36"
-"1741279271-165","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","22","V. Bratoev","BUL","1","4","17","0.25","4.55","22"
-"1741279271-166","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","22","K. Russell","USA","1","6","9","0.25","6.25","16"
-"1741279271-167","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","22","Nishiyama","JPN","1","2","2","0.33","20.00","5"
-"1741279271-168","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","G. Bratoev","BUL","0","0","8","0.00","0.00","8"
-"1741279271-169","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Gotsev","BUL","0","3","35","0.00","0.00","38"
-"1741279271-170","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Bozhilov","BUL","0","0","0","","","0"
-"1741279271-171","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","N. Penchev","BUL","0","3","20","0.00","0.00","23"
-"1741279271-172","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Dobrev","BUL","0","0","0","","","0"
-"1741279271-173","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Guo C.","CHN","0","2","3","0.00","0.00","5"
-"1741279271-174","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Liu M.","CHN","0","0","4","0.00","0.00","4"
-"1741279271-175","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Chen J.J.","CHN","0","0","0","","","0"
-"1741279271-176","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Qu Z.S.","CHN","0","0","0","","","0"
-"1741279271-177","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Fukatsu","JPN","0","1","1","0.00","0.00","2"
-"1741279271-178","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Kentaro","JPN","0","7","41","0.00","0.00","48"
-"1741279271-179","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Tomita","JPN","0","2","6","0.00","0.00","8"
-"1741279271-180","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Ogawa","JPN","0","0","0","","","0"
-"1741279271-181","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Yamamoto","JPN","0","0","0","","","0"
-"1741279271-182","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Kai","JPN","0","5","9","0.00","0.00","14"
-"1741279271-183","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Jelveh","IRI","0","3","36","0.00","0.00","39"
-"1741279271-184","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Hazrat","IRI","0","0","0","","","0"
-"1741279271-185","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","J.Manavi","IRI","0","4","12","0.00","0.00","16"
-"1741279271-186","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Vadi","IRI","0","3","49","0.00","0.00","52"
-"1741279271-187","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Arman","IRI","0","0","0","","","0"
-"1741279271-188","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Porro P.","ITA","0","9","43","0.00","0.00","52"
-"1741279271-189","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Falaschi","ITA","0","0","0","","","0"
-"1741279271-190","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Balaso","ITA","0","0","0","","","0"
-"1741279271-191","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Gardini","ITA","0","1","1","0.00","0.00","2"
-"1741279271-192","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Cortesia","ITA","0","5","6","0.00","0.00","11"
-"1741279271-193","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Gironi","ITA","0","3","10","0.00","0.00","13"
-"1741279271-194","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Vitelli","ITA","0","2","4","0.00","0.00","6"
-"1741279271-195","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Federici","ITA","0","0","0","","","0"
-"1741279271-196","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Mosca","ITA","0","3","36","0.00","0.00","39"
-"1741279271-197","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Gallego","ARG","0","3","36","0.00","0.00","39"
-"1741279271-198","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Danani","ARG","0","0","0","","","0"
-"1741279271-199","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Zelayeta","ARG","0","1","0","0.00","0.00","1"
-"1741279271-200","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Ramos","ARG","0","4","44","0.00","0.00","48"
-"1741279271-201","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Blankenau","CAN","0","0","3","0.00","0.00","3"
-"1741279271-202","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Van Berkel","CAN","0","2","74","0.00","0.00","76"
-"1741279271-203","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Schnitzer","CAN","0","1","1","0.00","0.00","2"
-"1741279271-204","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Lui","CAN","0","0","0","","","0"
-"1741279271-205","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Currie","CAN","0","0","0","","","0"
-"1741279271-206","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","M. Elser","CAN","0","4","32","0.00","0.00","36"
-"1741279271-207","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Garcia","CUB","0","0","0","","","0"
-"1741279271-208","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Gutierrez","CUB","0","4","3","0.00","0.00","7"
-"1741279271-209","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Taboada","CUB","0","11","105","0.00","0.00","116"
-"1741279271-210","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Goide","CUB","0","0","0","","","0"
-"1741279271-211","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Pedroso","CUB","0","7","31","0.00","0.00","38"
-"1741279271-212","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Gorguet","CUB","0","0","0","","","0"
-"1741279271-213","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Planinšič","SLO","0","7","27","0.00","0.00","34"
-"1741279271-214","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Kök","SLO","0","4","15","0.00","0.00","19"
-"1741279271-215","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Toman","SLO","0","0","0","","","0"
-"1741279271-216","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Bračko","SLO","0","0","0","","","0"
-"1741279271-217","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Štalekar","SLO","0","1","5","0.00","0.00","6"
-"1741279271-218","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Koncilja","SLO","0","0","0","","","0"
-"1741279271-219","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Kovačič","SLO","0","0","0","","","0"
-"1741279271-220","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Kapur","SRB","0","0","0","","","0"
-"1741279271-221","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Mašulović V.","SRB","0","3","4","0.00","0.00","7"
-"1741279271-222","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Katic","SRB","0","2","14","0.00","0.00","16"
-"1741279271-223","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Batak","SRB","0","6","18","0.00","0.00","24"
-"1741279271-224","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Gajović","SRB","0","0","0","","","0"
-"1741279271-225","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Krsteski","SRB","0","0","0","","","0"
-"1741279271-226","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Petrović","SRB","0","1","0","0.00","0.00","1"
-"1741279271-227","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Vucicevic","SRB","0","7","15","0.00","0.00","22"
-"1741279271-228","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Szymura","POL","0","0","0","","","0"
-"1741279271-229","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Hawryluk","POL","0","0","0","","","0"
-"1741279271-230","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Sawicki","POL","0","4","2","0.00","0.00","6"
-"1741279271-231","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Poręba","POL","0","0","0","","","0"
-"1741279271-232","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Firlej","POL","0","8","25","0.00","0.00","33"
-"1741279271-233","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Motta Paes","FRA","0","1","1","0.00","0.00","2"
-"1741279271-234","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Henry","FRA","0","0","0","","","0"
-"1741279271-235","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Pothron","FRA","0","1","2","0.00","0.00","3"
-"1741279271-236","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Diez","FRA","0","0","0","","","0"
-"1741279271-237","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Basic","FRA","0","0","0","","","0"
-"1741279271-238","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Henno","FRA","0","3","7","0.00","0.00","10"
-"1741279271-239","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Loubeyre","FRA","0","0","0","","","0"
-"1741279271-240","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Roehrig","FRA","0","0","0","","","0"
-"1741279271-241","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Ensing","USA","0","2","5","0.00","0.00","7"
-"1741279271-242","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","E. Shoji","USA","0","0","0","","","0"
-"1741279271-243","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Kessel","USA","0","1","6","0.00","0.00","7"
-"1741279271-244","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Korenblek","NED","0","2","2","0.00","0.00","4"
-"1741279271-245","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Van Der Ent","NED","0","0","0","","","0"
-"1741279271-246","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Andringa","NED","0","0","0","","","0"
-"1741279271-247","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Bak","NED","0","0","0","","","0"
-"1741279271-248","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Wijkstra","NED","0","0","0","","","0"
-"1741279271-249","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Lipke","NED","0","0","0","","","0"
-"1741279271-250","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Fernando","BRA","0","3","38","0.00","0.00","41"
-"1741279271-251","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Maique","BRA","0","0","0","","","0"
-"1741279271-252","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Thales","BRA","0","0","0","","","0"
-"1741279271-253","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Arthur","BRA","0","2","4","0.00","0.00","6"
-"1741279271-254","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Thiery","BRA","0","0","0","","","0"
-"1741279271-255","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Judson","BRA","0","14","49","0.00","0.00","63"
-"1741279271-256","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Graven","GER","0","0","0","","","0"
-"1741279271-257","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Krick","GER","0","7","70","0.00","0.00","77"
-"1741279271-258","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Brand","GER","0","6","25","0.00","0.00","31"
-"1741279271-259","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Maase","GER","0","4","13","0.00","0.00","17"
-"1741279271-260","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Böhme","GER","0","7","23","0.00","0.00","30"
-"1741279271-261","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Otsuka","JPN","0","4","26","0.00","0.00","30"
-"1741279271-262","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Salehi","IRI","0","0","0","","","0"
-"1741279271-263","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Zimmermann","GER","0","0","13","0.00","0.00","13"
-"1741279271-264","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Günthör","GER","0","0","1","0.00","0.00","1"
-"1741279271-265","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Dagostino","USA","0","0","0","","","0"
-"1741279271-266","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Tuaniga","USA","0","0","6","0.00","0.00","6"
-"1741279271-267","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Giraudo","ARG","0","2","1","0.00","0.00","3"
-"1741279271-268","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Mujanović","SLO","0","0","0","","","0"
-"1741279271-269","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Yang Y.M.","CHN","0","0","0","","","0"
-"1741279271-270","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Salparov","BUL","0","0","0","","","0"
-"1741279271-271","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Raev","BUL","0","0","13","0.00","0.00","13"
-"1741279271-272","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","S.Ivanov","BUL","0","2","1","0.00","0.00","3"
-"1741279271-273","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Sbertoli","ITA","0","4","8","0.00","0.00","12"
-"1741279271-274","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Scanferla","ITA","0","0","0","","","0"
-"1741279271-275","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Magalini","ITA","0","0","0","","","0"
-"1741279271-276","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Adamczyk","POL","0","4","11","0.00","0.00","15"
-"1741279271-277","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Zatorski","POL","0","0","0","","","0"
-"1741279271-278","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Fornal","POL","0","12","36","0.00","0.00","48"
-"1741279271-279","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Bołądź","POL","0","6","10","0.00","0.00","16"
-"1741279271-280","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Grebennikov","FRA","0","0","0","","","0"
-"1741279271-281","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Huetz","FRA","0","1","0","0.00","0.00","1"
-"1741279271-282","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Vaccari","BRA","0","2","5","0.00","0.00","7"
-"1741279271-283","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Piccinelli","ITA","0","0","0","","","0"
-"1741279271-284","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Sala","ITA","0","0","4","0.00","0.00","4"
-"1741279271-285","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Eiro","JPN","0","1","7","0.00","0.00","8"
-"1741279271-286","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Larry","JPN","0","0","9","0.00","0.00","9"
-"1741279271-287","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Rao S.H.","CHN","0","0","0","","","0"
-"1741279271-288","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Kovačević","SRB","0","1","5","0.00","0.00","6"
-"1741279271-289","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Podraščanin","ITA","0","0","0","","","0"
-"1741279271-290","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","M. R. Moazzen","IRI","0","0","0","","","0"
-"1741279271-291","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","A. Ramezani","IRI","0","3","28","0.00","0.00","31"
-"1741279271-292","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","A. Afshinfar","IRI","0","0","0","","","0"
-"1741279271-293","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Saadat","IRI","0","11","26","0.00","0.00","37"
-"1741279271-294","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Toniutti","FRA","0","2","39","0.00","0.00","41"
-"1741279271-295","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Popiwczak","POL","0","0","0","","","0"
-"1741279271-296","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Daneshdoust","IRI","0","0","0","","","0"
-"1741279271-297","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-servers/","23","Leal","BRA","0","2","1","0.00","0.00","3"
+Rank,Player Name,Team,Serve Points,Errors,Attemps,Average Per Match,Success,Total
+1,Nimir,NED,25,53,101,2.08,13.97,179
+2,Romanò,ITA,22,49,121,1.47,11.46,192
+3,Ishikawa,JPN,21,58,152,1.4,9.09,231
+3,Herrera,CUB,21,52,123,1.75,10.71,196
+4,Palonsky,ARG,19,48,137,1.46,9.31,204
+4,Lucarelli,BRA,19,32,156,1.46,9.18,207
+5,Urnaut,SLO,18,37,137,1.38,9.38,192
+6,Zhang J.Y.,CHN,17,28,104,1.42,11.41,149
+6,Anderson,USA,17,28,119,1.13,10.37,164
+7,Lopez,CUB,16,46,112,1.33,9.2,174
+7,Kujundžić,SRB,16,34,117,1.33,9.58,167
+7,Defalco,USA,16,46,109,1.07,9.36,171
+8,Miyaura,JPN,15,30,75,1.0,12.5,120
+8,Ran,JPN,15,34,153,1.0,7.43,202
+9,Amin,IRI,14,15,67,1.75,14.58,96
+9,Leon,POL,14,33,63,1.27,12.73,110
+10,Luburić,SRB,13,41,120,1.08,7.47,174
+10,Russell,USA,13,26,65,0.93,12.5,104
+10,Michieletto,ITA,13,19,120,1.18,8.55,152
+10,Russo,ITA,13,17,131,1.18,8.07,161
+10,Kochanowski,POL,13,19,89,1.18,10.74,121
+11,Nishida,JPN,12,51,62,0.86,9.6,125
+11,Loser Bruno,ARG,12,31,173,0.92,5.56,216
+11,Bieniek,POL,12,21,95,1.09,9.38,128
+12,Tuinstra,NED,11,22,66,0.92,11.11,99
+12,Brehme,GER,11,38,92,0.92,7.8,141
+13,Hoag,CAN,10,24,135,0.83,5.92,169
+13,Kozamernik,SLO,10,25,182,0.77,4.61,217
+13,Možič,SLO,10,31,80,0.77,8.26,121
+13,Van Garderen,NED,10,26,95,0.83,7.63,131
+14,Szwarc,CAN,9,12,59,0.75,11.25,80
+14,Čebulj,SLO,9,46,127,0.69,4.95,182
+14,Holt,USA,9,28,98,0.6,6.67,135
+14,Tille,GER,9,18,115,0.75,6.34,142
+14,Reichert,GER,9,28,125,0.75,5.56,162
+14,Weber,GER,9,35,47,0.75,9.89,91
+14,Huber,POL,9,21,90,0.82,7.5,120
+15,Atanasov,BUL,8,46,78,0.67,6.06,132
+15,Esfandiar,IRI,8,20,69,0.67,8.25,97
+15,Maar,CAN,8,25,84,0.67,6.84,117
+15,Otávio,BRA,8,30,87,0.62,6.4,125
+15,Giannelli,ITA,8,17,144,0.73,4.73,169
+15,Galassi,ITA,8,28,60,0.73,8.33,96
+16,A. Nikolov,BUL,7,28,74,0.88,6.42,109
+16,Lima B.,ARG,7,28,99,0.54,5.22,134
+16,Demyanenko,CAN,7,30,100,0.58,5.11,137
+16,Sclater,CAN,7,14,76,0.58,7.22,97
+16,Krsmanović,SRB,7,14,151,0.58,4.07,172
+16,Carle,FRA,7,19,53,0.54,8.86,79
+16,Jouffroy,FRA,7,37,68,0.54,6.25,112
+16,Plak,NED,7,45,85,0.58,5.11,137
+16,Alan,BRA,7,29,93,0.54,5.43,129
+16,Jaeschke,USA,7,22,70,0.64,7.07,99
+16,Brizard,FRA,7,28,73,0.78,6.48,108
+17,Vicentin,ARG,6,52,92,0.46,4.0,150
+17,Butryn,POL,6,14,19,1.5,15.38,39
+17,Faure,FRA,6,14,44,1.5,9.38,64
+17,Hanes,USA,6,11,27,0.55,13.64,44
+17,Averill,USA,6,17,53,0.4,7.89,76
+17,Smith,USA,6,24,85,0.4,5.22,115
+17,Lavia,ITA,6,18,125,0.55,4.03,149
+17,Patry,FRA,6,16,50,0.67,8.33,72
+18,Dimitrov,BUL,5,28,65,0.42,5.1,98
+18,Yu Y.T.,CHN,5,29,73,0.42,4.67,107
+18,Zhai D.J.,CHN,5,18,50,0.42,6.85,73
+18,Sekita,JPN,5,8,218,0.33,2.16,231
+18,Mohammad,IRI,5,7,145,0.42,3.18,157
+18,Sanguinetti,ITA,5,10,19,0.45,14.71,34
+18,Semeniuk,POL,5,10,65,0.45,6.25,80
+18,Honorato,BRA,5,32,105,0.38,3.52,142
+18,Ivović,SRB,5,19,80,0.62,4.81,104
+18,Lucas,BRA,5,19,51,0.56,6.67,75
+19,Kolev,BUL,4,15,66,0.33,4.71,85
+19,Jiang C.,CHN,4,26,65,0.33,4.21,95
+19,Li Y.Z.,CHN,4,29,65,0.33,4.08,98
+19,Peng S.K.,CHN,4,13,136,0.33,2.61,153
+19,Wang B.,CHN,4,11,23,0.33,10.53,38
+19,Onodera,JPN,4,24,159,0.27,2.14,187
+19,Yamauchi,JPN,4,12,134,0.27,2.67,150
+19,Hajipour,IRI,4,13,34,0.36,7.84,51
+19,Poriya,IRI,4,13,66,0.4,4.82,83
+19,Morteza,IRI,4,24,81,0.36,3.67,109
+19,Recine,ITA,4,5,9,1.0,22.22,18
+19,De Cecco,ARG,4,8,120,0.44,3.03,132
+19,Yant,CUB,4,36,69,0.33,3.67,109
+19,Perić,SRB,4,19,47,0.33,5.71,70
+19,Nedeljković,SRB,4,10,131,0.33,2.76,145
+19,Szalpuk,POL,4,10,52,0.5,6.06,66
+19,Dulski,POL,4,4,25,1.0,12.12,33
+19,Bultor,FRA,4,24,59,0.31,4.6,87
+19,Christenson,USA,4,13,148,0.27,2.42,165
+19,Bruno,BRA,4,13,144,0.31,2.48,161
+19,Schott,GER,4,13,34,0.33,7.84,51
+19,Cooper,CAN,4,5,7,0.5,25.0,16
+19,Chinenyeze,FRA,4,20,82,0.44,3.77,106
+19,Louati,FRA,4,10,58,0.44,5.56,72
+19,Śliwka,POL,4,12,79,0.57,4.21,95
+20,Grozdanov,BUL,3,16,130,0.25,2.01,149
+20,Petkov,BUL,3,21,28,0.25,5.77,52
+20,Wang D.C.,CHN,3,7,59,0.25,4.35,69
+20,Wang H.B.,CHN,3,6,117,0.25,2.38,126
+20,Seyed,IRI,3,36,90,0.25,2.33,129
+20,Rinaldi,ITA,3,10,50,0.2,4.76,63
+20,Armoa Morel,ARG,3,3,13,0.23,15.79,19
+20,Kukartsev,ARG,3,14,67,0.23,3.57,84
+20,Zerba,ARG,3,13,83,0.23,3.03,99
+20,Herr,CAN,3,10,101,0.25,2.63,114
+20,Masso,CUB,3,23,63,0.25,3.37,89
+20,Concepcion,CUB,3,32,106,0.25,2.13,141
+20,Pajenk,SLO,3,30,132,0.23,1.82,165
+20,Todorović,SRB,3,16,109,0.25,2.34,128
+20,Keemink,NED,3,7,122,0.25,2.27,132
+20,Wiltenburg,NED,3,21,122,0.25,2.05,146
+20,Bednorz,POL,3,10,50,0.27,4.76,63
+20,Clevenot,FRA,3,23,87,0.33,2.65,113
+21,Asparuhov,BUL,2,25,43,0.17,2.86,70
+21,Javad,IRI,2,18,44,0.17,3.12,64
+21,Bottolo,ITA,2,8,29,0.18,5.13,39
+21,Eshenko,CAN,2,9,75,0.17,2.33,86
+21,Mergarejo,CUB,2,20,57,0.17,2.53,79
+21,Szymanski,POL,2,9,8,0.5,10.53,19
+21,Kłos,POL,2,9,51,0.25,3.23,62
+21,Tillie,FRA,2,19,110,0.22,1.53,131
+21,Jendryk,USA,2,9,51,0.13,3.23,62
+21,Muagututia,USA,2,3,36,0.18,4.88,41
+21,Flavio,BRA,2,12,98,0.15,1.79,112
+21,Kaliberda,GER,2,7,17,0.17,7.69,26
+21,Kampa,GER,2,12,45,0.25,3.39,59
+21,Krage,GER,2,2,45,0.17,4.08,49
+21,Röhrs,GER,2,11,30,0.25,4.65,43
+21,Walsh,CAN,2,5,16,0.25,8.7,23
+21,Ter Maat,NED,2,13,22,0.25,5.41,37
+21,Kurek,POL,2,25,47,0.18,2.7,74
+21,Boyer,FRA,2,19,32,0.22,3.77,53
+21,Kaczmarek,POL,2,13,60,0.29,2.67,75
+21,Janusz,POL,2,5,64,0.29,2.82,71
+22,Seganov,BUL,1,6,116,0.08,0.81,123
+22,Karyagin,BUL,1,17,24,0.08,2.38,42
+22,Zhang G.H.,CHN,1,1,4,0.12,16.67,6
+22,Shahrooz,IRI,1,6,37,0.08,2.27,44
+22,Sanchez Pages,ARG,1,6,55,0.08,1.61,62
+22,Martinez Franchi,ARG,1,11,23,0.08,2.86,35
+22,Hofer,CAN,1,4,31,0.08,2.78,36
+22,Thondike,CUB,1,9,30,0.08,2.5,40
+22,J. Gutierrez,CUB,1,18,28,0.08,2.13,47
+22,Z. Štern,SLO,1,6,34,0.08,2.44,41
+22,Ropret,SLO,1,13,110,0.08,0.81,124
+22,Łomacz,POL,1,2,66,0.07,1.45,69
+22,Urbanowicz,POL,1,4,24,0.12,3.45,29
+22,Corre,FRA,1,10,54,0.25,1.54,65
+22,Ma'a,USA,1,7,23,0.09,3.23,31
+22,Meijs,NED,1,6,10,0.08,5.88,17
+22,Jorna,NED,1,10,94,0.08,0.95,105
+22,Adriano,BRA,1,3,44,0.08,2.08,48
+22,Abouba,BRA,1,5,22,0.25,3.57,28
+22,Mašulović N.,SRB,1,0,9,0.12,10.0,10
+22,Ter Horst,NED,1,5,4,0.12,10.0,10
+22,Parkinson,NED,1,1,32,0.25,2.94,34
+22,Chen L.Y.,CHN,1,3,24,0.12,3.57,28
+22,Roque,BRA,1,3,21,0.11,4.0,25
+22,Anzani,ITA,1,2,22,0.25,4.0,25
+22,Caneschi,ITA,1,2,2,0.25,20.0,5
+22,Le Goff,FRA,1,7,20,0.2,3.57,28
+22,Fromm,GER,1,5,30,0.25,2.78,36
+22,V. Bratoev,BUL,1,4,17,0.25,4.55,22
+22,K. Russell,USA,1,6,9,0.25,6.25,16
+22,Nishiyama,JPN,1,2,2,0.33,20.0,5
+23,G. Bratoev,BUL,0,0,8,0.0,0.0,8
+23,Gotsev,BUL,0,3,35,0.0,0.0,38
+23,Bozhilov,BUL,0,0,0,,,0
+23,N. Penchev,BUL,0,3,20,0.0,0.0,23
+23,Dobrev,BUL,0,0,0,,,0
+23,Guo C.,CHN,0,2,3,0.0,0.0,5
+23,Liu M.,CHN,0,0,4,0.0,0.0,4
+23,Chen J.J.,CHN,0,0,0,,,0
+23,Qu Z.S.,CHN,0,0,0,,,0
+23,Fukatsu,JPN,0,1,1,0.0,0.0,2
+23,Kentaro,JPN,0,7,41,0.0,0.0,48
+23,Tomita,JPN,0,2,6,0.0,0.0,8
+23,Ogawa,JPN,0,0,0,,,0
+23,Yamamoto,JPN,0,0,0,,,0
+23,Kai,JPN,0,5,9,0.0,0.0,14
+23,Jelveh,IRI,0,3,36,0.0,0.0,39
+23,Hazrat,IRI,0,0,0,,,0
+23,J.Manavi,IRI,0,4,12,0.0,0.0,16
+23,Vadi,IRI,0,3,49,0.0,0.0,52
+23,Arman,IRI,0,0,0,,,0
+23,Porro P.,ITA,0,9,43,0.0,0.0,52
+23,Falaschi,ITA,0,0,0,,,0
+23,Balaso,ITA,0,0,0,,,0
+23,Gardini,ITA,0,1,1,0.0,0.0,2
+23,Cortesia,ITA,0,5,6,0.0,0.0,11
+23,Gironi,ITA,0,3,10,0.0,0.0,13
+23,Vitelli,ITA,0,2,4,0.0,0.0,6
+23,Federici,ITA,0,0,0,,,0
+23,Mosca,ITA,0,3,36,0.0,0.0,39
+23,Gallego,ARG,0,3,36,0.0,0.0,39
+23,Danani,ARG,0,0,0,,,0
+23,Zelayeta,ARG,0,1,0,0.0,0.0,1
+23,Ramos,ARG,0,4,44,0.0,0.0,48
+23,Blankenau,CAN,0,0,3,0.0,0.0,3
+23,Van Berkel,CAN,0,2,74,0.0,0.0,76
+23,Schnitzer,CAN,0,1,1,0.0,0.0,2
+23,Lui,CAN,0,0,0,,,0
+23,Currie,CAN,0,0,0,,,0
+23,M. Elser,CAN,0,4,32,0.0,0.0,36
+23,Garcia,CUB,0,0,0,,,0
+23,Gutierrez,CUB,0,4,3,0.0,0.0,7
+23,Taboada,CUB,0,11,105,0.0,0.0,116
+23,Goide,CUB,0,0,0,,,0
+23,Pedroso,CUB,0,7,31,0.0,0.0,38
+23,Gorguet,CUB,0,0,0,,,0
+23,Planinšič,SLO,0,7,27,0.0,0.0,34
+23,Kök,SLO,0,4,15,0.0,0.0,19
+23,Toman,SLO,0,0,0,,,0
+23,Bračko,SLO,0,0,0,,,0
+23,Štalekar,SLO,0,1,5,0.0,0.0,6
+23,Koncilja,SLO,0,0,0,,,0
+23,Kovačič,SLO,0,0,0,,,0
+23,Kapur,SRB,0,0,0,,,0
+23,Mašulović V.,SRB,0,3,4,0.0,0.0,7
+23,Katic,SRB,0,2,14,0.0,0.0,16
+23,Batak,SRB,0,6,18,0.0,0.0,24
+23,Gajović,SRB,0,0,0,,,0
+23,Krsteski,SRB,0,0,0,,,0
+23,Petrović,SRB,0,1,0,0.0,0.0,1
+23,Vucicevic,SRB,0,7,15,0.0,0.0,22
+23,Szymura,POL,0,0,0,,,0
+23,Hawryluk,POL,0,0,0,,,0
+23,Sawicki,POL,0,4,2,0.0,0.0,6
+23,Poręba,POL,0,0,0,,,0
+23,Firlej,POL,0,8,25,0.0,0.0,33
+23,Motta Paes,FRA,0,1,1,0.0,0.0,2
+23,Henry,FRA,0,0,0,,,0
+23,Pothron,FRA,0,1,2,0.0,0.0,3
+23,Diez,FRA,0,0,0,,,0
+23,Basic,FRA,0,0,0,,,0
+23,Henno,FRA,0,3,7,0.0,0.0,10
+23,Loubeyre,FRA,0,0,0,,,0
+23,Roehrig,FRA,0,0,0,,,0
+23,Ensing,USA,0,2,5,0.0,0.0,7
+23,E. Shoji,USA,0,0,0,,,0
+23,Kessel,USA,0,1,6,0.0,0.0,7
+23,Korenblek,NED,0,2,2,0.0,0.0,4
+23,Van Der Ent,NED,0,0,0,,,0
+23,Andringa,NED,0,0,0,,,0
+23,Bak,NED,0,0,0,,,0
+23,Wijkstra,NED,0,0,0,,,0
+23,Lipke,NED,0,0,0,,,0
+23,Fernando,BRA,0,3,38,0.0,0.0,41
+23,Maique,BRA,0,0,0,,,0
+23,Thales,BRA,0,0,0,,,0
+23,Arthur,BRA,0,2,4,0.0,0.0,6
+23,Thiery,BRA,0,0,0,,,0
+23,Judson,BRA,0,14,49,0.0,0.0,63
+23,Graven,GER,0,0,0,,,0
+23,Krick,GER,0,7,70,0.0,0.0,77
+23,Brand,GER,0,6,25,0.0,0.0,31
+23,Maase,GER,0,4,13,0.0,0.0,17
+23,Böhme,GER,0,7,23,0.0,0.0,30
+23,Otsuka,JPN,0,4,26,0.0,0.0,30
+23,Salehi,IRI,0,0,0,,,0
+23,Zimmermann,GER,0,0,13,0.0,0.0,13
+23,Günthör,GER,0,0,1,0.0,0.0,1
+23,Dagostino,USA,0,0,0,,,0
+23,Tuaniga,USA,0,0,6,0.0,0.0,6
+23,Giraudo,ARG,0,2,1,0.0,0.0,3
+23,Mujanović,SLO,0,0,0,,,0
+23,Yang Y.M.,CHN,0,0,0,,,0
+23,Salparov,BUL,0,0,0,,,0
+23,Raev,BUL,0,0,13,0.0,0.0,13
+23,S.Ivanov,BUL,0,2,1,0.0,0.0,3
+23,Sbertoli,ITA,0,4,8,0.0,0.0,12
+23,Scanferla,ITA,0,0,0,,,0
+23,Magalini,ITA,0,0,0,,,0
+23,Adamczyk,POL,0,4,11,0.0,0.0,15
+23,Zatorski,POL,0,0,0,,,0
+23,Fornal,POL,0,12,36,0.0,0.0,48
+23,Bołądź,POL,0,6,10,0.0,0.0,16
+23,Grebennikov,FRA,0,0,0,,,0
+23,Huetz,FRA,0,1,0,0.0,0.0,1
+23,Vaccari,BRA,0,2,5,0.0,0.0,7
+23,Piccinelli,ITA,0,0,0,,,0
+23,Sala,ITA,0,0,4,0.0,0.0,4
+23,Eiro,JPN,0,1,7,0.0,0.0,8
+23,Larry,JPN,0,0,9,0.0,0.0,9
+23,Rao S.H.,CHN,0,0,0,,,0
+23,Kovačević,SRB,0,1,5,0.0,0.0,6
+23,Podraščanin,ITA,0,0,0,,,0
+23,M. R. Moazzen,IRI,0,0,0,,,0
+23,A. Ramezani,IRI,0,3,28,0.0,0.0,31
+23,A. Afshinfar,IRI,0,0,0,,,0
+23,Saadat,IRI,0,11,26,0.0,0.0,37
+23,Toniutti,FRA,0,2,39,0.0,0.0,41
+23,Popiwczak,POL,0,0,0,,,0
+23,Daneshdoust,IRI,0,0,0,,,0
+23,Leal,BRA,0,2,1,0.0,0.0,3

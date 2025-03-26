@@ -1,85 +1,85 @@
-﻿web-scraper-order,web-scraper-start-url,Rank,Player Name,Team,Successful,Errors,Attempts,Average Per Match,Success,Total
-"1742890198-1","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-setters/","1","Sbertoli","ITA","42","0","276","10.50","13.21","318"
-"1742890198-2","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-setters/","2","Giannelli","ITA","34","0","267","8.50","11.30","301"
-"1742890198-3","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-setters/","3","William","BRA","31","0","198","7.75","13.54","229"
-"1742890198-4","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-setters/","4","Uriarte","ARG","29","2","267","7.25","9.73","298"
-"1742890198-5","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-setters/","5","Vadi","IRI","14","2","178","7.00","7.22","194"
-"1742890198-6","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-setters/","6","Resley","BRA","11","3","87","2.75","10.89","101"
-"1742890198-7","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-setters/","7","Rodrigo","BRA","3","0","32","0.75","8.57","35"
-"1742890198-8","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-setters/","7","Gonzalez","ARG","3","0","118","1.50","2.48","121"
-"1742890198-9","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-setters/","8","Everaldo","BRA","2","1","17","1.00","10.00","20"
-"1742890198-10","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-setters/","9","Saberi","IRI","1","0","3","0.50","25.00","4"
-"1742890198-11","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-setters/","10","Estrada","FIV","0","0","0","","","0"
-"1742890198-12","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-setters/","10","Kelvi","BRA","0","0","0","","","0"
-"1742890198-13","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-setters/","10","Paulo","BRA","0","0","1","0.00","0.00","1"
-"1742890198-14","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-setters/","10","Vissotto","BRA","0","0","0","","","0"
-"1742890198-15","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-setters/","10","Matheus","BRA","0","0","0","","","0"
-"1742890198-16","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-setters/","10","Henrique","BRA","0","0","0","","","0"
-"1742890198-17","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-setters/","10","Juninho","BRA","0","0","0","","","0"
-"1742890198-18","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-setters/","10","Maique","BRA","0","0","0","","","0"
-"1742890198-19","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-setters/","10","André S.","BRA","0","0","0","","","0"
-"1742890198-20","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-setters/","10","Honorato","BRA","0","0","0","","","0"
-"1742890198-21","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-setters/","10","Arthur","BRA","0","0","0","","","0"
-"1742890198-22","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-setters/","10","Marcus","BRA","0","0","0","","","0"
-"1742890198-23","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-setters/","10","Amir Reza","IRI","0","0","0","","","0"
-"1742890198-24","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-setters/","10","Fallah","IRI","0","0","0","","","0"
-"1742890198-25","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-setters/","10","H. Zarini","IRI","0","0","0","","","0"
-"1742890198-26","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-setters/","10","Hazrat","IRI","0","0","0","","","0"
-"1742890198-27","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-setters/","10","A. Shafiei","IRI","0","0","0","","","0"
-"1742890198-28","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-setters/","10","Amin","IRI","0","0","0","","","0"
-"1742890198-29","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-setters/","10","A. Afshinfar","IRI","0","0","0","","","0"
-"1742890198-30","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-setters/","10","Mashhadi","IRI","0","0","0","","","0"
-"1742890198-31","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-setters/","10","R. Aslani","IRI","0","0","0","","","0"
-"1742890198-32","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-setters/","10","A. Tashakori","IRI","0","0","0","","","0"
-"1742890198-33","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-setters/","10","P. Fayazi","IRI","0","0","0","","","0"
-"1742890198-34","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-setters/","10","Reza","IRI","0","0","0","","","0"
-"1742890198-35","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-setters/","10","Oppenkoski","BRA","0","0","0","","","0"
-"1742890198-36","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-setters/","10","Guilherme","BRA","0","0","0","","","0"
-"1742890198-37","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-setters/","10","Lukinha","BRA","0","0","0","","","0"
-"1742890198-38","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-setters/","10","Otávio","BRA","0","0","0","","","0"
-"1742890198-39","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-setters/","10","Bauer","BRA","0","0","0","","","0"
-"1742890198-40","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-setters/","10","Wallace","BRA","0","1","0","0.00","0.00","1"
-"1742890198-41","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-setters/","10","C. Souza","BRA","0","0","1","0.00","0.00","1"
-"1742890198-42","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-setters/","10","Rodriguinho","BRA","0","0","0","","","0"
-"1742890198-43","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-setters/","10","Vaccari","BRA","0","0","0","","","0"
-"1742890198-44","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-setters/","10","Lucas","BRA","0","0","0","","","0"
-"1742890198-45","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-setters/","10","Carlos","BRA","0","0","0","","","0"
-"1742890198-46","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-setters/","10","Lopez","CUB","0","0","0","","","0"
-"1742890198-47","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-setters/","10","Bryan","BRA","0","0","0","","","0"
-"1742890198-48","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-setters/","10","Samuel","BRA","0","0","0","","","0"
-"1742890198-49","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-setters/","10","Lucas Borges","BRA","0","0","0","","","0"
-"1742890198-50","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-setters/","10","Adriano","BRA","0","0","0","","","0"
-"1742890198-51","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-setters/","10","Nicolas","ARG","0","0","0","","","0"
-"1742890198-52","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-setters/","10","Franck","BRA","0","0","0","","","0"
-"1742890198-53","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-setters/","10","Lima","BRA","0","0","0","","","0"
-"1742890198-54","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-setters/","10","Barreto","BRA","0","0","0","","","0"
-"1742890198-55","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-setters/","10","Brito","BRA","0","0","0","","","0"
-"1742890198-56","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-setters/","10","Alexandre","BRA","0","0","0","","","0"
-"1742890198-57","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-setters/","10","Roque","BRA","0","0","0","","","0"
-"1742890198-58","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-setters/","10","Lucas","BRA","0","0","0","","","0"
-"1742890198-59","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-setters/","10","Kaziyski","BUL","0","0","0","","","0"
-"1742890198-60","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-setters/","10","Nelli","ITA","0","0","2","0.00","0.00","2"
-"1742890198-61","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-setters/","10","D'heer","BEL","0","0","2","0.00","0.00","2"
-"1742890198-62","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-setters/","10","Dzavoronok","CZE","0","0","0","","","0"
-"1742890198-63","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-setters/","10","Michieletto","ITA","0","1","0","0.00","0.00","1"
-"1742890198-64","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-setters/","10","Cavuto","ITA","0","0","0","","","0"
-"1742890198-65","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-setters/","10","Pace","ITA","0","0","0","","","0"
-"1742890198-66","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-setters/","10","Berger","ITA","0","0","0","","","0"
-"1742890198-67","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-setters/","10","Depalma","ITA","0","0","0","","","0"
-"1742890198-68","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-setters/","10","Laurenzano","ITA","0","0","0","","","0"
-"1742890198-69","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-setters/","10","Lavia","ITA","0","0","0","","","0"
-"1742890198-70","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-setters/","10","Podraščanin","ITA","0","1","0","0.00","0.00","1"
-"1742890198-71","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-setters/","10","Lisinac","SRB","0","0","0","","","0"
-"1742890198-72","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-setters/","10","Herrera","CUB","0","0","0","","","0"
-"1742890198-73","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-setters/","10","Rychlicki","ITA","0","0","0","","","0"
-"1742890198-74","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-setters/","10","Leon","POL","0","0","0","","","0"
-"1742890198-75","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-setters/","10","Piccinelli","ITA","0","0","0","","","0"
-"1742890198-76","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-setters/","10","Sole","ITA","0","0","0","","","0"
-"1742890198-77","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-setters/","10","Russo","ITA","0","0","0","","","0"
-"1742890198-78","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-setters/","10","Colaci","ITA","0","0","0","","","0"
-"1742890198-79","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-setters/","10","Flavio","BRA","0","0","0","","","0"
-"1742890198-80","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-setters/","10","Semeniuk","POL","0","0","0","","","0"
-"1742890198-81","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-setters/","10","Plotnytskyi","UKR","0","0","0","","","0"
-"1742890198-82","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-setters/","10","Ropret","SLO","0","0","0","","","0"
-"1742890198-83","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-setters/","10","Cardenas","CUB","0","0","0","","","0"
-"1742890198-84","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/statistics/best-setters/","10","Mengozzi","ITA","0","0","0","","","0"
+Rank,Player Name,Team,Successful,Errors,Attempts,Average Per Match,Success,Total
+1,Sbertoli,ITA,42,0,276,10.5,13.21,318
+2,Giannelli,ITA,34,0,267,8.5,11.3,301
+3,William,BRA,31,0,198,7.75,13.54,229
+4,Uriarte,ARG,29,2,267,7.25,9.73,298
+5,Vadi,IRI,14,2,178,7.0,7.22,194
+6,Resley,BRA,11,3,87,2.75,10.89,101
+7,Rodrigo,BRA,3,0,32,0.75,8.57,35
+7,Gonzalez,ARG,3,0,118,1.5,2.48,121
+8,Everaldo,BRA,2,1,17,1.0,10.0,20
+9,Saberi,IRI,1,0,3,0.5,25.0,4
+10,Estrada,FIV,0,0,0,,,0
+10,Kelvi,BRA,0,0,0,,,0
+10,Paulo,BRA,0,0,1,0.0,0.0,1
+10,Vissotto,BRA,0,0,0,,,0
+10,Matheus,BRA,0,0,0,,,0
+10,Henrique,BRA,0,0,0,,,0
+10,Juninho,BRA,0,0,0,,,0
+10,Maique,BRA,0,0,0,,,0
+10,André S.,BRA,0,0,0,,,0
+10,Honorato,BRA,0,0,0,,,0
+10,Arthur,BRA,0,0,0,,,0
+10,Marcus,BRA,0,0,0,,,0
+10,Amir Reza,IRI,0,0,0,,,0
+10,Fallah,IRI,0,0,0,,,0
+10,H. Zarini,IRI,0,0,0,,,0
+10,Hazrat,IRI,0,0,0,,,0
+10,A. Shafiei,IRI,0,0,0,,,0
+10,Amin,IRI,0,0,0,,,0
+10,A. Afshinfar,IRI,0,0,0,,,0
+10,Mashhadi,IRI,0,0,0,,,0
+10,R. Aslani,IRI,0,0,0,,,0
+10,A. Tashakori,IRI,0,0,0,,,0
+10,P. Fayazi,IRI,0,0,0,,,0
+10,Reza,IRI,0,0,0,,,0
+10,Oppenkoski,BRA,0,0,0,,,0
+10,Guilherme,BRA,0,0,0,,,0
+10,Lukinha,BRA,0,0,0,,,0
+10,Otávio,BRA,0,0,0,,,0
+10,Bauer,BRA,0,0,0,,,0
+10,Wallace,BRA,0,1,0,0.0,0.0,1
+10,C. Souza,BRA,0,0,1,0.0,0.0,1
+10,Rodriguinho,BRA,0,0,0,,,0
+10,Vaccari,BRA,0,0,0,,,0
+10,Lucas,BRA,0,0,0,,,0
+10,Carlos,BRA,0,0,0,,,0
+10,Lopez,CUB,0,0,0,,,0
+10,Bryan,BRA,0,0,0,,,0
+10,Samuel,BRA,0,0,0,,,0
+10,Lucas Borges,BRA,0,0,0,,,0
+10,Adriano,BRA,0,0,0,,,0
+10,Nicolas,ARG,0,0,0,,,0
+10,Franck,BRA,0,0,0,,,0
+10,Lima,BRA,0,0,0,,,0
+10,Barreto,BRA,0,0,0,,,0
+10,Brito,BRA,0,0,0,,,0
+10,Alexandre,BRA,0,0,0,,,0
+10,Roque,BRA,0,0,0,,,0
+10,Lucas,BRA,0,0,0,,,0
+10,Kaziyski,BUL,0,0,0,,,0
+10,Nelli,ITA,0,0,2,0.0,0.0,2
+10,D'heer,BEL,0,0,2,0.0,0.0,2
+10,Dzavoronok,CZE,0,0,0,,,0
+10,Michieletto,ITA,0,1,0,0.0,0.0,1
+10,Cavuto,ITA,0,0,0,,,0
+10,Pace,ITA,0,0,0,,,0
+10,Berger,ITA,0,0,0,,,0
+10,Depalma,ITA,0,0,0,,,0
+10,Laurenzano,ITA,0,0,0,,,0
+10,Lavia,ITA,0,0,0,,,0
+10,Podraščanin,ITA,0,1,0,0.0,0.0,1
+10,Lisinac,SRB,0,0,0,,,0
+10,Herrera,CUB,0,0,0,,,0
+10,Rychlicki,ITA,0,0,0,,,0
+10,Leon,POL,0,0,0,,,0
+10,Piccinelli,ITA,0,0,0,,,0
+10,Sole,ITA,0,0,0,,,0
+10,Russo,ITA,0,0,0,,,0
+10,Colaci,ITA,0,0,0,,,0
+10,Flavio,BRA,0,0,0,,,0
+10,Semeniuk,POL,0,0,0,,,0
+10,Plotnytskyi,UKR,0,0,0,,,0
+10,Ropret,SLO,0,0,0,,,0
+10,Cardenas,CUB,0,0,0,,,0
+10,Mengozzi,ITA,0,0,0,,,0

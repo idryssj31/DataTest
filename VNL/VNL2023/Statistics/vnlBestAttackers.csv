@@ -1,298 +1,298 @@
-﻿web-scraper-order,web-scraper-start-url,Rank,Player Name,Team,Points,Errors,Attempts,Average Per Match,Success Percentage,Total
-"1741279003-1","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","1","Ishikawa","JPN","237","56","155","15.80","52.90","448"
-"1741279003-2","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","2","Romanò","ITA","185","64","167","12.33","44.47","416"
-"1741279003-3","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","3","Nimir","NED","184","66","105","15.33","51.83","355"
-"1741279003-4","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","4","Herrera","CUB","180","83","87","15.00","51.43","350"
-"1741279003-5","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","5","Ran","JPN","173","46","94","11.53","55.27","313"
-"1741279003-6","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","6","Luburić","SRB","172","62","118","14.33","48.86","352"
-"1741279003-7","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","7","Urnaut","SLO","164","47","138","12.62","46.99","349"
-"1741279003-8","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","8","Zhang J.Y.","CHN","162","60","112","13.50","48.50","334"
-"1741279003-9","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","8","Alan","BRA","162","40","106","12.46","52.60","308"
-"1741279003-10","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","9","Lucarelli","BRA","154","51","107","11.85","49.36","312"
-"1741279003-11","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","10","Palonsky","ARG","151","42","113","11.62","49.35","306"
-"1741279003-12","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","11","Lopez","CUB","148","49","97","12.33","50.34","294"
-"1741279003-13","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","12","Čebulj","SLO","145","54","127","11.15","44.48","326"
-"1741279003-14","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","13","Defalco","USA","143","45","91","9.53","51.25","279"
-"1741279003-15","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","14","Možič","SLO","140","31","118","10.77","48.44","289"
-"1741279003-16","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","15","Anderson","USA","136","35","97","9.07","50.75","268"
-"1741279003-17","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","16","Weber","GER","125","53","66","10.42","51.23","244"
-"1741279003-18","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","17","Kujundžić","SRB","124","39","92","10.33","48.63","255"
-"1741279003-19","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","18","Nishida","JPN","119","50","70","8.50","49.79","239"
-"1741279003-20","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","18","Lima B.","ARG","119","34","73","9.15","52.65","226"
-"1741279003-21","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","19","Maar","CAN","117","41","124","9.75","41.49","282"
-"1741279003-22","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","20","Miyaura","JPN","116","42","50","7.73","55.77","208"
-"1741279003-23","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","21","Michieletto","ITA","115","25","90","10.45","50.00","230"
-"1741279003-24","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","22","A. Nikolov","BUL","114","25","86","14.25","50.67","225"
-"1741279003-25","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","22","Sclater","CAN","114","35","93","9.50","47.11","242"
-"1741279003-26","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","23","Vicentin","ARG","112","47","131","8.62","38.62","290"
-"1741279003-27","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","24","Leon","POL","109","23","86","9.91","50.00","218"
-"1741279003-28","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","25","Lavia","ITA","108","22","140","9.82","40.00","270"
-"1741279003-29","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","26","Reichert","GER","104","43","91","8.67","43.70","238"
-"1741279003-30","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","27","Loser Bruno","ARG","103","11","47","7.92","63.98","161"
-"1741279003-31","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","27","Van Garderen","NED","103","37","90","8.58","44.78","230"
-"1741279003-32","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","28","Atanasov","BUL","100","33","69","8.33","49.50","202"
-"1741279003-33","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","29","Amin","IRI","96","31","69","12.00","48.98","196"
-"1741279003-34","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","30","Jiang C.","CHN","94","50","67","7.83","44.55","211"
-"1741279003-35","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","31","Brehme","GER","93","17","42","7.75","61.18","152"
-"1741279003-36","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","32","Tillie","FRA","86","35","67","9.56","45.74","188"
-"1741279003-37","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","32","Clevenot","FRA","86","23","82","9.56","45.03","191"
-"1741279003-38","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","33","Yant","CUB","85","26","69","7.08","47.22","180"
-"1741279003-39","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","34","Morteza","IRI","84","30","67","7.64","46.41","181"
-"1741279003-40","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","34","Hoag","CAN","84","31","84","7.00","42.21","199"
-"1741279003-41","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","34","Russell","USA","84","24","77","6.00","45.41","185"
-"1741279003-42","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","35","Yu Y.T.","CHN","83","23","57","6.92","50.92","163"
-"1741279003-43","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","36","Kukartsev","ARG","81","30","77","6.23","43.09","188"
-"1741279003-44","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","37","Szwarc","CAN","80","33","46","6.67","50.31","159"
-"1741279003-45","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","37","Jaeschke","USA","80","20","71","7.27","46.78","171"
-"1741279003-46","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","38","Onodera","JPN","78","9","44","5.20","59.54","131"
-"1741279003-47","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","39","Honorato","BRA","77","31","75","5.92","42.08","183"
-"1741279003-48","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","40","Kurek","POL","76","30","54","6.91","47.50","160"
-"1741279003-49","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","41","Kaczmarek","POL","74","11","47","10.57","56.06","132"
-"1741279003-50","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","41","Śliwka","POL","74","12","43","10.57","57.36","129"
-"1741279003-51","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","42","Asparuhov","BUL","71","22","68","5.92","44.10","161"
-"1741279003-52","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","43","Chinenyeze","FRA","70","12","33","7.78","60.87","115"
-"1741279003-53","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","44","Dimitrov","BUL","69","37","80","5.75","37.10","186"
-"1741279003-54","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","44","Tuinstra","NED","69","34","58","5.75","42.86","161"
-"1741279003-55","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","45","Carle","FRA","68","21","52","5.23","48.23","141"
-"1741279003-56","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","45","Patry","FRA","68","21","61","7.56","45.33","150"
-"1741279003-57","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","46","Concepcion","CUB","67","13","29","5.58","61.47","109"
-"1741279003-58","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","47","Pajenk","SLO","66","10","40","5.08","56.90","116"
-"1741279003-59","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","48","Krsmanović","SRB","64","14","26","5.33","61.54","104"
-"1741279003-60","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","49","Perić","SRB","62","23","62","5.17","42.18","147"
-"1741279003-61","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","50","Nedeljković","SRB","61","6","27","5.08","64.89","94"
-"1741279003-62","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","50","Faure","FRA","61","24","38","15.25","49.59","123"
-"1741279003-63","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","51","Bultor","FRA","59","6","23","4.54","67.05","88"
-"1741279003-64","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","51","Russo","ITA","59","9","33","5.36","58.42","101"
-"1741279003-65","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","52","Yamauchi","JPN","58","13","38","3.87","53.21","109"
-"1741279003-66","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","52","Ivović","SRB","58","28","64","7.25","38.67","150"
-"1741279003-67","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","53","Demyanenko","CAN","57","11","24","4.75","61.96","92"
-"1741279003-68","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","53","Plak","NED","57","13","39","4.75","52.29","109"
-"1741279003-69","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","53","Boyer","FRA","57","18","49","6.33","45.97","124"
-"1741279003-70","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","54","Bieniek","POL","56","12","29","5.09","57.73","97"
-"1741279003-71","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","54","Flavio","BRA","56","7","28","4.31","61.54","91"
-"1741279003-72","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","55","Poriya","IRI","55","21","36","5.50","49.11","112"
-"1741279003-73","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","55","Kozamernik","SLO","55","8","34","4.23","56.70","97"
-"1741279003-74","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","56","Szalpuk","POL","54","21","37","6.75","48.21","112"
-"1741279003-75","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","57","Grozdanov","BUL","53","14","30","4.42","54.64","97"
-"1741279003-76","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","57","Seyed","IRI","53","18","31","4.42","51.96","102"
-"1741279003-77","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","57","Holt","USA","53","7","23","3.53","63.86","83"
-"1741279003-78","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","58","Hajipour","IRI","52","25","45","4.73","42.62","122"
-"1741279003-79","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","59","Zhai D.J.","CHN","50","28","61","4.17","35.97","139"
-"1741279003-80","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","60","Li Y.Z.","CHN","49","9","23","4.08","60.49","81"
-"1741279003-81","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","61","Esfandiar","IRI","48","28","55","4.00","36.64","131"
-"1741279003-82","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","62","Rinaldi","ITA","47","15","47","3.13","43.12","109"
-"1741279003-83","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","62","Masso","CUB","47","16","18","3.92","58.02","81"
-"1741279003-84","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","62","Otávio","BRA","47","5","18","3.62","67.14","70"
-"1741279003-85","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","63","Peng S.K.","CHN","46","11","29","3.83","53.49","86"
-"1741279003-86","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","63","Mohammad","IRI","46","9","27","3.83","56.10","82"
-"1741279003-87","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","63","Semeniuk","POL","46","15","44","4.18","43.81","105"
-"1741279003-88","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","63","Ter Maat","NED","46","17","21","5.75","54.76","84"
-"1741279003-89","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","63","Galassi","ITA","46","4","28","4.18","58.97","78"
-"1741279003-90","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","64","Judson","BRA","45","4","13","3.46","72.58","62"
-"1741279003-91","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","64","Kochanowski","POL","45","2","17","4.09","70.31","64"
-"1741279003-92","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","65","Z. Štern","SLO","44","7","35","3.38","51.16","86"
-"1741279003-93","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","66","Averill","USA","43","2","15","2.87","71.67","60"
-"1741279003-94","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","67","Kolev","BUL","41","5","19","3.42","63.08","65"
-"1741279003-95","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","67","Smith","USA","41","6","26","2.73","56.16","73"
-"1741279003-96","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","67","Böhme","GER","41","13","34","3.42","46.59","88"
-"1741279003-97","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","68","Zerba","ARG","40","4","31","3.08","53.33","75"
-"1741279003-98","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","68","Röhrs","GER","40","16","27","5.00","48.19","83"
-"1741279003-99","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","68","Krick","GER","40","9","17","3.33","60.61","66"
-"1741279003-100","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","68","Bednorz","POL","40","13","32","3.64","47.06","85"
-"1741279003-101","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","69","Huber","POL","39","8","18","3.55","60.00","65"
-"1741279003-102","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","70","Bottolo","ITA","37","13","24","3.36","50.00","74"
-"1741279003-103","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","71","Karyagin","BUL","36","9","37","3.00","43.90","82"
-"1741279003-104","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","72","Mergarejo","CUB","34","11","49","2.83","36.17","94"
-"1741279003-105","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","72","Jorna","NED","34","23","50","2.83","31.78","107"
-"1741279003-106","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","72","Wiltenburg","NED","34","5","20","2.83","57.63","59"
-"1741279003-107","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","73","Abouba","BRA","33","10","19","8.25","53.23","62"
-"1741279003-108","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","73","Louati","FRA","33","14","41","3.67","37.50","88"
-"1741279003-109","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","73","Saadat","IRI","33","16","23","8.25","45.83","72"
-"1741279003-110","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","74","Butryn","POL","32","16","24","8.00","44.44","72"
-"1741279003-111","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","74","Lucas","BRA","32","7","26","3.56","49.23","65"
-"1741279003-112","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","74","Roque","BRA","32","5","17","3.56","59.26","54"
-"1741279003-113","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","75","Eshenko","CAN","31","3","16","2.58","62.00","50"
-"1741279003-114","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","75","Otsuka","JPN","31","9","27","2.21","46.27","67"
-"1741279003-115","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","76","Van Berkel","CAN","30","3","23","2.50","53.57","56"
-"1741279003-116","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","76","Jendryk","USA","30","1","23","2.00","55.56","54"
-"1741279003-117","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","76","Adriano","BRA","30","13","30","2.31","41.10","73"
-"1741279003-118","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","76","Brand","GER","30","9","26","2.50","46.15","65"
-"1741279003-119","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","76","Fornal","POL","30","9","29","4.29","44.12","68"
-"1741279003-120","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","77","Muagututia","USA","28","7","23","2.55","48.28","58"
-"1741279003-121","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","77","Fromm","GER","28","11","19","7.00","48.28","58"
-"1741279003-122","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","78","Kłos","POL","27","1","14","3.38","64.29","42"
-"1741279003-123","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","78","Hanes","USA","27","12","24","2.45","42.86","63"
-"1741279003-124","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","78","Giannelli","ITA","27","6","15","2.45","56.25","48"
-"1741279003-125","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","79","Dulski","POL","26","9","14","6.50","53.06","49"
-"1741279003-126","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","80","Wang B.","CHN","25","9","13","2.08","53.19","47"
-"1741279003-127","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","80","Martinez Franchi","ARG","25","2","38","1.92","38.46","65"
-"1741279003-128","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","81","Krage","GER","23","6","12","1.92","56.10","41"
-"1741279003-129","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","82","Wang D.C.","CHN","21","6","19","1.75","45.65","46"
-"1741279003-130","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","82","Schott","GER","21","17","26","1.75","32.81","64"
-"1741279003-131","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","82","Cooper","CAN","21","9","19","2.62","42.86","49"
-"1741279003-132","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","83","Jouffroy","FRA","20","7","12","1.54","51.28","39"
-"1741279003-133","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","83","Le Goff","FRA","20","3","9","4.00","62.50","32"
-"1741279003-134","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","84","Kentaro","JPN","19","2","9","1.27","63.33","30"
-"1741279003-135","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","85","Ramos","ARG","18","0","12","1.38","60.00","30"
-"1741279003-136","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","85","Hofer","CAN","18","8","24","1.50","36.00","50"
-"1741279003-137","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","85","Vucicevic","SRB","18","13","13","1.50","40.91","44"
-"1741279003-138","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","86","J.Manavi","IRI","17","9","13","4.25","43.59","39"
-"1741279003-139","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","86","Mosca","ITA","17","3","6","1.55","65.38","26"
-"1741279003-140","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","86","M. Elser","CAN","17","6","22","1.42","37.78","45"
-"1741279003-141","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","87","Shahrooz","IRI","16","3","9","1.33","57.14","28"
-"1741279003-142","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","88","Gotsev","BUL","15","4","12","1.25","48.39","31"
-"1741279003-143","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","88","Bołądź","POL","15","7","7","3.75","51.72","29"
-"1741279003-144","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","89","Gallego","ARG","14","2","14","1.08","46.67","30"
-"1741279003-145","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","90","N. Penchev","BUL","13","6","17","1.62","36.11","36"
-"1741279003-146","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","90","Javad","IRI","13","0","9","1.08","59.09","22"
-"1741279003-147","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","90","Szymanski","POL","13","5","6","3.25","54.17","24"
-"1741279003-148","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","90","Anzani","ITA","13","0","4","3.25","76.47","17"
-"1741279003-149","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","91","Petkov","BUL","12","1","9","1.00","54.55","22"
-"1741279003-150","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","91","Jelveh","IRI","12","3","9","1.00","50.00","24"
-"1741279003-151","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","91","Sanguinetti","ITA","12","2","5","1.09","63.16","19"
-"1741279003-152","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","91","Keemink","NED","12","0","3","1.00","80.00","15"
-"1741279003-153","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","92","Kessel","USA","11","3","3","1.38","64.71","17"
-"1741279003-154","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","92","Ter Horst","NED","11","7","11","1.38","37.93","29"
-"1741279003-155","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","93","Armoa Morel","ARG","10","6","6","0.77","45.45","22"
-"1741279003-156","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","93","Pedroso","CUB","10","5","8","0.83","43.48","23"
-"1741279003-157","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","93","Kaliberda","GER","10","9","12","0.83","32.26","31"
-"1741279003-158","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","94","Tomita","JPN","9","0","6","0.60","60.00","15"
-"1741279003-159","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","94","Gutierrez","CUB","9","0","8","0.75","52.94","17"
-"1741279003-160","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","95","Porro P.","ITA","8","0","1","2.00","88.89","9"
-"1741279003-161","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","95","Brizard","FRA","8","2","9","0.89","42.11","19"
-"1741279003-162","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","96","De Cecco","ARG","7","1","6","0.78","50.00","14"
-"1741279003-163","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","96","Katic","SRB","7","7","17","0.88","22.58","31"
-"1741279003-164","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","96","Urbanowicz","POL","7","3","3","0.88","53.85","13"
-"1741279003-165","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","97","Zhang G.H.","CHN","6","2","5","0.75","46.15","13"
-"1741279003-166","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","97","Taboada","CUB","6","4","3","0.50","46.15","13"
-"1741279003-167","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","97","Kök","SLO","6","6","7","0.46","31.58","19"
-"1741279003-168","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","97","Ropret","SLO","6","2","10","0.46","33.33","18"
-"1741279003-169","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","97","Todorović","SRB","6","0","6","0.50","50.00","12"
-"1741279003-170","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","97","Christenson","USA","6","2","13","0.40","28.57","21"
-"1741279003-171","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","97","Maase","GER","6","1","5","0.75","50.00","12"
-"1741279003-172","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","98","Wang H.B.","CHN","5","2","7","0.42","35.71","14"
-"1741279003-173","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","98","Recine","ITA","5","4","9","1.25","27.78","18"
-"1741279003-174","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","98","Cortesia","ITA","5","1","2","1.25","62.50","8"
-"1741279003-175","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","98","Štalekar","SLO","5","1","4","0.38","50.00","10"
-"1741279003-176","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","98","Ensing","USA","5","7","5","0.62","29.41","17"
-"1741279003-177","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","98","Ma'a","USA","5","1","3","0.45","55.56","9"
-"1741279003-178","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","98","Bruno","BRA","5","0","6","0.38","45.45","11"
-"1741279003-179","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","98","Arthur","BRA","5","2","2","0.62","55.56","9"
-"1741279003-180","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","98","Parkinson","NED","5","1","6","1.25","41.67","12"
-"1741279003-181","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","98","Adamczyk","POL","5","2","2","1.25","55.56","9"
-"1741279003-182","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","98","V. Bratoev","BUL","5","5","7","1.25","29.41","17"
-"1741279003-183","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","99","Gironi","ITA","3","3","7","0.27","23.08","13"
-"1741279003-184","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","99","Corre","FRA","3","2","2","0.75","42.86","7"
-"1741279003-185","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","99","Mašulović N.","SRB","3","1","2","0.38","50.00","6"
-"1741279003-186","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","99","Toniutti","FRA","3","0","1","0.60","75.00","4"
-"1741279003-187","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","99","Nishiyama","JPN","3","3","1","1.00","42.86","7"
-"1741279003-188","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","100","Seganov","BUL","2","5","8","0.17","13.33","15"
-"1741279003-189","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","100","Sekita","JPN","2","0","4","0.13","33.33","6"
-"1741279003-190","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","100","Vadi","IRI","2","2","4","0.25","25.00","8"
-"1741279003-191","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","100","Herr","CAN","2","1","1","0.17","50.00","4"
-"1741279003-192","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","100","Łomacz","POL","2","0","0","0.13","100.00","2"
-"1741279003-193","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","100","Sawicki","POL","2","2","3","0.50","28.57","7"
-"1741279003-194","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","100","Firlej","POL","2","0","1","0.25","66.67","3"
-"1741279003-195","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","100","Korenblek","NED","2","0","0","0.17","100.00","2"
-"1741279003-196","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","100","Kampa","GER","2","0","0","0.25","100.00","2"
-"1741279003-197","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","100","S.Ivanov","BUL","2","4","4","0.50","20.00","10"
-"1741279003-198","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","100","Larry","JPN","2","1","2","0.40","40.00","5"
-"1741279003-199","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","100","Leal","BRA","2","0","2","2.00","50.00","4"
-"1741279003-200","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","101","Zelayeta","ARG","1","0","0","0.08","100.00","1"
-"1741279003-201","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","101","Schnitzer","CAN","1","0","1","0.25","50.00","2"
-"1741279003-202","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","101","Thondike","CUB","1","2","8","0.08","9.09","11"
-"1741279003-203","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","101","Pothron","FRA","1","2","0","0.12","33.33","3"
-"1741279003-204","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","101","Henno","FRA","1","0","1","0.25","50.00","2"
-"1741279003-205","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","101","Fernando","BRA","1","0","2","0.08","33.33","3"
-"1741279003-206","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","101","Tille","GER","1","2","1","0.08","25.00","4"
-"1741279003-207","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","101","Tuaniga","USA","1","0","1","0.25","50.00","2"
-"1741279003-208","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","101","Mujanović","SLO","1","0","0","0.11","100.00","1"
-"1741279003-209","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","101","Kovačević","SRB","1","7","3","0.25","9.09","11"
-"1741279003-210","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","101","A. Ramezani","IRI","1","0","1","0.25","50.00","2"
-"1741279003-211","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","101","A. Afshinfar","IRI","1","2","2","0.25","20.00","5"
-"1741279003-212","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","102","G. Bratoev","BUL","0","0","0","","","0"
-"1741279003-213","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","102","Bozhilov","BUL","0","0","0","","","0"
-"1741279003-214","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","102","Dobrev","BUL","0","0","0","","","0"
-"1741279003-215","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","102","Guo C.","CHN","0","0","1","0.00","0.00","1"
-"1741279003-216","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","102","Liu M.","CHN","0","0","0","","","0"
-"1741279003-217","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","102","Chen J.J.","CHN","0","0","0","","","0"
-"1741279003-218","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","102","Qu Z.S.","CHN","0","0","0","","","0"
-"1741279003-219","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","102","Fukatsu","JPN","0","0","1","0.00","0.00","1"
-"1741279003-220","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","102","Ogawa","JPN","0","0","0","","","0"
-"1741279003-221","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","102","Yamamoto","JPN","0","0","0","","","0"
-"1741279003-222","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","102","Kai","JPN","0","0","0","","","0"
-"1741279003-223","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","102","Hazrat","IRI","0","0","0","","","0"
-"1741279003-224","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","102","Arman","IRI","0","0","0","","","0"
-"1741279003-225","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","102","Falaschi","ITA","0","0","0","","","0"
-"1741279003-226","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","102","Balaso","ITA","0","0","0","","","0"
-"1741279003-227","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","102","Gardini","ITA","0","0","0","","","0"
-"1741279003-228","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","102","Vitelli","ITA","0","1","3","0.00","0.00","4"
-"1741279003-229","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","102","Federici","ITA","0","0","0","","","0"
-"1741279003-230","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","102","Sanchez Pages","ARG","0","0","1","0.00","0.00","1"
-"1741279003-231","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","102","Danani","ARG","0","0","0","","","0"
-"1741279003-232","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","102","Blankenau","CAN","0","0","1","0.00","0.00","1"
-"1741279003-233","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","102","Lui","CAN","0","0","0","","","0"
-"1741279003-234","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","102","Currie","CAN","0","0","0","","","0"
-"1741279003-235","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","102","Garcia","CUB","0","0","0","","","0"
-"1741279003-236","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","102","Goide","CUB","0","0","0","","","0"
-"1741279003-237","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","102","J. Gutierrez","CUB","0","1","1","0.00","0.00","2"
-"1741279003-238","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","102","Gorguet","CUB","0","0","0","","","0"
-"1741279003-239","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","102","Planinšič","SLO","0","0","2","0.00","0.00","2"
-"1741279003-240","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","102","Toman","SLO","0","0","0","","","0"
-"1741279003-241","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","102","Bračko","SLO","0","0","0","","","0"
-"1741279003-242","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","102","Koncilja","SLO","0","0","0","","","0"
-"1741279003-243","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","102","Kovačič","SLO","0","0","0","","","0"
-"1741279003-244","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","102","Kapur","SRB","0","0","0","","","0"
-"1741279003-245","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","102","Mašulović V.","SRB","0","0","2","0.00","0.00","2"
-"1741279003-246","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","102","Batak","SRB","0","0","1","0.00","0.00","1"
-"1741279003-247","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","102","Gajović","SRB","0","0","0","","","0"
-"1741279003-248","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","102","Krsteski","SRB","0","0","0","","","0"
-"1741279003-249","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","102","Petrović","SRB","0","1","0","0.00","0.00","1"
-"1741279003-250","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","102","Szymura","POL","0","0","0","","","0"
-"1741279003-251","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","102","Hawryluk","POL","0","0","0","","","0"
-"1741279003-252","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","102","Poręba","POL","0","0","0","","","0"
-"1741279003-253","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","102","Motta Paes","FRA","0","0","0","","","0"
-"1741279003-254","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","102","Henry","FRA","0","0","0","","","0"
-"1741279003-255","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","102","Diez","FRA","0","0","0","","","0"
-"1741279003-256","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","102","Basic","FRA","0","0","0","","","0"
-"1741279003-257","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","102","Loubeyre","FRA","0","0","0","","","0"
-"1741279003-258","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","102","Roehrig","FRA","0","0","0","","","0"
-"1741279003-259","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","102","E. Shoji","USA","0","0","0","","","0"
-"1741279003-260","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","102","Van Der Ent","NED","0","0","0","","","0"
-"1741279003-261","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","102","Meijs","NED","0","1","2","0.00","0.00","3"
-"1741279003-262","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","102","Andringa","NED","0","0","0","","","0"
-"1741279003-263","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","102","Bak","NED","0","0","0","","","0"
-"1741279003-264","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","102","Wijkstra","NED","0","1","1","0.00","0.00","2"
-"1741279003-265","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","102","Lipke","NED","0","0","0","","","0"
-"1741279003-266","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","102","Maique","BRA","0","0","0","","","0"
-"1741279003-267","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","102","Thales","BRA","0","0","0","","","0"
-"1741279003-268","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","102","Thiery","BRA","0","0","0","","","0"
-"1741279003-269","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","102","Graven","GER","0","0","0","","","0"
-"1741279003-270","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","102","Walsh","CAN","0","0","0","","","0"
-"1741279003-271","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","102","Salehi","IRI","0","1","1","0.00","0.00","2"
-"1741279003-272","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","102","Zimmermann","GER","0","0","0","","","0"
-"1741279003-273","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","102","Günthör","GER","0","0","0","","","0"
-"1741279003-274","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","102","Dagostino","USA","0","0","0","","","0"
-"1741279003-275","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","102","Giraudo","ARG","0","1","0","0.00","0.00","1"
-"1741279003-276","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","102","Yang Y.M.","CHN","0","0","0","","","0"
-"1741279003-277","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","102","Chen L.Y.","CHN","0","0","0","","","0"
-"1741279003-278","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","102","Salparov","BUL","0","0","0","","","0"
-"1741279003-279","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","102","Raev","BUL","0","0","0","","","0"
-"1741279003-280","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","102","Sbertoli","ITA","0","0","0","","","0"
-"1741279003-281","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","102","Scanferla","ITA","0","0","0","","","0"
-"1741279003-282","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","102","Caneschi","ITA","0","0","0","","","0"
-"1741279003-283","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","102","Magalini","ITA","0","0","1","0.00","0.00","1"
-"1741279003-284","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","102","Zatorski","POL","0","0","0","","","0"
-"1741279003-285","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","102","Grebennikov","FRA","0","0","0","","","0"
-"1741279003-286","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","102","Huetz","FRA","0","0","0","","","0"
-"1741279003-287","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","102","Vaccari","BRA","0","0","1","0.00","0.00","1"
-"1741279003-288","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","102","Piccinelli","ITA","0","0","0","","","0"
-"1741279003-289","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","102","Sala","ITA","0","0","1","0.00","0.00","1"
-"1741279003-290","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","102","Eiro","JPN","0","0","0","","","0"
-"1741279003-291","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","102","Rao S.H.","CHN","0","0","0","","","0"
-"1741279003-292","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","102","Podraščanin","ITA","0","0","0","","","0"
-"1741279003-293","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","102","M. R. Moazzen","IRI","0","0","0","","","0"
-"1741279003-294","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","102","Popiwczak","POL","0","0","0","","","0"
-"1741279003-295","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","102","Janusz","POL","0","0","2","0.00","0.00","2"
-"1741279003-296","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","102","K. Russell","USA","0","0","0","","","0"
-"1741279003-297","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-attackers/","102","Daneshdoust","IRI","0","0","0","","","0"
+Rank,Player Name,Team,Points,Errors,Attempts,Average Per Match,Success Percentage,Total
+1,Ishikawa,JPN,237,56,155,15.8,52.9,448
+2,Romanò,ITA,185,64,167,12.33,44.47,416
+3,Nimir,NED,184,66,105,15.33,51.83,355
+4,Herrera,CUB,180,83,87,15.0,51.43,350
+5,Ran,JPN,173,46,94,11.53,55.27,313
+6,Luburić,SRB,172,62,118,14.33,48.86,352
+7,Urnaut,SLO,164,47,138,12.62,46.99,349
+8,Zhang J.Y.,CHN,162,60,112,13.5,48.5,334
+8,Alan,BRA,162,40,106,12.46,52.6,308
+9,Lucarelli,BRA,154,51,107,11.85,49.36,312
+10,Palonsky,ARG,151,42,113,11.62,49.35,306
+11,Lopez,CUB,148,49,97,12.33,50.34,294
+12,Čebulj,SLO,145,54,127,11.15,44.48,326
+13,Defalco,USA,143,45,91,9.53,51.25,279
+14,Možič,SLO,140,31,118,10.77,48.44,289
+15,Anderson,USA,136,35,97,9.07,50.75,268
+16,Weber,GER,125,53,66,10.42,51.23,244
+17,Kujundžić,SRB,124,39,92,10.33,48.63,255
+18,Nishida,JPN,119,50,70,8.5,49.79,239
+18,Lima B.,ARG,119,34,73,9.15,52.65,226
+19,Maar,CAN,117,41,124,9.75,41.49,282
+20,Miyaura,JPN,116,42,50,7.73,55.77,208
+21,Michieletto,ITA,115,25,90,10.45,50.0,230
+22,A. Nikolov,BUL,114,25,86,14.25,50.67,225
+22,Sclater,CAN,114,35,93,9.5,47.11,242
+23,Vicentin,ARG,112,47,131,8.62,38.62,290
+24,Leon,POL,109,23,86,9.91,50.0,218
+25,Lavia,ITA,108,22,140,9.82,40.0,270
+26,Reichert,GER,104,43,91,8.67,43.7,238
+27,Loser Bruno,ARG,103,11,47,7.92,63.98,161
+27,Van Garderen,NED,103,37,90,8.58,44.78,230
+28,Atanasov,BUL,100,33,69,8.33,49.5,202
+29,Amin,IRI,96,31,69,12.0,48.98,196
+30,Jiang C.,CHN,94,50,67,7.83,44.55,211
+31,Brehme,GER,93,17,42,7.75,61.18,152
+32,Tillie,FRA,86,35,67,9.56,45.74,188
+32,Clevenot,FRA,86,23,82,9.56,45.03,191
+33,Yant,CUB,85,26,69,7.08,47.22,180
+34,Morteza,IRI,84,30,67,7.64,46.41,181
+34,Hoag,CAN,84,31,84,7.0,42.21,199
+34,Russell,USA,84,24,77,6.0,45.41,185
+35,Yu Y.T.,CHN,83,23,57,6.92,50.92,163
+36,Kukartsev,ARG,81,30,77,6.23,43.09,188
+37,Szwarc,CAN,80,33,46,6.67,50.31,159
+37,Jaeschke,USA,80,20,71,7.27,46.78,171
+38,Onodera,JPN,78,9,44,5.2,59.54,131
+39,Honorato,BRA,77,31,75,5.92,42.08,183
+40,Kurek,POL,76,30,54,6.91,47.5,160
+41,Kaczmarek,POL,74,11,47,10.57,56.06,132
+41,Śliwka,POL,74,12,43,10.57,57.36,129
+42,Asparuhov,BUL,71,22,68,5.92,44.1,161
+43,Chinenyeze,FRA,70,12,33,7.78,60.87,115
+44,Dimitrov,BUL,69,37,80,5.75,37.1,186
+44,Tuinstra,NED,69,34,58,5.75,42.86,161
+45,Carle,FRA,68,21,52,5.23,48.23,141
+45,Patry,FRA,68,21,61,7.56,45.33,150
+46,Concepcion,CUB,67,13,29,5.58,61.47,109
+47,Pajenk,SLO,66,10,40,5.08,56.9,116
+48,Krsmanović,SRB,64,14,26,5.33,61.54,104
+49,Perić,SRB,62,23,62,5.17,42.18,147
+50,Nedeljković,SRB,61,6,27,5.08,64.89,94
+50,Faure,FRA,61,24,38,15.25,49.59,123
+51,Bultor,FRA,59,6,23,4.54,67.05,88
+51,Russo,ITA,59,9,33,5.36,58.42,101
+52,Yamauchi,JPN,58,13,38,3.87,53.21,109
+52,Ivović,SRB,58,28,64,7.25,38.67,150
+53,Demyanenko,CAN,57,11,24,4.75,61.96,92
+53,Plak,NED,57,13,39,4.75,52.29,109
+53,Boyer,FRA,57,18,49,6.33,45.97,124
+54,Bieniek,POL,56,12,29,5.09,57.73,97
+54,Flavio,BRA,56,7,28,4.31,61.54,91
+55,Poriya,IRI,55,21,36,5.5,49.11,112
+55,Kozamernik,SLO,55,8,34,4.23,56.7,97
+56,Szalpuk,POL,54,21,37,6.75,48.21,112
+57,Grozdanov,BUL,53,14,30,4.42,54.64,97
+57,Seyed,IRI,53,18,31,4.42,51.96,102
+57,Holt,USA,53,7,23,3.53,63.86,83
+58,Hajipour,IRI,52,25,45,4.73,42.62,122
+59,Zhai D.J.,CHN,50,28,61,4.17,35.97,139
+60,Li Y.Z.,CHN,49,9,23,4.08,60.49,81
+61,Esfandiar,IRI,48,28,55,4.0,36.64,131
+62,Rinaldi,ITA,47,15,47,3.13,43.12,109
+62,Masso,CUB,47,16,18,3.92,58.02,81
+62,Otávio,BRA,47,5,18,3.62,67.14,70
+63,Peng S.K.,CHN,46,11,29,3.83,53.49,86
+63,Mohammad,IRI,46,9,27,3.83,56.1,82
+63,Semeniuk,POL,46,15,44,4.18,43.81,105
+63,Ter Maat,NED,46,17,21,5.75,54.76,84
+63,Galassi,ITA,46,4,28,4.18,58.97,78
+64,Judson,BRA,45,4,13,3.46,72.58,62
+64,Kochanowski,POL,45,2,17,4.09,70.31,64
+65,Z. Štern,SLO,44,7,35,3.38,51.16,86
+66,Averill,USA,43,2,15,2.87,71.67,60
+67,Kolev,BUL,41,5,19,3.42,63.08,65
+67,Smith,USA,41,6,26,2.73,56.16,73
+67,Böhme,GER,41,13,34,3.42,46.59,88
+68,Zerba,ARG,40,4,31,3.08,53.33,75
+68,Röhrs,GER,40,16,27,5.0,48.19,83
+68,Krick,GER,40,9,17,3.33,60.61,66
+68,Bednorz,POL,40,13,32,3.64,47.06,85
+69,Huber,POL,39,8,18,3.55,60.0,65
+70,Bottolo,ITA,37,13,24,3.36,50.0,74
+71,Karyagin,BUL,36,9,37,3.0,43.9,82
+72,Mergarejo,CUB,34,11,49,2.83,36.17,94
+72,Jorna,NED,34,23,50,2.83,31.78,107
+72,Wiltenburg,NED,34,5,20,2.83,57.63,59
+73,Abouba,BRA,33,10,19,8.25,53.23,62
+73,Louati,FRA,33,14,41,3.67,37.5,88
+73,Saadat,IRI,33,16,23,8.25,45.83,72
+74,Butryn,POL,32,16,24,8.0,44.44,72
+74,Lucas,BRA,32,7,26,3.56,49.23,65
+74,Roque,BRA,32,5,17,3.56,59.26,54
+75,Eshenko,CAN,31,3,16,2.58,62.0,50
+75,Otsuka,JPN,31,9,27,2.21,46.27,67
+76,Van Berkel,CAN,30,3,23,2.5,53.57,56
+76,Jendryk,USA,30,1,23,2.0,55.56,54
+76,Adriano,BRA,30,13,30,2.31,41.1,73
+76,Brand,GER,30,9,26,2.5,46.15,65
+76,Fornal,POL,30,9,29,4.29,44.12,68
+77,Muagututia,USA,28,7,23,2.55,48.28,58
+77,Fromm,GER,28,11,19,7.0,48.28,58
+78,Kłos,POL,27,1,14,3.38,64.29,42
+78,Hanes,USA,27,12,24,2.45,42.86,63
+78,Giannelli,ITA,27,6,15,2.45,56.25,48
+79,Dulski,POL,26,9,14,6.5,53.06,49
+80,Wang B.,CHN,25,9,13,2.08,53.19,47
+80,Martinez Franchi,ARG,25,2,38,1.92,38.46,65
+81,Krage,GER,23,6,12,1.92,56.1,41
+82,Wang D.C.,CHN,21,6,19,1.75,45.65,46
+82,Schott,GER,21,17,26,1.75,32.81,64
+82,Cooper,CAN,21,9,19,2.62,42.86,49
+83,Jouffroy,FRA,20,7,12,1.54,51.28,39
+83,Le Goff,FRA,20,3,9,4.0,62.5,32
+84,Kentaro,JPN,19,2,9,1.27,63.33,30
+85,Ramos,ARG,18,0,12,1.38,60.0,30
+85,Hofer,CAN,18,8,24,1.5,36.0,50
+85,Vucicevic,SRB,18,13,13,1.5,40.91,44
+86,J.Manavi,IRI,17,9,13,4.25,43.59,39
+86,Mosca,ITA,17,3,6,1.55,65.38,26
+86,M. Elser,CAN,17,6,22,1.42,37.78,45
+87,Shahrooz,IRI,16,3,9,1.33,57.14,28
+88,Gotsev,BUL,15,4,12,1.25,48.39,31
+88,Bołądź,POL,15,7,7,3.75,51.72,29
+89,Gallego,ARG,14,2,14,1.08,46.67,30
+90,N. Penchev,BUL,13,6,17,1.62,36.11,36
+90,Javad,IRI,13,0,9,1.08,59.09,22
+90,Szymanski,POL,13,5,6,3.25,54.17,24
+90,Anzani,ITA,13,0,4,3.25,76.47,17
+91,Petkov,BUL,12,1,9,1.0,54.55,22
+91,Jelveh,IRI,12,3,9,1.0,50.0,24
+91,Sanguinetti,ITA,12,2,5,1.09,63.16,19
+91,Keemink,NED,12,0,3,1.0,80.0,15
+92,Kessel,USA,11,3,3,1.38,64.71,17
+92,Ter Horst,NED,11,7,11,1.38,37.93,29
+93,Armoa Morel,ARG,10,6,6,0.77,45.45,22
+93,Pedroso,CUB,10,5,8,0.83,43.48,23
+93,Kaliberda,GER,10,9,12,0.83,32.26,31
+94,Tomita,JPN,9,0,6,0.6,60.0,15
+94,Gutierrez,CUB,9,0,8,0.75,52.94,17
+95,Porro P.,ITA,8,0,1,2.0,88.89,9
+95,Brizard,FRA,8,2,9,0.89,42.11,19
+96,De Cecco,ARG,7,1,6,0.78,50.0,14
+96,Katic,SRB,7,7,17,0.88,22.58,31
+96,Urbanowicz,POL,7,3,3,0.88,53.85,13
+97,Zhang G.H.,CHN,6,2,5,0.75,46.15,13
+97,Taboada,CUB,6,4,3,0.5,46.15,13
+97,Kök,SLO,6,6,7,0.46,31.58,19
+97,Ropret,SLO,6,2,10,0.46,33.33,18
+97,Todorović,SRB,6,0,6,0.5,50.0,12
+97,Christenson,USA,6,2,13,0.4,28.57,21
+97,Maase,GER,6,1,5,0.75,50.0,12
+98,Wang H.B.,CHN,5,2,7,0.42,35.71,14
+98,Recine,ITA,5,4,9,1.25,27.78,18
+98,Cortesia,ITA,5,1,2,1.25,62.5,8
+98,Štalekar,SLO,5,1,4,0.38,50.0,10
+98,Ensing,USA,5,7,5,0.62,29.41,17
+98,Ma'a,USA,5,1,3,0.45,55.56,9
+98,Bruno,BRA,5,0,6,0.38,45.45,11
+98,Arthur,BRA,5,2,2,0.62,55.56,9
+98,Parkinson,NED,5,1,6,1.25,41.67,12
+98,Adamczyk,POL,5,2,2,1.25,55.56,9
+98,V. Bratoev,BUL,5,5,7,1.25,29.41,17
+99,Gironi,ITA,3,3,7,0.27,23.08,13
+99,Corre,FRA,3,2,2,0.75,42.86,7
+99,Mašulović N.,SRB,3,1,2,0.38,50.0,6
+99,Toniutti,FRA,3,0,1,0.6,75.0,4
+99,Nishiyama,JPN,3,3,1,1.0,42.86,7
+100,Seganov,BUL,2,5,8,0.17,13.33,15
+100,Sekita,JPN,2,0,4,0.13,33.33,6
+100,Vadi,IRI,2,2,4,0.25,25.0,8
+100,Herr,CAN,2,1,1,0.17,50.0,4
+100,Łomacz,POL,2,0,0,0.13,100.0,2
+100,Sawicki,POL,2,2,3,0.5,28.57,7
+100,Firlej,POL,2,0,1,0.25,66.67,3
+100,Korenblek,NED,2,0,0,0.17,100.0,2
+100,Kampa,GER,2,0,0,0.25,100.0,2
+100,S.Ivanov,BUL,2,4,4,0.5,20.0,10
+100,Larry,JPN,2,1,2,0.4,40.0,5
+100,Leal,BRA,2,0,2,2.0,50.0,4
+101,Zelayeta,ARG,1,0,0,0.08,100.0,1
+101,Schnitzer,CAN,1,0,1,0.25,50.0,2
+101,Thondike,CUB,1,2,8,0.08,9.09,11
+101,Pothron,FRA,1,2,0,0.12,33.33,3
+101,Henno,FRA,1,0,1,0.25,50.0,2
+101,Fernando,BRA,1,0,2,0.08,33.33,3
+101,Tille,GER,1,2,1,0.08,25.0,4
+101,Tuaniga,USA,1,0,1,0.25,50.0,2
+101,Mujanović,SLO,1,0,0,0.11,100.0,1
+101,Kovačević,SRB,1,7,3,0.25,9.09,11
+101,A. Ramezani,IRI,1,0,1,0.25,50.0,2
+101,A. Afshinfar,IRI,1,2,2,0.25,20.0,5
+102,G. Bratoev,BUL,0,0,0,,,0
+102,Bozhilov,BUL,0,0,0,,,0
+102,Dobrev,BUL,0,0,0,,,0
+102,Guo C.,CHN,0,0,1,0.0,0.0,1
+102,Liu M.,CHN,0,0,0,,,0
+102,Chen J.J.,CHN,0,0,0,,,0
+102,Qu Z.S.,CHN,0,0,0,,,0
+102,Fukatsu,JPN,0,0,1,0.0,0.0,1
+102,Ogawa,JPN,0,0,0,,,0
+102,Yamamoto,JPN,0,0,0,,,0
+102,Kai,JPN,0,0,0,,,0
+102,Hazrat,IRI,0,0,0,,,0
+102,Arman,IRI,0,0,0,,,0
+102,Falaschi,ITA,0,0,0,,,0
+102,Balaso,ITA,0,0,0,,,0
+102,Gardini,ITA,0,0,0,,,0
+102,Vitelli,ITA,0,1,3,0.0,0.0,4
+102,Federici,ITA,0,0,0,,,0
+102,Sanchez Pages,ARG,0,0,1,0.0,0.0,1
+102,Danani,ARG,0,0,0,,,0
+102,Blankenau,CAN,0,0,1,0.0,0.0,1
+102,Lui,CAN,0,0,0,,,0
+102,Currie,CAN,0,0,0,,,0
+102,Garcia,CUB,0,0,0,,,0
+102,Goide,CUB,0,0,0,,,0
+102,J. Gutierrez,CUB,0,1,1,0.0,0.0,2
+102,Gorguet,CUB,0,0,0,,,0
+102,Planinšič,SLO,0,0,2,0.0,0.0,2
+102,Toman,SLO,0,0,0,,,0
+102,Bračko,SLO,0,0,0,,,0
+102,Koncilja,SLO,0,0,0,,,0
+102,Kovačič,SLO,0,0,0,,,0
+102,Kapur,SRB,0,0,0,,,0
+102,Mašulović V.,SRB,0,0,2,0.0,0.0,2
+102,Batak,SRB,0,0,1,0.0,0.0,1
+102,Gajović,SRB,0,0,0,,,0
+102,Krsteski,SRB,0,0,0,,,0
+102,Petrović,SRB,0,1,0,0.0,0.0,1
+102,Szymura,POL,0,0,0,,,0
+102,Hawryluk,POL,0,0,0,,,0
+102,Poręba,POL,0,0,0,,,0
+102,Motta Paes,FRA,0,0,0,,,0
+102,Henry,FRA,0,0,0,,,0
+102,Diez,FRA,0,0,0,,,0
+102,Basic,FRA,0,0,0,,,0
+102,Loubeyre,FRA,0,0,0,,,0
+102,Roehrig,FRA,0,0,0,,,0
+102,E. Shoji,USA,0,0,0,,,0
+102,Van Der Ent,NED,0,0,0,,,0
+102,Meijs,NED,0,1,2,0.0,0.0,3
+102,Andringa,NED,0,0,0,,,0
+102,Bak,NED,0,0,0,,,0
+102,Wijkstra,NED,0,1,1,0.0,0.0,2
+102,Lipke,NED,0,0,0,,,0
+102,Maique,BRA,0,0,0,,,0
+102,Thales,BRA,0,0,0,,,0
+102,Thiery,BRA,0,0,0,,,0
+102,Graven,GER,0,0,0,,,0
+102,Walsh,CAN,0,0,0,,,0
+102,Salehi,IRI,0,1,1,0.0,0.0,2
+102,Zimmermann,GER,0,0,0,,,0
+102,Günthör,GER,0,0,0,,,0
+102,Dagostino,USA,0,0,0,,,0
+102,Giraudo,ARG,0,1,0,0.0,0.0,1
+102,Yang Y.M.,CHN,0,0,0,,,0
+102,Chen L.Y.,CHN,0,0,0,,,0
+102,Salparov,BUL,0,0,0,,,0
+102,Raev,BUL,0,0,0,,,0
+102,Sbertoli,ITA,0,0,0,,,0
+102,Scanferla,ITA,0,0,0,,,0
+102,Caneschi,ITA,0,0,0,,,0
+102,Magalini,ITA,0,0,1,0.0,0.0,1
+102,Zatorski,POL,0,0,0,,,0
+102,Grebennikov,FRA,0,0,0,,,0
+102,Huetz,FRA,0,0,0,,,0
+102,Vaccari,BRA,0,0,1,0.0,0.0,1
+102,Piccinelli,ITA,0,0,0,,,0
+102,Sala,ITA,0,0,1,0.0,0.0,1
+102,Eiro,JPN,0,0,0,,,0
+102,Rao S.H.,CHN,0,0,0,,,0
+102,Podraščanin,ITA,0,0,0,,,0
+102,M. R. Moazzen,IRI,0,0,0,,,0
+102,Popiwczak,POL,0,0,0,,,0
+102,Janusz,POL,0,0,2,0.0,0.0,2
+102,K. Russell,USA,0,0,0,,,0
+102,Daneshdoust,IRI,0,0,0,,,0

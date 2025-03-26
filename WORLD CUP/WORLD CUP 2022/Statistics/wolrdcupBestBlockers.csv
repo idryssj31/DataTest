@@ -1,337 +1,337 @@
-﻿web-scraper-order,web-scraper-start-url,Rank,Player Name,Team,Blocks,Errors,Rebounds,Average Per Match,Efficiency,Total
-"1742823268-1","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","1","Loser Bruno","ARG","17","30","2","3.40","-26.53","49"
-"1742823268-2","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","2","Lucas","BRA","16","30","4","2.29","-28.00","50"
-"1742823268-3","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","2","Flavio","BRA","16","28","4","2.29","-25.00","48"
-"1742823268-4","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","2","Bieniek","POL","16","31","13","2.29","-25.00","60"
-"1742823268-5","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","3","Kozamernik","SLO","15","29","8","2.14","-26.92","52"
-"1742823268-6","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","4","Čebulj","SLO","13","11","5","1.86","6.90","29"
-"1742823268-7","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","4","Drozd","UKR","13","41","8","2.60","-45.16","62"
-"1742823268-8","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","5","Galassi","ITA","12","17","9","1.71","-13.16","38"
-"1742823268-9","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","5","Anzani","ITA","12","20","9","1.71","-19.51","41"
-"1742823268-10","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","6","Simón","CUB","11","17","6","2.75","-17.65","34"
-"1742823268-11","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","6","Onodera","JPN","11","16","4","2.75","-16.13","31"
-"1742823268-12","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","6","Pajenk","SLO","11","19","8","1.57","-21.05","38"
-"1742823268-13","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","7","Chinenyeze","FRA","10","16","13","2.00","-15.38","39"
-"1742823268-14","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","7","Krick","GER","10","10","3","2.50","0.00","23"
-"1742823268-15","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","7","Semeniuk","UKR","10","17","13","2.00","-17.50","40"
-"1742823268-16","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","7","Lavia","ITA","10","24","3","1.43","-37.84","37"
-"1742823268-17","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","7","Russo","ITA","10","11","4","1.43","-4.00","25"
-"1742823268-18","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","8","Wallace","BRA","9","12","3","1.29","-12.50","24"
-"1742823268-19","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","8","Osoria","CUB","9","12","5","2.25","-11.54","26"
-"1742823268-20","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","8","Le Goff","FRA","9","16","6","1.80","-22.58","31"
-"1742823268-21","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","8","Smith","USA","9","29","7","1.80","-44.44","45"
-"1742823268-22","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","8","Rodriguez","MEX","9","30","8","3.00","-44.68","47"
-"1742823268-23","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","8","Kochanowski","POL","9","36","10","1.29","-49.09","55"
-"1742823268-24","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","8","T. Štern","SLO","9","10","4","1.29","-4.35","23"
-"1742823268-25","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","8","Parkinson","NED","9","12","2","2.25","-13.04","23"
-"1742823268-26","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","8","A. Seoudy","EGY","9","9","0","3.00","0.00","18"
-"1742823268-27","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","8","Agrebi O","TUN","9","20","7","2.25","-30.56","36"
-"1742823268-28","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","8","Plotnytskyi","UKR","9","7","9","1.80","8.00","25"
-"1742823268-29","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","8","Podraščanin","ITA","9","23","7","2.25","-35.90","39"
-"1742823268-30","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","8","Romanò","ITA","9","15","2","1.29","-23.08","26"
-"1742823268-31","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","9","Leal","BRA","8","14","5","1.14","-22.22","27"
-"1742823268-32","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","9","Grozdanov","BUL","8","18","10","2.67","-27.78","36"
-"1742823268-33","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","9","Giannelli","ITA","8","8","8","1.14","0.00","24"
-"1742823268-34","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","10","Nishida","JPN","7","10","1","1.75","-16.67","18"
-"1742823268-35","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","10","Russell","USA","7","13","3","1.40","-26.09","23"
-"1742823268-36","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","10","Kurek","POL","7","12","2","1.00","-23.81","21"
-"1742823268-37","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","10","Nimir","NED","7","6","2","1.75","6.67","15"
-"1742823268-38","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","10","Toukhteh","IRI","7","11","5","1.75","-17.39","23"
-"1742823268-39","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","10","Kovalov","UKR","7","7","3","1.40","0.00","17"
-"1742823268-40","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","11","Yamauchi","JPN","6","11","6","1.50","-21.74","23"
-"1742823268-41","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","11","Christenson","USA","6","15","3","1.20","-37.50","24"
-"1742823268-42","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","11","Güneş","TUR","6","9","2","1.50","-17.65","17"
-"1742823268-43","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","11","Dola","EGY","6","12","3","2.00","-28.57","21"
-"1742823268-44","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","11","De Cecco","ARG","6","9","1","1.20","-18.75","16"
-"1742823268-45","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","11","Vicentin","ARG","6","4","0","1.20","20.00","10"
-"1742823268-46","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","11","Ramos","ARG","6","16","0","1.20","-45.45","22"
-"1742823268-47","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","11","Milad","IRI","6","6","4","1.50","0.00","16"
-"1742823268-48","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","11","Michieletto","ITA","6","16","6","0.86","-35.71","28"
-"1742823268-49","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","12","Lucarelli","BRA","5","11","0","0.71","-37.50","16"
-"1742823268-50","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","12","Belal","QAT","5","11","3","1.67","-31.58","19"
-"1742823268-51","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","12","Ibrahim","QAT","5","7","4","1.67","-12.50","16"
-"1742823268-52","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","12","Kłos","POL","5","2","2","0.71","33.33","9"
-"1742823268-53","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","12","Śliwka","POL","5","12","2","0.71","-36.84","19"
-"1742823268-54","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","12","Semeniuk","POL","5","16","8","0.71","-37.93","29"
-"1742823268-55","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","12","Fornal","POL","5","11","1","0.71","-35.29","17"
-"1742823268-56","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","12","A. Lagumdzija","TUR","5","5","0","1.25","0.00","10"
-"1742823268-57","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","12","Keemink","NED","5","4","2","1.25","9.09","11"
-"1742823268-58","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","12","Plak","NED","5","14","4","1.25","-39.13","23"
-"1742823268-59","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","12","Mojarad","IRI","5","17","1","1.25","-52.17","23"
-"1742823268-60","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","12","Karamosli E","TUN","5","15","1","1.25","-47.62","21"
-"1742823268-61","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","12","Jovović","SRB","5","8","8","1.25","-14.29","21"
-"1742823268-62","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","12","Van Berkel","CAN","5","6","4","1.67","-6.67","15"
-"1742823268-63","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","13","Lopez","CUB","4","6","2","1.00","-16.67","12"
-"1742823268-64","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","13","Boyer","FRA","4","4","2","0.80","0.00","10"
-"1742823268-65","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","13","Defalco","USA","4","11","5","0.80","-35.00","20"
-"1742823268-66","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","13","Vinčić","SLO","4","8","2","0.57","-28.57","14"
-"1742823268-67","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","13","Peng S.K.","CHN","4","10","1","1.33","-40.00","15"
-"1742823268-68","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","13","Issa","EGY","4","10","0","1.33","-42.86","14"
-"1742823268-69","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","13","Lima B.","ARG","4","18","1","0.80","-60.87","23"
-"1742823268-70","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","13","Zerba","ARG","4","5","1","0.80","-10.00","10"
-"1742823268-71","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","13","Kadhi A","TUN","4","17","3","1.00","-54.17","24"
-"1742823268-72","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","13","Tupchii","UKR","4","18","8","0.80","-46.67","30"
-"1742823268-73","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","13","Lisinac","SRB","4","17","5","1.00","-50.00","26"
-"1742823268-74","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","14","Bruno","BRA","3","2","1","0.43","16.67","6"
-"1742823268-75","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","14","Taboada","CUB","3","3","2","0.75","0.00","8"
-"1742823268-76","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","14","Patry","FRA","3","5","2","0.60","-20.00","10"
-"1742823268-77","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","14","Ngapeth","FRA","3","17","3","0.60","-60.87","23"
-"1742823268-78","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","14","Brizard","FRA","3","7","5","0.60","-26.67","15"
-"1742823268-79","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","14","Clevenot","FRA","3","7","0","0.60","-40.00","10"
-"1742823268-80","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","14","Maase","GER","3","6","2","0.75","-27.27","11"
-"1742823268-81","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","14","Jendryk","USA","3","29","9","0.60","-63.41","41"
-"1742823268-82","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","14","Gonzalez","MEX","3","14","4","1.00","-52.38","21"
-"1742823268-83","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","14","Gotsev","BUL","3","19","8","1.00","-53.33","30"
-"1742823268-84","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","14","Sokolov","BUL","3","9","3","1.00","-40.00","15"
-"1742823268-85","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","14","Ahmed","CMR","3","1","0","1.00","50.00","4"
-"1742823268-86","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","14","Kofane","CMR","3","0","0","1.00","100.00","3"
-"1742823268-87","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","14","Voukeng","CMR","3","4","1","1.00","-12.50","8"
-"1742823268-88","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","14","Güngör","TUR","3","3","1","0.75","0.00","7"
-"1742823268-89","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","14","Bedirhan","TUR","3","8","4","0.75","-33.33","15"
-"1742823268-90","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","14","Ter Horst","NED","3","6","0","0.75","-33.33","9"
-"1742823268-91","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","14","Facu","ARG","3","10","0","0.60","-53.85","13"
-"1742823268-92","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","14","Palacios","ARG","3","3","0","0.60","0.00","6"
-"1742823268-93","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","14","Esfandiar","IRI","3","3","0","0.75","0.00","6"
-"1742823268-94","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","14","Amin","IRI","3","15","0","0.75","-66.67","18"
-"1742823268-95","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","14","Ben Slimene K","TUN","3","9","1","0.75","-46.15","13"
-"1742823268-96","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","14","B.Othmen M.","TUN","3","10","2","0.75","-46.67","15"
-"1742823268-97","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","14","Nieves","PUR","3","19","14","1.00","-44.44","36"
-"1742823268-98","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","14","Ivović","SRB","3","10","1","0.75","-50.00","14"
-"1742823268-99","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","14","Petkovic","SRB","3","6","3","0.75","-25.00","12"
-"1742823268-100","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","15","Adriano","BRA","2","3","0","0.29","-20.00","5"
-"1742823268-101","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","15","Fernando","BRA","2","2","3","0.29","0.00","7"
-"1742823268-102","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","15","Herrera","CUB","2","9","4","0.50","-46.67","15"
-"1742823268-103","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","15","Goide","CUB","2","1","3","0.50","16.67","6"
-"1742823268-104","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","15","Ran","JPN","2","9","5","0.50","-43.75","16"
-"1742823268-105","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","15","Ishikawa","JPN","2","5","5","0.50","-25.00","12"
-"1742823268-106","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","15","Y.Oughlaf","QAT","2","1","1","0.67","25.00","4"
-"1742823268-107","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","15","Milos","QAT","2","4","0","0.67","-33.33","6"
-"1742823268-108","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","15","Nikola","QAT","2","0","0","0.67","100.00","2"
-"1742823268-109","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","15","Jouffroy","FRA","2","5","0","0.40","-42.86","7"
-"1742823268-110","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","15","Anderson","USA","2","14","4","0.40","-60.00","20"
-"1742823268-111","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","15","Kolev","BUL","2","2","0","0.67","0.00","4"
-"1742823268-112","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","15","Seganov","BUL","2","13","3","0.67","-61.11","18"
-"1742823268-113","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","15","Ropret","SLO","2","2","1","0.29","0.00","5"
-"1742823268-114","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","15","Urnaut","SLO","2","13","4","0.29","-57.89","19"
-"1742823268-115","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","15","Možič","SLO","2","2","3","0.29","0.00","7"
-"1742823268-116","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","15","Badawe","CMR","2","3","0","0.67","-20.00","5"
-"1742823268-117","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","15","Kody","CMR","2","2","1","0.67","0.00","5"
-"1742823268-118","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","15","Subaşı","TUR","2","6","0","0.50","-50.00","8"
-"1742823268-119","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","15","M. Lagumdzija","TUR","2","1","1","0.50","25.00","4"
-"1742823268-120","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","15","Ekşi","TUR","2","6","2","0.50","-40.00","10"
-"1742823268-121","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","15","Doğukan U.","TUR","2","0","0","0.50","100.00","2"
-"1742823268-122","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","15","Zhang Z.J.","CHN","2","4","2","0.67","-25.00","8"
-"1742823268-123","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","15","Tuinstra","NED","2","4","1","0.50","-28.57","7"
-"1742823268-124","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","15","Hossam","EGY","2","4","1","0.67","-28.57","7"
-"1742823268-125","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","15","J.Manavi","IRI","2","1","0","0.50","33.33","3"
-"1742823268-126","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","15","Bouguerra.A","TUN","2","5","0","0.50","-42.86","7"
-"1742823268-127","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","15","Molina","PUR","2","2","2","0.67","0.00","6"
-"1742823268-128","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","15","Rodriguez","PUR","2","26","2","0.67","-80.00","30"
-"1742823268-129","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","15","Kovačević","SRB","2","9","5","0.50","-43.75","16"
-"1742823268-130","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","15","Atanasijević","SRB","2","6","4","0.50","-33.33","12"
-"1742823268-131","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","15","Maar","CAN","2","3","0","0.67","-20.00","5"
-"1742823268-132","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","16","Rodriguinho","BRA","1","5","1","0.14","-57.14","7"
-"1742823268-133","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","16","Leandro","BRA","1","0","1","0.14","50.00","2"
-"1742823268-134","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","16","Roque","BRA","1","1","0","0.14","0.00","2"
-"1742823268-135","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","16","Sánchez B.","CUB","1","0","0","0.25","100.00","1"
-"1742823268-136","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","16","Renan","QAT","1","3","2","0.33","-33.33","6"
-"1742823268-137","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","16","Tillie","FRA","1","3","1","0.20","-40.00","5"
-"1742823268-138","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","16","Fromm","GER","1","0","1","0.25","50.00","2"
-"1742823268-139","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","16","Karlitzek","GER","1","2","4","0.25","-14.29","7"
-"1742823268-140","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","16","Weber","GER","1","2","1","0.25","-25.00","4"
-"1742823268-141","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","16","Averill","USA","1","4","1","0.20","-50.00","6"
-"1742823268-142","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","16","Lopez","MEX","1","16","5","0.33","-68.18","22"
-"1742823268-143","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","16","Fuentes","MEX","1","4","1","0.33","-50.00","6"
-"1742823268-144","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","16","Aranda","MEX","1","6","4","0.33","-45.45","11"
-"1742823268-145","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","16","Kaczmarek","POL","1","8","3","0.14","-58.33","12"
-"1742823268-146","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","16","Janusz","POL","1","6","4","0.14","-45.45","11"
-"1742823268-147","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","16","Poręba","POL","1","0","2","0.14","33.33","3"
-"1742823268-148","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","16","Atanasov","BUL","1","4","1","0.33","-50.00","6"
-"1742823268-149","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","16","Asparuhov","BUL","1","11","6","0.33","-55.56","18"
-"1742823268-150","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","16","S.Ivanov","BUL","1","1","2","0.33","0.00","4"
-"1742823268-151","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","16","A. Nikolov","BUL","1","6","2","0.33","-55.56","9"
-"1742823268-152","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","16","Dolengombai","CMR","1","5","1","0.33","-57.14","7"
-"1742823268-153","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","16","Bitouna","CMR","1","0","0","0.33","100.00","1"
-"1742823268-154","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","16","Landry","CMR","1","3","1","0.33","-40.00","5"
-"1742823268-155","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","16","Yu Y.T.","CHN","1","4","0","0.33","-60.00","5"
-"1742823268-156","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","16","Li Y.Z.","CHN","1","2","1","0.33","-25.00","4"
-"1742823268-157","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","16","Zhang G.H.","CHN","1","3","1","0.33","-40.00","5"
-"1742823268-158","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","16","Zhang J.Y.","CHN","1","3","0","0.33","-50.00","4"
-"1742823268-159","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","16","Jorna","NED","1","0","0","0.25","100.00","1"
-"1742823268-160","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","16","Deyo","EGY","1","1","0","0.33","0.00","2"
-"1742823268-161","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","16","Gallego","ARG","1","1","0","0.20","0.00","2"
-"1742823268-162","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","16","Kukartsev","ARG","1","0","1","0.20","50.00","2"
-"1742823268-163","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","16","Vadi","IRI","1","4","1","0.25","-50.00","6"
-"1742823268-164","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","16","Nagga H.","TUN","1","9","4","0.25","-57.14","14"
-"1742823268-165","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","16","Lawrence","PUR","1","7","7","0.33","-40.00","15"
-"1742823268-166","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","16","Iglesias","PUR","1","8","6","0.33","-46.67","15"
-"1742823268-167","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","16","Poluian","UKR","1","2","2","0.20","-20.00","5"
-"1742823268-168","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","16","Shchytkov","UKR","1","9","3","0.20","-61.54","13"
-"1742823268-169","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","16","Kisiliuk","UKR","1","3","0","0.20","-50.00","4"
-"1742823268-170","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","16","Synytsia","UKR","1","5","2","0.20","-50.00","8"
-"1742823268-171","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","16","Mašulović N.","SRB","1","3","1","0.25","-40.00","5"
-"1742823268-172","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","16","Todorović","SRB","1","0","0","0.25","100.00","1"
-"1742823268-173","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","16","Epp","CAN","1","2","0","0.33","-33.33","3"
-"1742823268-174","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","16","Barnes","CAN","1","1","2","0.33","0.00","4"
-"1742823268-175","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","16","Szwarc","CAN","1","11","1","0.33","-76.92","13"
-"1742823268-176","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Maique","BRA","0","0","0","","","0"
-"1742823268-177","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Thales","BRA","0","0","0","","","0"
-"1742823268-178","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Darlan","BRA","0","1","0","0.00","-100.00","1"
-"1742823268-179","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Mergarejo","CUB","0","4","1","0.00","-80.00","5"
-"1742823268-180","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Concepcion","CUB","0","0","0","","","0"
-"1742823268-181","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Garcia","CUB","0","0","0","","","0"
-"1742823268-182","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Gutierrez","CUB","0","0","0","","","0"
-"1742823268-183","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","J. Gutierrez","CUB","0","0","0","","","0"
-"1742823268-184","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Yant","CUB","0","6","2","0.00","-75.00","8"
-"1742823268-185","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Gorguet","CUB","0","0","0","","","0"
-"1742823268-186","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Otsuka","JPN","0","1","0","0.00","-100.00","1"
-"1742823268-187","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Takanashi","JPN","0","1","0","0.00","-100.00","1"
-"1742823268-188","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Sekita","JPN","0","2","1","0.00","-66.67","3"
-"1742823268-189","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Oya","JPN","0","0","0","","","0"
-"1742823268-190","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Ogawa","JPN","0","0","0","","","0"
-"1742823268-191","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Miyaura","JPN","0","0","1","0.00","0.00","1"
-"1742823268-192","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Yamamoto","JPN","0","0","0","","","0"
-"1742823268-193","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Sato","JPN","0","0","0","","","0"
-"1742823268-194","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Murayama","JPN","0","0","0","","","0"
-"1742823268-195","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","M. Essam","QAT","0","0","0","","","0"
-"1742823268-196","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Sulaiman","QAT","0","0","0","","","0"
-"1742823268-197","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Bojan","QAT","0","0","0","","","0"
-"1742823268-198","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Ababacar","QAT","0","0","0","","","0"
-"1742823268-199","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Mubarak","QAT","0","1","1","0.00","-50.00","2"
-"1742823268-200","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Abdullah","QAT","0","0","0","","","0"
-"1742823268-201","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","A. Jamal","QAT","0","0","0","","","0"
-"1742823268-202","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Osman","QAT","0","0","0","","","0"
-"1742823268-203","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Grebennikov","FRA","0","0","0","","","0"
-"1742823268-204","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Toniutti","FRA","0","2","1","0.00","-66.67","3"
-"1742823268-205","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Henry","FRA","0","2","0","0.00","-100.00","2"
-"1742823268-206","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Louati","FRA","0","4","1","0.00","-80.00","5"
-"1742823268-207","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Diez","FRA","0","0","0","","","0"
-"1742823268-208","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Schott","GER","0","1","4","0.00","-20.00","5"
-"1742823268-209","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Reichert","GER","0","2","1","0.00","-66.67","3"
-"1742823268-210","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Sossenheimer","GER","0","0","0","","","0"
-"1742823268-211","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Zenger","GER","0","0","0","","","0"
-"1742823268-212","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Kampa","GER","0","5","0","0.00","-100.00","5"
-"1742823268-213","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Zimmermann","GER","0","0","0","","","0"
-"1742823268-214","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Krage","GER","0","10","1","0.00","-90.91","11"
-"1742823268-215","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Brand","GER","0","2","0","0.00","-100.00","2"
-"1742823268-216","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Günthör","GER","0","0","0","","","0"
-"1742823268-217","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Ensing","USA","0","3","0","0.00","-100.00","3"
-"1742823268-218","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","K. Russell","USA","0","0","0","","","0"
-"1742823268-219","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Tuaniga","USA","0","2","3","0.00","-40.00","5"
-"1742823268-220","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Muagututia","USA","0","3","1","0.00","-75.00","4"
-"1742823268-221","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Briggs","USA","0","0","0","","","0"
-"1742823268-222","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","E. Shoji","USA","0","0","0","","","0"
-"1742823268-223","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Kessel","USA","0","0","0","","","0"
-"1742823268-224","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Mendoza","MEX","0","0","0","","","0"
-"1742823268-225","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Bravo","MEX","0","0","0","","","0"
-"1742823268-226","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Ferran","MEX","0","0","0","","","0"
-"1742823268-227","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Mendoza","MEX","0","0","0","","","0"
-"1742823268-228","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Martinez","MEX","0","22","7","0.00","-75.86","29"
-"1742823268-229","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Chavez","MEX","0","1","0","0.00","-100.00","1"
-"1742823268-230","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Sanay","MEX","0","1","0","0.00","-100.00","1"
-"1742823268-231","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Baca","MEX","0","1","1","0.00","-50.00","2"
-"1742823268-232","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Lopez B.","MEX","0","0","0","","","0"
-"1742823268-233","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Popiwczak","POL","0","0","0","","","0"
-"1742823268-234","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Łomacz","POL","0","2","0","0.00","-100.00","2"
-"1742823268-235","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Zatorski","POL","0","0","0","","","0"
-"1742823268-236","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Kwolek","POL","0","4","0","0.00","-100.00","4"
-"1742823268-237","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Karyagin","BUL","0","0","0","","","0"
-"1742823268-238","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Chavdarov","BUL","0","0","0","","","0"
-"1742823268-239","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","D. Dimitrov","BUL","0","1","0","0.00","-100.00","1"
-"1742823268-240","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Skrimov","BUL","0","0","0","","","0"
-"1742823268-241","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","V. Ivanov","BUL","0","0","0","","","0"
-"1742823268-242","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Gasparini","SLO","0","0","0","","","0"
-"1742823268-243","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Štalekar","SLO","0","0","0","","","0"
-"1742823268-244","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Koncilja","SLO","0","0","0","","","0"
-"1742823268-245","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Klobucar","SLO","0","0","0","","","0"
-"1742823268-246","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Kovačič","SLO","0","0","0","","","0"
-"1742823268-247","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Z. Štern","SLO","0","0","0","","","0"
-"1742823268-248","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Amabaya","CMR","0","0","0","","","0"
-"1742823268-249","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Mandengo","CMR","0","0","0","","","0"
-"1742823268-250","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Hile","CMR","0","2","0","0.00","-100.00","2"
-"1742823268-251","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Deffo","CMR","0","0","0","","","0"
-"1742823268-252","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Bassoko","CMR","0","0","0","","","0"
-"1742823268-253","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Djam","CMR","0","0","0","","","0"
-"1742823268-254","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Metin T.","TUR","0","0","0","","","0"
-"1742823268-255","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Bostan","TUR","0","0","0","","","0"
-"1742823268-256","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Bayraktar","TUR","0","0","0","","","0"
-"1742823268-257","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Tümer","TUR","0","0","0","","","0"
-"1742823268-258","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Gürbüz","TUR","0","0","0","","","0"
-"1742823268-259","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Döne","TUR","0","0","0","","","0"
-"1742823268-260","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Dai Q.Y.","CHN","0","1","0","0.00","-100.00","1"
-"1742823268-261","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Yang Y.M.","CHN","0","0","0","","","0"
-"1742823268-262","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Zhang B.L.","CHN","0","0","0","","","0"
-"1742823268-263","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Yu Y.C.","CHN","0","1","1","0.00","-50.00","2"
-"1742823268-264","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Yang T.Y.","CHN","0","0","0","","","0"
-"1742823268-265","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Liu M.","CHN","0","1","0","0.00","-100.00","1"
-"1742823268-266","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Miao R.T.","CHN","0","0","0","","","0"
-"1742823268-267","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Wang B.","CHN","0","0","0","","","0"
-"1742823268-268","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Van Garderen","NED","0","0","0","","","0"
-"1742823268-269","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Van Der Ent","NED","0","0","0","","","0"
-"1742823268-270","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Bleeker","NED","0","0","0","","","0"
-"1742823268-271","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Ter Maat","NED","0","1","0","0.00","-100.00","1"
-"1742823268-272","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Andringa","NED","0","0","0","","","0"
-"1742823268-273","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","De Weijer","NED","0","0","0","","","0"
-"1742823268-274","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Wiltenburg","NED","0","0","0","","","0"
-"1742823268-275","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","A. Fathy","EGY","0","0","0","","","0"
-"1742823268-276","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","M. Reda","EGY","0","0","0","","","0"
-"1742823268-277","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Elhossiny","EGY","0","2","0","0.00","-100.00","2"
-"1742823268-278","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","M. Ramadan","EGY","0","0","0","","","0"
-"1742823268-279","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","M.Elmahdy","EGY","0","0","0","","","0"
-"1742823268-280","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","A. Kotb","EGY","0","0","1","0.00","0.00","1"
-"1742823268-281","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","R.Haikal","EGY","0","5","0","0.00","-100.00","5"
-"1742823268-282","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","A.Said","EGY","0","7","0","0.00","-100.00","7"
-"1742823268-283","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","M. Magdy","EGY","0","1","0","0.00","-100.00","1"
-"1742823268-284","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Sanchez Pages","ARG","0","1","0","0.00","-100.00","1"
-"1742823268-285","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Martinez Franchi","ARG","0","1","0","0.00","-100.00","1"
-"1742823268-286","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Danani","ARG","0","0","0","","","0"
-"1742823268-287","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Palonsky","ARG","0","1","0","0.00","-100.00","1"
-"1742823268-288","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Jelveh","IRI","0","0","0","","","0"
-"1742823268-289","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Shahrooz","IRI","0","0","0","","","0"
-"1742823268-290","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Hazrat","IRI","0","0","0","","","0"
-"1742823268-291","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","M. R. Moazzen","IRI","0","0","0","","","0"
-"1742823268-292","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Kazemi","IRI","0","3","0","0.00","-100.00","3"
-"1742823268-293","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Javad","IRI","0","1","0","0.00","-100.00","1"
-"1742823268-294","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Morteza","IRI","0","1","1","0.00","-50.00","2"
-"1742823268-295","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Abdelhedi Y","TUN","0","0","0","","","0"
-"1742823268-296","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Bennour R.","TUN","0","0","0","","","0"
-"1742823268-297","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Mbareki S.","TUN","0","0","0","","","0"
-"1742823268-298","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Ben Taher.M","TUN","0","1","0","0.00","-100.00","1"
-"1742823268-299","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Bongui.A","TUN","0","0","0","","","0"
-"1742823268-300","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Hmissi S","TUN","0","0","0","","","0"
-"1742823268-301","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Korbosli T","TUN","0","0","0","","","0"
-"1742823268-302","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Hoyos","PUR","0","0","0","","","0"
-"1742823268-303","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Del Valle","PUR","0","0","0","","","0"
-"1742823268-304","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Torres","PUR","0","0","0","","","0"
-"1742823268-305","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Lopez","PUR","0","5","0","0.00","-100.00","5"
-"1742823268-306","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Cabrera","PUR","0","0","0","","","0"
-"1742823268-307","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Nido","PUR","0","1","0","0.00","-100.00","1"
-"1742823268-308","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Vargas","PUR","0","9","3","0.00","-75.00","12"
-"1742823268-309","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Alomar","PUR","0","0","1","0.00","0.00","1"
-"1742823268-310","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Elias","PUR","0","0","1","0.00","0.00","1"
-"1742823268-311","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Shevchenko","UKR","0","0","0","","","0"
-"1742823268-312","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Brova","UKR","0","0","0","","","0"
-"1742823268-313","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Ostapenko","UKR","0","0","0","","","0"
-"1742823268-314","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Fomin","UKR","0","0","0","","","0"
-"1742823268-315","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Kanaiev","UKR","0","0","0","","","0"
-"1742823268-316","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Petric","SRB","0","2","2","0.00","-50.00","4"
-"1742823268-317","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Katic","SRB","0","0","0","","","0"
-"1742823268-318","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Pekovic","SRB","0","0","0","","","0"
-"1742823268-319","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Krsmanović","SRB","0","0","0","","","0"
-"1742823268-320","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Perić","SRB","0","0","0","","","0"
-"1742823268-321","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Pinali","ITA","0","0","0","","","0"
-"1742823268-322","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Recine","ITA","0","0","0","","","0"
-"1742823268-323","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Balaso","ITA","0","0","0","","","0"
-"1742823268-324","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Sbertoli","ITA","0","0","0","","","0"
-"1742823268-325","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Bottolo","ITA","0","0","0","","","0"
-"1742823268-326","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Scanferla","ITA","0","0","0","","","0"
-"1742823268-327","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Mosca","ITA","0","0","0","","","0"
-"1742823268-328","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Hoag","CAN","0","1","0","0.00","-100.00","1"
-"1742823268-329","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Loeppky","CAN","0","2","0","0.00","-100.00","2"
-"1742823268-330","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Walsh","CAN","0","1","0","0.00","-100.00","1"
-"1742823268-331","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Sclater","CAN","0","6","1","0.00","-85.71","7"
-"1742823268-332","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Eshenko","CAN","0","0","0","","","0"
-"1742823268-333","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Hofer","CAN","0","0","0","","","0"
-"1742823268-334","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Howe","CAN","0","0","0","","","0"
-"1742823268-335","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","Marshall","CAN","0","0","0","","","0"
-"1742823268-336","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-blockers/","17","M. Elser","CAN","0","0","0","","","0"
+Rank,Player Name,Team,Blocks,Errors,Rebounds,Average Per Match,Efficiency,Total
+1,Loser Bruno,ARG,17,30,2,3.4,-26.53,49
+2,Lucas,BRA,16,30,4,2.29,-28.0,50
+2,Flavio,BRA,16,28,4,2.29,-25.0,48
+2,Bieniek,POL,16,31,13,2.29,-25.0,60
+3,Kozamernik,SLO,15,29,8,2.14,-26.92,52
+4,Čebulj,SLO,13,11,5,1.86,6.9,29
+4,Drozd,UKR,13,41,8,2.6,-45.16,62
+5,Galassi,ITA,12,17,9,1.71,-13.16,38
+5,Anzani,ITA,12,20,9,1.71,-19.51,41
+6,Simón,CUB,11,17,6,2.75,-17.65,34
+6,Onodera,JPN,11,16,4,2.75,-16.13,31
+6,Pajenk,SLO,11,19,8,1.57,-21.05,38
+7,Chinenyeze,FRA,10,16,13,2.0,-15.38,39
+7,Krick,GER,10,10,3,2.5,0.0,23
+7,Semeniuk,UKR,10,17,13,2.0,-17.5,40
+7,Lavia,ITA,10,24,3,1.43,-37.84,37
+7,Russo,ITA,10,11,4,1.43,-4.0,25
+8,Wallace,BRA,9,12,3,1.29,-12.5,24
+8,Osoria,CUB,9,12,5,2.25,-11.54,26
+8,Le Goff,FRA,9,16,6,1.8,-22.58,31
+8,Smith,USA,9,29,7,1.8,-44.44,45
+8,Rodriguez,MEX,9,30,8,3.0,-44.68,47
+8,Kochanowski,POL,9,36,10,1.29,-49.09,55
+8,T. Štern,SLO,9,10,4,1.29,-4.35,23
+8,Parkinson,NED,9,12,2,2.25,-13.04,23
+8,A. Seoudy,EGY,9,9,0,3.0,0.0,18
+8,Agrebi O,TUN,9,20,7,2.25,-30.56,36
+8,Plotnytskyi,UKR,9,7,9,1.8,8.0,25
+8,Podraščanin,ITA,9,23,7,2.25,-35.9,39
+8,Romanò,ITA,9,15,2,1.29,-23.08,26
+9,Leal,BRA,8,14,5,1.14,-22.22,27
+9,Grozdanov,BUL,8,18,10,2.67,-27.78,36
+9,Giannelli,ITA,8,8,8,1.14,0.0,24
+10,Nishida,JPN,7,10,1,1.75,-16.67,18
+10,Russell,USA,7,13,3,1.4,-26.09,23
+10,Kurek,POL,7,12,2,1.0,-23.81,21
+10,Nimir,NED,7,6,2,1.75,6.67,15
+10,Toukhteh,IRI,7,11,5,1.75,-17.39,23
+10,Kovalov,UKR,7,7,3,1.4,0.0,17
+11,Yamauchi,JPN,6,11,6,1.5,-21.74,23
+11,Christenson,USA,6,15,3,1.2,-37.5,24
+11,Güneş,TUR,6,9,2,1.5,-17.65,17
+11,Dola,EGY,6,12,3,2.0,-28.57,21
+11,De Cecco,ARG,6,9,1,1.2,-18.75,16
+11,Vicentin,ARG,6,4,0,1.2,20.0,10
+11,Ramos,ARG,6,16,0,1.2,-45.45,22
+11,Milad,IRI,6,6,4,1.5,0.0,16
+11,Michieletto,ITA,6,16,6,0.86,-35.71,28
+12,Lucarelli,BRA,5,11,0,0.71,-37.5,16
+12,Belal,QAT,5,11,3,1.67,-31.58,19
+12,Ibrahim,QAT,5,7,4,1.67,-12.5,16
+12,Kłos,POL,5,2,2,0.71,33.33,9
+12,Śliwka,POL,5,12,2,0.71,-36.84,19
+12,Semeniuk,POL,5,16,8,0.71,-37.93,29
+12,Fornal,POL,5,11,1,0.71,-35.29,17
+12,A. Lagumdzija,TUR,5,5,0,1.25,0.0,10
+12,Keemink,NED,5,4,2,1.25,9.09,11
+12,Plak,NED,5,14,4,1.25,-39.13,23
+12,Mojarad,IRI,5,17,1,1.25,-52.17,23
+12,Karamosli E,TUN,5,15,1,1.25,-47.62,21
+12,Jovović,SRB,5,8,8,1.25,-14.29,21
+12,Van Berkel,CAN,5,6,4,1.67,-6.67,15
+13,Lopez,CUB,4,6,2,1.0,-16.67,12
+13,Boyer,FRA,4,4,2,0.8,0.0,10
+13,Defalco,USA,4,11,5,0.8,-35.0,20
+13,Vinčić,SLO,4,8,2,0.57,-28.57,14
+13,Peng S.K.,CHN,4,10,1,1.33,-40.0,15
+13,Issa,EGY,4,10,0,1.33,-42.86,14
+13,Lima B.,ARG,4,18,1,0.8,-60.87,23
+13,Zerba,ARG,4,5,1,0.8,-10.0,10
+13,Kadhi A,TUN,4,17,3,1.0,-54.17,24
+13,Tupchii,UKR,4,18,8,0.8,-46.67,30
+13,Lisinac,SRB,4,17,5,1.0,-50.0,26
+14,Bruno,BRA,3,2,1,0.43,16.67,6
+14,Taboada,CUB,3,3,2,0.75,0.0,8
+14,Patry,FRA,3,5,2,0.6,-20.0,10
+14,Ngapeth,FRA,3,17,3,0.6,-60.87,23
+14,Brizard,FRA,3,7,5,0.6,-26.67,15
+14,Clevenot,FRA,3,7,0,0.6,-40.0,10
+14,Maase,GER,3,6,2,0.75,-27.27,11
+14,Jendryk,USA,3,29,9,0.6,-63.41,41
+14,Gonzalez,MEX,3,14,4,1.0,-52.38,21
+14,Gotsev,BUL,3,19,8,1.0,-53.33,30
+14,Sokolov,BUL,3,9,3,1.0,-40.0,15
+14,Ahmed,CMR,3,1,0,1.0,50.0,4
+14,Kofane,CMR,3,0,0,1.0,100.0,3
+14,Voukeng,CMR,3,4,1,1.0,-12.5,8
+14,Güngör,TUR,3,3,1,0.75,0.0,7
+14,Bedirhan,TUR,3,8,4,0.75,-33.33,15
+14,Ter Horst,NED,3,6,0,0.75,-33.33,9
+14,Facu,ARG,3,10,0,0.6,-53.85,13
+14,Palacios,ARG,3,3,0,0.6,0.0,6
+14,Esfandiar,IRI,3,3,0,0.75,0.0,6
+14,Amin,IRI,3,15,0,0.75,-66.67,18
+14,Ben Slimene K,TUN,3,9,1,0.75,-46.15,13
+14,B.Othmen M.,TUN,3,10,2,0.75,-46.67,15
+14,Nieves,PUR,3,19,14,1.0,-44.44,36
+14,Ivović,SRB,3,10,1,0.75,-50.0,14
+14,Petkovic,SRB,3,6,3,0.75,-25.0,12
+15,Adriano,BRA,2,3,0,0.29,-20.0,5
+15,Fernando,BRA,2,2,3,0.29,0.0,7
+15,Herrera,CUB,2,9,4,0.5,-46.67,15
+15,Goide,CUB,2,1,3,0.5,16.67,6
+15,Ran,JPN,2,9,5,0.5,-43.75,16
+15,Ishikawa,JPN,2,5,5,0.5,-25.0,12
+15,Y.Oughlaf,QAT,2,1,1,0.67,25.0,4
+15,Milos,QAT,2,4,0,0.67,-33.33,6
+15,Nikola,QAT,2,0,0,0.67,100.0,2
+15,Jouffroy,FRA,2,5,0,0.4,-42.86,7
+15,Anderson,USA,2,14,4,0.4,-60.0,20
+15,Kolev,BUL,2,2,0,0.67,0.0,4
+15,Seganov,BUL,2,13,3,0.67,-61.11,18
+15,Ropret,SLO,2,2,1,0.29,0.0,5
+15,Urnaut,SLO,2,13,4,0.29,-57.89,19
+15,Možič,SLO,2,2,3,0.29,0.0,7
+15,Badawe,CMR,2,3,0,0.67,-20.0,5
+15,Kody,CMR,2,2,1,0.67,0.0,5
+15,Subaşı,TUR,2,6,0,0.5,-50.0,8
+15,M. Lagumdzija,TUR,2,1,1,0.5,25.0,4
+15,Ekşi,TUR,2,6,2,0.5,-40.0,10
+15,Doğukan U.,TUR,2,0,0,0.5,100.0,2
+15,Zhang Z.J.,CHN,2,4,2,0.67,-25.0,8
+15,Tuinstra,NED,2,4,1,0.5,-28.57,7
+15,Hossam,EGY,2,4,1,0.67,-28.57,7
+15,J.Manavi,IRI,2,1,0,0.5,33.33,3
+15,Bouguerra.A,TUN,2,5,0,0.5,-42.86,7
+15,Molina,PUR,2,2,2,0.67,0.0,6
+15,Rodriguez,PUR,2,26,2,0.67,-80.0,30
+15,Kovačević,SRB,2,9,5,0.5,-43.75,16
+15,Atanasijević,SRB,2,6,4,0.5,-33.33,12
+15,Maar,CAN,2,3,0,0.67,-20.0,5
+16,Rodriguinho,BRA,1,5,1,0.14,-57.14,7
+16,Leandro,BRA,1,0,1,0.14,50.0,2
+16,Roque,BRA,1,1,0,0.14,0.0,2
+16,Sánchez B.,CUB,1,0,0,0.25,100.0,1
+16,Renan,QAT,1,3,2,0.33,-33.33,6
+16,Tillie,FRA,1,3,1,0.2,-40.0,5
+16,Fromm,GER,1,0,1,0.25,50.0,2
+16,Karlitzek,GER,1,2,4,0.25,-14.29,7
+16,Weber,GER,1,2,1,0.25,-25.0,4
+16,Averill,USA,1,4,1,0.2,-50.0,6
+16,Lopez,MEX,1,16,5,0.33,-68.18,22
+16,Fuentes,MEX,1,4,1,0.33,-50.0,6
+16,Aranda,MEX,1,6,4,0.33,-45.45,11
+16,Kaczmarek,POL,1,8,3,0.14,-58.33,12
+16,Janusz,POL,1,6,4,0.14,-45.45,11
+16,Poręba,POL,1,0,2,0.14,33.33,3
+16,Atanasov,BUL,1,4,1,0.33,-50.0,6
+16,Asparuhov,BUL,1,11,6,0.33,-55.56,18
+16,S.Ivanov,BUL,1,1,2,0.33,0.0,4
+16,A. Nikolov,BUL,1,6,2,0.33,-55.56,9
+16,Dolengombai,CMR,1,5,1,0.33,-57.14,7
+16,Bitouna,CMR,1,0,0,0.33,100.0,1
+16,Landry,CMR,1,3,1,0.33,-40.0,5
+16,Yu Y.T.,CHN,1,4,0,0.33,-60.0,5
+16,Li Y.Z.,CHN,1,2,1,0.33,-25.0,4
+16,Zhang G.H.,CHN,1,3,1,0.33,-40.0,5
+16,Zhang J.Y.,CHN,1,3,0,0.33,-50.0,4
+16,Jorna,NED,1,0,0,0.25,100.0,1
+16,Deyo,EGY,1,1,0,0.33,0.0,2
+16,Gallego,ARG,1,1,0,0.2,0.0,2
+16,Kukartsev,ARG,1,0,1,0.2,50.0,2
+16,Vadi,IRI,1,4,1,0.25,-50.0,6
+16,Nagga H.,TUN,1,9,4,0.25,-57.14,14
+16,Lawrence,PUR,1,7,7,0.33,-40.0,15
+16,Iglesias,PUR,1,8,6,0.33,-46.67,15
+16,Poluian,UKR,1,2,2,0.2,-20.0,5
+16,Shchytkov,UKR,1,9,3,0.2,-61.54,13
+16,Kisiliuk,UKR,1,3,0,0.2,-50.0,4
+16,Synytsia,UKR,1,5,2,0.2,-50.0,8
+16,Mašulović N.,SRB,1,3,1,0.25,-40.0,5
+16,Todorović,SRB,1,0,0,0.25,100.0,1
+16,Epp,CAN,1,2,0,0.33,-33.33,3
+16,Barnes,CAN,1,1,2,0.33,0.0,4
+16,Szwarc,CAN,1,11,1,0.33,-76.92,13
+17,Maique,BRA,0,0,0,,,0
+17,Thales,BRA,0,0,0,,,0
+17,Darlan,BRA,0,1,0,0.0,-100.0,1
+17,Mergarejo,CUB,0,4,1,0.0,-80.0,5
+17,Concepcion,CUB,0,0,0,,,0
+17,Garcia,CUB,0,0,0,,,0
+17,Gutierrez,CUB,0,0,0,,,0
+17,J. Gutierrez,CUB,0,0,0,,,0
+17,Yant,CUB,0,6,2,0.0,-75.0,8
+17,Gorguet,CUB,0,0,0,,,0
+17,Otsuka,JPN,0,1,0,0.0,-100.0,1
+17,Takanashi,JPN,0,1,0,0.0,-100.0,1
+17,Sekita,JPN,0,2,1,0.0,-66.67,3
+17,Oya,JPN,0,0,0,,,0
+17,Ogawa,JPN,0,0,0,,,0
+17,Miyaura,JPN,0,0,1,0.0,0.0,1
+17,Yamamoto,JPN,0,0,0,,,0
+17,Sato,JPN,0,0,0,,,0
+17,Murayama,JPN,0,0,0,,,0
+17,M. Essam,QAT,0,0,0,,,0
+17,Sulaiman,QAT,0,0,0,,,0
+17,Bojan,QAT,0,0,0,,,0
+17,Ababacar,QAT,0,0,0,,,0
+17,Mubarak,QAT,0,1,1,0.0,-50.0,2
+17,Abdullah,QAT,0,0,0,,,0
+17,A. Jamal,QAT,0,0,0,,,0
+17,Osman,QAT,0,0,0,,,0
+17,Grebennikov,FRA,0,0,0,,,0
+17,Toniutti,FRA,0,2,1,0.0,-66.67,3
+17,Henry,FRA,0,2,0,0.0,-100.0,2
+17,Louati,FRA,0,4,1,0.0,-80.0,5
+17,Diez,FRA,0,0,0,,,0
+17,Schott,GER,0,1,4,0.0,-20.0,5
+17,Reichert,GER,0,2,1,0.0,-66.67,3
+17,Sossenheimer,GER,0,0,0,,,0
+17,Zenger,GER,0,0,0,,,0
+17,Kampa,GER,0,5,0,0.0,-100.0,5
+17,Zimmermann,GER,0,0,0,,,0
+17,Krage,GER,0,10,1,0.0,-90.91,11
+17,Brand,GER,0,2,0,0.0,-100.0,2
+17,Günthör,GER,0,0,0,,,0
+17,Ensing,USA,0,3,0,0.0,-100.0,3
+17,K. Russell,USA,0,0,0,,,0
+17,Tuaniga,USA,0,2,3,0.0,-40.0,5
+17,Muagututia,USA,0,3,1,0.0,-75.0,4
+17,Briggs,USA,0,0,0,,,0
+17,E. Shoji,USA,0,0,0,,,0
+17,Kessel,USA,0,0,0,,,0
+17,Mendoza,MEX,0,0,0,,,0
+17,Bravo,MEX,0,0,0,,,0
+17,Ferran,MEX,0,0,0,,,0
+17,Mendoza,MEX,0,0,0,,,0
+17,Martinez,MEX,0,22,7,0.0,-75.86,29
+17,Chavez,MEX,0,1,0,0.0,-100.0,1
+17,Sanay,MEX,0,1,0,0.0,-100.0,1
+17,Baca,MEX,0,1,1,0.0,-50.0,2
+17,Lopez B.,MEX,0,0,0,,,0
+17,Popiwczak,POL,0,0,0,,,0
+17,Łomacz,POL,0,2,0,0.0,-100.0,2
+17,Zatorski,POL,0,0,0,,,0
+17,Kwolek,POL,0,4,0,0.0,-100.0,4
+17,Karyagin,BUL,0,0,0,,,0
+17,Chavdarov,BUL,0,0,0,,,0
+17,D. Dimitrov,BUL,0,1,0,0.0,-100.0,1
+17,Skrimov,BUL,0,0,0,,,0
+17,V. Ivanov,BUL,0,0,0,,,0
+17,Gasparini,SLO,0,0,0,,,0
+17,Štalekar,SLO,0,0,0,,,0
+17,Koncilja,SLO,0,0,0,,,0
+17,Klobucar,SLO,0,0,0,,,0
+17,Kovačič,SLO,0,0,0,,,0
+17,Z. Štern,SLO,0,0,0,,,0
+17,Amabaya,CMR,0,0,0,,,0
+17,Mandengo,CMR,0,0,0,,,0
+17,Hile,CMR,0,2,0,0.0,-100.0,2
+17,Deffo,CMR,0,0,0,,,0
+17,Bassoko,CMR,0,0,0,,,0
+17,Djam,CMR,0,0,0,,,0
+17,Metin T.,TUR,0,0,0,,,0
+17,Bostan,TUR,0,0,0,,,0
+17,Bayraktar,TUR,0,0,0,,,0
+17,Tümer,TUR,0,0,0,,,0
+17,Gürbüz,TUR,0,0,0,,,0
+17,Döne,TUR,0,0,0,,,0
+17,Dai Q.Y.,CHN,0,1,0,0.0,-100.0,1
+17,Yang Y.M.,CHN,0,0,0,,,0
+17,Zhang B.L.,CHN,0,0,0,,,0
+17,Yu Y.C.,CHN,0,1,1,0.0,-50.0,2
+17,Yang T.Y.,CHN,0,0,0,,,0
+17,Liu M.,CHN,0,1,0,0.0,-100.0,1
+17,Miao R.T.,CHN,0,0,0,,,0
+17,Wang B.,CHN,0,0,0,,,0
+17,Van Garderen,NED,0,0,0,,,0
+17,Van Der Ent,NED,0,0,0,,,0
+17,Bleeker,NED,0,0,0,,,0
+17,Ter Maat,NED,0,1,0,0.0,-100.0,1
+17,Andringa,NED,0,0,0,,,0
+17,De Weijer,NED,0,0,0,,,0
+17,Wiltenburg,NED,0,0,0,,,0
+17,A. Fathy,EGY,0,0,0,,,0
+17,M. Reda,EGY,0,0,0,,,0
+17,Elhossiny,EGY,0,2,0,0.0,-100.0,2
+17,M. Ramadan,EGY,0,0,0,,,0
+17,M.Elmahdy,EGY,0,0,0,,,0
+17,A. Kotb,EGY,0,0,1,0.0,0.0,1
+17,R.Haikal,EGY,0,5,0,0.0,-100.0,5
+17,A.Said,EGY,0,7,0,0.0,-100.0,7
+17,M. Magdy,EGY,0,1,0,0.0,-100.0,1
+17,Sanchez Pages,ARG,0,1,0,0.0,-100.0,1
+17,Martinez Franchi,ARG,0,1,0,0.0,-100.0,1
+17,Danani,ARG,0,0,0,,,0
+17,Palonsky,ARG,0,1,0,0.0,-100.0,1
+17,Jelveh,IRI,0,0,0,,,0
+17,Shahrooz,IRI,0,0,0,,,0
+17,Hazrat,IRI,0,0,0,,,0
+17,M. R. Moazzen,IRI,0,0,0,,,0
+17,Kazemi,IRI,0,3,0,0.0,-100.0,3
+17,Javad,IRI,0,1,0,0.0,-100.0,1
+17,Morteza,IRI,0,1,1,0.0,-50.0,2
+17,Abdelhedi Y,TUN,0,0,0,,,0
+17,Bennour R.,TUN,0,0,0,,,0
+17,Mbareki S.,TUN,0,0,0,,,0
+17,Ben Taher.M,TUN,0,1,0,0.0,-100.0,1
+17,Bongui.A,TUN,0,0,0,,,0
+17,Hmissi S,TUN,0,0,0,,,0
+17,Korbosli T,TUN,0,0,0,,,0
+17,Hoyos,PUR,0,0,0,,,0
+17,Del Valle,PUR,0,0,0,,,0
+17,Torres,PUR,0,0,0,,,0
+17,Lopez,PUR,0,5,0,0.0,-100.0,5
+17,Cabrera,PUR,0,0,0,,,0
+17,Nido,PUR,0,1,0,0.0,-100.0,1
+17,Vargas,PUR,0,9,3,0.0,-75.0,12
+17,Alomar,PUR,0,0,1,0.0,0.0,1
+17,Elias,PUR,0,0,1,0.0,0.0,1
+17,Shevchenko,UKR,0,0,0,,,0
+17,Brova,UKR,0,0,0,,,0
+17,Ostapenko,UKR,0,0,0,,,0
+17,Fomin,UKR,0,0,0,,,0
+17,Kanaiev,UKR,0,0,0,,,0
+17,Petric,SRB,0,2,2,0.0,-50.0,4
+17,Katic,SRB,0,0,0,,,0
+17,Pekovic,SRB,0,0,0,,,0
+17,Krsmanović,SRB,0,0,0,,,0
+17,Perić,SRB,0,0,0,,,0
+17,Pinali,ITA,0,0,0,,,0
+17,Recine,ITA,0,0,0,,,0
+17,Balaso,ITA,0,0,0,,,0
+17,Sbertoli,ITA,0,0,0,,,0
+17,Bottolo,ITA,0,0,0,,,0
+17,Scanferla,ITA,0,0,0,,,0
+17,Mosca,ITA,0,0,0,,,0
+17,Hoag,CAN,0,1,0,0.0,-100.0,1
+17,Loeppky,CAN,0,2,0,0.0,-100.0,2
+17,Walsh,CAN,0,1,0,0.0,-100.0,1
+17,Sclater,CAN,0,6,1,0.0,-85.71,7
+17,Eshenko,CAN,0,0,0,,,0
+17,Hofer,CAN,0,0,0,,,0
+17,Howe,CAN,0,0,0,,,0
+17,Marshall,CAN,0,0,0,,,0
+17,M. Elser,CAN,0,0,0,,,0

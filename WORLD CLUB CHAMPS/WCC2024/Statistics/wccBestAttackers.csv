@@ -1,110 +1,110 @@
-﻿web-scraper-order,web-scraper-start-url,Rank,Player Name,Team,Points,Errors,Attempts,Average Per Match,Success,Total
-"1742891140-1","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","1","Wallace","BRA","97","24","59","19.40","53.89","180"
-"1742891140-2","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","2","Hajipour","IRI","77","25","50","15.40","50.66","152"
-"1742891140-3","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","3","Abdolhamidi","IRI","58","24","45","11.60","45.67","127"
-"1742891140-4","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","4","A. Nikolov","BUL","56","14","44","11.20","49.12","114"
-"1742891140-5","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","5","A. Lagumdzija","TUR","54","15","45","10.80","47.37","114"
-"1742891140-6","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","6","Ponzio","ARG","48","15","25","16.00","54.55","88"
-"1742891140-7","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","7","Vaccari","BRA","45","15","33","9.00","48.39","93"
-"1742891140-8","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","8","Michieletto","ITA","44","12","32","8.80","50.00","88"
-"1742891140-9","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","9","Bottolo","ITA","43","14","38","8.60","45.26","95"
-"1742891140-10","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","9","Rodriguinho","BRA","43","9","31","8.60","51.81","83"
-"1742891140-11","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","10","Chinenyeze","FRA","41","2","29","8.20","56.94","72"
-"1742891140-12","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","11","A. Ghafour","IRI","40","11","32","13.33","48.19","83"
-"1742891140-13","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","12","Rychlicki","ITA","38","11","24","7.60","52.05","73"
-"1742891140-14","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","13","Usman","PAK","37","16","19","12.33","51.39","72"
-"1742891140-15","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","14","Seyed","IRI","35","5","11","7.00","68.63","51"
-"1742891140-16","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","14","Mohammad","IRI","35","6","25","7.00","53.03","66"
-"1742891140-17","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","15","Maicon","BRA","34","15","22","11.33","47.89","71"
-"1742891140-18","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","15","Lucas","BRA","34","3","20","6.80","59.65","57"
-"1742891140-19","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","16","Lavia","ITA","32","10","32","6.40","43.24","74"
-"1742891140-20","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","16","Elhossiny","EGY","32","15","24","10.67","45.07","71"
-"1742891140-21","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","16","Asran","EGY","32","12","26","10.67","45.71","70"
-"1742891140-22","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","17","Otávio","BRA","31","7","7","6.20","68.89","45"
-"1742891140-23","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","18","Garcia","USA","30","9","11","6.00","60.00","50"
-"1742891140-24","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","19","A. Salah","EGY","26","15","14","8.67","47.27","55"
-"1742891140-25","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","20","Flavio","BRA","24","3","7","4.80","70.59","34"
-"1742891140-26","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","20","A.Khalili","IRI","24","9","14","4.80","51.06","47"
-"1742891140-27","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","20","Franco","BRA","24","10","26","8.00","40.00","60"
-"1742891140-28","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","21","Pietro","BRA","23","2","6","7.67","74.19","31"
-"1742891140-29","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","22","Masoud","IRI","22","3","4","7.33","75.86","29"
-"1742891140-30","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","23","Magalini","ITA","21","5","8","4.20","61.76","34"
-"1742891140-31","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","23","Dirlic P.","CRO","21","8","16","4.20","46.67","45"
-"1742891140-32","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","24","Pellacani","ITA","20","4","9","4.00","60.61","33"
-"1742891140-33","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","25","Gargiulo","ITA","19","2","5","3.80","73.08","26"
-"1742891140-34","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","25","Zelayeta","ARG","19","6","14","6.33","48.72","39"
-"1742891140-35","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","26","Gomez","ARG","18","7","12","6.00","48.65","37"
-"1742891140-36","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","27","Halim","EGY","17","2","4","5.67","73.91","23"
-"1742891140-37","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","27","Douglas","BRA","17","7","14","3.40","44.74","38"
-"1742891140-38","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","28","Lucas Loh","BRA","16","7","19","5.33","38.10","42"
-"1742891140-39","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","28","Facu","ARG","16","5","16","5.33","43.24","37"
-"1742891140-40","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","29","Esi","IRI","15","10","14","3.00","38.46","39"
-"1742891140-41","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","29","Maciel","ARG","15","1","11","5.00","55.56","27"
-"1742891140-42","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","30","Concepcion","CUB","14","6","6","4.67","53.85","26"
-"1742891140-43","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","30","Hamada","EGY","14","1","13","4.67","50.00","28"
-"1742891140-44","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","31","Eliezer","BRA","11","1","3","3.67","73.33","15"
-"1742891140-45","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","32","Loeppky","CAN","10","8","14","2.00","31.25","32"
-"1742891140-46","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","32","Rafa","BRA","10","7","9","3.33","38.46","26"
-"1742891140-47","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","33","Salim","IRI","9","5","13","3.00","33.33","27"
-"1742891140-48","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","33","Podraščanin","ITA","9","4","6","1.80","47.37","19"
-"1742891140-49","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","34","Bristot","ITA","8","3","8","1.60","42.11","19"
-"1742891140-50","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","34","A. Ramezani","IRI","8","1","3","1.60","66.67","12"
-"1742891140-51","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","34","Z. Osama","EGY","8","4","4","2.67","50.00","16"
-"1742891140-52","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","35","Bartha","ROU","7","2","1","1.40","70.00","10"
-"1742891140-53","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","35","Boninfante","ITA","7","2","3","1.40","58.33","12"
-"1742891140-54","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","35","Poriya","IRI","7","4","10","1.40","33.33","21"
-"1742891140-55","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","36","Shayan","IRI","6","1","4","2.00","54.55","11"
-"1742891140-56","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","36","Hossam","EGY","6","2","1","2.00","66.67","9"
-"1742891140-57","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","37","Diaz","ARG","4","4","5","1.33","30.77","13"
-"1742891140-58","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","38","Younes","IRI","3","1","3","1.00","42.86","7"
-"1742891140-59","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","38","Matheus G.","BRA","3","0","4","0.60","42.86","7"
-"1742891140-60","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","38","Garcia","ARG","3","1","7","1.00","27.27","11"
-"1742891140-61","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","38","Soria R.","ARG","3","5","4","1.00","25.00","12"
-"1742891140-62","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","38","Soria S.","ARG","3","0","4","1.00","42.86","7"
-"1742891140-63","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","39","Mohsen","IRI","2","1","1","0.67","50.00","4"
-"1742891140-64","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","39","Karami","IRI","2","4","0","0.40","33.33","6"
-"1742891140-65","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","39","Rech","BRA","2","0","2","0.67","50.00","4"
-"1742891140-66","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","39","Temponi","BRA","2","3","4","0.67","22.22","9"
-"1742891140-67","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","39","Eslam","EGY","2","2","2","0.67","33.33","6"
-"1742891140-68","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","39","Seif Abed","EGY","2","2","2","0.67","33.33","6"
-"1742891140-69","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","39","Oppenkoski","BRA","2","1","0","0.40","66.67","3"
-"1742891140-70","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","40","Acquarone","ITA","1","0","1","0.20","50.00","2"
-"1742891140-71","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","40","Ilshan","IRI","1","0","0","0.33","100.00","1"
-"1742891140-72","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","40","Davi Tenorio","ESP","1","0","0","0.20","100.00","1"
-"1742891140-73","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","40","B. Alves","BRA","1","0","1","0.33","50.00","2"
-"1742891140-74","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","40","Abdalla","EGY","1","0","0","0.33","100.00","1"
-"1742891140-75","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","40","Steeman","ARG","1","0","0","0.33","100.00","1"
-"1742891140-76","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","41","Pesaresi","ITA","0","0","0","","","0"
-"1742891140-77","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","41","Sbertoli","ITA","0","0","0","","","0"
-"1742891140-78","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","41","Laurenzano","ITA","0","0","0","","","0"
-"1742891140-79","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","41","Ali Asghar","IRI","0","0","0","","","0"
-"1742891140-80","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","41","Mehdi","IRI","0","0","0","","","0"
-"1742891140-81","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","41","Ahmadreza","IRI","0","1","0","0.00","0.00","1"
-"1742891140-82","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","41","Seyed","IRI","0","0","0","","","0"
-"1742891140-83","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","41","M. R. Moazzen","IRI","0","0","0","","","0"
-"1742891140-84","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","41","Ashkan","IRI","0","0","0","","","0"
-"1742891140-85","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","41","Ahmadreza","IRI","0","0","0","","","0"
-"1742891140-86","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","41","Marandi","IRI","0","0","0","","","0"
-"1742891140-87","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","41","Armin","IRI","0","0","0","","","0"
-"1742891140-88","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","41","Orduna","ITA","0","0","0","","","0"
-"1742891140-89","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","41","Bisotto","ITA","0","0","0","","","0"
-"1742891140-90","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","41","Balaso","ITA","0","0","0","","","0"
-"1742891140-91","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","41","Arthur","BRA","0","0","0","","","0"
-"1742891140-92","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","41","Wallaf","BRA","0","0","0","","","0"
-"1742891140-93","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","41","Gustavo","BRA","0","0","3","0.00","0.00","3"
-"1742891140-94","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","41","Aladdin","BRA","0","3","0","0.00","0.00","3"
-"1742891140-95","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","41","Pedro","BRA","0","0","0","","","0"
-"1742891140-96","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","41","M. Ramadan","EGY","0","0","0","","","0"
-"1742891140-97","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","41","Garcia","CUB","0","0","0","","","0"
-"1742891140-98","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","41","Khaled. A","EGY","0","3","1","0.00","0.00","4"
-"1742891140-99","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","41","A. Seoudy","EGY","0","0","2","0.00","0.00","2"
-"1742891140-100","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","41","Felipe","BRA","0","0","0","","","0"
-"1742891140-101","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","41","Velasco","COL","0","0","0","","","0"
-"1742891140-102","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","41","Lukinhas","BRA","0","0","0","","","0"
-"1742891140-103","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","41","Rodrigo","BRA","0","0","0","","","0"
-"1742891140-104","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","41","Alexandre","BRA","0","0","0","","","0"
-"1742891140-105","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","41","Martos","BRA","0","0","0","","","0"
-"1742891140-106","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","41","Albrecht","ARG","0","0","0","","","0"
-"1742891140-107","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","41","Zalcman","ARG","0","0","0","","","0"
-"1742891140-108","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","41","Gonzalez","ARG","0","0","2","0.00","0.00","2"
-"1742891140-109","https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/statistics/best-attackers/","41","Nicolas","ARG","0","0","0","","","0"
+Rank,Player Name,Team,Points,Errors,Attempts,Average Per Match,Success,Total
+1,Wallace,BRA,97,24,59,19.4,53.89,180
+2,Hajipour,IRI,77,25,50,15.4,50.66,152
+3,Abdolhamidi,IRI,58,24,45,11.6,45.67,127
+4,A. Nikolov,BUL,56,14,44,11.2,49.12,114
+5,A. Lagumdzija,TUR,54,15,45,10.8,47.37,114
+6,Ponzio,ARG,48,15,25,16.0,54.55,88
+7,Vaccari,BRA,45,15,33,9.0,48.39,93
+8,Michieletto,ITA,44,12,32,8.8,50.0,88
+9,Bottolo,ITA,43,14,38,8.6,45.26,95
+9,Rodriguinho,BRA,43,9,31,8.6,51.81,83
+10,Chinenyeze,FRA,41,2,29,8.2,56.94,72
+11,A. Ghafour,IRI,40,11,32,13.33,48.19,83
+12,Rychlicki,ITA,38,11,24,7.6,52.05,73
+13,Usman,PAK,37,16,19,12.33,51.39,72
+14,Seyed,IRI,35,5,11,7.0,68.63,51
+14,Mohammad,IRI,35,6,25,7.0,53.03,66
+15,Maicon,BRA,34,15,22,11.33,47.89,71
+15,Lucas,BRA,34,3,20,6.8,59.65,57
+16,Lavia,ITA,32,10,32,6.4,43.24,74
+16,Elhossiny,EGY,32,15,24,10.67,45.07,71
+16,Asran,EGY,32,12,26,10.67,45.71,70
+17,Otávio,BRA,31,7,7,6.2,68.89,45
+18,Garcia,USA,30,9,11,6.0,60.0,50
+19,A. Salah,EGY,26,15,14,8.67,47.27,55
+20,Flavio,BRA,24,3,7,4.8,70.59,34
+20,A.Khalili,IRI,24,9,14,4.8,51.06,47
+20,Franco,BRA,24,10,26,8.0,40.0,60
+21,Pietro,BRA,23,2,6,7.67,74.19,31
+22,Masoud,IRI,22,3,4,7.33,75.86,29
+23,Magalini,ITA,21,5,8,4.2,61.76,34
+23,Dirlic P.,CRO,21,8,16,4.2,46.67,45
+24,Pellacani,ITA,20,4,9,4.0,60.61,33
+25,Gargiulo,ITA,19,2,5,3.8,73.08,26
+25,Zelayeta,ARG,19,6,14,6.33,48.72,39
+26,Gomez,ARG,18,7,12,6.0,48.65,37
+27,Halim,EGY,17,2,4,5.67,73.91,23
+27,Douglas,BRA,17,7,14,3.4,44.74,38
+28,Lucas Loh,BRA,16,7,19,5.33,38.1,42
+28,Facu,ARG,16,5,16,5.33,43.24,37
+29,Esi,IRI,15,10,14,3.0,38.46,39
+29,Maciel,ARG,15,1,11,5.0,55.56,27
+30,Concepcion,CUB,14,6,6,4.67,53.85,26
+30,Hamada,EGY,14,1,13,4.67,50.0,28
+31,Eliezer,BRA,11,1,3,3.67,73.33,15
+32,Loeppky,CAN,10,8,14,2.0,31.25,32
+32,Rafa,BRA,10,7,9,3.33,38.46,26
+33,Salim,IRI,9,5,13,3.0,33.33,27
+33,Podraščanin,ITA,9,4,6,1.8,47.37,19
+34,Bristot,ITA,8,3,8,1.6,42.11,19
+34,A. Ramezani,IRI,8,1,3,1.6,66.67,12
+34,Z. Osama,EGY,8,4,4,2.67,50.0,16
+35,Bartha,ROU,7,2,1,1.4,70.0,10
+35,Boninfante,ITA,7,2,3,1.4,58.33,12
+35,Poriya,IRI,7,4,10,1.4,33.33,21
+36,Shayan,IRI,6,1,4,2.0,54.55,11
+36,Hossam,EGY,6,2,1,2.0,66.67,9
+37,Diaz,ARG,4,4,5,1.33,30.77,13
+38,Younes,IRI,3,1,3,1.0,42.86,7
+38,Matheus G.,BRA,3,0,4,0.6,42.86,7
+38,Garcia,ARG,3,1,7,1.0,27.27,11
+38,Soria R.,ARG,3,5,4,1.0,25.0,12
+38,Soria S.,ARG,3,0,4,1.0,42.86,7
+39,Mohsen,IRI,2,1,1,0.67,50.0,4
+39,Karami,IRI,2,4,0,0.4,33.33,6
+39,Rech,BRA,2,0,2,0.67,50.0,4
+39,Temponi,BRA,2,3,4,0.67,22.22,9
+39,Eslam,EGY,2,2,2,0.67,33.33,6
+39,Seif Abed,EGY,2,2,2,0.67,33.33,6
+39,Oppenkoski,BRA,2,1,0,0.4,66.67,3
+40,Acquarone,ITA,1,0,1,0.2,50.0,2
+40,Ilshan,IRI,1,0,0,0.33,100.0,1
+40,Davi Tenorio,ESP,1,0,0,0.2,100.0,1
+40,B. Alves,BRA,1,0,1,0.33,50.0,2
+40,Abdalla,EGY,1,0,0,0.33,100.0,1
+40,Steeman,ARG,1,0,0,0.33,100.0,1
+41,Pesaresi,ITA,0,0,0,,,0
+41,Sbertoli,ITA,0,0,0,,,0
+41,Laurenzano,ITA,0,0,0,,,0
+41,Ali Asghar,IRI,0,0,0,,,0
+41,Mehdi,IRI,0,0,0,,,0
+41,Ahmadreza,IRI,0,1,0,0.0,0.0,1
+41,Seyed,IRI,0,0,0,,,0
+41,M. R. Moazzen,IRI,0,0,0,,,0
+41,Ashkan,IRI,0,0,0,,,0
+41,Ahmadreza,IRI,0,0,0,,,0
+41,Marandi,IRI,0,0,0,,,0
+41,Armin,IRI,0,0,0,,,0
+41,Orduna,ITA,0,0,0,,,0
+41,Bisotto,ITA,0,0,0,,,0
+41,Balaso,ITA,0,0,0,,,0
+41,Arthur,BRA,0,0,0,,,0
+41,Wallaf,BRA,0,0,0,,,0
+41,Gustavo,BRA,0,0,3,0.0,0.0,3
+41,Aladdin,BRA,0,3,0,0.0,0.0,3
+41,Pedro,BRA,0,0,0,,,0
+41,M. Ramadan,EGY,0,0,0,,,0
+41,Garcia,CUB,0,0,0,,,0
+41,Khaled. A,EGY,0,3,1,0.0,0.0,4
+41,A. Seoudy,EGY,0,0,2,0.0,0.0,2
+41,Felipe,BRA,0,0,0,,,0
+41,Velasco,COL,0,0,0,,,0
+41,Lukinhas,BRA,0,0,0,,,0
+41,Rodrigo,BRA,0,0,0,,,0
+41,Alexandre,BRA,0,0,0,,,0
+41,Martos,BRA,0,0,0,,,0
+41,Albrecht,ARG,0,0,0,,,0
+41,Zalcman,ARG,0,0,0,,,0
+41,Gonzalez,ARG,0,0,2,0.0,0.0,2
+41,Nicolas,ARG,0,0,0,,,0

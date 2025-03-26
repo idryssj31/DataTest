@@ -1,298 +1,298 @@
-﻿web-scraper-order,web-scraper-start-url,Rank,Player Name,Team,Blocks,Errors,Rebounds,Average Per Match,Efficiency,Total
-"1741279110-1","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","1","Loser Bruno","ARG","53","62","48","4.08","-5.52","163"
-"1741279110-2","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","2","Seyed","IRI","35","55","38","2.92","-15.62","128"
-"1741279110-3","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","3","Concepcion","CUB","29","61","49","2.42","-23.02","139"
-"1741279110-4","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","3","Krsmanović","SRB","29","41","28","2.42","-12.24","98"
-"1741279110-5","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","3","Nedeljković","SRB","29","43","56","2.42","-10.94","128"
-"1741279110-6","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","4","Plak","NED","25","55","37","2.08","-25.64","117"
-"1741279110-7","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","5","Kozamernik","SLO","24","45","65","1.85","-15.67","134"
-"1741279110-8","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","5","Russo","ITA","24","42","48","2.18","-15.79","114"
-"1741279110-9","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","6","Grozdanov","BUL","23","35","38","1.92","-12.50","96"
-"1741279110-10","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","7","Zhang J.Y.","CHN","22","24","23","1.83","-2.90","69"
-"1741279110-11","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","7","Smith","USA","22","33","37","1.47","-11.96","92"
-"1741279110-12","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","7","Flavio","BRA","22","42","46","1.69","-18.18","110"
-"1741279110-13","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","7","Galassi","ITA","22","43","43","2.00","-19.44","108"
-"1741279110-14","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","8","Mohammad","IRI","21","35","39","1.75","-14.74","95"
-"1741279110-15","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","9","Wiltenburg","NED","20","30","35","1.67","-11.76","85"
-"1741279110-16","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","9","Lavia","ITA","20","31","32","1.82","-13.25","83"
-"1741279110-17","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","9","Kochanowski","POL","20","41","40","1.82","-20.79","101"
-"1741279110-18","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","10","Li Y.Z.","CHN","18","35","40","1.50","-18.28","93"
-"1741279110-19","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","10","Onodera","JPN","18","53","41","1.20","-31.25","112"
-"1741279110-20","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","10","Pajenk","SLO","18","41","55","1.38","-20.18","114"
-"1741279110-21","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","10","Čebulj","SLO","18","31","22","1.38","-18.31","71"
-"1741279110-22","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","11","Ishikawa","JPN","17","49","42","1.13","-29.63","108"
-"1741279110-23","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","11","Michieletto","ITA","17","17","21","1.55","0.00","55"
-"1741279110-24","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","11","Huber","POL","17","27","25","1.55","-14.49","69"
-"1741279110-25","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","12","Romanò","ITA","16","49","53","1.07","-27.97","118"
-"1741279110-26","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","12","Demyanenko","CAN","16","41","42","1.33","-25.25","99"
-"1741279110-27","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","12","Kłos","POL","16","27","18","2.00","-18.03","61"
-"1741279110-28","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","13","Peng S.K.","CHN","15","34","30","1.25","-24.05","79"
-"1741279110-29","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","13","Vicentin","ARG","15","30","32","1.15","-19.48","77"
-"1741279110-30","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","13","Maar","CAN","15","35","23","1.25","-27.40","73"
-"1741279110-31","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","13","Christenson","USA","15","25","29","1.00","-14.49","69"
-"1741279110-32","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","13","Van Garderen","NED","15","18","10","1.25","-6.98","43"
-"1741279110-33","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","13","Honorato","BRA","15","33","16","1.15","-28.12","64"
-"1741279110-34","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","13","Chinenyeze","FRA","15","34","25","1.67","-25.68","74"
-"1741279110-35","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","14","Taboada","CUB","14","24","23","1.17","-16.39","61"
-"1741279110-36","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","14","Možič","SLO","14","36","17","1.08","-32.84","67"
-"1741279110-37","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","14","Giannelli","ITA","14","29","37","1.27","-18.75","80"
-"1741279110-38","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","14","Leon","POL","14","19","17","1.27","-10.00","50"
-"1741279110-39","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","15","Atanasov","BUL","13","26","14","1.08","-24.53","53"
-"1741279110-40","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","15","Palonsky","ARG","13","34","22","1.00","-30.43","69"
-"1741279110-41","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","15","Defalco","USA","13","35","36","0.87","-26.19","84"
-"1741279110-42","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","15","Otávio","BRA","13","29","38","1.00","-20.00","80"
-"1741279110-43","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","15","Brehme","GER","13","50","40","1.08","-35.92","103"
-"1741279110-44","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","15","Krick","GER","13","28","23","1.08","-23.44","64"
-"1741279110-45","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","16","Yamauchi","JPN","12","37","29","0.80","-32.05","78"
-"1741279110-46","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","16","Hajipour","IRI","12","8","13","1.09","12.12","33"
-"1741279110-47","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","16","Faure","FRA","12","10","12","3.00","5.88","34"
-"1741279110-48","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","16","Holt","USA","12","39","47","0.80","-27.55","98"
-"1741279110-49","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","16","Lucarelli","BRA","12","36","25","0.92","-32.88","73"
-"1741279110-50","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","16","Parkinson","NED","12","15","4","3.00","-9.68","31"
-"1741279110-51","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","17","Sclater","CAN","11","18","16","0.92","-15.56","45"
-"1741279110-52","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","17","Herrera","CUB","11","28","23","0.92","-27.42","62"
-"1741279110-53","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","17","Pedroso","CUB","11","18","10","0.92","-17.95","39"
-"1741279110-54","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","17","Yant","CUB","11","20","18","0.92","-18.37","49"
-"1741279110-55","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","17","Kujundžić","SRB","11","26","17","0.92","-27.78","54"
-"1741279110-56","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","17","Jaeschke","USA","11","10","8","1.00","3.45","29"
-"1741279110-57","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","18","Ran","JPN","10","34","28","0.67","-33.33","72"
-"1741279110-58","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","18","Bultor","FRA","10","22","29","0.77","-19.67","61"
-"1741279110-59","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","18","Russell","USA","10","21","16","0.71","-23.40","47"
-"1741279110-60","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","18","Patry","FRA","10","9","9","1.11","3.57","28"
-"1741279110-61","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","18","Kaczmarek","POL","10","19","19","1.43","-18.75","48"
-"1741279110-62","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","19","Kolev","BUL","9","26","36","0.75","-23.94","71"
-"1741279110-63","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","19","Gotsev","BUL","9","13","10","0.75","-12.50","32"
-"1741279110-64","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","19","Esfandiar","IRI","9","12","9","0.75","-10.00","30"
-"1741279110-65","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","19","Zerba","ARG","9","31","46","0.69","-25.58","86"
-"1741279110-66","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","19","Van Berkel","CAN","9","39","38","0.75","-34.88","86"
-"1741279110-67","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","19","Masso","CUB","9","38","44","0.75","-31.87","91"
-"1741279110-68","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","19","Bieniek","POL","9","24","45","0.82","-19.23","78"
-"1741279110-69","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","19","Weber","GER","9","29","22","0.75","-33.33","60"
-"1741279110-70","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","19","Lucas","BRA","9","23","32","1.00","-21.88","64"
-"1741279110-71","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","20","Dimitrov","BUL","8","9","14","0.67","-3.23","31"
-"1741279110-72","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","20","Wang D.C.","CHN","8","16","12","0.67","-22.22","36"
-"1741279110-73","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","20","Wang H.B.","CHN","8","19","20","0.67","-23.40","47"
-"1741279110-74","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","20","Amin","IRI","8","17","22","1.00","-19.15","47"
-"1741279110-75","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","20","Ramos","ARG","8","13","11","0.62","-15.62","32"
-"1741279110-76","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","20","Herr","CAN","8","13","23","0.67","-11.36","44"
-"1741279110-77","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","20","Perić","SRB","8","4","11","0.67","17.39","23"
-"1741279110-78","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","20","Todorović","SRB","8","23","21","0.67","-28.85","52"
-"1741279110-79","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","20","Semeniuk","POL","8","7","11","0.73","3.85","26"
-"1741279110-80","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","20","Anderson","USA","8","29","37","0.53","-28.38","74"
-"1741279110-81","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","20","Keemink","NED","8","26","22","0.67","-32.14","56"
-"1741279110-82","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","20","Nimir","NED","8","20","17","0.67","-26.67","45"
-"1741279110-83","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","20","Alan","BRA","8","38","43","0.62","-33.71","89"
-"1741279110-84","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","20","Reichert","GER","8","20","17","0.67","-26.67","45"
-"1741279110-85","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","20","Krage","GER","8","26","16","0.67","-36.00","50"
-"1741279110-86","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","20","Le Goff","FRA","8","12","6","1.60","-15.38","26"
-"1741279110-87","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","21","Mosca","ITA","7","10","7","0.64","-12.50","24"
-"1741279110-88","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","21","Lima B.","ARG","7","29","25","0.54","-36.07","61"
-"1741279110-89","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","21","Szwarc","CAN","7","13","9","0.58","-20.69","29"
-"1741279110-90","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","21","Lopez","CUB","7","33","25","0.58","-40.00","65"
-"1741279110-91","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","21","Luburić","SRB","7","19","30","0.58","-21.43","56"
-"1741279110-92","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","21","Averill","USA","7","20","19","0.47","-28.26","46"
-"1741279110-93","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","21","Jorna","NED","7","26","13","0.58","-41.30","46"
-"1741279110-94","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","21","Tille","GER","7","13","16","0.58","-16.67","36"
-"1741279110-95","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","21","Clevenot","FRA","7","27","15","0.78","-40.82","49"
-"1741279110-96","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","22","Asparuhov","BUL","6","13","15","0.50","-20.59","34"
-"1741279110-97","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","22","Jiang C.","CHN","6","15","22","0.50","-20.93","43"
-"1741279110-98","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","22","Kentaro","JPN","6","26","14","0.40","-43.48","46"
-"1741279110-99","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","22","Gallego","ARG","6","11","14","0.46","-16.13","31"
-"1741279110-100","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","22","Kukartsev","ARG","6","12","11","0.46","-20.69","29"
-"1741279110-101","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","22","Eshenko","CAN","6","30","29","0.50","-36.92","65"
-"1741279110-102","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","22","Ropret","SLO","6","18","31","0.46","-21.82","55"
-"1741279110-103","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","22","Szalpuk","POL","6","6","14","0.75","0.00","26"
-"1741279110-104","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","22","Bruno","BRA","6","26","31","0.46","-31.75","63"
-"1741279110-105","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","22","Judson","BRA","6","22","22","0.46","-32.00","50"
-"1741279110-106","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","22","Böhme","GER","6","11","6","0.50","-21.74","23"
-"1741279110-107","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","22","Roque","BRA","6","5","6","0.67","5.88","17"
-"1741279110-108","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","22","Anzani","ITA","6","14","5","1.50","-32.00","25"
-"1741279110-109","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","22","Brizard","FRA","6","18","16","0.67","-30.00","40"
-"1741279110-110","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","22","Śliwka","POL","6","22","7","0.86","-45.71","35"
-"1741279110-111","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","23","Seganov","BUL","5","19","16","0.42","-35.00","40"
-"1741279110-112","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","23","Karyagin","BUL","5","10","8","0.42","-21.74","23"
-"1741279110-113","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","23","A. Nikolov","BUL","5","15","12","0.62","-31.25","32"
-"1741279110-114","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","23","Miyaura","JPN","5","21","14","0.33","-40.00","40"
-"1741279110-115","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","23","Javad","IRI","5","10","6","0.42","-23.81","21"
-"1741279110-116","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","23","De Cecco","ARG","5","20","16","0.56","-36.59","41"
-"1741279110-117","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","23","Jouffroy","FRA","5","11","16","0.38","-18.75","32"
-"1741279110-118","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","23","Ivović","SRB","5","13","15","0.62","-24.24","33"
-"1741279110-119","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","23","Bednorz","POL","5","11","7","0.45","-26.09","23"
-"1741279110-120","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","23","Louati","FRA","5","12","7","0.56","-29.17","24"
-"1741279110-121","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","24","Yu Y.T.","CHN","4","12","10","0.33","-30.77","26"
-"1741279110-122","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","24","Poriya","IRI","4","4","10","0.40","0.00","18"
-"1741279110-123","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","24","Morteza","IRI","4","22","13","0.36","-46.15","39"
-"1741279110-124","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","24","Sanguinetti","ITA","4","6","9","0.36","-10.53","19"
-"1741279110-125","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","24","Hoag","CAN","4","22","18","0.33","-40.91","44"
-"1741279110-126","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","24","Planinšič","SLO","4","7","7","0.31","-16.67","18"
-"1741279110-127","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","24","Z. Štern","SLO","4","15","9","0.31","-39.29","28"
-"1741279110-128","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","24","Urnaut","SLO","4","29","18","0.31","-49.02","51"
-"1741279110-129","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","24","Tillie","FRA","4","21","24","0.44","-34.69","49"
-"1741279110-130","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","24","Carle","FRA","4","9","11","0.31","-20.83","24"
-"1741279110-131","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","24","Jendryk","USA","4","15","17","0.27","-30.56","36"
-"1741279110-132","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","24","Ma'a","USA","4","5","7","0.36","-6.25","16"
-"1741279110-133","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","24","Schott","GER","4","3","8","0.33","6.67","15"
-"1741279110-134","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","24","Ter Maat","NED","4","5","5","0.50","-7.14","14"
-"1741279110-135","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","24","Kurek","POL","4","19","13","0.36","-41.67","36"
-"1741279110-136","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","24","Adamczyk","POL","4","4","2","1.00","0.00","10"
-"1741279110-137","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","25","Zhai D.J.","CHN","3","14","10","0.25","-40.74","27"
-"1741279110-138","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","25","Nishida","JPN","3","21","21","0.21","-40.00","45"
-"1741279110-139","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","25","Rinaldi","ITA","3","11","8","0.20","-36.36","22"
-"1741279110-140","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","25","Thondike","CUB","3","13","5","0.25","-47.62","21"
-"1741279110-141","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","25","Vucicevic","SRB","3","4","4","0.25","-9.09","11"
-"1741279110-142","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","25","Łomacz","POL","3","8","11","0.20","-22.73","22"
-"1741279110-143","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","25","Urbanowicz","POL","3","11","5","0.38","-42.11","19"
-"1741279110-144","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","25","Dulski","POL","3","2","5","0.75","10.00","10"
-"1741279110-145","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","25","Hanes","USA","3","6","4","0.27","-23.08","13"
-"1741279110-146","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","25","Meijs","NED","3","2","5","0.25","10.00","10"
-"1741279110-147","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","25","Tuinstra","NED","3","11","5","0.25","-42.11","19"
-"1741279110-148","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","25","Adriano","BRA","3","14","7","0.23","-45.83","24"
-"1741279110-149","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","25","Röhrs","GER","3","8","9","0.38","-25.00","20"
-"1741279110-150","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","25","Brand","GER","3","6","2","0.25","-27.27","11"
-"1741279110-151","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","25","Maase","GER","3","4","5","0.38","-8.33","12"
-"1741279110-152","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","25","Boyer","FRA","3","10","9","0.33","-31.82","22"
-"1741279110-153","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","25","Saadat","IRI","3","8","11","0.75","-22.73","22"
-"1741279110-154","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","26","N. Penchev","BUL","2","6","6","0.25","-28.57","14"
-"1741279110-155","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","26","Petkov","BUL","2","7","10","0.17","-26.32","19"
-"1741279110-156","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","26","Guo C.","CHN","2","3","2","0.17","-14.29","7"
-"1741279110-157","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","26","Porro P.","ITA","2","10","6","0.50","-44.44","18"
-"1741279110-158","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","26","Bottolo","ITA","2","7","4","0.18","-38.46","13"
-"1741279110-159","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","26","Martinez Franchi","ARG","2","7","7","0.15","-31.25","16"
-"1741279110-160","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","26","M. Elser","CAN","2","5","5","0.17","-25.00","12"
-"1741279110-161","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","26","Mergarejo","CUB","2","11","6","0.17","-47.37","19"
-"1741279110-162","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","26","Gutierrez","CUB","2","5","1","0.17","-37.50","8"
-"1741279110-163","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","26","Muagututia","USA","2","5","4","0.18","-27.27","11"
-"1741279110-164","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","26","Kessel","USA","2","4","0","0.25","-33.33","6"
-"1741279110-165","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","26","Korenblek","NED","2","0","2","0.17","50.00","4"
-"1741279110-166","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","26","Arthur","BRA","2","2","2","0.25","0.00","6"
-"1741279110-167","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","26","Cooper","CAN","2","1","1","0.25","25.00","4"
-"1741279110-168","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","26","Fornal","POL","2","8","8","0.29","-33.33","18"
-"1741279110-169","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","27","G. Bratoev","BUL","1","1","1","0.25","0.00","3"
-"1741279110-170","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","27","Sekita","JPN","1","30","27","0.07","-50.00","58"
-"1741279110-171","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","27","Jelveh","IRI","1","12","8","0.08","-52.38","21"
-"1741279110-172","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","27","Vadi","IRI","1","7","6","0.12","-42.86","14"
-"1741279110-173","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","27","Shahrooz","IRI","1","0","3","0.08","25.00","4"
-"1741279110-174","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","27","Armoa Morel","ARG","1","2","1","0.08","-25.00","4"
-"1741279110-175","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","27","J. Gutierrez","CUB","1","0","0","0.08","100.00","1"
-"1741279110-176","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","27","Mašulović V.","SRB","1","0","0","0.12","100.00","1"
-"1741279110-177","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","27","Katic","SRB","1","1","2","0.12","0.00","4"
-"1741279110-178","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","27","Batak","SRB","1","8","7","0.08","-43.75","16"
-"1741279110-179","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","27","Butryn","POL","1","5","5","0.25","-36.36","11"
-"1741279110-180","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","27","Firlej","POL","1","6","6","0.12","-38.46","13"
-"1741279110-181","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","27","Corre","FRA","1","9","10","0.25","-40.00","20"
-"1741279110-182","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","27","Ensing","USA","1","2","0","0.12","-33.33","3"
-"1741279110-183","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","27","Abouba","BRA","1","5","3","0.25","-44.44","9"
-"1741279110-184","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","27","Kaliberda","GER","1","4","1","0.08","-50.00","6"
-"1741279110-185","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","27","Kampa","GER","1","6","8","0.12","-33.33","15"
-"1741279110-186","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","27","Walsh","CAN","1","5","7","0.12","-30.77","13"
-"1741279110-187","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","27","Ter Horst","NED","1","3","4","0.12","-25.00","8"
-"1741279110-188","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","27","S.Ivanov","BUL","1","1","0","0.25","0.00","2"
-"1741279110-189","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","27","Sbertoli","ITA","1","1","0","0.09","0.00","2"
-"1741279110-190","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","27","Magalini","ITA","1","0","0","0.25","100.00","1"
-"1741279110-191","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","27","Bołądź","POL","1","5","6","0.25","-33.33","12"
-"1741279110-192","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","27","Eiro","JPN","1","5","2","0.14","-50.00","8"
-"1741279110-193","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","27","Toniutti","FRA","1","3","5","0.20","-22.22","9"
-"1741279110-194","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","27","Janusz","POL","1","11","12","0.14","-41.67","24"
-"1741279110-195","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","27","V. Bratoev","BUL","1","6","0","0.25","-71.43","7"
-"1741279110-196","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","Bozhilov","BUL","0","0","0","","","0"
-"1741279110-197","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","Dobrev","BUL","0","0","0","","","0"
-"1741279110-198","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","Liu M.","CHN","0","1","3","0.00","-25.00","4"
-"1741279110-199","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","Chen J.J.","CHN","0","0","0","","","0"
-"1741279110-200","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","Qu Z.S.","CHN","0","0","0","","","0"
-"1741279110-201","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","Zhang G.H.","CHN","0","1","0","0.00","-100.00","1"
-"1741279110-202","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","Wang B.","CHN","0","4","1","0.00","-80.00","5"
-"1741279110-203","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","Fukatsu","JPN","0","0","1","0.00","0.00","1"
-"1741279110-204","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","Tomita","JPN","0","0","0","","","0"
-"1741279110-205","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","Ogawa","JPN","0","0","0","","","0"
-"1741279110-206","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","Yamamoto","JPN","0","0","0","","","0"
-"1741279110-207","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","Kai","JPN","0","0","0","","","0"
-"1741279110-208","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","Hazrat","IRI","0","0","0","","","0"
-"1741279110-209","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","J.Manavi","IRI","0","1","4","0.00","-20.00","5"
-"1741279110-210","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","Arman","IRI","0","0","0","","","0"
-"1741279110-211","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","Falaschi","ITA","0","2","0","0.00","-100.00","2"
-"1741279110-212","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","Balaso","ITA","0","0","0","","","0"
-"1741279110-213","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","Recine","ITA","0","2","2","0.00","-50.00","4"
-"1741279110-214","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","Gardini","ITA","0","0","0","","","0"
-"1741279110-215","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","Cortesia","ITA","0","0","1","0.00","0.00","1"
-"1741279110-216","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","Gironi","ITA","0","0","3","0.00","0.00","3"
-"1741279110-217","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","Vitelli","ITA","0","3","3","0.00","-50.00","6"
-"1741279110-218","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","Federici","ITA","0","0","0","","","0"
-"1741279110-219","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","Sanchez Pages","ARG","0","10","2","0.00","-83.33","12"
-"1741279110-220","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","Danani","ARG","0","0","0","","","0"
-"1741279110-221","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","Zelayeta","ARG","0","0","0","","","0"
-"1741279110-222","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","Hofer","CAN","0","5","2","0.00","-71.43","7"
-"1741279110-223","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","Blankenau","CAN","0","1","0","0.00","-100.00","1"
-"1741279110-224","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","Schnitzer","CAN","0","0","0","","","0"
-"1741279110-225","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","Lui","CAN","0","0","0","","","0"
-"1741279110-226","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","Currie","CAN","0","0","0","","","0"
-"1741279110-227","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","Garcia","CUB","0","0","0","","","0"
-"1741279110-228","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","Goide","CUB","0","1","0","0.00","-100.00","1"
-"1741279110-229","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","Gorguet","CUB","0","0","0","","","0"
-"1741279110-230","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","Kök","SLO","0","3","1","0.00","-75.00","4"
-"1741279110-231","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","Toman","SLO","0","0","0","","","0"
-"1741279110-232","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","Bračko","SLO","0","0","0","","","0"
-"1741279110-233","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","Štalekar","SLO","0","4","2","0.00","-66.67","6"
-"1741279110-234","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","Koncilja","SLO","0","0","0","","","0"
-"1741279110-235","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","Kovačič","SLO","0","0","0","","","0"
-"1741279110-236","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","Kapur","SRB","0","0","0","","","0"
-"1741279110-237","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","Gajović","SRB","0","0","0","","","0"
-"1741279110-238","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","Krsteski","SRB","0","0","0","","","0"
-"1741279110-239","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","Petrović","SRB","0","0","0","","","0"
-"1741279110-240","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","Szymanski","POL","0","4","2","0.00","-66.67","6"
-"1741279110-241","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","Szymura","POL","0","0","0","","","0"
-"1741279110-242","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","Hawryluk","POL","0","0","0","","","0"
-"1741279110-243","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","Sawicki","POL","0","0","5","0.00","0.00","5"
-"1741279110-244","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","Poręba","POL","0","0","0","","","0"
-"1741279110-245","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","Motta Paes","FRA","0","0","0","","","0"
-"1741279110-246","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","Henry","FRA","0","0","0","","","0"
-"1741279110-247","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","Pothron","FRA","0","0","0","","","0"
-"1741279110-248","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","Diez","FRA","0","0","0","","","0"
-"1741279110-249","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","Basic","FRA","0","0","0","","","0"
-"1741279110-250","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","Henno","FRA","0","0","0","","","0"
-"1741279110-251","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","Loubeyre","FRA","0","0","0","","","0"
-"1741279110-252","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","Roehrig","FRA","0","0","0","","","0"
-"1741279110-253","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","E. Shoji","USA","0","0","0","","","0"
-"1741279110-254","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","Van Der Ent","NED","0","0","0","","","0"
-"1741279110-255","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","Andringa","NED","0","0","0","","","0"
-"1741279110-256","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","Bak","NED","0","0","0","","","0"
-"1741279110-257","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","Wijkstra","NED","0","0","0","","","0"
-"1741279110-258","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","Lipke","NED","0","0","0","","","0"
-"1741279110-259","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","Fernando","BRA","0","4","9","0.00","-30.77","13"
-"1741279110-260","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","Maique","BRA","0","0","0","","","0"
-"1741279110-261","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","Thales","BRA","0","0","0","","","0"
-"1741279110-262","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","Thiery","BRA","0","0","0","","","0"
-"1741279110-263","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","Graven","GER","0","0","1","0.00","0.00","1"
-"1741279110-264","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","Otsuka","JPN","0","5","4","0.00","-55.56","9"
-"1741279110-265","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","Salehi","IRI","0","0","0","","","0"
-"1741279110-266","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","Zimmermann","GER","0","1","0","0.00","-100.00","1"
-"1741279110-267","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","Günthör","GER","0","0","0","","","0"
-"1741279110-268","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","Dagostino","USA","0","0","0","","","0"
-"1741279110-269","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","Tuaniga","USA","0","3","3","0.00","-50.00","6"
-"1741279110-270","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","Mašulović N.","SRB","0","2","5","0.00","-28.57","7"
-"1741279110-271","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","Giraudo","ARG","0","2","1","0.00","-66.67","3"
-"1741279110-272","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","Mujanović","SLO","0","0","0","","","0"
-"1741279110-273","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","Yang Y.M.","CHN","0","0","0","","","0"
-"1741279110-274","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","Chen L.Y.","CHN","0","3","3","0.00","-50.00","6"
-"1741279110-275","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","Salparov","BUL","0","0","0","","","0"
-"1741279110-276","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","Raev","BUL","0","3","1","0.00","-75.00","4"
-"1741279110-277","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","Scanferla","ITA","0","0","0","","","0"
-"1741279110-278","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","Caneschi","ITA","0","1","1","0.00","-50.00","2"
-"1741279110-279","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","Zatorski","POL","0","0","0","","","0"
-"1741279110-280","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","Grebennikov","FRA","0","0","0","","","0"
-"1741279110-281","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","Huetz","FRA","0","0","1","0.00","0.00","1"
-"1741279110-282","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","Vaccari","BRA","0","0","0","","","0"
-"1741279110-283","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","Piccinelli","ITA","0","0","0","","","0"
-"1741279110-284","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","Sala","ITA","0","1","0","0.00","-100.00","1"
-"1741279110-285","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","Larry","JPN","0","1","1","0.00","-50.00","2"
-"1741279110-286","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","Rao S.H.","CHN","0","0","0","","","0"
-"1741279110-287","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","Kovačević","SRB","0","0","1","0.00","0.00","1"
-"1741279110-288","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","Podraščanin","ITA","0","0","0","","","0"
-"1741279110-289","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","M. R. Moazzen","IRI","0","0","0","","","0"
-"1741279110-290","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","A. Ramezani","IRI","0","4","3","0.00","-57.14","7"
-"1741279110-291","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","A. Afshinfar","IRI","0","2","0","0.00","-100.00","2"
-"1741279110-292","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","Popiwczak","POL","0","0","0","","","0"
-"1741279110-293","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","Fromm","GER","0","6","8","0.00","-42.86","14"
-"1741279110-294","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","K. Russell","USA","0","0","0","","","0"
-"1741279110-295","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","Daneshdoust","IRI","0","0","0","","","0"
-"1741279110-296","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","Nishiyama","JPN","0","1","0","0.00","-100.00","1"
-"1741279110-297","https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/statistics/men/best-blockers/","28","Leal","BRA","0","1","0","0.00","-100.00","1"
+Rank,Player Name,Team,Blocks,Errors,Rebounds,Average Per Match,Efficiency,Total
+1,Loser Bruno,ARG,53,62,48,4.08,-5.52,163
+2,Seyed,IRI,35,55,38,2.92,-15.62,128
+3,Concepcion,CUB,29,61,49,2.42,-23.02,139
+3,Krsmanović,SRB,29,41,28,2.42,-12.24,98
+3,Nedeljković,SRB,29,43,56,2.42,-10.94,128
+4,Plak,NED,25,55,37,2.08,-25.64,117
+5,Kozamernik,SLO,24,45,65,1.85,-15.67,134
+5,Russo,ITA,24,42,48,2.18,-15.79,114
+6,Grozdanov,BUL,23,35,38,1.92,-12.5,96
+7,Zhang J.Y.,CHN,22,24,23,1.83,-2.9,69
+7,Smith,USA,22,33,37,1.47,-11.96,92
+7,Flavio,BRA,22,42,46,1.69,-18.18,110
+7,Galassi,ITA,22,43,43,2.0,-19.44,108
+8,Mohammad,IRI,21,35,39,1.75,-14.74,95
+9,Wiltenburg,NED,20,30,35,1.67,-11.76,85
+9,Lavia,ITA,20,31,32,1.82,-13.25,83
+9,Kochanowski,POL,20,41,40,1.82,-20.79,101
+10,Li Y.Z.,CHN,18,35,40,1.5,-18.28,93
+10,Onodera,JPN,18,53,41,1.2,-31.25,112
+10,Pajenk,SLO,18,41,55,1.38,-20.18,114
+10,Čebulj,SLO,18,31,22,1.38,-18.31,71
+11,Ishikawa,JPN,17,49,42,1.13,-29.63,108
+11,Michieletto,ITA,17,17,21,1.55,0.0,55
+11,Huber,POL,17,27,25,1.55,-14.49,69
+12,Romanò,ITA,16,49,53,1.07,-27.97,118
+12,Demyanenko,CAN,16,41,42,1.33,-25.25,99
+12,Kłos,POL,16,27,18,2.0,-18.03,61
+13,Peng S.K.,CHN,15,34,30,1.25,-24.05,79
+13,Vicentin,ARG,15,30,32,1.15,-19.48,77
+13,Maar,CAN,15,35,23,1.25,-27.4,73
+13,Christenson,USA,15,25,29,1.0,-14.49,69
+13,Van Garderen,NED,15,18,10,1.25,-6.98,43
+13,Honorato,BRA,15,33,16,1.15,-28.12,64
+13,Chinenyeze,FRA,15,34,25,1.67,-25.68,74
+14,Taboada,CUB,14,24,23,1.17,-16.39,61
+14,Možič,SLO,14,36,17,1.08,-32.84,67
+14,Giannelli,ITA,14,29,37,1.27,-18.75,80
+14,Leon,POL,14,19,17,1.27,-10.0,50
+15,Atanasov,BUL,13,26,14,1.08,-24.53,53
+15,Palonsky,ARG,13,34,22,1.0,-30.43,69
+15,Defalco,USA,13,35,36,0.87,-26.19,84
+15,Otávio,BRA,13,29,38,1.0,-20.0,80
+15,Brehme,GER,13,50,40,1.08,-35.92,103
+15,Krick,GER,13,28,23,1.08,-23.44,64
+16,Yamauchi,JPN,12,37,29,0.8,-32.05,78
+16,Hajipour,IRI,12,8,13,1.09,12.12,33
+16,Faure,FRA,12,10,12,3.0,5.88,34
+16,Holt,USA,12,39,47,0.8,-27.55,98
+16,Lucarelli,BRA,12,36,25,0.92,-32.88,73
+16,Parkinson,NED,12,15,4,3.0,-9.68,31
+17,Sclater,CAN,11,18,16,0.92,-15.56,45
+17,Herrera,CUB,11,28,23,0.92,-27.42,62
+17,Pedroso,CUB,11,18,10,0.92,-17.95,39
+17,Yant,CUB,11,20,18,0.92,-18.37,49
+17,Kujundžić,SRB,11,26,17,0.92,-27.78,54
+17,Jaeschke,USA,11,10,8,1.0,3.45,29
+18,Ran,JPN,10,34,28,0.67,-33.33,72
+18,Bultor,FRA,10,22,29,0.77,-19.67,61
+18,Russell,USA,10,21,16,0.71,-23.4,47
+18,Patry,FRA,10,9,9,1.11,3.57,28
+18,Kaczmarek,POL,10,19,19,1.43,-18.75,48
+19,Kolev,BUL,9,26,36,0.75,-23.94,71
+19,Gotsev,BUL,9,13,10,0.75,-12.5,32
+19,Esfandiar,IRI,9,12,9,0.75,-10.0,30
+19,Zerba,ARG,9,31,46,0.69,-25.58,86
+19,Van Berkel,CAN,9,39,38,0.75,-34.88,86
+19,Masso,CUB,9,38,44,0.75,-31.87,91
+19,Bieniek,POL,9,24,45,0.82,-19.23,78
+19,Weber,GER,9,29,22,0.75,-33.33,60
+19,Lucas,BRA,9,23,32,1.0,-21.88,64
+20,Dimitrov,BUL,8,9,14,0.67,-3.23,31
+20,Wang D.C.,CHN,8,16,12,0.67,-22.22,36
+20,Wang H.B.,CHN,8,19,20,0.67,-23.4,47
+20,Amin,IRI,8,17,22,1.0,-19.15,47
+20,Ramos,ARG,8,13,11,0.62,-15.62,32
+20,Herr,CAN,8,13,23,0.67,-11.36,44
+20,Perić,SRB,8,4,11,0.67,17.39,23
+20,Todorović,SRB,8,23,21,0.67,-28.85,52
+20,Semeniuk,POL,8,7,11,0.73,3.85,26
+20,Anderson,USA,8,29,37,0.53,-28.38,74
+20,Keemink,NED,8,26,22,0.67,-32.14,56
+20,Nimir,NED,8,20,17,0.67,-26.67,45
+20,Alan,BRA,8,38,43,0.62,-33.71,89
+20,Reichert,GER,8,20,17,0.67,-26.67,45
+20,Krage,GER,8,26,16,0.67,-36.0,50
+20,Le Goff,FRA,8,12,6,1.6,-15.38,26
+21,Mosca,ITA,7,10,7,0.64,-12.5,24
+21,Lima B.,ARG,7,29,25,0.54,-36.07,61
+21,Szwarc,CAN,7,13,9,0.58,-20.69,29
+21,Lopez,CUB,7,33,25,0.58,-40.0,65
+21,Luburić,SRB,7,19,30,0.58,-21.43,56
+21,Averill,USA,7,20,19,0.47,-28.26,46
+21,Jorna,NED,7,26,13,0.58,-41.3,46
+21,Tille,GER,7,13,16,0.58,-16.67,36
+21,Clevenot,FRA,7,27,15,0.78,-40.82,49
+22,Asparuhov,BUL,6,13,15,0.5,-20.59,34
+22,Jiang C.,CHN,6,15,22,0.5,-20.93,43
+22,Kentaro,JPN,6,26,14,0.4,-43.48,46
+22,Gallego,ARG,6,11,14,0.46,-16.13,31
+22,Kukartsev,ARG,6,12,11,0.46,-20.69,29
+22,Eshenko,CAN,6,30,29,0.5,-36.92,65
+22,Ropret,SLO,6,18,31,0.46,-21.82,55
+22,Szalpuk,POL,6,6,14,0.75,0.0,26
+22,Bruno,BRA,6,26,31,0.46,-31.75,63
+22,Judson,BRA,6,22,22,0.46,-32.0,50
+22,Böhme,GER,6,11,6,0.5,-21.74,23
+22,Roque,BRA,6,5,6,0.67,5.88,17
+22,Anzani,ITA,6,14,5,1.5,-32.0,25
+22,Brizard,FRA,6,18,16,0.67,-30.0,40
+22,Śliwka,POL,6,22,7,0.86,-45.71,35
+23,Seganov,BUL,5,19,16,0.42,-35.0,40
+23,Karyagin,BUL,5,10,8,0.42,-21.74,23
+23,A. Nikolov,BUL,5,15,12,0.62,-31.25,32
+23,Miyaura,JPN,5,21,14,0.33,-40.0,40
+23,Javad,IRI,5,10,6,0.42,-23.81,21
+23,De Cecco,ARG,5,20,16,0.56,-36.59,41
+23,Jouffroy,FRA,5,11,16,0.38,-18.75,32
+23,Ivović,SRB,5,13,15,0.62,-24.24,33
+23,Bednorz,POL,5,11,7,0.45,-26.09,23
+23,Louati,FRA,5,12,7,0.56,-29.17,24
+24,Yu Y.T.,CHN,4,12,10,0.33,-30.77,26
+24,Poriya,IRI,4,4,10,0.4,0.0,18
+24,Morteza,IRI,4,22,13,0.36,-46.15,39
+24,Sanguinetti,ITA,4,6,9,0.36,-10.53,19
+24,Hoag,CAN,4,22,18,0.33,-40.91,44
+24,Planinšič,SLO,4,7,7,0.31,-16.67,18
+24,Z. Štern,SLO,4,15,9,0.31,-39.29,28
+24,Urnaut,SLO,4,29,18,0.31,-49.02,51
+24,Tillie,FRA,4,21,24,0.44,-34.69,49
+24,Carle,FRA,4,9,11,0.31,-20.83,24
+24,Jendryk,USA,4,15,17,0.27,-30.56,36
+24,Ma'a,USA,4,5,7,0.36,-6.25,16
+24,Schott,GER,4,3,8,0.33,6.67,15
+24,Ter Maat,NED,4,5,5,0.5,-7.14,14
+24,Kurek,POL,4,19,13,0.36,-41.67,36
+24,Adamczyk,POL,4,4,2,1.0,0.0,10
+25,Zhai D.J.,CHN,3,14,10,0.25,-40.74,27
+25,Nishida,JPN,3,21,21,0.21,-40.0,45
+25,Rinaldi,ITA,3,11,8,0.2,-36.36,22
+25,Thondike,CUB,3,13,5,0.25,-47.62,21
+25,Vucicevic,SRB,3,4,4,0.25,-9.09,11
+25,Łomacz,POL,3,8,11,0.2,-22.73,22
+25,Urbanowicz,POL,3,11,5,0.38,-42.11,19
+25,Dulski,POL,3,2,5,0.75,10.0,10
+25,Hanes,USA,3,6,4,0.27,-23.08,13
+25,Meijs,NED,3,2,5,0.25,10.0,10
+25,Tuinstra,NED,3,11,5,0.25,-42.11,19
+25,Adriano,BRA,3,14,7,0.23,-45.83,24
+25,Röhrs,GER,3,8,9,0.38,-25.0,20
+25,Brand,GER,3,6,2,0.25,-27.27,11
+25,Maase,GER,3,4,5,0.38,-8.33,12
+25,Boyer,FRA,3,10,9,0.33,-31.82,22
+25,Saadat,IRI,3,8,11,0.75,-22.73,22
+26,N. Penchev,BUL,2,6,6,0.25,-28.57,14
+26,Petkov,BUL,2,7,10,0.17,-26.32,19
+26,Guo C.,CHN,2,3,2,0.17,-14.29,7
+26,Porro P.,ITA,2,10,6,0.5,-44.44,18
+26,Bottolo,ITA,2,7,4,0.18,-38.46,13
+26,Martinez Franchi,ARG,2,7,7,0.15,-31.25,16
+26,M. Elser,CAN,2,5,5,0.17,-25.0,12
+26,Mergarejo,CUB,2,11,6,0.17,-47.37,19
+26,Gutierrez,CUB,2,5,1,0.17,-37.5,8
+26,Muagututia,USA,2,5,4,0.18,-27.27,11
+26,Kessel,USA,2,4,0,0.25,-33.33,6
+26,Korenblek,NED,2,0,2,0.17,50.0,4
+26,Arthur,BRA,2,2,2,0.25,0.0,6
+26,Cooper,CAN,2,1,1,0.25,25.0,4
+26,Fornal,POL,2,8,8,0.29,-33.33,18
+27,G. Bratoev,BUL,1,1,1,0.25,0.0,3
+27,Sekita,JPN,1,30,27,0.07,-50.0,58
+27,Jelveh,IRI,1,12,8,0.08,-52.38,21
+27,Vadi,IRI,1,7,6,0.12,-42.86,14
+27,Shahrooz,IRI,1,0,3,0.08,25.0,4
+27,Armoa Morel,ARG,1,2,1,0.08,-25.0,4
+27,J. Gutierrez,CUB,1,0,0,0.08,100.0,1
+27,Mašulović V.,SRB,1,0,0,0.12,100.0,1
+27,Katic,SRB,1,1,2,0.12,0.0,4
+27,Batak,SRB,1,8,7,0.08,-43.75,16
+27,Butryn,POL,1,5,5,0.25,-36.36,11
+27,Firlej,POL,1,6,6,0.12,-38.46,13
+27,Corre,FRA,1,9,10,0.25,-40.0,20
+27,Ensing,USA,1,2,0,0.12,-33.33,3
+27,Abouba,BRA,1,5,3,0.25,-44.44,9
+27,Kaliberda,GER,1,4,1,0.08,-50.0,6
+27,Kampa,GER,1,6,8,0.12,-33.33,15
+27,Walsh,CAN,1,5,7,0.12,-30.77,13
+27,Ter Horst,NED,1,3,4,0.12,-25.0,8
+27,S.Ivanov,BUL,1,1,0,0.25,0.0,2
+27,Sbertoli,ITA,1,1,0,0.09,0.0,2
+27,Magalini,ITA,1,0,0,0.25,100.0,1
+27,Bołądź,POL,1,5,6,0.25,-33.33,12
+27,Eiro,JPN,1,5,2,0.14,-50.0,8
+27,Toniutti,FRA,1,3,5,0.2,-22.22,9
+27,Janusz,POL,1,11,12,0.14,-41.67,24
+27,V. Bratoev,BUL,1,6,0,0.25,-71.43,7
+28,Bozhilov,BUL,0,0,0,,,0
+28,Dobrev,BUL,0,0,0,,,0
+28,Liu M.,CHN,0,1,3,0.0,-25.0,4
+28,Chen J.J.,CHN,0,0,0,,,0
+28,Qu Z.S.,CHN,0,0,0,,,0
+28,Zhang G.H.,CHN,0,1,0,0.0,-100.0,1
+28,Wang B.,CHN,0,4,1,0.0,-80.0,5
+28,Fukatsu,JPN,0,0,1,0.0,0.0,1
+28,Tomita,JPN,0,0,0,,,0
+28,Ogawa,JPN,0,0,0,,,0
+28,Yamamoto,JPN,0,0,0,,,0
+28,Kai,JPN,0,0,0,,,0
+28,Hazrat,IRI,0,0,0,,,0
+28,J.Manavi,IRI,0,1,4,0.0,-20.0,5
+28,Arman,IRI,0,0,0,,,0
+28,Falaschi,ITA,0,2,0,0.0,-100.0,2
+28,Balaso,ITA,0,0,0,,,0
+28,Recine,ITA,0,2,2,0.0,-50.0,4
+28,Gardini,ITA,0,0,0,,,0
+28,Cortesia,ITA,0,0,1,0.0,0.0,1
+28,Gironi,ITA,0,0,3,0.0,0.0,3
+28,Vitelli,ITA,0,3,3,0.0,-50.0,6
+28,Federici,ITA,0,0,0,,,0
+28,Sanchez Pages,ARG,0,10,2,0.0,-83.33,12
+28,Danani,ARG,0,0,0,,,0
+28,Zelayeta,ARG,0,0,0,,,0
+28,Hofer,CAN,0,5,2,0.0,-71.43,7
+28,Blankenau,CAN,0,1,0,0.0,-100.0,1
+28,Schnitzer,CAN,0,0,0,,,0
+28,Lui,CAN,0,0,0,,,0
+28,Currie,CAN,0,0,0,,,0
+28,Garcia,CUB,0,0,0,,,0
+28,Goide,CUB,0,1,0,0.0,-100.0,1
+28,Gorguet,CUB,0,0,0,,,0
+28,Kök,SLO,0,3,1,0.0,-75.0,4
+28,Toman,SLO,0,0,0,,,0
+28,Bračko,SLO,0,0,0,,,0
+28,Štalekar,SLO,0,4,2,0.0,-66.67,6
+28,Koncilja,SLO,0,0,0,,,0
+28,Kovačič,SLO,0,0,0,,,0
+28,Kapur,SRB,0,0,0,,,0
+28,Gajović,SRB,0,0,0,,,0
+28,Krsteski,SRB,0,0,0,,,0
+28,Petrović,SRB,0,0,0,,,0
+28,Szymanski,POL,0,4,2,0.0,-66.67,6
+28,Szymura,POL,0,0,0,,,0
+28,Hawryluk,POL,0,0,0,,,0
+28,Sawicki,POL,0,0,5,0.0,0.0,5
+28,Poręba,POL,0,0,0,,,0
+28,Motta Paes,FRA,0,0,0,,,0
+28,Henry,FRA,0,0,0,,,0
+28,Pothron,FRA,0,0,0,,,0
+28,Diez,FRA,0,0,0,,,0
+28,Basic,FRA,0,0,0,,,0
+28,Henno,FRA,0,0,0,,,0
+28,Loubeyre,FRA,0,0,0,,,0
+28,Roehrig,FRA,0,0,0,,,0
+28,E. Shoji,USA,0,0,0,,,0
+28,Van Der Ent,NED,0,0,0,,,0
+28,Andringa,NED,0,0,0,,,0
+28,Bak,NED,0,0,0,,,0
+28,Wijkstra,NED,0,0,0,,,0
+28,Lipke,NED,0,0,0,,,0
+28,Fernando,BRA,0,4,9,0.0,-30.77,13
+28,Maique,BRA,0,0,0,,,0
+28,Thales,BRA,0,0,0,,,0
+28,Thiery,BRA,0,0,0,,,0
+28,Graven,GER,0,0,1,0.0,0.0,1
+28,Otsuka,JPN,0,5,4,0.0,-55.56,9
+28,Salehi,IRI,0,0,0,,,0
+28,Zimmermann,GER,0,1,0,0.0,-100.0,1
+28,Günthör,GER,0,0,0,,,0
+28,Dagostino,USA,0,0,0,,,0
+28,Tuaniga,USA,0,3,3,0.0,-50.0,6
+28,Mašulović N.,SRB,0,2,5,0.0,-28.57,7
+28,Giraudo,ARG,0,2,1,0.0,-66.67,3
+28,Mujanović,SLO,0,0,0,,,0
+28,Yang Y.M.,CHN,0,0,0,,,0
+28,Chen L.Y.,CHN,0,3,3,0.0,-50.0,6
+28,Salparov,BUL,0,0,0,,,0
+28,Raev,BUL,0,3,1,0.0,-75.0,4
+28,Scanferla,ITA,0,0,0,,,0
+28,Caneschi,ITA,0,1,1,0.0,-50.0,2
+28,Zatorski,POL,0,0,0,,,0
+28,Grebennikov,FRA,0,0,0,,,0
+28,Huetz,FRA,0,0,1,0.0,0.0,1
+28,Vaccari,BRA,0,0,0,,,0
+28,Piccinelli,ITA,0,0,0,,,0
+28,Sala,ITA,0,1,0,0.0,-100.0,1
+28,Larry,JPN,0,1,1,0.0,-50.0,2
+28,Rao S.H.,CHN,0,0,0,,,0
+28,Kovačević,SRB,0,0,1,0.0,0.0,1
+28,Podraščanin,ITA,0,0,0,,,0
+28,M. R. Moazzen,IRI,0,0,0,,,0
+28,A. Ramezani,IRI,0,4,3,0.0,-57.14,7
+28,A. Afshinfar,IRI,0,2,0,0.0,-100.0,2
+28,Popiwczak,POL,0,0,0,,,0
+28,Fromm,GER,0,6,8,0.0,-42.86,14
+28,K. Russell,USA,0,0,0,,,0
+28,Daneshdoust,IRI,0,0,0,,,0
+28,Nishiyama,JPN,0,1,0,0.0,-100.0,1
+28,Leal,BRA,0,1,0,0.0,-100.0,1

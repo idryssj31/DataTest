@@ -1,337 +1,337 @@
-﻿web-scraper-order,web-scraper-start-url,Rank,Player Name,Team,Points,Attack Points,Block Points,Serve Points
-"1742823067-1","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","1","Leal","BRA","125","107","8","10"
-"1742823067-2","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","2","Čebulj","SLO","114","95","13","6"
-"1742823067-3","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","3","Lavia","ITA","103","91","10","2"
-"1742823067-4","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","4","Kurek","POL","100","85","7","8"
-"1742823067-5","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","5","Wallace","BRA","97","85","9","3"
-"1742823067-6","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","5","Romanò","ITA","97","82","9","6"
-"1742823067-7","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","6","Nimir","NED","95","76","7","12"
-"1742823067-8","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","7","Plotnytskyi","UKR","91","64","9","18"
-"1742823067-9","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","8","Semeniuk","POL","87","72","5","10"
-"1742823067-10","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","9","A. Lagumdzija","TUR","86","77","5","4"
-"1742823067-11","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","9","Lima B.","ARG","86","78","4","4"
-"1742823067-12","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","10","T. Štern","SLO","84","65","9","10"
-"1742823067-13","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","11","Herrera","CUB","83","72","2","9"
-"1742823067-14","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","12","Michieletto","ITA","82","69","6","7"
-"1742823067-15","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","13","Russell","USA","78","66","7","5"
-"1742823067-16","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","13","Facu","ARG","78","70","3","5"
-"1742823067-17","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","14","Nishida","JPN","76","63","7","6"
-"1742823067-18","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","14","Ngapeth","FRA","76","65","3","8"
-"1742823067-19","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","15","Loser Bruno","ARG","72","48","17","7"
-"1742823067-20","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","16","Urnaut","SLO","71","66","2","3"
-"1742823067-21","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","17","Śliwka","POL","68","61","5","2"
-"1742823067-22","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","17","Bieniek","POL","68","41","16","11"
-"1742823067-23","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","18","Milad","IRI","65","54","6","5"
-"1742823067-24","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","19","Lucas","BRA","64","39","16","9"
-"1742823067-25","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","20","Flavio","BRA","59","41","16","2"
-"1742823067-26","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","21","Anderson","USA","58","55","2","1"
-"1742823067-27","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","21","Kochanowski","POL","58","41","9","8"
-"1742823067-28","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","22","Defalco","USA","56","47","4","5"
-"1742823067-29","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","22","Gonzalez","MEX","56","49","3","4"
-"1742823067-30","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","23","Lucarelli","BRA","53","45","5","3"
-"1742823067-31","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","24","Simón","CUB","52","38","11","3"
-"1742823067-32","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","24","Chinenyeze","FRA","52","41","10","1"
-"1742823067-33","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","24","Kovalov","UKR","52","41","7","4"
-"1742823067-34","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","25","Pajenk","SLO","51","36","11","4"
-"1742823067-35","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","26","Amin","IRI","49","44","3","2"
-"1742823067-36","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","26","Tupchii","UKR","49","44","4","1"
-"1742823067-37","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","27","Karlitzek","GER","48","43","1","4"
-"1742823067-38","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","27","Sokolov","BUL","48","41","3","4"
-"1742823067-39","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","27","Semeniuk","UKR","48","31","10","7"
-"1742823067-40","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","28","Ishikawa","JPN","47","42","2","3"
-"1742823067-41","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","28","Patry","FRA","47","41","3","3"
-"1742823067-42","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","29","Ter Horst","NED","45","40","3","2"
-"1742823067-43","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","30","Boyer","FRA","44","39","4","1"
-"1742823067-44","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","30","Kozamernik","SLO","44","24","15","5"
-"1742823067-45","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","31","Sclater","CAN","43","41","0","2"
-"1742823067-46","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","32","Güngör","TUR","41","32","3","6"
-"1742823067-47","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","33","Lawrence","PUR","40","38","1","1"
-"1742823067-48","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","33","Drozd","UKR","40","24","13","3"
-"1742823067-49","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","34","Karamosli E","TUN","39","30","5","4"
-"1742823067-50","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","34","Kovačević","SRB","39","34","2","3"
-"1742823067-51","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","34","Galassi","ITA","39","24","12","3"
-"1742823067-52","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","35","Smith","USA","38","26","9","3"
-"1742823067-53","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","35","Vicentin","ARG","38","30","6","2"
-"1742823067-54","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","36","Lopez","CUB","36","29","4","3"
-"1742823067-55","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","36","Ran","JPN","36","32","2","2"
-"1742823067-56","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","36","A. Nikolov","BUL","36","32","1","3"
-"1742823067-57","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","36","Morteza","IRI","36","34","0","2"
-"1742823067-58","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","36","Ivović","SRB","36","33","3","0"
-"1742823067-59","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","37","Krick","GER","35","25","10","0"
-"1742823067-60","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","37","Subaşı","TUR","35","30","2","3"
-"1742823067-61","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","37","A.Said","EGY","35","33","0","2"
-"1742823067-62","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","37","Nagga H.","TUN","35","33","1","1"
-"1742823067-63","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","38","Y.Oughlaf","QAT","33","31","2","0"
-"1742823067-64","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","38","Clevenot","FRA","33","27","3","3"
-"1742823067-65","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","38","Fornal","POL","33","26","5","2"
-"1742823067-66","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","38","Toukhteh","IRI","33","21","7","5"
-"1742823067-67","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","38","Podraščanin","ITA","33","17","9","7"
-"1742823067-68","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","39","Jendryk","USA","31","26","3","2"
-"1742823067-69","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","39","Lisinac","SRB","31","24","4","3"
-"1742823067-70","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","40","Yamauchi","JPN","30","23","6","1"
-"1742823067-71","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","40","Reichert","GER","30","27","0","3"
-"1742823067-72","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","40","Issa","EGY","30","25","4","1"
-"1742823067-73","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","40","Anzani","ITA","30","16","12","2"
-"1742823067-74","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","40","Maar","CAN","30","25","2","3"
-"1742823067-75","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","41","Yant","CUB","29","28","0","1"
-"1742823067-76","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","41","Lopez","MEX","29","24","1","4"
-"1742823067-77","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","41","Parkinson","NED","29","19","9","1"
-"1742823067-78","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","42","Osoria","CUB","28","19","9","0"
-"1742823067-79","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","42","Weber","GER","28","26","1","1"
-"1742823067-80","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","42","Asparuhov","BUL","28","27","1","0"
-"1742823067-81","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","42","Zhang J.Y.","CHN","28","25","1","2"
-"1742823067-82","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","42","Tuinstra","NED","28","23","2","3"
-"1742823067-83","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","42","Ramos","ARG","28","22","6","0"
-"1742823067-84","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","42","Molina","PUR","28","19","2","7"
-"1742823067-85","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","43","Landry","CMR","27","25","1","1"
-"1742823067-86","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","43","Kody","CMR","27","25","2","0"
-"1742823067-87","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","43","Plak","NED","27","19","5","3"
-"1742823067-88","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","44","Mergarejo","CUB","26","24","0","2"
-"1742823067-89","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","44","Le Goff","FRA","26","17","9","0"
-"1742823067-90","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","44","R.Haikal","EGY","26","25","0","1"
-"1742823067-91","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","44","Bouguerra.A","TUN","26","24","2","0"
-"1742823067-92","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","45","Voukeng","CMR","25","21","3","1"
-"1742823067-93","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","45","Dola","EGY","25","19","6","0"
-"1742823067-94","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","45","Petkovic","SRB","25","19","3","3"
-"1742823067-95","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","46","Atanasijević","SRB","24","14","2","8"
-"1742823067-96","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","46","Giannelli","ITA","24","11","8","5"
-"1742823067-97","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","46","Russo","ITA","24","14","10","0"
-"1742823067-98","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","47","Onodera","JPN","23","12","11","0"
-"1742823067-99","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","47","Renan","QAT","23","21","1","1"
-"1742823067-100","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","47","Kadhi A","TUN","23","19","4","0"
-"1742823067-101","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","48","Belal","QAT","22","14","5","3"
-"1742823067-102","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","48","Ibrahim","QAT","22","16","5","1"
-"1742823067-103","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","48","Možič","SLO","22","20","2","0"
-"1742823067-104","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","48","Güneş","TUR","22","15","6","1"
-"1742823067-105","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","49","Fuentes","MEX","21","17","1","3"
-"1742823067-106","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","49","Kaczmarek","POL","21","20","1","0"
-"1742823067-107","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","49","Zhang G.H.","CHN","21","20","1","0"
-"1742823067-108","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","49","Mojarad","IRI","21","14","5","2"
-"1742823067-109","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","49","Vargas","PUR","21","18","0","3"
-"1742823067-110","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","49","Rodriguez","PUR","21","18","2","1"
-"1742823067-111","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","50","Nikola","QAT","20","16","2","2"
-"1742823067-112","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","50","Tillie","FRA","20","18","1","1"
-"1742823067-113","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","50","Fromm","GER","20","19","1","0"
-"1742823067-114","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","51","Rodriguez","MEX","19","9","9","1"
-"1742823067-115","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","51","Grozdanov","BUL","19","11","8","0"
-"1742823067-116","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","51","Yu Y.T.","CHN","19","16","1","2"
-"1742823067-117","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","51","A. Seoudy","EGY","19","9","9","1"
-"1742823067-118","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","51","Agrebi O","TUN","19","10","9","0"
-"1742823067-119","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","51","Nieves","PUR","19","14","3","2"
-"1742823067-120","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","52","Gotsev","BUL","18","13","3","2"
-"1742823067-121","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","52","Esfandiar","IRI","18","14","3","1"
-"1742823067-122","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","53","Bedirhan","TUR","17","13","3","1"
-"1742823067-123","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","53","Szwarc","CAN","17","12","1","4"
-"1742823067-124","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","54","Louati","FRA","16","12","0","4"
-"1742823067-125","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","54","Van Berkel","CAN","16","11","5","0"
-"1742823067-126","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","55","Brizard","FRA","15","7","3","5"
-"1742823067-127","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","55","Maase","GER","15","12","3","0"
-"1742823067-128","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","55","De Cecco","ARG","15","7","6","2"
-"1742823067-129","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","55","Hoag","CAN","15","11","0","4"
-"1742823067-130","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","56","Christenson","USA","14","6","6","2"
-"1742823067-131","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","56","Palacios","ARG","14","11","3","0"
-"1742823067-132","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","56","Barnes","CAN","14","11","1","2"
-"1742823067-133","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","57","Peng S.K.","CHN","13","9","4","0"
-"1742823067-134","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","58","Keemink","NED","12","6","5","1"
-"1742823067-135","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","59","Rodriguinho","BRA","11","8","1","2"
-"1742823067-136","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","59","Ensing","USA","11","10","0","1"
-"1742823067-137","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","59","Muagututia","USA","11","9","0","2"
-"1742823067-138","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","59","Kofane","CMR","11","8","3","0"
-"1742823067-139","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","59","Zhang Z.J.","CHN","11","9","2","0"
-"1742823067-140","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","59","Zerba","ARG","11","6","4","1"
-"1742823067-141","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","60","Otsuka","JPN","10","10","0","0"
-"1742823067-142","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","60","Kampa","GER","10","6","0","4"
-"1742823067-143","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","61","Darlan","BRA","9","7","0","2"
-"1742823067-144","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","61","Jouffroy","FRA","9","5","2","2"
-"1742823067-145","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","61","Krage","GER","9","8","0","1"
-"1742823067-146","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","61","Badawe","CMR","9","7","2","0"
-"1742823067-147","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","61","Kukartsev","ARG","9","6","1","2"
-"1742823067-148","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","61","B.Othmen M.","TUN","9","6","3","0"
-"1742823067-149","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","62","Brand","GER","8","7","0","1"
-"1742823067-150","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","62","Vinčić","SLO","8","3","4","1"
-"1742823067-151","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","62","Dolengombai","CMR","8","5","1","2"
-"1742823067-152","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","62","Bitouna","CMR","8","6","1","1"
-"1742823067-153","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","62","Ekşi","TUR","8","4","2","2"
-"1742823067-154","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","62","Hossam","EGY","8","5","2","1"
-"1742823067-155","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","62","Kazemi","IRI","8","7","0","1"
-"1742823067-156","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","62","J.Manavi","IRI","8","5","2","1"
-"1742823067-157","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","62","Vadi","IRI","8","5","1","2"
-"1742823067-158","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","62","Kisiliuk","UKR","8","7","1","0"
-"1742823067-159","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","62","Petric","SRB","8","8","0","0"
-"1742823067-160","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","63","Adriano","BRA","7","5","2","0"
-"1742823067-161","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","63","Averill","USA","7","4","1","2"
-"1742823067-162","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","63","Martinez","MEX","7","7","0","0"
-"1742823067-163","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","63","Palonsky","ARG","7","6","0","1"
-"1742823067-164","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","63","Ben Slimene K","TUN","7","2","3","2"
-"1742823067-165","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","63","Jovović","SRB","7","2","5","0"
-"1742823067-166","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","64","Bruno","BRA","6","0","3","3"
-"1742823067-167","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","64","Aranda","MEX","6","3","1","2"
-"1742823067-168","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","64","Kłos","POL","6","1","5","0"
-"1742823067-169","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","64","Janusz","POL","6","0","1","5"
-"1742823067-170","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","64","Seganov","BUL","6","2","2","2"
-"1742823067-171","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","64","Ahmed","CMR","6","1","3","2"
-"1742823067-172","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","64","Hile","CMR","6","4","0","2"
-"1742823067-173","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","64","M. Lagumdzija","TUR","6","4","2","0"
-"1742823067-174","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","65","Fernando","BRA","5","2","2","1"
-"1742823067-175","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","65","Leandro","BRA","5","4","1","0"
-"1742823067-176","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","65","Mubarak","QAT","5","5","0","0"
-"1742823067-177","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","65","Poręba","POL","5","2","1","2"
-"1742823067-178","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","65","Doğukan U.","TUR","5","3","2","0"
-"1742823067-179","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","65","Deyo","EGY","5","4","1","0"
-"1742823067-180","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","65","Poluian","UKR","5","4","1","0"
-"1742823067-181","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","65","Shchytkov","UKR","5","2","1","2"
-"1742823067-182","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","66","Roque","BRA","4","2","1","1"
-"1742823067-183","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","66","Sánchez B.","CUB","4","3","1","0"
-"1742823067-184","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","66","Goide","CUB","4","1","2","1"
-"1742823067-185","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","66","Milos","QAT","4","1","2","1"
-"1742823067-186","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","66","Sanay","MEX","4","4","0","0"
-"1742823067-187","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","66","Atanasov","BUL","4","3","1","0"
-"1742823067-188","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","66","Li Y.Z.","CHN","4","3","1","0"
-"1742823067-189","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","66","Jorna","NED","4","3","1","0"
-"1742823067-190","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","66","Gallego","ARG","4","3","1","0"
-"1742823067-191","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","66","Iglesias","PUR","4","3","1","0"
-"1742823067-192","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","66","Lopez","PUR","4","3","0","1"
-"1742823067-193","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","66","Howe","CAN","4","4","0","0"
-"1742823067-194","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","67","Taboada","CUB","3","0","3","0"
-"1742823067-195","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","67","Miyaura","JPN","3","3","0","0"
-"1742823067-196","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","67","Schott","GER","3","3","0","0"
-"1742823067-197","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","67","K. Russell","USA","3","0","0","3"
-"1742823067-198","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","67","Tuaniga","USA","3","1","0","2"
-"1742823067-199","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","67","Kwolek","POL","3","3","0","0"
-"1742823067-200","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","67","Kolev","BUL","3","1","2","0"
-"1742823067-201","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","67","Ropret","SLO","3","1","2","0"
-"1742823067-202","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","67","Mandengo","CMR","3","3","0","0"
-"1742823067-203","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","67","Wang B.","CHN","3","3","0","0"
-"1742823067-204","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","67","Ter Maat","NED","3","3","0","0"
-"1742823067-205","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","67","Elhossiny","EGY","3","3","0","0"
-"1742823067-206","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","67","M.Elmahdy","EGY","3","3","0","0"
-"1742823067-207","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","67","Loeppky","CAN","3","3","0","0"
-"1742823067-208","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","68","Sekita","JPN","2","0","0","2"
-"1742823067-209","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","68","S.Ivanov","BUL","2","0","1","1"
-"1742823067-210","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","68","Deffo","CMR","2","2","0","0"
-"1742823067-211","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","68","Martinez Franchi","ARG","2","2","0","0"
-"1742823067-212","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","69","J. Gutierrez","CUB","1","1","0","0"
-"1742823067-213","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","69","Henry","FRA","1","1","0","0"
-"1742823067-214","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","69","Zimmermann","GER","1","0","0","1"
-"1742823067-215","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","69","Łomacz","POL","1","1","0","0"
-"1742823067-216","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","69","Dai Q.Y.","CHN","1","1","0","0"
-"1742823067-217","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","69","Yu Y.C.","CHN","1","1","0","0"
-"1742823067-218","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","69","Van Garderen","NED","1","1","0","0"
-"1742823067-219","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","69","A. Kotb","EGY","1","1","0","0"
-"1742823067-220","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","69","Hoyos","PUR","1","1","0","0"
-"1742823067-221","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","69","Torres","PUR","1","1","0","0"
-"1742823067-222","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","69","Synytsia","UKR","1","0","1","0"
-"1742823067-223","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","69","Mašulović N.","SRB","1","0","1","0"
-"1742823067-224","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","69","Todorović","SRB","1","0","1","0"
-"1742823067-225","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","69","Pinali","ITA","1","1","0","0"
-"1742823067-226","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","69","Epp","CAN","1","0","1","0"
-"1742823067-227","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Maique","BRA","0","0","0","0"
-"1742823067-228","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Thales","BRA","0","0","0","0"
-"1742823067-229","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Concepcion","CUB","0","0","0","0"
-"1742823067-230","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Garcia","CUB","0","0","0","0"
-"1742823067-231","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Gutierrez","CUB","0","0","0","0"
-"1742823067-232","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Gorguet","CUB","0","0","0","0"
-"1742823067-233","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Takanashi","JPN","0","0","0","0"
-"1742823067-234","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Oya","JPN","0","0","0","0"
-"1742823067-235","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Ogawa","JPN","0","0","0","0"
-"1742823067-236","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Yamamoto","JPN","0","0","0","0"
-"1742823067-237","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Sato","JPN","0","0","0","0"
-"1742823067-238","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Murayama","JPN","0","0","0","0"
-"1742823067-239","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","M. Essam","QAT","0","0","0","0"
-"1742823067-240","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Sulaiman","QAT","0","0","0","0"
-"1742823067-241","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Bojan","QAT","0","0","0","0"
-"1742823067-242","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Ababacar","QAT","0","0","0","0"
-"1742823067-243","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Abdullah","QAT","0","0","0","0"
-"1742823067-244","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","A. Jamal","QAT","0","0","0","0"
-"1742823067-245","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Osman","QAT","0","0","0","0"
-"1742823067-246","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Grebennikov","FRA","0","0","0","0"
-"1742823067-247","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Toniutti","FRA","0","0","0","0"
-"1742823067-248","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Diez","FRA","0","0","0","0"
-"1742823067-249","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Sossenheimer","GER","0","0","0","0"
-"1742823067-250","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Zenger","GER","0","0","0","0"
-"1742823067-251","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Günthör","GER","0","0","0","0"
-"1742823067-252","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Briggs","USA","0","0","0","0"
-"1742823067-253","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","E. Shoji","USA","0","0","0","0"
-"1742823067-254","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Kessel","USA","0","0","0","0"
-"1742823067-255","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Mendoza","MEX","0","0","0","0"
-"1742823067-256","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Bravo","MEX","0","0","0","0"
-"1742823067-257","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Ferran","MEX","0","0","0","0"
-"1742823067-258","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Mendoza","MEX","0","0","0","0"
-"1742823067-259","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Chavez","MEX","0","0","0","0"
-"1742823067-260","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Baca","MEX","0","0","0","0"
-"1742823067-261","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Lopez B.","MEX","0","0","0","0"
-"1742823067-262","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Popiwczak","POL","0","0","0","0"
-"1742823067-263","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Zatorski","POL","0","0","0","0"
-"1742823067-264","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Karyagin","BUL","0","0","0","0"
-"1742823067-265","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Chavdarov","BUL","0","0","0","0"
-"1742823067-266","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","D. Dimitrov","BUL","0","0","0","0"
-"1742823067-267","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Skrimov","BUL","0","0","0","0"
-"1742823067-268","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","V. Ivanov","BUL","0","0","0","0"
-"1742823067-269","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Gasparini","SLO","0","0","0","0"
-"1742823067-270","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Štalekar","SLO","0","0","0","0"
-"1742823067-271","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Koncilja","SLO","0","0","0","0"
-"1742823067-272","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Klobucar","SLO","0","0","0","0"
-"1742823067-273","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Kovačič","SLO","0","0","0","0"
-"1742823067-274","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Z. Štern","SLO","0","0","0","0"
-"1742823067-275","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Amabaya","CMR","0","0","0","0"
-"1742823067-276","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Bassoko","CMR","0","0","0","0"
-"1742823067-277","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Djam","CMR","0","0","0","0"
-"1742823067-278","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Metin T.","TUR","0","0","0","0"
-"1742823067-279","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Bostan","TUR","0","0","0","0"
-"1742823067-280","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Bayraktar","TUR","0","0","0","0"
-"1742823067-281","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Tümer","TUR","0","0","0","0"
-"1742823067-282","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Gürbüz","TUR","0","0","0","0"
-"1742823067-283","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Döne","TUR","0","0","0","0"
-"1742823067-284","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Yang Y.M.","CHN","0","0","0","0"
-"1742823067-285","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Zhang B.L.","CHN","0","0","0","0"
-"1742823067-286","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Yang T.Y.","CHN","0","0","0","0"
-"1742823067-287","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Liu M.","CHN","0","0","0","0"
-"1742823067-288","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Miao R.T.","CHN","0","0","0","0"
-"1742823067-289","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Van Der Ent","NED","0","0","0","0"
-"1742823067-290","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Bleeker","NED","0","0","0","0"
-"1742823067-291","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Andringa","NED","0","0","0","0"
-"1742823067-292","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","De Weijer","NED","0","0","0","0"
-"1742823067-293","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Wiltenburg","NED","0","0","0","0"
-"1742823067-294","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","A. Fathy","EGY","0","0","0","0"
-"1742823067-295","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","M. Reda","EGY","0","0","0","0"
-"1742823067-296","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","M. Ramadan","EGY","0","0","0","0"
-"1742823067-297","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","M. Magdy","EGY","0","0","0","0"
-"1742823067-298","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Sanchez Pages","ARG","0","0","0","0"
-"1742823067-299","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Danani","ARG","0","0","0","0"
-"1742823067-300","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Jelveh","IRI","0","0","0","0"
-"1742823067-301","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Shahrooz","IRI","0","0","0","0"
-"1742823067-302","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Hazrat","IRI","0","0","0","0"
-"1742823067-303","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","M. R. Moazzen","IRI","0","0","0","0"
-"1742823067-304","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Javad","IRI","0","0","0","0"
-"1742823067-305","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Abdelhedi Y","TUN","0","0","0","0"
-"1742823067-306","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Bennour R.","TUN","0","0","0","0"
-"1742823067-307","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Mbareki S.","TUN","0","0","0","0"
-"1742823067-308","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Ben Taher.M","TUN","0","0","0","0"
-"1742823067-309","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Bongui.A","TUN","0","0","0","0"
-"1742823067-310","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Hmissi S","TUN","0","0","0","0"
-"1742823067-311","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Korbosli T","TUN","0","0","0","0"
-"1742823067-312","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Del Valle","PUR","0","0","0","0"
-"1742823067-313","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Cabrera","PUR","0","0","0","0"
-"1742823067-314","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Nido","PUR","0","0","0","0"
-"1742823067-315","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Alomar","PUR","0","0","0","0"
-"1742823067-316","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Elias","PUR","0","0","0","0"
-"1742823067-317","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Shevchenko","UKR","0","0","0","0"
-"1742823067-318","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Brova","UKR","0","0","0","0"
-"1742823067-319","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Ostapenko","UKR","0","0","0","0"
-"1742823067-320","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Fomin","UKR","0","0","0","0"
-"1742823067-321","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Kanaiev","UKR","0","0","0","0"
-"1742823067-322","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Katic","SRB","0","0","0","0"
-"1742823067-323","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Pekovic","SRB","0","0","0","0"
-"1742823067-324","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Krsmanović","SRB","0","0","0","0"
-"1742823067-325","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Perić","SRB","0","0","0","0"
-"1742823067-326","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Recine","ITA","0","0","0","0"
-"1742823067-327","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Balaso","ITA","0","0","0","0"
-"1742823067-328","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Sbertoli","ITA","0","0","0","0"
-"1742823067-329","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Bottolo","ITA","0","0","0","0"
-"1742823067-330","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Scanferla","ITA","0","0","0","0"
-"1742823067-331","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Mosca","ITA","0","0","0","0"
-"1742823067-332","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Walsh","CAN","0","0","0","0"
-"1742823067-333","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Eshenko","CAN","0","0","0","0"
-"1742823067-334","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Hofer","CAN","0","0","0","0"
-"1742823067-335","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","Marshall","CAN","0","0","0","0"
-"1742823067-336","https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/statistics/best-scorers/","70","M. Elser","CAN","0","0","0","0"
+Rank,Player Name,Team,Points,Attack Points,Block Points,Serve Points
+1,Leal,BRA,125,107,8,10
+2,Čebulj,SLO,114,95,13,6
+3,Lavia,ITA,103,91,10,2
+4,Kurek,POL,100,85,7,8
+5,Wallace,BRA,97,85,9,3
+5,Romanò,ITA,97,82,9,6
+6,Nimir,NED,95,76,7,12
+7,Plotnytskyi,UKR,91,64,9,18
+8,Semeniuk,POL,87,72,5,10
+9,A. Lagumdzija,TUR,86,77,5,4
+9,Lima B.,ARG,86,78,4,4
+10,T. Štern,SLO,84,65,9,10
+11,Herrera,CUB,83,72,2,9
+12,Michieletto,ITA,82,69,6,7
+13,Russell,USA,78,66,7,5
+13,Facu,ARG,78,70,3,5
+14,Nishida,JPN,76,63,7,6
+14,Ngapeth,FRA,76,65,3,8
+15,Loser Bruno,ARG,72,48,17,7
+16,Urnaut,SLO,71,66,2,3
+17,Śliwka,POL,68,61,5,2
+17,Bieniek,POL,68,41,16,11
+18,Milad,IRI,65,54,6,5
+19,Lucas,BRA,64,39,16,9
+20,Flavio,BRA,59,41,16,2
+21,Anderson,USA,58,55,2,1
+21,Kochanowski,POL,58,41,9,8
+22,Defalco,USA,56,47,4,5
+22,Gonzalez,MEX,56,49,3,4
+23,Lucarelli,BRA,53,45,5,3
+24,Simón,CUB,52,38,11,3
+24,Chinenyeze,FRA,52,41,10,1
+24,Kovalov,UKR,52,41,7,4
+25,Pajenk,SLO,51,36,11,4
+26,Amin,IRI,49,44,3,2
+26,Tupchii,UKR,49,44,4,1
+27,Karlitzek,GER,48,43,1,4
+27,Sokolov,BUL,48,41,3,4
+27,Semeniuk,UKR,48,31,10,7
+28,Ishikawa,JPN,47,42,2,3
+28,Patry,FRA,47,41,3,3
+29,Ter Horst,NED,45,40,3,2
+30,Boyer,FRA,44,39,4,1
+30,Kozamernik,SLO,44,24,15,5
+31,Sclater,CAN,43,41,0,2
+32,Güngör,TUR,41,32,3,6
+33,Lawrence,PUR,40,38,1,1
+33,Drozd,UKR,40,24,13,3
+34,Karamosli E,TUN,39,30,5,4
+34,Kovačević,SRB,39,34,2,3
+34,Galassi,ITA,39,24,12,3
+35,Smith,USA,38,26,9,3
+35,Vicentin,ARG,38,30,6,2
+36,Lopez,CUB,36,29,4,3
+36,Ran,JPN,36,32,2,2
+36,A. Nikolov,BUL,36,32,1,3
+36,Morteza,IRI,36,34,0,2
+36,Ivović,SRB,36,33,3,0
+37,Krick,GER,35,25,10,0
+37,Subaşı,TUR,35,30,2,3
+37,A.Said,EGY,35,33,0,2
+37,Nagga H.,TUN,35,33,1,1
+38,Y.Oughlaf,QAT,33,31,2,0
+38,Clevenot,FRA,33,27,3,3
+38,Fornal,POL,33,26,5,2
+38,Toukhteh,IRI,33,21,7,5
+38,Podraščanin,ITA,33,17,9,7
+39,Jendryk,USA,31,26,3,2
+39,Lisinac,SRB,31,24,4,3
+40,Yamauchi,JPN,30,23,6,1
+40,Reichert,GER,30,27,0,3
+40,Issa,EGY,30,25,4,1
+40,Anzani,ITA,30,16,12,2
+40,Maar,CAN,30,25,2,3
+41,Yant,CUB,29,28,0,1
+41,Lopez,MEX,29,24,1,4
+41,Parkinson,NED,29,19,9,1
+42,Osoria,CUB,28,19,9,0
+42,Weber,GER,28,26,1,1
+42,Asparuhov,BUL,28,27,1,0
+42,Zhang J.Y.,CHN,28,25,1,2
+42,Tuinstra,NED,28,23,2,3
+42,Ramos,ARG,28,22,6,0
+42,Molina,PUR,28,19,2,7
+43,Landry,CMR,27,25,1,1
+43,Kody,CMR,27,25,2,0
+43,Plak,NED,27,19,5,3
+44,Mergarejo,CUB,26,24,0,2
+44,Le Goff,FRA,26,17,9,0
+44,R.Haikal,EGY,26,25,0,1
+44,Bouguerra.A,TUN,26,24,2,0
+45,Voukeng,CMR,25,21,3,1
+45,Dola,EGY,25,19,6,0
+45,Petkovic,SRB,25,19,3,3
+46,Atanasijević,SRB,24,14,2,8
+46,Giannelli,ITA,24,11,8,5
+46,Russo,ITA,24,14,10,0
+47,Onodera,JPN,23,12,11,0
+47,Renan,QAT,23,21,1,1
+47,Kadhi A,TUN,23,19,4,0
+48,Belal,QAT,22,14,5,3
+48,Ibrahim,QAT,22,16,5,1
+48,Možič,SLO,22,20,2,0
+48,Güneş,TUR,22,15,6,1
+49,Fuentes,MEX,21,17,1,3
+49,Kaczmarek,POL,21,20,1,0
+49,Zhang G.H.,CHN,21,20,1,0
+49,Mojarad,IRI,21,14,5,2
+49,Vargas,PUR,21,18,0,3
+49,Rodriguez,PUR,21,18,2,1
+50,Nikola,QAT,20,16,2,2
+50,Tillie,FRA,20,18,1,1
+50,Fromm,GER,20,19,1,0
+51,Rodriguez,MEX,19,9,9,1
+51,Grozdanov,BUL,19,11,8,0
+51,Yu Y.T.,CHN,19,16,1,2
+51,A. Seoudy,EGY,19,9,9,1
+51,Agrebi O,TUN,19,10,9,0
+51,Nieves,PUR,19,14,3,2
+52,Gotsev,BUL,18,13,3,2
+52,Esfandiar,IRI,18,14,3,1
+53,Bedirhan,TUR,17,13,3,1
+53,Szwarc,CAN,17,12,1,4
+54,Louati,FRA,16,12,0,4
+54,Van Berkel,CAN,16,11,5,0
+55,Brizard,FRA,15,7,3,5
+55,Maase,GER,15,12,3,0
+55,De Cecco,ARG,15,7,6,2
+55,Hoag,CAN,15,11,0,4
+56,Christenson,USA,14,6,6,2
+56,Palacios,ARG,14,11,3,0
+56,Barnes,CAN,14,11,1,2
+57,Peng S.K.,CHN,13,9,4,0
+58,Keemink,NED,12,6,5,1
+59,Rodriguinho,BRA,11,8,1,2
+59,Ensing,USA,11,10,0,1
+59,Muagututia,USA,11,9,0,2
+59,Kofane,CMR,11,8,3,0
+59,Zhang Z.J.,CHN,11,9,2,0
+59,Zerba,ARG,11,6,4,1
+60,Otsuka,JPN,10,10,0,0
+60,Kampa,GER,10,6,0,4
+61,Darlan,BRA,9,7,0,2
+61,Jouffroy,FRA,9,5,2,2
+61,Krage,GER,9,8,0,1
+61,Badawe,CMR,9,7,2,0
+61,Kukartsev,ARG,9,6,1,2
+61,B.Othmen M.,TUN,9,6,3,0
+62,Brand,GER,8,7,0,1
+62,Vinčić,SLO,8,3,4,1
+62,Dolengombai,CMR,8,5,1,2
+62,Bitouna,CMR,8,6,1,1
+62,Ekşi,TUR,8,4,2,2
+62,Hossam,EGY,8,5,2,1
+62,Kazemi,IRI,8,7,0,1
+62,J.Manavi,IRI,8,5,2,1
+62,Vadi,IRI,8,5,1,2
+62,Kisiliuk,UKR,8,7,1,0
+62,Petric,SRB,8,8,0,0
+63,Adriano,BRA,7,5,2,0
+63,Averill,USA,7,4,1,2
+63,Martinez,MEX,7,7,0,0
+63,Palonsky,ARG,7,6,0,1
+63,Ben Slimene K,TUN,7,2,3,2
+63,Jovović,SRB,7,2,5,0
+64,Bruno,BRA,6,0,3,3
+64,Aranda,MEX,6,3,1,2
+64,Kłos,POL,6,1,5,0
+64,Janusz,POL,6,0,1,5
+64,Seganov,BUL,6,2,2,2
+64,Ahmed,CMR,6,1,3,2
+64,Hile,CMR,6,4,0,2
+64,M. Lagumdzija,TUR,6,4,2,0
+65,Fernando,BRA,5,2,2,1
+65,Leandro,BRA,5,4,1,0
+65,Mubarak,QAT,5,5,0,0
+65,Poręba,POL,5,2,1,2
+65,Doğukan U.,TUR,5,3,2,0
+65,Deyo,EGY,5,4,1,0
+65,Poluian,UKR,5,4,1,0
+65,Shchytkov,UKR,5,2,1,2
+66,Roque,BRA,4,2,1,1
+66,Sánchez B.,CUB,4,3,1,0
+66,Goide,CUB,4,1,2,1
+66,Milos,QAT,4,1,2,1
+66,Sanay,MEX,4,4,0,0
+66,Atanasov,BUL,4,3,1,0
+66,Li Y.Z.,CHN,4,3,1,0
+66,Jorna,NED,4,3,1,0
+66,Gallego,ARG,4,3,1,0
+66,Iglesias,PUR,4,3,1,0
+66,Lopez,PUR,4,3,0,1
+66,Howe,CAN,4,4,0,0
+67,Taboada,CUB,3,0,3,0
+67,Miyaura,JPN,3,3,0,0
+67,Schott,GER,3,3,0,0
+67,K. Russell,USA,3,0,0,3
+67,Tuaniga,USA,3,1,0,2
+67,Kwolek,POL,3,3,0,0
+67,Kolev,BUL,3,1,2,0
+67,Ropret,SLO,3,1,2,0
+67,Mandengo,CMR,3,3,0,0
+67,Wang B.,CHN,3,3,0,0
+67,Ter Maat,NED,3,3,0,0
+67,Elhossiny,EGY,3,3,0,0
+67,M.Elmahdy,EGY,3,3,0,0
+67,Loeppky,CAN,3,3,0,0
+68,Sekita,JPN,2,0,0,2
+68,S.Ivanov,BUL,2,0,1,1
+68,Deffo,CMR,2,2,0,0
+68,Martinez Franchi,ARG,2,2,0,0
+69,J. Gutierrez,CUB,1,1,0,0
+69,Henry,FRA,1,1,0,0
+69,Zimmermann,GER,1,0,0,1
+69,Łomacz,POL,1,1,0,0
+69,Dai Q.Y.,CHN,1,1,0,0
+69,Yu Y.C.,CHN,1,1,0,0
+69,Van Garderen,NED,1,1,0,0
+69,A. Kotb,EGY,1,1,0,0
+69,Hoyos,PUR,1,1,0,0
+69,Torres,PUR,1,1,0,0
+69,Synytsia,UKR,1,0,1,0
+69,Mašulović N.,SRB,1,0,1,0
+69,Todorović,SRB,1,0,1,0
+69,Pinali,ITA,1,1,0,0
+69,Epp,CAN,1,0,1,0
+70,Maique,BRA,0,0,0,0
+70,Thales,BRA,0,0,0,0
+70,Concepcion,CUB,0,0,0,0
+70,Garcia,CUB,0,0,0,0
+70,Gutierrez,CUB,0,0,0,0
+70,Gorguet,CUB,0,0,0,0
+70,Takanashi,JPN,0,0,0,0
+70,Oya,JPN,0,0,0,0
+70,Ogawa,JPN,0,0,0,0
+70,Yamamoto,JPN,0,0,0,0
+70,Sato,JPN,0,0,0,0
+70,Murayama,JPN,0,0,0,0
+70,M. Essam,QAT,0,0,0,0
+70,Sulaiman,QAT,0,0,0,0
+70,Bojan,QAT,0,0,0,0
+70,Ababacar,QAT,0,0,0,0
+70,Abdullah,QAT,0,0,0,0
+70,A. Jamal,QAT,0,0,0,0
+70,Osman,QAT,0,0,0,0
+70,Grebennikov,FRA,0,0,0,0
+70,Toniutti,FRA,0,0,0,0
+70,Diez,FRA,0,0,0,0
+70,Sossenheimer,GER,0,0,0,0
+70,Zenger,GER,0,0,0,0
+70,Günthör,GER,0,0,0,0
+70,Briggs,USA,0,0,0,0
+70,E. Shoji,USA,0,0,0,0
+70,Kessel,USA,0,0,0,0
+70,Mendoza,MEX,0,0,0,0
+70,Bravo,MEX,0,0,0,0
+70,Ferran,MEX,0,0,0,0
+70,Mendoza,MEX,0,0,0,0
+70,Chavez,MEX,0,0,0,0
+70,Baca,MEX,0,0,0,0
+70,Lopez B.,MEX,0,0,0,0
+70,Popiwczak,POL,0,0,0,0
+70,Zatorski,POL,0,0,0,0
+70,Karyagin,BUL,0,0,0,0
+70,Chavdarov,BUL,0,0,0,0
+70,D. Dimitrov,BUL,0,0,0,0
+70,Skrimov,BUL,0,0,0,0
+70,V. Ivanov,BUL,0,0,0,0
+70,Gasparini,SLO,0,0,0,0
+70,Štalekar,SLO,0,0,0,0
+70,Koncilja,SLO,0,0,0,0
+70,Klobucar,SLO,0,0,0,0
+70,Kovačič,SLO,0,0,0,0
+70,Z. Štern,SLO,0,0,0,0
+70,Amabaya,CMR,0,0,0,0
+70,Bassoko,CMR,0,0,0,0
+70,Djam,CMR,0,0,0,0
+70,Metin T.,TUR,0,0,0,0
+70,Bostan,TUR,0,0,0,0
+70,Bayraktar,TUR,0,0,0,0
+70,Tümer,TUR,0,0,0,0
+70,Gürbüz,TUR,0,0,0,0
+70,Döne,TUR,0,0,0,0
+70,Yang Y.M.,CHN,0,0,0,0
+70,Zhang B.L.,CHN,0,0,0,0
+70,Yang T.Y.,CHN,0,0,0,0
+70,Liu M.,CHN,0,0,0,0
+70,Miao R.T.,CHN,0,0,0,0
+70,Van Der Ent,NED,0,0,0,0
+70,Bleeker,NED,0,0,0,0
+70,Andringa,NED,0,0,0,0
+70,De Weijer,NED,0,0,0,0
+70,Wiltenburg,NED,0,0,0,0
+70,A. Fathy,EGY,0,0,0,0
+70,M. Reda,EGY,0,0,0,0
+70,M. Ramadan,EGY,0,0,0,0
+70,M. Magdy,EGY,0,0,0,0
+70,Sanchez Pages,ARG,0,0,0,0
+70,Danani,ARG,0,0,0,0
+70,Jelveh,IRI,0,0,0,0
+70,Shahrooz,IRI,0,0,0,0
+70,Hazrat,IRI,0,0,0,0
+70,M. R. Moazzen,IRI,0,0,0,0
+70,Javad,IRI,0,0,0,0
+70,Abdelhedi Y,TUN,0,0,0,0
+70,Bennour R.,TUN,0,0,0,0
+70,Mbareki S.,TUN,0,0,0,0
+70,Ben Taher.M,TUN,0,0,0,0
+70,Bongui.A,TUN,0,0,0,0
+70,Hmissi S,TUN,0,0,0,0
+70,Korbosli T,TUN,0,0,0,0
+70,Del Valle,PUR,0,0,0,0
+70,Cabrera,PUR,0,0,0,0
+70,Nido,PUR,0,0,0,0
+70,Alomar,PUR,0,0,0,0
+70,Elias,PUR,0,0,0,0
+70,Shevchenko,UKR,0,0,0,0
+70,Brova,UKR,0,0,0,0
+70,Ostapenko,UKR,0,0,0,0
+70,Fomin,UKR,0,0,0,0
+70,Kanaiev,UKR,0,0,0,0
+70,Katic,SRB,0,0,0,0
+70,Pekovic,SRB,0,0,0,0
+70,Krsmanović,SRB,0,0,0,0
+70,Perić,SRB,0,0,0,0
+70,Recine,ITA,0,0,0,0
+70,Balaso,ITA,0,0,0,0
+70,Sbertoli,ITA,0,0,0,0
+70,Bottolo,ITA,0,0,0,0
+70,Scanferla,ITA,0,0,0,0
+70,Mosca,ITA,0,0,0,0
+70,Walsh,CAN,0,0,0,0
+70,Eshenko,CAN,0,0,0,0
+70,Hofer,CAN,0,0,0,0
+70,Marshall,CAN,0,0,0,0
+70,M. Elser,CAN,0,0,0,0
